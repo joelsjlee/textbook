@@ -17,7 +17,8 @@ def make_list(keyword_path):
 
 def voyant(keywords, text_path, corpora_path):
     for f in os.listdir(corpora_path):
-        os.remove(os.path.join(corpora_path, f))
+       if f.endswith('.csv') or f.endswith('.zip'):
+         os.remove(os.path.join(corpora_path, f))
     csv_path = corpora_path
     keywords = make_list(keywords)
     # Matching keywords to texts and filling the directories
