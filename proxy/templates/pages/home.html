@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block textlinks %}
+  {% if request.user.is_authenticated %}
+      <h2>Links to texts:</h2>
+      {% for text_info in text_info_list %}
+        <a href="/texts/{{ text_info.0 }}/index.html">{{ text_info.1 }}</a><br>
+      {% endfor %}
+  {% else %}
+    <h2>Sign in to view texts</h2>
+  {% endif %}
+{% endblock textlinks %}

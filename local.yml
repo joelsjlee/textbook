@@ -1,0 +1,66 @@
+version: '3'
+
+volumes:
+  local_postgres_data: {}
+  local_postgres_data_backups: {}
+
+services:
+  django:
+    build:
+      context: .
+      dockerfile: ./compose/local/django/Dockerfile
+    image: static_page_proxy_local_django
+    depends_on:
+      - postgres
+    volumes:
+      - .:/app
+      - ./static_pages:/app/proxy/templates/proxy
+      - ./static_pages/assets:/app/proxy/static
+    env_file:
+      - ./.envs/.local/.django
+      - ./.envs/.local/.postgres
+    ports:
+      - "8000:8000"
+    command: /start
+
+  postgres:
+    build:
+      context: .
+      dockerfile: ./compose/production/postgres/Dockerfile
+    image: static_page_proxy_production_postgres
+    volumes:
+      - local_postgres_data:/var/lib/postgresql/data
+      - local_postgres_data_backups:/backups
+    env_file:
+      - ./.envs/.local/.postgres
+
+  node:
+    build:
+      context: .
+      dockerfile: ./compose/local/node/Dockerfile
+    image: static_page_proxy_local_node
+    depends_on:
+      - django
+    volumes:
+      - .:/app
+      # http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html
+      - /app/node_modules
+    command: npm run dev
+    ports:
+      - "3000:3000"
+      # Expose browsersync UI: https://www.browsersync.io/docs/options/#option-ui
+      - "3001:3001"
+
+  jekyll_builder:
+    image: jekyll/jekyll:latest
+    volumes:
+      - ./ed:/srv/jekyll
+      - ./static_pages:/destination
+    command: jekyll build --incremental -w -d /destination
+
+  text_to_md:
+    image: python:3
+    volumes:
+      - ./ed:/ed
+      - ./text_to_md:/workdir
+    command: python workdir/text2md.py workdir/texts workdir/csvs ed/_texts

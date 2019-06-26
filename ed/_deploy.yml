@@ -1,0 +1,3 @@
+url:                 'http://senderle.github.io'
+baseurl:             '/text_jekyll'
+destination:         '../docs'

@@ -37,6 +37,9 @@ OnHostRule = true
   [backends.nginx]
     [backends.nginx.servers.server1]
       url = "http://nginx"
+  [backends.django]
+    [backends.django.servers.server1]
+      url = "http://django:5000"
 
 [frontends]
   [frontends.voyant]
@@ -50,3 +53,13 @@ OnHostRule = true
     backend = "nginx"
     [frontends.nginx.routes.corpora]
       rule = "Host:jsl.pennds.org;PathPrefix:/corpora"
+  [frontends.django]
+    backend = "django"
+    passHostHeader = true
+    [frontends.django.headers]
+      HostsProxyHeaders = ['X-CSRFToken']
+    [frontends.django.routes.dr1]
+      rule = "Host:jsl.pennds.org;PathPrefixStrip:/books"
+
+logLevel = "INFO"
+defaultEntryPoints = ["http", "https"]

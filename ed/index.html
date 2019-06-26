@@ -1,0 +1,39 @@
+---
+layout: default
+title: "Ed."
+---
+<div class="introduction">
+    <p>
+    This edition of Thomas Brussig's <em>Am kürzeren Ende der Sonnenallee</em> is 
+    designed to overlay personal and public accounts of key events during the
+    period of 1945-1990 that are referenced in the novel. It links keywords
+    in the text to digitized primary sources containing both public and 
+    private accounts of these events to complement fictional accounts from the 
+    novel. These sources are pre-loaded into Voyant for easy visualization and
+    statistical anlysis. This range of fictional, non-fictional, public, and 
+    private perspectives helps convey a rich and multi-layered understanding
+    of life in the GDR. 
+    </p>
+    <p>
+    Editors: Sibel Sayılı-Hurley and Claudia Lynn
+    </p>
+</div>
+
+<hr>
+
+<div class="toc">
+  <h2>Sections</h2>
+  <ul class="texts">
+  {% for item in site.texts %}
+  
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.nickname }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+
+
+
