@@ -1,0 +1,44 @@
+version: '3'
+
+volumes:
+  production_traefik: {}
+
+services:
+
+  voyant_gen:
+    build:
+      context: .
+      dockerfile: ./compose/voyant_generator/Dockerfile
+    volumes:
+      - ./corpora:/corpora
+      - ./context:/input
+
+  voyant:
+    build:
+      context: .
+      dockerfile: ./compose/voyant/Dockerfile
+    image: voyant_app
+    depends_on:
+      - voyant_gen
+    working_dir: /var/www/voyant
+    command: java -jar VoyantServer.jar --headless=true
+
+  traefik:
+    build:
+      context: .
+      dockerfile: ./compose/traefik/Dockerfile
+    image: voyant_traefik
+    depends_on:
+      - voyant
+    volumes:
+      - production_traefik:/etc/traefik/acme
+      - ./corpora:/voyant/corpora
+    ports:
+      - "0.0.0.0:80:80"
+      - "0.0.0.0:443:443"
+  
+  nginx:
+    image: nginx:latest
+    volumes:
+      - ./corpora:/usr/share/nginx/html/corpora
+

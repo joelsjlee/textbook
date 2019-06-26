@@ -1,0 +1,52 @@
+
+logLevel = "INFO"
+defaultEntryPoints = ["http", "https"]
+
+# Entrypoints, http and https
+[entryPoints]
+  # http should be redirected to https
+  [entryPoints.http]
+  address = ":80"
+    [entryPoints.http.redirect]
+    entryPoint = "https"
+  # https is the default
+  [entryPoints.https]
+  address = ":443"
+    [entryPoints.https.tls]
+
+# Enable ACME (Let's Encrypt): automatic SSL
+[acme]
+# Email address used for registration
+email = "example@mail.com"
+storage = "/etc/traefik/acme/acme.json"
+entryPoint = "https"
+onDemand = false
+OnHostRule = true
+  # Use a HTTP-01 acme challenge rather than TLS-SNI-01 challenge
+  [acme.httpChallenge]
+  entryPoint = "http"
+[[acme.domains]]
+  main = "jsl.pennds.org"
+  sans = ["jsl-voyant.pennds.org"]
+
+[file]
+[backends]
+  [backends.voyant]
+    [backends.voyant.servers.server1]
+      url = "http://voyant:8888"
+  [backends.nginx]
+    [backends.nginx.servers.server1]
+      url = "http://nginx"
+
+[frontends]
+  [frontends.voyant]
+    backend = "voyant"
+    passHostHeader = true
+    [frontends.voyant.headers]
+      HostsProxyHeaders = ['X-CSRFToken']
+    [frontends.voyant.routes.dr1]
+      rule = "Host:jsl.pennds.org"
+  [frontends.nginx]
+    backend = "nginx"
+    [frontends.nginx.routes.corpora]
+      rule = "Host:jsl.pennds.org;PathPrefix:/corpora"
