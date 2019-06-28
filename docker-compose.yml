@@ -96,4 +96,5 @@ services:
     volumes:
       - ./ed:/ed
       - ./text_to_md:/workdir
+      - ./corpora:/workdir/csvs
     command: python workdir/text2md.py workdir/texts workdir/csvs ed/_texts
