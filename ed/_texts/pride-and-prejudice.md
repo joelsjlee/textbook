@@ -95,7 +95,7 @@ first entering a neighbourhood, this truth is so well fixed in the minds
 of the surrounding families, that he is considered the rightful property
 of some one or other of their daughters.
 
-“My dear Mr. Bennet,” said his lady to him one day, “have you heard that
+“My dear Mr. Bennet,” said his lady to him one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), “have you heard that
 Netherfield Park is let at last?”
 
 Mr. Bennet replied that he had not.
@@ -113,7 +113,7 @@ This was invitation enough.
 
 “Why, my dear, you must know, Mrs. Long says that Netherfield is taken
 by a young man of large fortune from the north of England; that he came
-down on Monday in a chaise and four to see the place, and was so much
+down on Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) in a chaise and four to see the place, and was so much
 delighted with it, that he agreed with Mr. Morris immediately; that he
 is to take possession before Michaelmas, and some of his servants are to
 be in the house by the end of next week.”
@@ -141,7 +141,7 @@ soon as he comes.”
 “I see no occasion for that. You and the girls may go, or you may send
 them by themselves, which perhaps will be still better, for as you are
 as handsome as any of them, Mr. Bingley may like you the best of the
-[party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip).”
+[party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip).”
 
 “My dear, you flatter me. I certainly _have_ had my share of beauty, but
 I do not pretend to be anything extraordinary now. When a woman has five
@@ -173,7 +173,7 @@ good-humoured as Lydia. But you are always giving _her_ the preference.”
 all silly and ignorant like other girls; but Lizzy has something more of
 quickness than her sisters.”
 
-“Mr. Bennet, how _can_ you abuse your own [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren in such a way? You
+“Mr. Bennet, how _can_ you abuse your own [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren in such a way? You
 take delight in vexing me. You have no compassion for my poor nerves.”
 
 “You mistake me, my dear. I have a high respect for your nerves. They
@@ -242,7 +242,7 @@ your next ball to be, Lizzy?”
 “To-morrow fortnight.”
 
 “Aye, so it is,” cried her mother, “and Mrs. Long does not come back
-till the day before; so it will be impossible for her to introduce him,
+till the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before; so it will be impossible for her to introduce him,
 for she will not know him herself.”
 
 “Then, my dear, you may have the advantage of your friend, and introduce
@@ -296,7 +296,7 @@ as he spoke, he left the room, fatigued with the raptures of his wife.
 “What an excellent father you have, girls!” said she, when the door was
 shut. “I do not know how you will ever make him amends for his kindness;
 or me, either, for that matter. At our time of life it is not so
-pleasant, I can tell you, to be making new acquaintances every day; but
+pleasant, I can tell you, to be making new acquaintances every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); but
 for your sakes, we would do anything. Lydia, my love, though you _are_
 the youngest, I dare say Mr. Bingley will dance with you at the next
 ball.”
@@ -323,7 +323,7 @@ last obliged to accept the second-hand intelligence of their neighbour,
 Lady Lucas. Her report was highly favourable. Sir William had been
 delighted with him. He was quite young, wonderfully handsome, extremely
 agreeable, and, to crown the whole, he meant to be at the next assembly
-with a large [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip). Nothing could be more delightful! To be fond of
+with a large [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). Nothing could be more delightful! To be fond of
 dancing was a certain step towards falling in love; and very lively
 hopes of Mr. Bingley's heart were entertained.
 
@@ -331,7 +331,7 @@ hopes of Mr. Bingley's heart were entertained.
 said Mrs. Bennet to her husband, “and all the others equally well
 married, I shall have nothing to wish for.”
 
-In a few days Mr. Bingley returned Mr. Bennet's visit, and sat about
+In a few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s Mr. Bingley returned Mr. Bennet's visit, and sat about
 ten minutes with him in his library. He had entertained hopes of being
 admitted to a sight of the young ladies, of whose beauty he had
 heard much; but he saw only the father. The ladies were somewhat more
@@ -341,19 +341,19 @@ window that he wore a blue coat, and rode a black horse.
 An invitation to dinner was soon afterwards dispatched; and already
 had Mrs. Bennet planned the courses that were to do credit to her
 housekeeping, when an answer arrived which deferred it all. Mr. Bingley
-was obliged to be in town the following day, and, consequently, unable
+was obliged to be in town the following [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and, consequently, unable
 to accept the honour of their invitation, etc. Mrs. Bennet was quite
 disconcerted. She could not imagine what business he could have in town
 so soon after his arrival in Hertfordshire; and she began to fear that
 he might be always flying about from one place to another, and never
 settled at Netherfield as he ought to be. Lady Lucas quieted her fears
 a little by starting the idea of his being gone to London only to get
-a large [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) for the ball; and a report soon followed that Mr. Bingley
+a large [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) for the ball; and a report soon followed that Mr. Bingley
 was to bring twelve ladies and seven gentlemen with him to the assembly.
 The girls grieved over such a number of ladies, but were comforted the
-day before the ball by hearing, that instead of twelve he brought only
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before the ball by hearing, that instead of twelve he brought only
 six with him from London--his five sisters and a cousin. And when
-the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) entered the assembly room it consisted of only five
+the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) entered the assembly room it consisted of only five
 altogether--Mr. Bingley, his two sisters, the husband of the eldest, and
 another young man.
 
@@ -380,7 +380,7 @@ one himself at Netherfield. Such amiable qualities must speak for
 themselves. What a contrast between him and his friend! Mr. Darcy danced
 only once with Mrs. Hurst and once with Miss Bingley, declined being
 introduced to any other lady, and spent the rest of the evening in
-walking about the room, speaking occasionally to one of his own [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip).
+walking about the room, speaking occasionally to one of his own [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip).
 His character was decided. He was the proudest, most disagreeable man
 in the world, and everybody hoped that he would never come there again.
 Amongst the most violent against him was Mrs. Bennet, whose dislike of
@@ -429,7 +429,7 @@ playful disposition, which delighted in anything ridiculous.
 
 The evening altogether passed off pleasantly to the whole family. Mrs.
 Bennet had seen her eldest daughter much admired by the Netherfield
-[party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip). Mr. Bingley had danced with her twice, and she had been
+[party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). Mr. Bingley had danced with her twice, and she had been
 distinguished by his sisters. Jane was as much gratified by this as
 her mother could be, though in a quieter way. Elizabeth felt Jane's
 pleasure. Mary had heard herself mentioned to Miss Bingley as the most
@@ -552,7 +552,7 @@ estate, but did not live to do it. Mr. Bingley intended it likewise, and
 sometimes made choice of his county; but as he was now provided with a
 good house and the liberty of a manor, it was doubtful to many of those
 who best knew the easiness of his temper, whether he might not spend the
-remainder of his days at Netherfield, and leave the next generation to
+remainder of his [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s at Netherfield, and leave the next generation to
 purchase.
 
 His sisters were anxious for his having an estate of his own; but,
@@ -605,7 +605,7 @@ commendation to think of her as he chose.
 Within a short walk of Longbourn lived a family with whom the Bennets
 were particularly intimate. Sir William Lucas had been formerly in trade
 in Meryton, where he had made a tolerable fortune, and risen to the
-honour of knighthood by an address to the king during his [mayor](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/mayor.zip)alty.
+honour of knighthood by an address to the king during his [mayor](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/mayor.zip)alty.
 The distinction had perhaps been felt too strongly. It had given him a
 disgust to his business, and to his residence in a small market town;
 and, in quitting them both, he had removed with his family to a house
@@ -618,7 +618,7 @@ nature inoffensive, friendly, and obliging, his presentation at St.
 James's had made him courteous.
 
 Lady Lucas was a very good kind of woman, not too clever to be a
-valuable neighbour to Mrs. Bennet. They had several [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren. The eldest
+valuable neighbour to Mrs. Bennet. They had several [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren. The eldest
 of them, a sensible, intelligent young woman, about twenty-seven, was
 Elizabeth's intimate friend.
 
@@ -701,7 +701,7 @@ ourselves, vanity to what we would have others think of us.”
 
 “If I were as rich as Mr. Darcy,” cried a young Lucas, who came with
 his sisters, “I should not care how proud I was. I would keep a pack of
-foxhounds, and drink a bottle of wine a day.”
+foxhounds, and drink a bottle of wine a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
 
 “Then you would drink a great deal more than you ought,” said Mrs.
 Bennet; “and if I were to see you at it, I should take away your bottle
@@ -817,7 +817,7 @@ to dance with.
 
 He began to wish to know more of her, and as a step towards conversing
 with her himself, attended to her conversation with others. His doing so
-drew her notice. It was at Sir William Lucas's, where a large [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) were
+drew her notice. It was at Sir William Lucas's, where a large [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) were
 assembled.
 
 “What does Mr. Darcy mean,” said she to Charlotte, “by listening to my
@@ -860,7 +860,7 @@ Her performance was pleasing, though by no means capital. After a song
 or two, and before she could reply to the entreaties of several that
 she would sing again, she was eagerly succeeded at the instrument by her
 sister Mary, who having, in consequence of being the only plain one in
-the family, worked hard for knowledge and accomplishments, was always
+the family, [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed hard for knowledge and accomplishments, was always
 impatient for display.
 
 Mary had neither genius nor taste; and though vanity had given her
@@ -1010,7 +1010,7 @@ neighbourhood; it was to remain the whole winter, and Meryton was the
 headquarters.
 
 Their visits to Mrs. Phillips were now productive of the most
-interesting intelligence. Every day added something to their knowledge
+interesting intelligence. Every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) added something to their knowledge
 of the officers' names and connections. Their lodgings were not long a
 secret, and at length they began to know the officers themselves. Mr.
 Phillips visited them all, and this opened to his nieces a store of
@@ -1028,14 +1028,14 @@ I am now convinced.”
 
 Catherine was disconcerted, and made no answer; but Lydia, with perfect
 indifference, continued to express her admiration of Captain Carter,
-and her hope of seeing him in the course of the day, as he was going the
+and her hope of seeing him in the course of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), as he was going the
 next morning to London.
 
 “I am astonished, my dear,” said Mrs. Bennet, “that you should be so
-ready to think your own [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren silly. If I wished to think slightingly
-of anybody's [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, it should not be of my own, however.”
+ready to think your own [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren silly. If I wished to think slightingly
+of anybody's [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, it should not be of my own, however.”
 
-“If my [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren are silly, I must hope to be always sensible of it.”
+“If my [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren are silly, I must hope to be always sensible of it.”
 
 “Yes--but as it happens, they are all of them very clever.”
 
@@ -1069,9 +1069,9 @@ Jane, make haste and tell us; make haste, my love.”
 
 “MY DEAR FRIEND,--
 
-“If you are not so compassionate as to dine to-day with Louisa and me,
+“If you are not so compassionate as to dine to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) with Louisa and me,
 we shall be in danger of hating each other for the rest of our lives,
-for a whole day's tete-a-tete between two women can never end without a
+for a whole [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)'s tete-a-tete between two women can never end without a
 quarrel. Come as soon as you can on receipt of this. My brother and the
 gentlemen are to dine with the officers.--Yours ever,
 
@@ -1100,13 +1100,13 @@ wanted in the farm, Mr. Bennet, are they not?”
 
 “They are wanted in the farm much oftener than I can get them.”
 
-“But if you have got them to-day,” said Elizabeth, “my mother's purpose
+“But if you have got them to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),” said Elizabeth, “my mother's purpose
 will be answered.”
 
 She did at last extort from her father an acknowledgment that the horses
 were engaged. Jane was therefore obliged to go on horseback, and her
 mother attended her to the door with many cheerful prognostics of a
-bad day. Her hopes were answered; Jane had not been gone long before
+bad [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Her hopes were answered; Jane had not been gone long before
 it rained hard. Her sisters were uneasy for her, but her mother was
 delighted. The rain continued the whole evening without intermission;
 Jane certainly could not come back.
@@ -1120,7 +1120,7 @@ brought the following note for Elizabeth:
 “MY DEAREST LIZZY,--
 
 “I find myself very unwell this morning, which, I suppose, is to be
-imputed to my getting wet through yesterday. My kind friends will not
+imputed to my getting wet through yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). My kind friends will not
 hear of my returning till I am better. They insist also on my seeing Mr.
 Jones--therefore do not be alarmed if you should hear of his having been
 to me--and, excepting a sore throat and headache, there is not much the
@@ -1171,7 +1171,7 @@ glowing with the warmth of exercise.
 
 She was shown into the breakfast-parlour, where all but Jane were
 assembled, and where her appearance created a great deal of surprise.
-That she should have walked three miles so early in the day, in such
+That she should have walked three miles so early in the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), in such
 dirty weather, and by herself, was almost incredible to Mrs. Hurst and
 Miss Bingley; and Elizabeth was convinced that they held her in contempt
 for it. She was received, however, very politely by them; and in their
@@ -1230,7 +1230,7 @@ being ill themselves; and then thought no more of the matter: and their
 indifference towards Jane when not immediately before them restored
 Elizabeth to the enjoyment of all her former dislike.
 
-Their brother, indeed, was the only one of the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) whom she could
+Their brother, indeed, was the only one of the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) whom she could
 regard with any complacency. His anxiety for Jane was evident, and his
 attentions to herself most pleasing, and they prevented her feeling
 herself so much an intruder as she believed she was considered by the
@@ -1311,7 +1311,7 @@ She was still very poorly, and Elizabeth would not quit her at all, till
 late in the evening, when she had the comfort of seeing her sleep, and
 when it seemed to her rather right than pleasant that she should go
 downstairs herself. On entering the drawing-room she found the whole
-[party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) at loo, and was immediately invited to join them; but suspecting
+[party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) at loo, and was immediately invited to join them; but suspecting
 them to be playing high she declined it, and making her sister the
 excuse, said she would amuse herself for the short time she could stay
 below, with a book. Mr. Hurst looked at her with astonishment.
@@ -1342,13 +1342,13 @@ in the room.
 so small a collection of books. What a delightful library you have at
 Pemberley, Mr. Darcy!”
 
-“It ought to be good,” he replied, “it has been the work of many
+“It ought to be good,” he replied, “it has been the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of many
 generations.”
 
 “And then you have added so much to it yourself, you are always buying
 books.”
 
-“I cannot comprehend the neglect of a family library in such days as
+“I cannot comprehend the neglect of a family library in such [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s as
 these.”
 
 “Neglect! I am sure you neglect nothing that can add to the beauties of
@@ -1578,7 +1578,7 @@ Mr. Darcy with a very expressive smile. Elizabeth, for the sake of
 saying something that might turn her mother's thoughts, now asked her if
 Charlotte Lucas had been at Longbourn since _her_ coming away.
 
-“Yes, she called yesterday with her father. What an agreeable man Sir
+“Yes, she called yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) with her father. What an agreeable man Sir
 William is, Mr. Bingley, is not he? So much the man of fashion! So
 genteel and easy! He has always something to say to everybody. _That_
 is my idea of good breeding; and those persons who fancy themselves very
@@ -1587,7 +1587,7 @@ important, and never open their mouths, quite mistake the matter.”
 “Did Charlotte dine with you?”
 
 “No, she would go home. I fancy she was wanted about the mince-pies. For
-my part, Mr. Bingley, I always keep servants that can do their own work;
+my part, Mr. Bingley, I always keep servants that can do their own [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip);
 _my_ daughters are brought up very differently. But everybody is to
 judge for themselves, and the Lucases are a very good sort of girls,
 I assure you. It is a pity they are not handsome! Not that I think
@@ -1597,7 +1597,7 @@ Charlotte so _very_ plain--but then she is our particular friend.”
 
 “Oh! dear, yes; but you must own she is very plain. Lady Lucas herself
 has often said so, and envied me Jane's beauty. I do not like to boast
-of my own [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), but to be sure, Jane--one does not often see anybody
+of my own [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), but to be sure, Jane--one does not often see anybody
 better looking. It is what everybody says. I do not trust my own
 partiality. When she was only fifteen, there was a man at my brother
 Gardiner's in town so much in love with her that my sister-in-law was
@@ -1641,7 +1641,7 @@ shameful thing in the world if he did not keep it. His answer to this
 sudden attack was delightful to their mother's ear:
 
 “I am perfectly ready, I assure you, to keep my engagement; and when
-your sister is recovered, you shall, if you please, name the very day of
+your sister is recovered, you shall, if you please, name the very [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of
 the ball. But you would not wish to be dancing when she is ill.”
 
 Lydia declared herself satisfied. “Oh! yes--it would be much better to
@@ -1662,16 +1662,16 @@ all Miss Bingley's witticisms on _fine eyes_.
 ## Chapter 10
 
 
-The day passed much as the day before had done. Mrs. Hurst and Miss
+The [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) passed much as the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before had done. Mrs. Hurst and Miss
 Bingley had spent some hours of the morning with the invalid, who
 continued, though slowly, to mend; and in the evening Elizabeth joined
-their [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) in the drawing-room. The loo-table, however, did not appear.
+their [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) in the drawing-room. The loo-table, however, did not appear.
 Mr. Darcy was writing, and Miss Bingley, seated near him, was watching
 the progress of his letter and repeatedly calling off his attention by
 messages to his sister. Mr. Hurst and Mr. Bingley were at piquet, and
 Mrs. Hurst was observing their game.
 
-Elizabeth took up some needlework, and was sufficiently amused in
+Elizabeth took up some needle[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and was sufficiently amused in
 attending to what passed between Darcy and his companion. The perpetual
 commendations of the lady, either on his handwriting, or on the evenness
 of his lines, or on the length of his letter, with the perfect unconcern
@@ -1818,7 +1818,7 @@ weight in the argument, Miss Bennet, than you may be aware of. I assure
 you, that if Darcy were not such a great tall fellow, in comparison with
 myself, I should not pay him half so much deference. I declare I do not
 know a more awful object than Darcy, on particular occasions, and in
-particular places; at his own house especially, and of a Sunday evening,
+particular places; at his own house especially, and of a Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) evening,
 when he has nothing to do.”
 
 Mr. Darcy smiled; but Elizabeth thought she could perceive that he was
@@ -1890,7 +1890,7 @@ She often tried to provoke Darcy into disliking her guest, by talking of
 their supposed marriage, and planning his happiness in such an alliance.
 
 “I hope,” said she, as they were walking together in the shrubbery
-the next day, “you will give your mother-in-law a few hints, when this
+the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), “you will give your mother-in-law a few hints, when this
 desirable event takes place, as to the advantage of holding her tongue;
 and if you can compass it, do cure the younger girls of running after
 officers. And, if I may mention so delicate a subject, endeavour to
@@ -1922,7 +1922,7 @@ Then taking the disengaged arm of Mr. Darcy, she left Elizabeth to walk
 by herself. The path just admitted three. Mr. Darcy felt their rudeness,
 and immediately said:
 
-“This walk is not wide enough for our [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip). We had better go into the
+“This walk is not wide enough for our [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). We had better go into the
 avenue.”
 
 But Elizabeth, who had not the least inclination to remain with them,
@@ -1933,7 +1933,7 @@ to uncommon advantage. The picturesque would be spoilt by admitting a
 fourth. Good-bye.”
 
 She then ran gaily off, rejoicing as she rambled about, in the hope of
-being at home again in a day or two. Jane was already so much recovered
+being at home again in a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two. Jane was already so much recovered
 as to intend leaving her room for a couple of hours that evening.
 
 
@@ -1961,14 +1961,14 @@ attention. The first half-hour was spent in piling up the fire, lest she
 should suffer from the change of room; and she removed at his desire
 to the other side of the fireplace, that she might be further from
 the door. He then sat down by her, and talked scarcely to anyone
-else. Elizabeth, at work in the opposite corner, saw it all with great
+else. Elizabeth, at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) in the opposite corner, saw it all with great
 delight.
 
 When tea was over, Mr. Hurst reminded his sister-in-law of the
 card-table--but in vain. She had obtained private intelligence that Mr.
 Darcy did not wish for cards; and Mr. Hurst soon found even his open
 petition rejected. She assured him that no one intended to play, and
-the silence of the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) on the subject seemed to justify her. Mr.
+the silence of the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) on the subject seemed to justify her. Mr.
 Hurst had therefore nothing to do, but to stretch himself on one of the
 sofas and go to sleep. Darcy took up a book; Miss Bingley did the same;
 and Mrs. Hurst, principally occupied in playing with her bracelets
@@ -1994,7 +1994,7 @@ towards him and said:
 
 “By the bye, Charles, are you really serious in meditating a dance at
 Netherfield? I would advise you, before you determine on it, to consult
-the wishes of the present [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip); I am much mistaken if there are
+the wishes of the present [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip); I am much mistaken if there are
 not some among us to whom a ball would be rather a punishment than a
 pleasure.”
 
@@ -2007,7 +2007,7 @@ round my cards.”
 carried on in a different manner; but there is something insufferably
 tedious in the usual process of such a meeting. It would surely be much
 more rational if conversation instead of dancing were made the order of
-the day.”
+the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
 
 “Much more rational, my dear Caroline, I dare say, but it would not be
 near so much like a ball.”
@@ -2026,7 +2026,7 @@ Elizabeth was surprised, but agreed to it immediately. Miss Bingley
 succeeded no less in the real object of her civility; Mr. Darcy looked
 up. He was as much awake to the novelty of attention in that quarter as
 Elizabeth herself could be, and unconsciously closed his book. He was
-directly invited to join their [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip), but he declined it, observing that
+directly invited to join their [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip), but he declined it, observing that
 he could imagine but two motives for their choosing to walk up and down
 the room together, with either of which motives his joining them would
 interfere. “What could he mean? She was dying to know what could be his
@@ -2131,13 +2131,13 @@ it. He began to feel the danger of paying Elizabeth too much attention.
 
 In consequence of an agreement between the sisters, Elizabeth wrote the
 next morning to their mother, to beg that the carriage might be sent for
-them in the course of the day. But Mrs. Bennet, who had calculated on
-her daughters remaining at Netherfield till the following Tuesday, which
+them in the course of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). But Mrs. Bennet, who had calculated on
+her daughters remaining at Netherfield till the following Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), which
 would exactly finish Jane's week, could not bring herself to receive
 them with pleasure before. Her answer, therefore, was not propitious, at
 least not to Elizabeth's wishes, for she was impatient to get home. Mrs.
 Bennet sent them word that they could not possibly have the carriage
-before Tuesday; and in her postscript it was added, that if Mr. Bingley
+before Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); and in her postscript it was added, that if Mr. Bingley
 and his sister pressed them to stay longer, she could spare them
 very well. Against staying longer, however, Elizabeth was positively
 resolved--nor did she much expect it would be asked; and fearful, on the
@@ -2147,7 +2147,7 @@ length it was settled that their original design of leaving Netherfield
 that morning should be mentioned, and the request made.
 
 The communication excited many professions of concern; and enough was
-said of wishing them to stay at least till the following day to work
+said of wishing them to stay at least till the following [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)
 on Jane; and till the morrow their going was deferred. Miss Bingley was
 then sorry that she had proposed the delay, for her jealousy and dislike
 of one sister much exceeded her affection for the other.
@@ -2163,19 +2163,19 @@ Bingley was uncivil to _her_, and more teasing than usual to himself.
 He wisely resolved to be particularly careful that no sign of admiration
 should _now_ escape him, nothing that could elevate her with the hope
 of influencing his felicity; sensible that if such an idea had been
-suggested, his behaviour during the last day must have material weight
+suggested, his behaviour during the last [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) must have material weight
 in confirming or crushing it. Steady to his purpose, he scarcely spoke
-ten words to her through the whole of Saturday, and though they were
+ten words to her through the whole of Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and though they were
 at one time left by themselves for half-an-hour, he adhered most
 conscientiously to his book, and would not even look at her.
 
-On Sunday, after morning service, the separation, so agreeable to almost
+On Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), after morning service, the separation, so agreeable to almost
 all, took place. Miss Bingley's civility to Elizabeth increased at last
 very rapidly, as well as her affection for Jane; and when they parted,
 after assuring the latter of the pleasure it would always give her
 to see her either at Longbourn or Netherfield, and embracing her most
 tenderly, she even shook hands with the former. Elizabeth took leave of
-the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) in the liveliest of spirits.
+the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) in the liveliest of spirits.
 
 They were not welcomed home very cordially by their mother. Mrs. Bennet
 wondered at their coming, and thought them very wrong to give so much
@@ -2190,7 +2190,7 @@ They found Mary, as usual, deep in the study of thorough-bass and human
 nature; and had some extracts to admire, and some new observations of
 threadbare morality to listen to. Catherine and Lydia had information
 for them of a different sort. Much had been done and much had been said
-in the regiment since the preceding Wednesday; several of the officers
+in the regiment since the preceding Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); several of the officers
 had dined lately with their uncle, a private had been flogged, and it
 had actually been hinted that Colonel Forster was going to be married.
 
@@ -2201,8 +2201,8 @@ had actually been hinted that Colonel Forster was going to be married.
 
 
 “I hope, my dear,” said Mr. Bennet to his wife, as they were at
-breakfast the next morning, “that you have ordered a good dinner to-day,
-because I have reason to expect an addition to our family [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip).”
+breakfast the next morning, “that you have ordered a good dinner to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),
+because I have reason to expect an addition to our family [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip).”
 
 “Who do you mean, my dear? I know of nobody that is coming, I am sure,
 unless Charlotte Lucas should happen to call in--and I hope _my_ dinners
@@ -2213,7 +2213,7 @@ are good enough for her. I do not believe she often sees such at home.”
 Mrs. Bennet's eyes sparkled. “A gentleman and a stranger! It is Mr.
 Bingley, I am sure! Well, I am sure I shall be extremely glad to see Mr.
 Bingley. But--good Lord! how unlucky! There is not a bit of fish to be
-got to-day. Lydia, my love, ring the bell--I must speak to Hill this
+got to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Lydia, my love, ring the bell--I must speak to Hill this
 moment.”
 
 “It is _not_ Mr. Bingley,” said her husband; “it is a person whom I
@@ -2232,7 +2232,7 @@ may turn you all out of this house as soon as he pleases.”
 “Oh! my dear,” cried his wife, “I cannot bear to hear that mentioned.
 Pray do not talk of that odious man. I do think it is the hardest thing
 in the world, that your estate should be entailed away from your own
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren; and I am sure, if I had been you, I should have tried long ago
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren; and I am sure, if I had been you, I should have tried long ago
 to do something or other about it.”
 
 Jane and Elizabeth tried to explain to her the nature of an entail. They
@@ -2282,11 +2282,11 @@ means of injuring your amiable daughters, and beg leave to apologise for
 it, as well as to assure you of my readiness to make them every possible
 amends--but of this hereafter. If you should have no objection to
 receive me into your house, I propose myself the satisfaction of waiting
-on you and your family, Monday, November 18th, by four o'clock, and
-shall probably trespass on your hospitality till the Saturday se'ennight
+on you and your family, Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), November 18th, by four o'clock, and
+shall probably trespass on your hospitality till the Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) se'ennight
 following, which I can do without any inconvenience, as Lady Catherine
-is far from objecting to my occasional absence on a Sunday, provided
-that some other clergyman is engaged to do the duty of the day.--I
+is far from objecting to my occasional absence on a Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), provided
+that some other clergyman is engaged to do the duty of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).--I
 remain, dear sir, with respectful compliments to your lady and
 daughters, your well-wisher and friend,
 
@@ -2394,7 +2394,7 @@ a person of rank--such affability and condescension, as he had himself
 experienced from Lady Catherine. She had been graciously pleased to
 approve of both of the discourses which he had already had the honour of
 preaching before her. She had also asked him twice to dine at Rosings,
-and had sent for him only the Saturday before, to make up her pool of
+and had sent for him only the Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before, to make up her pool of
 quadrille in the evening. Lady Catherine was reckoned proud by many
 people he knew, but _he_ had never seen anything but affability in her.
 She had always spoken to him as she would to any other gentleman; she
@@ -2435,7 +2435,7 @@ to drive by my humble abode in her little phaeton and ponies.”
 court.”
 
 “Her indifferent state of health unhappily prevents her being in town;
-and by that means, as I told Lady Catherine one day, has deprived the
+and by that means, as I told Lady Catherine one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), has deprived the
 British court of its brightest ornament. Her ladyship seemed pleased
 with the idea; and you may imagine that I am happy on every occasion to
 offer those little delicate compliments which are always acceptable
@@ -2475,7 +2475,7 @@ pages, she interrupted him with:
 
 “Do you know, mamma, that my uncle Phillips talks of turning away
 Richard; and if he does, Colonel Forster will hire him. My aunt told me
-so herself on Saturday. I shall walk to Meryton to-morrow to hear more
+so herself on Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). I shall walk to Meryton to-morrow to hear more
 about it, and to ask when Mr. Denny comes back from town.”
 
 Lydia was bid by her two eldest sisters to hold her tongue; but Mr.
@@ -2547,7 +2547,7 @@ next to Jane in birth and beauty, succeeded her of course.
 
 Mrs. Bennet treasured up the hint, and trusted that she might soon have
 two daughters married; and the man whom she could not bear to speak of
-the day before was now high in her good graces.
+the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before was now high in her good graces.
 
 Lydia's intention of walking to Meryton was not forgotten; every sister
 except Mary agreed to go with her; and Mr. Collins was to attend them,
@@ -2567,7 +2567,7 @@ than a reader, was extremely pleased to close his large book, and go.
 In pompous nothings on his side, and civil assents on that of his
 cousins, their time passed till they entered Meryton. The attention of
 the younger ones was then no longer to be gained by him. Their eyes were
-immediately wandering up in the street in quest of the officers, and
+immediately wandering up in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t in quest of the officers, and
 nothing less than a very smart bonnet indeed, or a really new muslin in
 a shop window, could recall them.
 
@@ -2577,21 +2577,21 @@ with another officer on the other side of the way. The officer was
 the very Mr. Denny concerning whose return from London Lydia came
 to inquire, and he bowed as they passed. All were struck with the
 stranger's air, all wondered who he could be; and Kitty and Lydia,
-determined if possible to find out, led the way across the street, under
+determined if possible to find out, led the way across the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, under
 pretense of wanting something in an opposite shop, and fortunately
 had just gained the pavement when the two gentlemen, turning back, had
 reached the same spot. Mr. Denny addressed them directly, and entreated
 permission to introduce his friend, Mr. Wickham, who had returned with
-him the day before from town, and he was happy to say had accepted a
+him the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before from town, and he was happy to say had accepted a
 commission in their corps. This was exactly as it should be; for the
 young man wanted only regimentals to make him completely charming.
 His appearance was greatly in his favour; he had all the best part of
 beauty, a fine countenance, a good figure, and very pleasing address.
 The introduction was followed up on his side by a happy readiness
 of conversation--a readiness at the same time perfectly correct and
-unassuming; and the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) were still standing and talking together
+unassuming; and the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) were still standing and talking together
 very agreeably, when the sound of horses drew their notice, and Darcy
-and Bingley were seen riding down the street. On distinguishing the
+and Bingley were seen riding down the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t. On distinguishing the
 ladies of the group, the two gentlemen came directly towards them, and
 began the usual civilities. Bingley was the principal spokesman, and
 Miss Bennet the principal object. He was then, he said, on his way to
@@ -2619,7 +2619,7 @@ from their recent absence, were particularly welcome, and she was
 eagerly expressing her surprise at their sudden return home, which, as
 their own carriage had not fetched them, she should have known nothing
 about, if she had not happened to see Mr. Jones's shop-boy in the
-street, who had told her that they were not to send any more draughts to
+s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, who had told her that they were not to send any more draughts to
 Netherfield because the Miss Bennets were come away, when her civility
 was claimed towards Mr. Collins by Jane's introduction of him. She
 received him with her very best politeness, which he returned with
@@ -2632,12 +2632,12 @@ put to an end by exclamations and inquiries about the other; of whom,
 however, she could only tell her nieces what they already knew, that
 Mr. Denny had brought him from London, and that he was to have a
 lieutenant's commission in the ----shire. She had been watching him the
-last hour, she said, as he walked up and down the street, and had Mr.
+last hour, she said, as he walked up and down the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, and had Mr.
 Wickham appeared, Kitty and Lydia would certainly have continued the
 occupation, but unluckily no one passed windows now except a few of the
 officers, who, in comparison with the stranger, were become “stupid,
 disagreeable fellows.” Some of them were to dine with the Phillipses
-the next day, and their aunt promised to make her husband call on Mr.
+the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and their aunt promised to make her husband call on Mr.
 Wickham, and give him an invitation also, if the family from Longbourn
 would come in the evening. This was agreed to, and Mrs. Phillips
 protested that they would have a nice comfortable noisy game of lottery
@@ -2700,7 +2700,7 @@ The gentlemen did approach, and when Mr. Wickham walked into the room,
 Elizabeth felt that she had neither been seeing him before, nor thinking
 of him since, with the smallest degree of unreasonable admiration.
 The officers of the ----shire were in general a very creditable,
-gentlemanlike set, and the best of them were of the present [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip); but
+gentlemanlike set, and the best of them were of the present [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip); but
 Mr. Wickham was as far beyond them all in person, countenance, air, and
 walk, as _they_ were superior to the broad-faced, stuffy uncle Phillips,
 breathing port wine, who followed them into the room.
@@ -2752,10 +2752,10 @@ Elizabeth could not but look surprised.
 
 “You may well be surprised, Miss Bennet, at such an assertion, after
 seeing, as you probably might, the very cold manner of our meeting
-yesterday. Are you much acquainted with Mr. Darcy?”
+yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Are you much acquainted with Mr. Darcy?”
 
 “As much as I ever wish to be,” cried Elizabeth very warmly. “I have
-spent four days in the same house with him, and I think him very
+spent four [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s in the same house with him, and I think him very
 disagreeable.”
 
 “I have no right to give _my_ opinion,” said Wickham, “as to his being
@@ -2869,7 +2869,7 @@ descending to such malicious revenge, such injustice, such inhumanity as
 this.”
 
 After a few minutes' reflection, however, she continued, “I _do_
-remember his boasting one day, at Netherfield, of the implacability of
+remember his boasting one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), at Netherfield, of the implacability of
 his resentments, of his having an unforgiving temper. His disposition
 must be dreadful.”
 
@@ -2880,7 +2880,7 @@ Elizabeth was again deep in thought, and after a time exclaimed, “To
 treat in such a manner the godson, the friend, the favourite of his
 father!” She could have added, “A young man, too, like _you_, whose very
 countenance may vouch for your being amiable”--but she contented herself
-with, “and one, too, who had probably been his companion from [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)hood,
+with, “and one, too, who had probably been his companion from [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)hood,
 connected together, as I think you said, in the closest manner!”
 
 “We were born in the same parish, within the same park; the greatest
@@ -2892,7 +2892,7 @@ use to the late Mr. Darcy and devoted all his time to the care of the
 Pemberley property. He was most highly esteemed by Mr. Darcy, a most
 intimate, confidential friend. Mr. Darcy often acknowledged himself to
 be under the greatest obligations to my father's active superintendence,
-and when, immediately before my father's [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), Mr. Darcy gave him a
+and when, immediately before my father's [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), Mr. Darcy gave him a
 voluntary promise of providing for me, I am convinced that he felt it to
 be as much a debt of gratitude to _him_, as of his affection to myself.”
 
@@ -2923,10 +2923,10 @@ as the most attentive and best of brothers.”
 
 He shook his head. “I wish I could call her amiable. It gives me pain to
 speak ill of a Darcy. But she is too much like her brother--very, very
-proud. As a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), she was affectionate and pleasing, and extremely fond
+proud. As a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), she was affectionate and pleasing, and extremely fond
 of me; and I have devoted hours and hours to her amusement. But she is
 nothing to me now. She is a handsome girl, about fifteen or sixteen,
-and, I understand, highly accomplished. Since her father's [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), her
+and, I understand, highly accomplished. Since her father's [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), her
 home has been London, where a lady lives with her, and superintends her
 education.”
 
@@ -2951,7 +2951,7 @@ pride never deserts him; but with the rich he is liberal-minded, just,
 sincere, rational, honourable, and perhaps agreeable--allowing something
 for fortune and figure.”
 
-The whist [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) soon afterwards breaking up, the players gathered round
+The whist [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) soon afterwards breaking up, the players gathered round
 the other table and Mr. Collins took his station between his cousin
 Elizabeth and Mrs. Phillips. The usual inquiries as to his success were
 made by the latter. It had not been very great; he had lost every
@@ -2979,8 +2979,8 @@ notice, but he certainly has not known her long.”
 were sisters; consequently that she is aunt to the present Mr. Darcy.”
 
 “No, indeed, I did not. I knew nothing at all of Lady Catherine's
-connections. I never heard of her existence till the day before
-yesterday.”
+connections. I never heard of her existence till the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before
+yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
 
 “Her daughter, Miss de Bourgh, will have a very large fortune, and it is
 believed that she and her cousin will unite the two estates.”
@@ -3008,7 +3008,7 @@ Elizabeth allowed that he had given a very rational account of it, and
 they continued talking together, with mutual satisfaction till supper
 put an end to cards, and gave the rest of the ladies their share of Mr.
 Wickham's attentions. There could be no conversation in the noise
-of Mrs. Phillips's supper [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip), but his manners recommended him to
+of Mrs. Phillips's supper [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip), but his manners recommended him to
 everybody. Whatever he said, was said well; and whatever he did, done
 gracefully. Elizabeth went away with her head full of him. She could
 think of nothing but of Mr. Wickham, and of what he had told her, all
@@ -3027,7 +3027,7 @@ before the carriage stopped at Longbourn House.
 ## Chapter 17
 
 
-Elizabeth related to Jane the next day what had passed between Mr.
+Elizabeth related to Jane the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) what had passed between Mr.
 Wickham and herself. Jane listened with astonishment and concern; she
 knew not how to believe that Mr. Darcy could be so unworthy of Mr.
 Bingley's regard; and yet, it was not in her nature to question the
@@ -3076,7 +3076,7 @@ The two young ladies were summoned from the shrubbery, where this
 conversation passed, by the arrival of the very persons of whom they had
 been speaking; Mr. Bingley and his sisters came to give their personal
 invitation for the long-expected ball at Netherfield, which was fixed
-for the following Tuesday. The two ladies were delighted to see their
+for the following Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). The two ladies were delighted to see their
 dear friend again, called it an age since they had met, and repeatedly
 asked what she had been doing with herself since their separation. To
 the rest of the family they paid little attention; avoiding Mrs. Bennet
@@ -3146,14 +3146,14 @@ till he did, it was useless to quarrel about him.
 
 If there had not been a Netherfield ball to prepare for and talk of, the
 younger Miss Bennets would have been in a very pitiable state at this
-time, for from the day of the invitation, to the day of the ball, there
+time, for from the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of the invitation, to the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of the ball, there
 was such a succession of rain as prevented their walking to Meryton
 once. No aunt, no officers, no news could be sought after--the very
 shoe-roses for Netherfield were got by proxy. Even Elizabeth might have
 found some trial of her patience in weather which totally suspended the
 improvement of her acquaintance with Mr. Wickham; and nothing less than
-a dance on Tuesday, could have made such a Friday, Saturday, Sunday, and
-Monday endurable to Kitty and Lydia.
+a dance on Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), could have made such a Fri[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and
+Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) endurable to Kitty and Lydia.
 
 
 
@@ -3174,7 +3174,7 @@ pleasure in the Bingleys' invitation to the officers; and though
 this was not exactly the case, the absolute fact of his absence was
 pronounced by his friend Denny, to whom Lydia eagerly applied, and who
 told them that Wickham had been obliged to go to town on business the
-day before, and was not yet returned; adding, with a significant smile,
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before, and was not yet returned; adding, with a significant smile,
 “I do not imagine his business would have called him away just now, if
 he had not wanted to avoid a certain gentleman here.”
 
@@ -3265,7 +3265,7 @@ think it a faithful portrait undoubtedly.”
 He made no answer, and they were again silent till they had gone down
 the dance, when he asked her if she and her sisters did not very often
 walk to Meryton. She answered in the affirmative, and, unable to resist
-the temptation, added, “When you met us there the other day, we had just
+the temptation, added, “When you met us there the other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), we had just
 been forming a new acquaintance.”
 
 The effect was immediate. A deeper shade of _hauteur_ overspread his
@@ -3460,7 +3460,7 @@ ignorance of the connection must plead my apology.”
 
 “Indeed I am. I shall entreat his pardon for not having done it earlier.
 I believe him to be Lady Catherine's _nephew_. It will be in my power to
-assure him that her ladyship was quite well yesterday se'nnight.”
+assure him that her ladyship was quite well yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) se'nnight.”
 
 Elizabeth tried hard to dissuade him from such a scheme, assuring him
 that Mr. Darcy would consider his addressing him without introduction
@@ -3582,12 +3582,12 @@ of derision at each other, and at Darcy, who continued, however,
 imperturbably grave. She looked at her father to entreat his
 interference, lest Mary should be singing all night. He took the hint,
 and when Mary had finished her second song, said aloud, “That will do
-extremely well, [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip). You have delighted us long enough. Let the other
+extremely well, [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip). You have delighted us long enough. Let the other
 young ladies have time to exhibit.”
 
 Mary, though pretending not to hear, was somewhat disconcerted; and
 Elizabeth, sorry for her, and sorry for her father's speech, was afraid
-her anxiety had done no good. Others of the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) were now applied to.
+her anxiety had done no good. Others of the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) were now applied to.
 
 “If I,” said Mr. Collins, “were so fortunate as to be able to sing, I
 should have great pleasure, I am sure, in obliging the company with an
@@ -3641,14 +3641,14 @@ disengaged, he never came near enough to speak. She felt it to be the
 probable consequence of her allusions to Mr. Wickham, and rejoiced in
 it.
 
-The Longbourn [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) were the last of all the company to depart, and, by
+The Longbourn [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) were the last of all the company to depart, and, by
 a manoeuvre of Mrs. Bennet, had to wait for their carriage a quarter of
 an hour after everybody else was gone, which gave them time to see how
 heartily they were wished away by some of the family. Mrs. Hurst and her
 sister scarcely opened their mouths, except to complain of fatigue, and
 were evidently impatient to have the house to themselves. They repulsed
 every attempt of Mrs. Bennet at conversation, and by so doing threw a
-languor over the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip), which was very little relieved by the
+languor over the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip), which was very little relieved by the
 long speeches of Mr. Collins, who was complimenting Mr. Bingley and his
 sisters on the elegance of their entertainment, and the hospitality and
 politeness which had marked their behaviour to their guests. Darcy said
@@ -3666,7 +3666,7 @@ would make them by eating a family dinner with them at any time, without
 the ceremony of a formal invitation. Bingley was all grateful pleasure,
 and he readily engaged for taking the earliest opportunity of waiting on
 her, after his return from London, whither he was obliged to go the next
-day for a short time.
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) for a short time.
 
 Mrs. Bennet was perfectly satisfied, and quitted the house under the
 delightful persuasion that, allowing for the necessary preparations of
@@ -3674,7 +3674,7 @@ settlements, new carriages, and wedding clothes, she should undoubtedly
 see her daughter settled at Netherfield in the course of three or four
 months. Of having another daughter married to Mr. Collins, she thought
 with equal certainty, and with considerable, though not equal, pleasure.
-Elizabeth was the least dear to her of all her [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren; and though the
+Elizabeth was the least dear to her of all her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren; and though the
 man and the match were quite good enough for _her_, the worth of each
 was eclipsed by Mr. Bingley and Netherfield.
 
@@ -3684,9 +3684,9 @@ was eclipsed by Mr. Bingley and Netherfield.
 ## Chapter 19
 
 
-The next day opened a new scene at Longbourn. Mr. Collins made his
+The next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) opened a new scene at Longbourn. Mr. Collins made his
 declaration in form. Having resolved to do it without loss of time, as
-his leave of absence extended only to the following Saturday, and having
+his leave of absence extended only to the following Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and having
 no feelings of diffidence to make it distressing to himself even at
 the moment, he set about it in a very orderly manner, with all the
 observances, which he supposed a regular part of the business. On
@@ -3700,7 +3700,7 @@ course of this morning?”
 Before Elizabeth had time for anything but a blush of surprise, Mrs.
 Bennet answered instantly, “Oh dear!--yes--certainly. I am sure Lizzy
 will be very happy--I am sure she can have no objection. Come, Kitty, I
-want you up stairs.” And, gathering her work together, she was hastening
+want you up stairs.” And, gathering her [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) together, she was hastening
 away, when Elizabeth called out:
 
 “Dear madam, do not go. I beg you will not go. Mr. Collins must excuse
@@ -3744,7 +3744,7 @@ add very greatly to my happiness; and thirdly--which perhaps I ought
 to have mentioned earlier, that it is the particular advice and
 recommendation of the very noble lady whom I have the honour of calling
 patroness. Twice has she condescended to give me her opinion (unasked
-too!) on this subject; and it was but the very Saturday night before I
+too!) on this subject; and it was but the very Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night before I
 left Hunsford--between our pools at quadrille, while Mrs. Jenkinson was
 arranging Miss de Bourgh's footstool, that she said, 'Mr. Collins, you
 must marry. A clergyman like you must marry. Choose properly, choose
@@ -3761,7 +3761,7 @@ respect which her rank will inevitably excite. Thus much for my general
 intention in favour of matrimony; it remains to be told why my views
 were directed towards Longbourn instead of my own neighbourhood, where I
 can assure you there are many amiable young women. But the fact is, that
-being, as I am, to inherit this estate after the [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) of your honoured
+being, as I am, to inherit this estate after the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) of your honoured
 father (who, however, may live many years longer), I could not satisfy
 myself without resolving to choose a wife from among his daughters, that
 the loss to them might be as little as possible, when the melancholy
@@ -3935,7 +3935,7 @@ marrying him.”
 Mrs. Bennet rang the bell, and Miss Elizabeth was summoned to the
 library.
 
-“Come here, [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip),” cried her father as she appeared. “I have sent for
+“Come here, [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip),” cried her father as she appeared. “I have sent for
 you on an affair of importance. I understand that Mr. Collins has made
 you an offer of marriage. Is it true?” Elizabeth replied that it was.
 “Very well--and this offer of marriage you have refused?”
@@ -3947,7 +3947,7 @@ accepting it. Is it not so, Mrs. Bennet?”
 
 “Yes, or I will never see her again.”
 
-“An unhappy alternative is before you, Elizabeth. From this day you must
+“An unhappy alternative is before you, Elizabeth. From this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) you must
 be a stranger to one of your parents. Your mother will never see you
 again if you do _not_ marry Mr. Collins, and I will never see you again
 if you _do_.”
@@ -3979,7 +3979,7 @@ way. His regard for her was quite imaginary; and the possibility of her
 deserving her mother's reproach prevented his feeling any regret.
 
 While the family were in this confusion, Charlotte Lucas came to spend
-the day with them. She was met in the vestibule by Lydia, who, flying to
+the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) with them. She was met in the vestibule by Lydia, who, flying to
 her, cried in a half whisper, “I am glad you are come, for there is such
 fun here! What do you think has happened this morning? Mr. Collins has
 made an offer to Lizzy, and she will not have him.”
@@ -4001,10 +4001,10 @@ she can have her own way. But I tell you, Miss Lizzy--if you take it
 into your head to go on refusing every offer of marriage in this way,
 you will never get a husband at all--and I am sure I do not know who is
 to maintain you when your father is dead. I shall not be able to keep
-you--and so I warn you. I have done with you from this very day. I told
+you--and so I warn you. I have done with you from this very [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). I told
 you in the library, you know, that I should never speak to you again,
 and you will find me as good as my word. I have no pleasure in talking
-to undutiful [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren. Not that I have much pleasure, indeed, in talking
+to undutiful [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren. Not that I have much pleasure, indeed, in talking
 to anybody. People who suffer as I do from nervous complaints can have
 no great inclination for talking. Nobody can tell what I suffer! But it
 is always so. Those who do not complain are never pitied.”
@@ -4059,7 +4059,7 @@ mother. As for the gentleman himself, _his_ feelings were chiefly
 expressed, not by embarrassment or dejection, or by trying to avoid her,
 but by stiffness of manner and resentful silence. He scarcely ever spoke
 to her, and the assiduous attentions which he had been so sensible of
-himself were transferred for the rest of the day to Miss Lucas, whose
+himself were transferred for the rest of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to Miss Lucas, whose
 civility in listening to him was a seasonable relief to them all, and
 especially to her friend.
 
@@ -4067,7 +4067,7 @@ The morrow produced no abatement of Mrs. Bennet's ill-humour or ill
 health. Mr. Collins was also in the same state of angry pride. Elizabeth
 had hoped that his resentment might shorten his visit, but his plan did
 not appear in the least affected by it. He was always to have gone on
-Saturday, and to Saturday he meant to stay.
+Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and to Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) he meant to stay.
 
 After breakfast, the girls walked to Meryton to inquire if Mr. Wickham
 were returned, and to lament over his absence from the Netherfield ball.
@@ -4077,7 +4077,7 @@ well talked over. To Elizabeth, however, he voluntarily acknowledged
 that the necessity of his absence _had_ been self-imposed.
 
 “I found,” said he, “as the time drew near that I had better not meet
-Mr. Darcy; that to be in the same room, the same [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) with him for so
+Mr. Darcy; that to be in the same room, the same [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) with him for so
 many hours together, might be more than I could bear, and that scenes
 might arise unpleasant to more than myself.”
 
@@ -4102,13 +4102,13 @@ invited her to follow her up stairs. When they had gained their own room,
 Jane, taking out the letter, said:
 
 “This is from Caroline Bingley; what it contains has surprised me a good
-deal. The whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) have left Netherfield by this time, and are on
+deal. The whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) have left Netherfield by this time, and are on
 their way to town--and without any intention of coming back again. You
 shall hear what she says.”
 
 She then read the first sentence aloud, which comprised the information
 of their having just resolved to follow their brother to town directly,
-and of their meaning to dine in Grosvenor Street, where Mr. Hurst had a
+and of their meaning to dine in Grosvenor S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, where Mr. Hurst had a
 house. The next was in these words: “I do not pretend to regret anything
 I shall leave in Hertfordshire, except your society, my dearest friend;
 but we will hope, at some future period, to enjoy many returns of that
@@ -4130,11 +4130,11 @@ intercourse you have known as friends will be renewed with yet greater
 satisfaction as sisters? Mr. Bingley will not be detained in London by
 them.”
 
-“Caroline decidedly says that none of the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) will return into
+“Caroline decidedly says that none of the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) will return into
 Hertfordshire this winter. I will read it to you:”
 
-“When my brother left us yesterday, he imagined that the business which
-took him to London might be concluded in three or four days; but as we
+“When my brother left us yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), he imagined that the business which
+took him to London might be concluded in three or four [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s; but as we
 are certain it cannot be so, and at the same time convinced that when
 Charles gets to town he will be in no hurry to leave it again, we have
 determined on following him thither, that he may not be obliged to spend
@@ -4202,7 +4202,7 @@ I dare say it would succeed, if Miss de Bourgh were out of the way. But,
 my dearest Jane, you cannot seriously imagine that because Miss Bingley
 tells you her brother greatly admires Miss Darcy, he is in the smallest
 degree less sensible of _your_ merit than when he took leave of you on
-Tuesday, or that it will be in her power to persuade him that, instead
+Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), or that it will be in her power to persuade him that, instead
 of being in love with you, he is very much in love with her friend.”
 
 “If we thought alike of Miss Bingley,” replied Jane, “your
@@ -4264,7 +4264,7 @@ full courses.
 
 
 The Bennets were engaged to dine with the Lucases and again during the
-chief of the day was Miss Lucas so kind as to listen to Mr. Collins.
+chief of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was Miss Lucas so kind as to listen to Mr. Collins.
 Elizabeth took an opportunity of thanking her. “It keeps him in good
 humour,” said she, “and I am more obliged to you than I can express.”
 Charlotte assured her friend of her satisfaction in being useful, and
@@ -4283,7 +4283,7 @@ from a conviction that if they saw him depart, they could not fail to
 conjecture his design, and he was not willing to have the attempt known
 till its success might be known likewise; for though feeling almost
 secure, and with reason, for Charlotte had been tolerably encouraging,
-he was comparatively diffident since the adventure of Wednesday.
+he was comparatively diffident since the adventure of Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 His reception, however, was of the most flattering kind. Miss Lucas
 perceived him from an upper window as he walked towards the house, and
 instantly set out to meet him accidentally in the lane. But little had
@@ -4291,7 +4291,7 @@ she dared to hope that so much love and eloquence awaited her there.
 
 In as short a time as Mr. Collins's long speeches would allow,
 everything was settled between them to the satisfaction of both; and as
-they entered the house he earnestly entreated her to name the day that
+they entered the house he earnestly entreated her to name the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) that
 was to make him the happiest of men; and though such a solicitation must
 be waived for the present, the lady felt no inclination to trifle with
 his happiness. The stupidity with which he was favoured by nature must
@@ -4382,10 +4382,10 @@ means so clever as herself, she thought that if encouraged to read
 and improve himself by such an example as hers, he might become a very
 agreeable companion. But on the following morning, every hope of this
 kind was done away. Miss Lucas called soon after breakfast, and in a
-private conference with Elizabeth related the event of the day before.
+private conference with Elizabeth related the event of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before.
 
 The possibility of Mr. Collins's fancying himself in love with her
-friend had once occurred to Elizabeth within the last day or two; but
+friend had once occurred to Elizabeth within the last [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two; but
 that Charlotte could encourage him seemed almost as far from
 possibility as she could encourage him herself, and her astonishment was
 consequently so great as to overcome at first the bounds of decorum, and
@@ -4421,7 +4421,7 @@ they returned to the rest of the family. Charlotte did not stay much
 longer, and Elizabeth was then left to reflect on what she had heard.
 It was a long time before she became at all reconciled to the idea of so
 unsuitable a match. The strangeness of Mr. Collins's making two offers
-of marriage within three days was nothing in comparison of his being now
+of marriage within three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s was nothing in comparison of his being now
 accepted. She had always felt that Charlotte's opinion of matrimony was
 not exactly like her own, but she had not supposed it to be possible
 that, when called into action, she would have sacrificed every better
@@ -4474,8 +4474,8 @@ happy together; and fourthly, that the match might be broken off. Two
 inferences, however, were plainly deduced from the whole: one, that
 Elizabeth was the real cause of the mischief; and the other that she
 herself had been barbarously misused by them all; and on these two
-points she principally dwelt during the rest of the day. Nothing could
-console and nothing could appease her. Nor did that day wear out her
+points she principally dwelt during the rest of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Nothing could
+console and nothing could appease her. Nor did that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) wear out her
 resentment. A week elapsed before she could see Elizabeth without
 scolding her, a month passed away before she could speak to Sir William
 or Lady Lucas without being rude, and many months were gone before she
@@ -4510,8 +4510,8 @@ as Bingley had now been gone a week and nothing more was heard of his
 return.
 
 Jane had sent Caroline an early answer to her letter, and was counting
-the days till she might reasonably hope to hear again. The promised
-letter of thanks from Mr. Collins arrived on Tuesday, addressed to
+the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s till she might reasonably hope to hear again. The promised
+letter of thanks from Mr. Collins arrived on Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), addressed to
 their father, and written with all the solemnity of gratitude which a
 twelvemonth's abode in the family might have prompted. After discharging
 his conscience on that head, he proceeded to inform them, with many
@@ -4519,10 +4519,10 @@ rapturous expressions, of his happiness in having obtained the affection
 of their amiable neighbour, Miss Lucas, and then explained that it was
 merely with the view of enjoying her society that he had been so ready
 to close with their kind wish of seeing him again at Longbourn, whither
-he hoped to be able to return on Monday fortnight; for Lady Catherine,
+he hoped to be able to return on Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) fortnight; for Lady Catherine,
 he added, so heartily approved his marriage, that she wished it to take
 place as soon as possible, which he trusted would be an unanswerable
-argument with his amiable Charlotte to name an early day for making him
+argument with his amiable Charlotte to name an early [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) for making him
 the happiest of men.
 
 Mr. Collins's return into Hertfordshire was no longer a matter of
@@ -4535,8 +4535,8 @@ most disagreeable. Such were the gentle murmurs of Mrs. Bennet, and
 they gave way only to the greater distress of Mr. Bingley's continued
 absence.
 
-Neither Jane nor Elizabeth were comfortable on this subject. Day after
-day passed away without bringing any other tidings of him than the
+Neither Jane nor Elizabeth were comfortable on this subject. [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) passed away without bringing any other tidings of him than the
 report which shortly prevailed in Meryton of his coming no more to
 Netherfield the whole winter; a report which highly incensed Mrs.
 Bennet, and which she never failed to contradict as a most scandalous
@@ -4561,11 +4561,11 @@ did not come back she would think herself very ill used. It needed
 all Jane's steady mildness to bear these attacks with tolerable
 tranquillity.
 
-Mr. Collins returned most punctually on Monday fortnight, but his
+Mr. Collins returned most punctually on Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) fortnight, but his
 reception at Longbourn was not quite so gracious as it had been on his
 first introduction. He was too happy, however, to need much attention;
 and luckily for the others, the business of love-making relieved them
-from a great deal of his company. The chief of every day was spent by
+from a great deal of his company. The chief of every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was spent by
 him at Lucas Lodge, and he sometimes returned to Longbourn only in time
 to make an apology for his absence before the family went to bed.
 
@@ -4650,7 +4650,7 @@ observation; whatever were the case, though her opinion of him must be
 materially affected by the difference, her sister's situation remained
 the same, her peace equally wounded.
 
-A day or two passed before Jane had courage to speak of her feelings to
+A [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two passed before Jane had courage to speak of her feelings to
 Elizabeth; but at last, on Mrs. Bennet's leaving them together, after a
 longer irritation than usual about Netherfield and its master, she could
 not help saying:
@@ -4687,7 +4687,7 @@ to think _you_ perfect, and you set yourself against it. Do not
 be afraid of my running into any excess, of my encroaching on your
 privilege of universal good-will. You need not. There are few people
 whom I really love, and still fewer of whom I think well. The more I see
-of the world, the more am I dissatisfied with it; and every day confirms
+of the world, the more am I dissatisfied with it; and every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) confirms
 my belief of the inconsistency of all human characters, and of the
 little dependence that can be placed on the appearance of merit or
 sense. I have met with two instances lately, one I will not mention; the
@@ -4772,16 +4772,16 @@ Elizabeth could not oppose such a wish; and from this time Mr. Bingley's
 name was scarcely ever mentioned between them.
 
 Mrs. Bennet still continued to wonder and repine at his returning no
-more, and though a day seldom passed in which Elizabeth did not account
+more, and though a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) seldom passed in which Elizabeth did not account
 for it clearly, there was little chance of her ever considering it with
 less perplexity. Her daughter endeavoured to convince her of what she
 did not believe herself, that his attentions to Jane had been merely the
 effect of a common and transient liking, which ceased when he saw her
 no more; but though the probability of the statement was admitted at
-the time, she had the same story to repeat every day. Mrs. Bennet's best
+the time, she had the same story to repeat every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Mrs. Bennet's best
 comfort was that Mr. Bingley must be down again in the summer.
 
-Mr. Bennet treated the matter differently. “So, Lizzy,” said he one day,
+Mr. Bennet treated the matter differently. “So, Lizzy,” said he one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),
 “your sister is crossed in love, I find. I congratulate her. Next to
 being married, a girl likes to be crossed a little in love now and then.
 It is something to think of, and it gives her a sort of distinction
@@ -4820,15 +4820,15 @@ Mr. Darcy was condemned as the worst of men.
 
 After a week spent in professions of love and schemes of felicity,
 Mr. Collins was called from his amiable Charlotte by the arrival of
-Saturday. The pain of separation, however, might be alleviated on his
+Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). The pain of separation, however, might be alleviated on his
 side, by preparations for the reception of his bride; as he had reason
-to hope, that shortly after his return into Hertfordshire, the day would
+to hope, that shortly after his return into Hertfordshire, the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) would
 be fixed that was to make him the happiest of men. He took leave of his
 relations at Longbourn with as much solemnity as before; wished his fair
 cousins health and happiness again, and promised their father another
 letter of thanks.
 
-On the following Monday, Mrs. Bennet had the pleasure of receiving
+On the following Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Mrs. Bennet had the pleasure of receiving
 her brother and his wife, who came as usual to spend the Christmas
 at Longbourn. Mr. Gardiner was a sensible, gentlemanlike man, greatly
 superior to his sister, as well by nature as education. The Netherfield
@@ -4878,7 +4878,7 @@ her, that these sort of inconsistencies are very frequent.”
 do for _us_. We do not suffer by _accident_. It does not often
 happen that the interference of friends will persuade a young man of
 independent fortune to think no more of a girl whom he was violently in
-love with only a few days before.”
+love with only a few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s before.”
 
 “But that expression of 'violently in love' is so hackneyed, so
 doubtful, so indefinite, that it gives me very little idea. It is as
@@ -4913,7 +4913,7 @@ unless he really comes to see her.”
 “And _that_ is quite impossible; for he is now in the custody of his
 friend, and Mr. Darcy would no more suffer him to call on Jane in such
 a part of London! My dear aunt, how could you think of it? Mr. Darcy may
-perhaps have _heard_ of such a place as Gracechurch Street, but he
+perhaps have _heard_ of such a place as Gracechurch S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, but he
 would hardly think a month's ablution enough to cleanse him from its
 impurities, were he once to enter it; and depend upon it, Mr. Bingley
 never stirs without him.”
@@ -4939,7 +4939,7 @@ she might occasionally spend a morning with her, without any danger of
 seeing him.
 
 The Gardiners stayed a week at Longbourn; and what with the Phillipses,
-the Lucases, and the officers, there was not a day without its
+the Lucases, and the officers, there was not a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) without its
 engagement. Mrs. Bennet had so carefully provided for the entertainment
 of her brother and sister, that they did not once sit down to a family
 dinner. When the engagement was for home, some of the officers always
@@ -4957,7 +4957,7 @@ unconnected with his general powers. About ten or a dozen years ago,
 before her marriage, she had spent a considerable time in that very
 part of Derbyshire to which he belonged. They had, therefore, many
 acquaintances in common; and though Wickham had been little there since
-the [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) of Darcy's father, it was yet in his power to give her fresher
+the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) of Darcy's father, it was yet in his power to give her fresher
 intelligence of her former friends than she had been in the way of
 procuring.
 
@@ -5011,7 +5011,7 @@ of it. Oh! _that_ abominable Mr. Darcy! My father's opinion of me does
 me the greatest honour, and I should be miserable to forfeit it. My
 father, however, is partial to Mr. Wickham. In short, my dear aunt, I
 should be very sorry to be the means of making any of you unhappy; but
-since we see every day that where there is affection, young people
+since we see every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) that where there is affection, young people
 are seldom withheld by immediate want of fortune from entering into
 engagements with each other, how can I promise to be wiser than so many
 of my fellow-creatures if I am tempted, or how am I even to know that it
@@ -5023,7 +5023,7 @@ I will do my best.”
 “Perhaps it will be as well if you discourage his coming here so very
 often. At least, you should not _remind_ your mother of inviting him.”
 
-“As I did the other day,” said Elizabeth with a conscious smile: “very
+“As I did the other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),” said Elizabeth with a conscious smile: “very
 true, it will be wise in me to refrain from _that_. But do not imagine
 that he is always here so often. It is on your account that he has been
 so frequently invited this week. You know my mother's ideas as to the
@@ -5040,8 +5040,8 @@ by the Gardiners and Jane; but as he took up his abode with the Lucases,
 his arrival was no great inconvenience to Mrs. Bennet. His marriage was
 now fast approaching, and she was at length so far resigned as to think
 it inevitable, and even repeatedly to say, in an ill-natured tone, that
-she “_wished_ they might be happy.” Thursday was to be the wedding day,
-and on Wednesday Miss Lucas paid her farewell visit; and when she
+she “_wished_ they might be happy.” Thurs[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was to be the wedding [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),
+and on Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) Miss Lucas paid her farewell visit; and when she
 rose to take leave, Elizabeth, ashamed of her mother's ungracious and
 reluctant good wishes, and sincerely affected herself, accompanied her
 out of the room. As they went downstairs together, Charlotte said:
@@ -5061,7 +5061,7 @@ Elizabeth could not refuse, though she foresaw little pleasure in the
 visit.
 
 “My father and Maria are coming to me in March,” added Charlotte, “and I
-hope you will consent to be of the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip). Indeed, Eliza, you will be as
+hope you will consent to be of the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). Indeed, Eliza, you will be as
 welcome as either of them.”
 
 The wedding took place; the bride and bridegroom set off for Kent from
@@ -5095,7 +5095,7 @@ her last letter to her friend from Longbourn had by some accident been
 lost.
 
 “My aunt,” she continued, “is going to-morrow into that part of the
-town, and I shall take the opportunity of calling in Grosvenor Street.”
+town, and I shall take the opportunity of calling in Grosvenor S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t.”
 
 She wrote again when the visit was paid, and she had seen Miss Bingley.
 “I did not think Caroline in spirits,” were her words, “but she was very
@@ -5127,7 +5127,7 @@ still assert that, considering what her behaviour was, my confidence was
 as natural as your suspicion. I do not at all comprehend her reason for
 wishing to be intimate with me; but if the same circumstances were to
 happen again, I am sure I should be deceived again. Caroline did not
-return my visit till yesterday; and not a note, not a line, did I
+return my visit till yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); and not a note, not a line, did I
 receive in the meantime. When she did come, it was very evident that
 she had no pleasure in it; she made a slight, formal apology, for not
 calling before, said not a word of wishing to see me again, and was
@@ -5239,7 +5239,7 @@ him with a most sincere regard; and she parted from him convinced that,
 whether married or single, he must always be her model of the amiable
 and pleasing.
 
-Her fellow-travellers the next day were not of a kind to make her
+Her fellow-travellers the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) were not of a kind to make her
 think him less agreeable. Sir William Lucas, and his daughter Maria, a
 good-humoured girl, but as empty-headed as himself, had nothing to say
 that could be worth hearing, and were listened to with about as much
@@ -5249,7 +5249,7 @@ the wonders of his presentation and knighthood; and his civilities were
 worn out, like his information.
 
 It was a journey of only twenty-four miles, and they began it so early
-as to be in Gracechurch Street by noon. As they drove to Mr. Gardiner's
+as to be in Gracechurch S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t by noon. As they drove to Mr. Gardiner's
 door, Jane was at a drawing-room window watching their arrival; when
 they entered the passage she was there to welcome them, and Elizabeth,
 looking earnestly in her face, was pleased to see it healthful and
@@ -5257,7 +5257,7 @@ lovely as ever. On the stairs were a troop of little boys and girls,
 whose eagerness for their cousin's appearance would not allow them to
 wait in the drawing-room, and whose shyness, as they had not seen
 her for a twelvemonth, prevented their coming lower. All was joy and
-kindness. The day passed most pleasantly away; the morning in bustle and
+kindness. The [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) passed most pleasantly away; the morning in bustle and
 shopping, and the evening at one of the theatres.
 
 Elizabeth then contrived to sit by her aunt. Their first object was her
@@ -5265,7 +5265,7 @@ sister; and she was more grieved than astonished to hear, in reply to
 her minute inquiries, that though Jane always struggled to support her
 spirits, there were periods of dejection. It was reasonable, however,
 to hope that they would not continue long. Mrs. Gardiner gave her the
-particulars also of Miss Bingley's visit in Gracechurch Street, and
+particulars also of Miss Bingley's visit in Gracechurch S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, and
 repeated conversations occurring at different times between Jane and
 herself, which proved that the former had, from her heart, given up the
 acquaintance.
@@ -5288,7 +5288,7 @@ what to think.”
 
 “She is a very good kind of girl, I believe. I know no harm of her.”
 
-“But he paid her not the smallest attention till her grandfather's [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)
+“But he paid her not the smallest attention till her grandfather's [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)
 made her mistress of this fortune.”
 
 “No--why should he? If it were not allowable for him to gain _my_
@@ -5348,7 +5348,7 @@ travellers.”
 ## Chapter 28
 
 
-Every object in the next day's journey was new and interesting to
+Every object in the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)'s journey was new and interesting to
 Elizabeth; and her spirits were in a state of enjoyment; for she had
 seen her sister looking so well as to banish all fear for her health,
 and the prospect of her northern tour was a constant source of delight.
@@ -5363,7 +5363,7 @@ road, the house standing in it, the green pales, and the laurel hedge,
 everything declared they were arriving. Mr. Collins and Charlotte
 appeared at the door, and the carriage stopped at the small gate which
 led by a short gravel walk to the house, amidst the nods and smiles of
-the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip). In a moment they were all out of the chaise, rejoicing
+the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). In a moment they were all out of the chaise, rejoicing
 at the sight of each other. Mrs. Collins welcomed her friend with the
 liveliest pleasure, and Elizabeth was more and more satisfied with
 coming when she found herself so affectionately received. She saw
@@ -5391,17 +5391,17 @@ admire every article of furniture in the room, from the sideboard to
 the fender, to give an account of their journey, and of all that had
 happened in London, Mr. Collins invited them to take a stroll in the
 garden, which was large and well laid out, and to the cultivation of
-which he attended himself. To work in this garden was one of his most
+which he attended himself. To [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) in this garden was one of his most
 respectable pleasures; and Elizabeth admired the command of countenance
 with which Charlotte talked of the healthfulness of the exercise, and
 owned she encouraged it as much as possible. Here, leading the way
 through every walk and cross walk, and scarcely allowing them an
 interval to utter the praises he asked for, every view was pointed out
 with a minuteness which left beauty entirely behind. He could number the
-fields in every direction, and could tell how many trees there were in
+fields in every direction, and could tell how many [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s there were in
 the most distant clump. But of all the views which his garden, or which
 the country or kingdom could boast, none were to be compared with the
-prospect of Rosings, afforded by an opening in the trees that bordered
+prospect of Rosings, afforded by an opening in the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s that bordered
 the park nearly opposite the front of his house. It was a handsome
 modern building, well situated on rising ground.
 
@@ -5422,7 +5422,7 @@ was spoken of again while they were at dinner, when Mr. Collins joining
 in, observed:
 
 “Yes, Miss Elizabeth, you will have the honour of seeing Lady Catherine
-de Bourgh on the ensuing Sunday at church, and I need not say you will
+de Bourgh on the ensuing Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) at church, and I need not say you will
 be delighted with her. She is all affability and condescension, and I
 doubt not but you will be honoured with some portion of her notice
 when service is over. I have scarcely any hesitation in saying she
@@ -5448,7 +5448,7 @@ would pass, the quiet tenor of their usual employments, the vexatious
 interruptions of Mr. Collins, and the gaieties of their intercourse with
 Rosings. A lively imagination soon settled it all.
 
-About the middle of the next day, as she was in her room getting ready
+About the middle of the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), as she was in her room getting ready
 for a walk, a sudden noise below seemed to speak the whole house in
 confusion; and, after listening a moment, she heard somebody running
 up stairs in a violent hurry, and calling loudly after her. She opened
@@ -5492,8 +5492,8 @@ way.
 At length there was nothing more to be said; the ladies drove on, and
 the others returned into the house. Mr. Collins no sooner saw the two
 girls than he began to congratulate them on their good fortune, which
-Charlotte explained by letting them know that the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) was asked
-to dine at Rosings the next day.
+Charlotte explained by letting them know that the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) was asked
+to dine at Rosings the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
 
 
@@ -5509,11 +5509,11 @@ of doing it should be given so soon, was such an instance of Lady
 Catherine's condescension, as he knew not how to admire enough.
 
 “I confess,” said he, “that I should not have been at all surprised by
-her ladyship's asking us on Sunday to drink tea and spend the evening at
+her ladyship's asking us on Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to drink tea and spend the evening at
 Rosings. I rather expected, from my knowledge of her affability, that it
 would happen. But who could have foreseen such an attention as this? Who
 could have imagined that we should receive an invitation to dine there
-(an invitation, moreover, including the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip)) so immediately
+(an invitation, moreover, including the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip)) so immediately
 after your arrival!”
 
 “I am the less surprised at what has happened,” replied Sir William,
@@ -5521,7 +5521,7 @@ after your arrival!”
 my situation in life has allowed me to acquire. About the court, such
 instances of elegant breeding are not uncommon.”
 
-Scarcely anything was talked of the whole day or next morning but their
+Scarcely anything was talked of the whole [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or next morning but their
 visit to Rosings. Mr. Collins was carefully instructing them in what
 they were to expect, that the sight of such rooms, so many servants, and
 so splendid a dinner, might not wholly overpower them.
@@ -5580,7 +5580,7 @@ conciliating, nor was her manner of receiving them such as to make her
 visitors forget their inferior rank. She was not rendered formidable by
 silence; but whatever she said was spoken in so authoritative a tone,
 as marked her self-importance, and brought Mr. Wickham immediately to
-Elizabeth's mind; and from the observation of the day altogether, she
+Elizabeth's mind; and from the observation of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) altogether, she
 believed Lady Catherine to be exactly what he represented.
 
 When, after examining the mother, in whose countenance and deportment
@@ -5609,7 +5609,7 @@ William, who was now enough recovered to echo whatever his son-in-law
 said, in a manner which Elizabeth wondered Lady Catherine could bear.
 But Lady Catherine seemed gratified by their excessive admiration, and
 gave most gracious smiles, especially when any dish on the table proved
-a novelty to them. The [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) did not supply much conversation. Elizabeth
+a novelty to them. The [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) did not supply much conversation. Elizabeth
 was ready to speak whenever there was an opening, but she was seated
 between Charlotte and Miss de Bourgh--the former of whom was engaged in
 listening to Lady Catherine, and the latter said not a word to her all
@@ -5650,7 +5650,7 @@ Bennet?”
 
 “Oh! then--some time or other we shall be happy to hear you. Our
 instrument is a capital one, probably superior to----You shall try it
-some day. Do your sisters play and sing?”
+some [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Do your sisters play and sing?”
 
 “One of them does.”
 
@@ -5695,10 +5695,10 @@ and regular instruction, and nobody but a governess can give it. It is
 wonderful how many families I have been the means of supplying in that
 way. I am always glad to get a young person well placed out. Four nieces
 of Mrs. Jenkinson are most delightfully situated through my means; and
-it was but the other day that I recommended another young person,
+it was but the other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) that I recommended another young person,
 who was merely accidentally mentioned to me, and the family are quite
 delighted with her. Mrs. Collins, did I tell you of Lady Metcalf's
-calling yesterday to thank me? She finds Miss Pope a treasure. 'Lady
+calling yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to thank me? She finds Miss Pope a treasure. 'Lady
 Catherine,' said she, 'you have given me a treasure.' Are any of your
 younger sisters out, Miss Bennet?”
 
@@ -5735,7 +5735,7 @@ When the gentlemen had joined them, and tea was over, the card-tables
 were placed. Lady Catherine, Sir William, and Mr. and Mrs. Collins sat
 down to quadrille; and as Miss de Bourgh chose to play at cassino, the
 two girls had the honour of assisting Mrs. Jenkinson to make up her
-[party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip). Their table was superlatively stupid. Scarcely a syllable was
+[party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). Their table was superlatively stupid. Scarcely a syllable was
 uttered that did not relate to the game, except when Mrs. Jenkinson
 expressed her fears of Miss de Bourgh's being too hot or too cold, or
 having too much or too little light. A great deal more passed at the
@@ -5748,7 +5748,7 @@ and noble names.
 
 When Lady Catherine and her daughter had played as long as they chose,
 the tables were broken up, the carriage was offered to Mrs. Collins,
-gratefully accepted and immediately ordered. The [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) then gathered
+gratefully accepted and immediately ordered. The [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) then gathered
 round the fire to hear Lady Catherine determine what weather they were
 to have on the morrow. From these instructions they were summoned by
 the arrival of the coach; and with many speeches of thankfulness on Mr.
@@ -5774,7 +5774,7 @@ morning to driving him out in his gig, and showing him the country; but
 when he went away, the whole family returned to their usual employments,
 and Elizabeth was thankful to find that they did not see more of her
 cousin by the alteration, for the chief of the time between breakfast
-and dinner was now passed by him either at work in the garden or in
+and dinner was now passed by him either at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) in the garden or in
 reading and writing, and looking out of the window in his own book-room,
 which fronted the road. The room in which the ladies sat was backwards.
 Elizabeth had at first rather wondered that Charlotte should not prefer
@@ -5788,17 +5788,17 @@ From the drawing-room they could distinguish nothing in the lane, and
 were indebted to Mr. Collins for the knowledge of what carriages went
 along, and how often especially Miss de Bourgh drove by in her phaeton,
 which he never failed coming to inform them of, though it happened
-almost every day. She not unfrequently stopped at the Parsonage, and
+almost every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). She not unfrequently stopped at the Parsonage, and
 had a few minutes' conversation with Charlotte, but was scarcely ever
 prevailed upon to get out.
 
-Very few days passed in which Mr. Collins did not walk to Rosings, and
+Very few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s passed in which Mr. Collins did not walk to Rosings, and
 not many in which his wife did not think it necessary to go likewise;
 and till Elizabeth recollected that there might be other family livings
 to be disposed of, she could not understand the sacrifice of so many
 hours. Now and then they were honoured with a call from her ladyship,
 and nothing escaped her observation that was passing in the room during
-these visits. She examined into their employments, looked at their work,
+these visits. She examined into their employments, looked at their [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip),
 and advised them to do it differently; found fault with the arrangement
 of the furniture; or detected the housemaid in negligence; and if she
 accepted any refreshment, seemed to do it only for the sake of finding
@@ -5847,7 +5847,7 @@ bow as the carriage turned into the Park, hurried home with the great
 intelligence. On the following morning he hastened to Rosings to pay his
 respects. There were two nephews of Lady Catherine to require them, for
 Mr. Darcy had brought with him a Colonel Fitzwilliam, the younger son of
-his uncle Lord ----, and, to the great surprise of all the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip), when
+his uncle Lord ----, and, to the great surprise of all the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip), when
 Mr. Collins returned, the gentlemen accompanied him. Charlotte had seen
 them from her husband's room, crossing the road, and immediately running
 into the other, told the girls what an honour they might expect, adding:
@@ -5891,9 +5891,9 @@ away.
 
 Colonel Fitzwilliam's manners were very much admired at the Parsonage,
 and the ladies all felt that he must add considerably to the pleasures
-of their engagements at Rosings. It was some days, however, before they
+of their engagements at Rosings. It was some [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, however, before they
 received any invitation thither--for while there were visitors in the
-house, they could not be necessary; and it was not till Easter-day,
+house, they could not be necessary; and it was not till Easter-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),
 almost a week after the gentlemen's arrival, that they were honoured by
 such an attention, and then they were merely asked on leaving church to
 come there in the evening. For the last week they had seen very little
@@ -5902,7 +5902,7 @@ Parsonage more than once during the time, but Mr. Darcy they had seen
 only at church.
 
 The invitation was accepted of course, and at a proper hour they joined
-the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) in Lady Catherine's drawing-room. Her ladyship received
+the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) in Lady Catherine's drawing-room. Her ladyship received
 them civilly, but it was plain that their company was by no means so
 acceptable as when she could get nobody else; and she was, in fact,
 almost engrossed by her nephews, speaking to them, especially to Darcy,
@@ -5949,7 +5949,7 @@ tell young ladies that no excellence in music is to be acquired without
 constant practice. I have told Miss Bennet several times, that she
 will never play really well unless she practises more; and though Mrs.
 Collins has no instrument, she is very welcome, as I have often told
-her, to come to Rosings every day, and play on the pianoforte in Mrs.
+her, to come to Rosings every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and play on the pianoforte in Mrs.
 Jenkinson's room. She would be in nobody's way, you know, in that part
 of the house.”
 
@@ -6000,7 +6000,7 @@ knowledge, more than one young lady was sitting down in want of a
 partner. Mr. Darcy, you cannot deny the fact.”
 
 “I had not at that time the honour of knowing any lady in the assembly
-beyond my own [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip).”
+beyond my own [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip).”
 
 “True; and nobody can ever be introduced in a ball-room. Well, Colonel
 Fitzwilliam, what do I play next? My fingers wait your orders.”
@@ -6082,7 +6082,7 @@ departure, she observed:
 
 “How very suddenly you all quitted Netherfield last November, Mr. Darcy!
 It must have been a most agreeable surprise to Mr. Bingley to see you
-all after him so soon; for, if I recollect right, he went but the day
+all after him so soon; for, if I recollect right, he went but the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
 before. He and his sisters were well, I hope, when you left London?”
 
 “Perfectly so, I thank you.”
@@ -6133,7 +6133,7 @@ distance of her own family and friends.”
 
 “An easy distance, do you call it? It is nearly fifty miles.”
 
-“And what is fifty miles of good road? Little more than half a day's
+“And what is fifty miles of good road? Little more than half a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)'s
 journey. Yes, I call it a _very_ easy distance.”
 
 “I should never have considered the distance as one of the _advantages_
@@ -6186,7 +6186,7 @@ was Lady Catherine, books, and a billiard-table, but gentlemen cannot
 always be within doors; and in the nearness of the Parsonage, or the
 pleasantness of the walk to it, or of the people who lived in it, the
 two cousins found a temptation from this period of walking thither
-almost every day. They called at various times of the morning, sometimes
+almost every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). They called at various times of the morning, sometimes
 separately, sometimes together, and now and then accompanied by their
 aunt. It was plain to them all that Colonel Fitzwilliam came because he
 had pleasure in their society, a persuasion which of course recommended
@@ -6206,7 +6206,7 @@ Fitzwilliam's occasionally laughing at his stupidity, proved that he was
 generally different, which her own knowledge of him could not have told
 her; and as she would liked to have believed this change the effect
 of love, and the object of that love her friend Eliza, she set herself
-seriously to work to find it out. She watched him whenever they were at
+seriously to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) to find it out. She watched him whenever they were at
 Rosings, and whenever he came to Hunsford; but without much success. He
 certainly looked at her friend a great deal, but the expression of that
 look was disputable. It was an earnest, steadfast gaze, but she often
@@ -6255,7 +6255,7 @@ mean an allusion to what might arise in that quarter. It distressed
 her a little, and she was quite glad to find herself at the gate in the
 pales opposite the Parsonage.
 
-She was engaged one day as she walked, in perusing Jane's last letter,
+She was engaged one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) as she walked, in perusing Jane's last letter,
 and dwelling on some passages which proved that Jane had not written in
 spirits, when, instead of being again surprised by Mr. Darcy, she saw
 on looking up that Colonel Fitzwilliam was meeting her. Putting away the
@@ -6272,7 +6272,7 @@ you going much farther?”
 And accordingly she did turn, and they walked towards the Parsonage
 together.
 
-“Do you certainly leave Kent on Saturday?” said she.
+“Do you certainly leave Kent on Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?” said she.
 
 “Yes--if Darcy does not put it off again. But I am at his disposal. He
 arranges the business just as he pleases.”
@@ -6458,7 +6458,7 @@ noticed every sentence conveying the idea of uneasiness, with an
 attention which it had hardly received on the first perusal. Mr. Darcy's
 shameful boast of what misery he had been able to inflict, gave her
 a keener sense of her sister's sufferings. It was some consolation
-to think that his visit to Rosings was to end on the day after the
+to think that his visit to Rosings was to end on the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after the
 next--and, a still greater, that in less than a fortnight she should
 herself be with Jane again, and enabled to contribute to the recovery of
 her spirits, by all that affection could do.
@@ -6629,7 +6629,7 @@ expression of mingled incredulity and mortification. She went on:
 “From the very beginning--from the first moment, I may almost say--of
 my acquaintance with you, your manners, impressing me with the fullest
 belief of your arrogance, your conceit, and your selfish disdain of
-the feelings of others, were such as to form the groundwork of
+the feelings of others, were such as to form the ground[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of
 disapprobation on which succeeding events have built so immovable a
 dislike; and I had not known you a month before I felt that you were the
 last man in the world whom I could ever be prevailed on to marry.”
@@ -6681,8 +6681,8 @@ of the gates into the ground.
 After walking two or three times along that part of the lane, she was
 tempted, by the pleasantness of the morning, to stop at the gates and
 look into the park. The five weeks which she had now passed in Kent had
-made a great difference in the country, and every day was adding to the
-verdure of the early trees. She was on the point of continuing her walk,
+made a great difference in the country, and every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was adding to the
+verdure of the early [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s. She was on the point of continuing her walk,
 when she caught a glimpse of a gentleman within the sort of grove which
 edged the park; he was moving that way; and, fearful of its being Mr.
 Darcy, she was directly retreating. But the person who advanced was now
@@ -6779,7 +6779,7 @@ it is honourable to the sense and disposition of both. I will only say
 farther that from what passed that evening, my opinion of all parties
 was confirmed, and every inducement heightened which could have led
 me before, to preserve my friend from what I esteemed a most unhappy
-connection. He left Netherfield for London, on the day following, as
+connection. He left Netherfield for London, on the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) following, as
 you, I am certain, remember, with the design of soon returning.
 
 “The part which I acted is now to be explained. His sisters' uneasiness
@@ -6798,7 +6798,7 @@ natural modesty, with a stronger dependence on my judgement than on his
 own. To convince him, therefore, that he had deceived himself, was
 no very difficult point. To persuade him against returning into
 Hertfordshire, when that conviction had been given, was scarcely the
-work of a moment. I cannot blame myself for having done thus much. There
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of a moment. I cannot blame myself for having done thus much. There
 is but one part of my conduct in the whole affair on which I do not
 reflect with satisfaction; it is that I condescended to adopt the
 measures of art so far as to conceal from him your sister's being in
@@ -6890,10 +6890,10 @@ design; for there proved to have been a prior acquaintance between him
 and Mrs. Younge, in whose character we were most unhappily deceived; and
 by her connivance and aid, he so far recommended himself to Georgiana,
 whose affectionate heart retained a strong impression of his kindness to
-her as a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), that she was persuaded to believe herself in love, and
+her as a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), that she was persuaded to believe herself in love, and
 to consent to an elopement. She was then but fifteen, which must be her
 excuse; and after stating her imprudence, I am happy to add, that I owed
-the knowledge of it to herself. I joined them unexpectedly a day or two
+the knowledge of it to herself. I joined them unexpectedly a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two
 before the intended elopement, and then Georgiana, unable to support the
 idea of grieving and offending a brother whom she almost looked up to as
 a father, acknowledged the whole to me. You may imagine what I felt and
@@ -7101,7 +7101,7 @@ than on hers.
 The compliment to herself and her sister was not unfelt. It soothed,
 but it could not console her for the contempt which had thus been
 self-attracted by the rest of her family; and as she considered
-that Jane's disappointment had in fact been the work of her nearest
+that Jane's disappointment had in fact been the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of her nearest
 relations, and reflected how materially the credit of both must be hurt
 by such impropriety of conduct, she felt depressed beyond anything she
 had ever known before.
@@ -7144,7 +7144,7 @@ her future niece; nor could she think, without a smile, of what her
 ladyship's indignation would have been. “What would she have said? how
 would she have behaved?” were questions with which she amused herself.
 
-Their first subject was the diminution of the Rosings [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip). “I assure
+Their first subject was the diminution of the Rosings [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). “I assure
 you, I feel it exceedingly,” said Lady Catherine; “I believe no one
 feels the loss of friends so much as I do. But I am particularly
 attached to these young men, and know them to be so much attached to
@@ -7166,7 +7166,7 @@ company, I am sure.”
 
 “I am much obliged to your ladyship for your kind invitation,” replied
 Elizabeth, “but it is not in my power to accept it. I must be in town
-next Saturday.”
+next Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
 
 “Why, at that rate, you will have been here only six weeks. I expected
 you to stay two months. I told Mrs. Collins so before you came. There
@@ -7212,7 +7212,7 @@ and as she did not answer them all herself, attention was necessary,
 which Elizabeth believed to be lucky for her; or, with a mind so
 occupied, she might have forgotten where she was. Reflection must be
 reserved for solitary hours; whenever she was alone, she gave way to it
-as the greatest relief; and not a day went by without a solitary
+as the greatest relief; and not a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) went by without a solitary
 walk, in which she might indulge in all the delight of unpleasant
 recollections.
 
@@ -7261,7 +7261,7 @@ there; and her ladyship again inquired minutely into the particulars of
 their journey, gave them directions as to the best method of packing,
 and was so urgent on the necessity of placing gowns in the only right
 way, that Maria thought herself obliged, on her return, to undo all the
-work of the morning, and pack her trunk afresh.
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of the morning, and pack her trunk afresh.
 
 When they parted, Lady Catherine, with great condescension, wished them
 a good journey, and invited them to come to Hunsford again next year;
@@ -7274,7 +7274,7 @@ hand to both.
 ## Chapter 38
 
 
-On Saturday morning Elizabeth and Mr. Collins met for breakfast a few
+On Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning Elizabeth and Mr. Collins met for breakfast a few
 minutes before the others appeared; and he took the opportunity of
 paying the parting civilities which he deemed indispensably necessary.
 
@@ -7353,7 +7353,7 @@ Elizabeth made no objection; the door was then allowed to be shut, and
 the carriage drove off.
 
 “Good gracious!” cried Maria, after a few minutes' silence, “it seems
-but a day or two since we first came! and yet how many things have
+but a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two since we first came! and yet how many things have
 happened!”
 
 “A great many indeed,” said her companion with a sigh.
@@ -7365,7 +7365,7 @@ Elizabeth added privately, “And how much I shall have to conceal!”
 
 Their journey was performed without much conversation, or any alarm; and
 within four hours of their leaving Hunsford they reached Mr. Gardiner's
-house, where they were to remain a few days.
+house, where they were to remain a few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s.
 
 Jane looked well, and Elizabeth had little opportunity of studying her
 spirits, amidst the various engagements which the kindness of her
@@ -7390,7 +7390,7 @@ further.
 
 
 It was the second week in May, in which the three young ladies set out
-together from Gracechurch Street for the town of ----, in Hertfordshire;
+together from Gracechurch S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t for the town of ----, in Hertfordshire;
 and, as they drew near the appointed inn where Mr. Bennet's carriage
 was to meet them, they quickly perceived, in token of the coachman's
 punctuality, both Kitty and Lydia looking out of a dining-room up stairs.
@@ -7460,8 +7460,8 @@ coarseness of _expression_ herself, the coarseness of the _sentiment_
 was little other than her own breast had harboured and fancied liberal!
 
 As soon as all had ate, and the elder ones paid, the carriage was
-ordered; and after some contrivance, the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip), with all their
-boxes, work-bags, and parcels, and the unwelcome addition of Kitty's and
+ordered; and after some contrivance, the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip), with all their
+boxes, [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)-bags, and parcels, and the unwelcome addition of Kitty's and
 Lydia's purchases, were seated in it.
 
 “How nicely we are all crammed in,” cried Lydia. “I am glad I bought my
@@ -7477,8 +7477,8 @@ get husbands, you can't think. She says Lizzy had better have taken Mr.
 Collins; but _I_ do not think there would have been any fun in it. Lord!
 how I should like to be married before any of you; and then I would
 chaperon you about to all the balls. Dear me! we had such a good piece
-of fun the other day at Colonel Forster's. Kitty and me were to spend
-the day there, and Mrs. Forster promised to have a little dance in the
+of fun the other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) at Colonel Forster's. Kitty and me were to spend
+the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) there, and Mrs. Forster promised to have a little dance in the
 evening; (by the bye, Mrs. Forster and me are _such_ friends!) and so
 she asked the two Harringtons to come, but Harriet was ill, and so Pen
 was forced to come by herself; and then, what do you think we did? We
@@ -7502,7 +7502,7 @@ say voluntarily to Elizabeth:
 
 “I am glad you are come back, Lizzy.”
 
-Their [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) in the dining-room was large, for almost all the Lucases
+Their [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) in the dining-room was large, for almost all the Lucases
 came to meet Maria and hear the news; and various were the subjects that
 occupied them: Lady Lucas was inquiring of Maria, after the welfare and
 poultry of her eldest daughter; Mrs. Bennet was doubly engaged, on one
@@ -7534,7 +7534,7 @@ anybody for more than half a minute, and never attended to Mary at all.
 In the afternoon Lydia was urgent with the rest of the girls to walk
 to Meryton, and to see how everybody went on; but Elizabeth steadily
 opposed the scheme. It should not be said that the Miss Bennets could
-not be at home half a day before they were in pursuit of the officers.
+not be at home half a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before they were in pursuit of the officers.
 There was another reason too for her opposition. She dreaded seeing Mr.
 Wickham again, and was resolved to avoid it as long as possible. The
 comfort to _her_ of the regiment's approaching removal was indeed beyond
@@ -7582,7 +7582,7 @@ You do not blame me, however, for refusing him?”
 “No--I do not know that you were wrong in saying what you did.”
 
 “But you _will_ know it, when I tell you what happened the very next
-day.”
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
 
 She then spoke of the letter, repeating the whole of its contents as far
 as they concerned George Wickham. What a stroke was this for poor Jane!
@@ -7657,7 +7657,7 @@ to make his communication public. On the contrary, every particular
 relative to his sister was meant to be kept as much as possible to
 myself; and if I endeavour to undeceive people as to the rest of his
 conduct, who will believe me? The general prejudice against Mr. Darcy
-is so violent, that it would be the [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) of half the good people in
+is so violent, that it would be the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) of half the good people in
 Meryton to attempt to place him in an amiable light. I am not equal
 to it. Wickham will soon be gone; and therefore it will not signify to
 anyone here what he really is. Some time hence it will be all found out,
@@ -7693,9 +7693,9 @@ attention to the feelings of her friends, were requisite to check the
 indulgence of those regrets which must have been injurious to her own
 health and their tranquillity.
 
-“Well, Lizzy,” said Mrs. Bennet one day, “what is your opinion _now_ of
+“Well, Lizzy,” said Mrs. Bennet one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), “what is your opinion _now_ of
 this sad business of Jane's? For my part, I am determined never to speak
-of it again to anybody. I told my sister Phillips so the other day. But
+of it again to anybody. I told my sister Phillips so the other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). But
 I cannot find out that Jane saw anything of him in London. Well, he is
 a very undeserving young man--and I do not suppose there's the least
 chance in the world of her ever getting him now. There is no talk of
@@ -7757,7 +7757,7 @@ Their affectionate mother shared all their grief; she remembered what
 she had herself endured on a similar occasion, five-and-twenty years
 ago.
 
-“I am sure,” said she, “I cried for two days together when Colonel
+“I am sure,” said she, “I cried for two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s together when Colonel
 Miller's regiment went away. I thought I should have broken my heart.”
 
 “I am sure I shall break _mine_,” said Lydia.
@@ -7800,7 +7800,7 @@ right to be asked as she has, and more too, for I am two years older.”
 In vain did Elizabeth attempt to make her reasonable, and Jane to make
 her resigned. As for Elizabeth herself, this invitation was so far from
 exciting in her the same feelings as in her mother and Lydia, that she
-considered it as the [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) warrant of all possibility of common sense
+considered it as the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) warrant of all possibility of common sense
 for the latter; and detestable as such a step must make her were it
 known, she could not help secretly advising her father not to let her
 go. She represented to him all the improprieties of Lydia's general
@@ -7872,7 +7872,7 @@ Had Lydia and her mother known the substance of her conference with her
 father, their indignation would hardly have found expression in their
 united volubility. In Lydia's imagination, a visit to Brighton comprised
 every possibility of earthly happiness. She saw, with the creative eye
-of fancy, the streets of that gay bathing-place covered with officers.
+of fancy, the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts of that gay bathing-place covered with officers.
 She saw herself the object of attention, to tens and to scores of them
 at present unknown. She saw all the glories of the camp--its tents
 stretched forth in beauteous uniformity of lines, crowded with the young
@@ -7887,7 +7887,7 @@ Lydia's going to Brighton was all that consoled her for her melancholy
 conviction of her husband's never intending to go there himself.
 
 But they were entirely ignorant of what had passed; and their raptures
-continued, with little intermission, to the very day of Lydia's leaving
+continued, with little intermission, to the very [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of Lydia's leaving
 home.
 
 Elizabeth was now to see Mr. Wickham for the last time. Having been
@@ -7905,7 +7905,7 @@ reproof contained in his believing, that however long, and for whatever
 cause, his attentions had been withdrawn, her vanity would be gratified,
 and her preference secured at any time by their renewal.
 
-On the very last day of the regiment's remaining at Meryton, he dined,
+On the very last [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of the regiment's remaining at Meryton, he dined,
 with other of the officers, at Longbourn; and so little was Elizabeth
 disposed to part from him in good humour, that on his making some
 inquiry as to the manner in which her time had passed at Hunsford, she
@@ -7924,7 +7924,7 @@ With an air of indifference he soon afterwards added:
 
 “And you saw him frequently?”
 
-“Yes, almost every day.”
+“Yes, almost every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
 
 “His manners are very different from his cousin's.”
 
@@ -7973,7 +7973,7 @@ side, of usual cheerfulness, but with no further attempt to distinguish
 Elizabeth; and they parted at last with mutual civility, and possibly a
 mutual desire of never meeting again.
 
-When the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) broke up, Lydia returned with Mrs. Forster to Meryton,
+When the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) broke up, Lydia returned with Mrs. Forster to Meryton,
 from whence they were to set out early the next morning. The separation
 between her and her family was rather noisy than pathetic. Kitty was the
 only one who shed tears; but she did weep from vexation and envy. Mrs.
@@ -8014,8 +8014,8 @@ respecting his abilities, and grateful for his affectionate treatment of
 herself, she endeavoured to forget what she could not overlook, and to
 banish from her thoughts that continual breach of conjugal obligation
 and decorum which, in exposing his wife to the contempt of her own
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, was so highly reprehensible. But she had never felt so
-strongly as now the disadvantages which must attend the [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren of so
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, was so highly reprehensible. But she had never felt so
+strongly as now the disadvantages which must attend the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren of so
 unsuitable a marriage, nor ever been so fully aware of the evils arising
 from so ill-judged a direction of talents; talents, which, rightly used,
 might at least have preserved the respectability of his daughters, even
@@ -8071,7 +8071,7 @@ was restored to her usual querulous serenity; and, by the middle of
 June, Kitty was so much recovered as to be able to enter Meryton without
 tears; an event of such happy promise as to make Elizabeth hope that by
 the following Christmas she might be so tolerably reasonable as not to
-mention an officer above once a day, unless, by some cruel and malicious
+mention an officer above once a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), unless, by some cruel and malicious
 arrangement at the War Office, another regiment should be quartered in
 Meryton.
 
@@ -8088,7 +8088,7 @@ present plan, were to go no farther northwards than Derbyshire. In that
 county there was enough to be seen to occupy the chief of their three
 weeks; and to Mrs. Gardiner it had a peculiarly strong attraction. The
 town where she had formerly passed some years of her life, and where
-they were now to spend a few days, was probably as great an object of
+they were now to spend a few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, was probably as great an object of
 her curiosity as all the celebrated beauties of Matlock, Chatsworth,
 Dovedale, or the Peak.
 
@@ -8104,8 +8104,8 @@ and rob it of a few petrified spars without his perceiving me.”
 
 The period of expectation was now doubled. Four weeks were to pass away
 before her uncle and aunt's arrival. But they did pass away, and Mr.
-and Mrs. Gardiner, with their four [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, did at length appear at
-Longbourn. The [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, two girls of six and eight years old, and two
+and Mrs. Gardiner, with their four [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, did at length appear at
+Longbourn. The [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, two girls of six and eight years old, and two
 younger boys, were to be left under the particular care of their
 cousin Jane, who was the general favourite, and whose steady sense and
 sweetness of temper exactly adapted her for attending to them in every
@@ -8119,7 +8119,7 @@ inconveniences--cheerfulness to enhance every pleasure--and affection
 and intelligence, which might supply it among themselves if there were
 disappointments abroad.
 
-It is not the object of this work to give a description of Derbyshire,
+It is not the object of this [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) to give a description of Derbyshire,
 nor of any of the remarkable places through which their route thither
 lay; Oxford, Blenheim, Warwick, Kenilworth, Birmingham, etc. are
 sufficiently known. A small part of Derbyshire is all the present
@@ -8209,7 +8209,7 @@ room, handsomely fitted up. Elizabeth, after slightly surveying it, went
 to a window to enjoy its prospect. The hill, crowned with wood, which
 they had descended, receiving increased abruptness from the distance,
 was a beautiful object. Every disposition of the ground was good; and
-she looked on the whole scene, the river, the trees scattered on its
+she looked on the whole scene, the river, the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s scattered on its
 banks and the winding of the valley, as far as she could trace it,
 with delight. As they passed into other rooms these objects were taking
 different positions; but from every window there were beauties to be
@@ -8232,8 +8232,8 @@ She longed to inquire of the housekeeper whether her master was really
 absent, but had not the courage for it. At length however, the question
 was asked by her uncle; and she turned away with alarm, while Mrs.
 Reynolds replied that he was, adding, “But we expect him to-morrow, with
-a large [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) of friends.” How rejoiced was Elizabeth that their own
-journey had not by any circumstance been delayed a day!
+a large [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) of friends.” How rejoiced was Elizabeth that their own
+journey had not by any circumstance been delayed a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)!
 
 Her aunt now called her to look at a picture. She approached and saw the
 likeness of Mr. Wickham, suspended, amongst several other miniatures,
@@ -8278,7 +8278,7 @@ when she was only eight years old.
 “And is Miss Darcy as handsome as her brother?” said Mrs. Gardiner.
 
 “Oh! yes--the handsomest young lady that ever was seen; and so
-accomplished!--She plays and sings all day long. In the next room is
+accomplished!--She plays and sings all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) long. In the next room is
 a new instrument just come down for her--a present from my master; she
 comes here to-morrow with him.”
 
@@ -8318,7 +8318,7 @@ having such a master.”
 
 “Yes, sir, I know I am. If I were to go through the world, I could
 not meet with a better. But I have always observed, that they who are
-good-natured when [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, are good-natured when they grow up; and
+good-natured when [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, are good-natured when they grow up; and
 he was always the sweetest-tempered, most generous-hearted boy in the
 world.”
 
@@ -8338,7 +8338,7 @@ master, soon led again to the subject; and she dwelt with energy on his
 many merits as they proceeded together up the great staircase.
 
 “He is the best landlord, and the best master,” said she, “that ever
-lived; not like the wild young men nowadays, who think of nothing but
+lived; not like the wild young men nowa[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, who think of nothing but
 themselves. There is not one of his tenants or servants but will give
 him a good name. Some people call him proud; but I am sure I never saw
 anything of it. To my fancy, it is only because he does not rattle away
@@ -8398,7 +8398,7 @@ eyes upon herself, she thought of his regard with a deeper sentiment of
 gratitude than it had ever raised before; she remembered its warmth, and
 softened its impropriety of expression.
 
-When all of the house that was open to general [inspection](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/inspection.zip) had been seen,
+When all of the house that was open to general [inspection](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/inspection.zip) had been seen,
 they returned downstairs, and, taking leave of the housekeeper, were
 consigned over to the gardener, who met them at the hall-door.
 
@@ -8411,7 +8411,7 @@ They were within twenty yards of each other, and so abrupt was his
 appearance, that it was impossible to avoid his sight. Their eyes
 instantly met, and the cheeks of both were overspread with the deepest
 blush. He absolutely started, and for a moment seemed immovable from
-surprise; but shortly recovering himself, advanced towards the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip),
+surprise; but shortly recovering himself, advanced towards the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip),
 and spoke to Elizabeth, if not in terms of perfect composure, at least
 of perfect civility.
 
@@ -8445,7 +8445,7 @@ coming there was the most unfortunate, the most ill-judged thing in the
 world! How strange it must appear to him! In what a disgraceful light
 might it not strike so vain a man! It might seem as if she had purposely
 thrown herself in his way again! Oh! why did she come? Or, why did he
-thus come a day before he was expected? Had they been only ten minutes
+thus come a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before he was expected? Had they been only ten minutes
 sooner, they should have been beyond the reach of his discrimination;
 for it was plain that he was that moment arrived--that moment alighted
 from his horse or his carriage. She blushed again and again over
@@ -8479,7 +8479,7 @@ aroused her, and she felt the necessity of appearing more like herself.
 
 They entered the woods, and bidding adieu to the river for a while,
 ascended some of the higher grounds; when, in spots where the opening of
-the trees gave the eye power to wander, were many charming views of the
+the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s gave the eye power to wander, were many charming views of the
 valley, the opposite hills, with the long range of woods overspreading
 many, and occasionally part of the stream. Mr. Gardiner expressed a wish
 of going round the whole park, but feared it might be beyond a walk.
@@ -8550,12 +8550,12 @@ Elizabeth said nothing, but it gratified her exceedingly; the compliment
 must be all for herself. Her astonishment, however, was extreme, and
 continually was she repeating, “Why is he so altered? From what can
 it proceed? It cannot be for _me_--it cannot be for _my_ sake that his
-manners are thus softened. My reproofs at Hunsford could not work such a
+manners are thus softened. My reproofs at Hunsford could not [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) such a
 change as this. It is impossible that he should still love me.”
 
 After walking some time in this way, the two ladies in front, the two
 gentlemen behind, on resuming their places, after descending to
-the brink of the river for the better [inspection](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/inspection.zip) of some curious
+the brink of the river for the better [inspection](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/inspection.zip) of some curious
 water-plant, there chanced to be a little alteration. It originated
 in Mrs. Gardiner, who, fatigued by the exercise of the morning, found
 Elizabeth's arm inadequate to her support, and consequently preferred
@@ -8568,7 +8568,7 @@ you would certainly not be here till to-morrow; and indeed, before we
 left Bakewell, we understood that you were not immediately expected
 in the country.” He acknowledged the truth of it all, and said that
 business with his steward had occasioned his coming forward a few hours
-before the rest of the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) with whom he had been travelling. “They
+before the rest of the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) with whom he had been travelling. “They
 will join me early to-morrow,” he continued, “and among them are some
 who will claim an acquaintance with you--Mr. Bingley and his sisters.”
 
@@ -8577,7 +8577,7 @@ driven back to the time when Mr. Bingley's name had been the last
 mentioned between them; and, if she might judge by his complexion, _his_
 mind was not very differently engaged.
 
-“There is also one other person in the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip),” he continued after a
+“There is also one other person in the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip),” he continued after a
 pause, “who more particularly wishes to be known to you. Will you allow
 me, or do I ask too much, to introduce my sister to your acquaintance
 during your stay at Lambton?”
@@ -8585,7 +8585,7 @@ during your stay at Lambton?”
 The surprise of such an application was great indeed; it was too great
 for her to know in what manner she acceded to it. She immediately felt
 that whatever desire Miss Darcy might have of being acquainted with her
-must be the work of her brother, and, without looking farther, it was
+must be the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of her brother, and, without looking farther, it was
 satisfactory; it was gratifying to know that his resentment had not made
 him think really ill of her.
 
@@ -8633,7 +8633,7 @@ seen him so pleasant as this morning.
 
 “But perhaps he may be a little whimsical in his civilities,” replied
 her uncle. “Your great men often are; and therefore I shall not take him
-at his word, as he might change his mind another day, and warn me off
+at his word, as he might change his mind another [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and warn me off
 his grounds.”
 
 Elizabeth felt that they had entirely misunderstood his character, but
@@ -8669,7 +8669,7 @@ had no sooner dined than she set off again in quest of her former
 acquaintance, and the evening was spent in the satisfactions of an
 intercourse renewed after many years' discontinuance.
 
-The occurrences of the day were too full of interest to leave Elizabeth
+The occurrences of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) were too full of interest to leave Elizabeth
 much attention for any of these new friends; and she could do nothing
 but think, and think with wonder, of Mr. Darcy's civility, and, above
 all, of his wishing her to be acquainted with his sister.
@@ -8681,19 +8681,19 @@ all, of his wishing her to be acquainted with his sister.
 
 
 Elizabeth had settled it that Mr. Darcy would bring his sister to visit
-her the very day after her reaching Pemberley; and was consequently
+her the very [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after her reaching Pemberley; and was consequently
 resolved not to be out of sight of the inn the whole of that morning.
 But her conclusion was false; for on the very morning after their
 arrival at Lambton, these visitors came. They had been walking about the
 place with some of their new friends, and were just returning to the inn
 to dress themselves for dining with the same family, when the sound of a
 carriage drew them to a window, and they saw a gentleman and a lady in
-a curricle driving up the street. Elizabeth immediately recognizing
+a curricle driving up the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t. Elizabeth immediately recognizing
 the livery, guessed what it meant, and imparted no small degree of her
 surprise to her relations by acquainting them with the honour which she
 expected. Her uncle and aunt were all amazement; and the embarrassment
 of her manner as she spoke, joined to the circumstance itself, and many
-of the circumstances of the preceding day, opened to them a new idea on
+of the circumstances of the preceding [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), opened to them a new idea on
 the business. Nothing had ever suggested it before, but they felt that
 there was no other way of accounting for such attentions from such a
 quarter than by supposing a partiality for their niece. While these
@@ -8735,7 +8735,7 @@ inquired in a friendly, though general way, after her family, and looked
 and spoke with the same good-humoured ease that he had ever done.
 
 To Mr. and Mrs. Gardiner he was scarcely a less interesting personage
-than to herself. They had long wished to see him. The whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) before
+than to herself. They had long wished to see him. The whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) before
 them, indeed, excited a lively attention. The suspicions which had just
 arisen of Mr. Darcy and their niece directed their observation towards
 each with an earnest though guarded inquiry; and they soon drew from
@@ -8780,8 +8780,8 @@ It was not often that she could turn her eyes on Mr. Darcy himself;
 but, whenever she did catch a glimpse, she saw an expression of general
 complaisance, and in all that he said she heard an accent so removed
 from _hauteur_ or disdain of his companions, as convinced her that
-the improvement of manners which she had yesterday witnessed however
-temporary its existence might prove, had at least outlived one day. When
+the improvement of manners which she had yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) witnessed however
+temporary its existence might prove, had at least outlived one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). When
 she saw him thus seeking the acquaintance and courting the good opinion
 of people with whom any intercourse a few months ago would have been a
 disgrace--when she saw him thus civil, not only to herself, but to the
@@ -8808,7 +8808,7 @@ acceptance, but Elizabeth had turned away her head. Presuming however,
 that this studied avoidance spoke rather a momentary embarrassment than
 any dislike of the proposal, and seeing in her husband, who was fond of
 society, a perfect willingness to accept it, she ventured to engage for
-her attendance, and the day after the next was fixed on.
+her attendance, and the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after the next was fixed on.
 
 Bingley expressed great pleasure in the certainty of seeing Elizabeth
 again, having still a great deal to say to her, and many inquiries to
@@ -8860,7 +8860,7 @@ valuable qualities, though at first unwillingly admitted, had for some
 time ceased to be repugnant to her feeling; and it was now heightened
 into somewhat of a friendlier nature, by the testimony so highly in
 his favour, and bringing forward his disposition in so amiable a light,
-which yesterday had produced. But above all, above respect and esteem,
+which yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) had produced. But above all, above respect and esteem,
 there was a motive within her of goodwill which could not be overlooked.
 It was gratitude; gratitude, not merely for having once loved her,
 but for loving her still well enough to forgive all the petulance and
@@ -8883,7 +8883,7 @@ his addresses.
 
 It had been settled in the evening between the aunt and the niece, that
 such a striking civility as Miss Darcy's in coming to see them on the
-very day of her arrival at Pemberley, for she had reached it only to a
+very [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of her arrival at Pemberley, for she had reached it only to a
 late breakfast, ought to be imitated, though it could not be equalled,
 by some exertion of politeness on their side; and, consequently, that
 it would be highly expedient to wait on her at Pemberley the following
@@ -8891,7 +8891,7 @@ morning. They were, therefore, to go. Elizabeth was pleased; though when
 she asked herself the reason, she had very little to say in reply.
 
 Mr. Gardiner left them soon after breakfast. The fishing scheme had been
-renewed the day before, and a positive engagement made of his meeting
+renewed the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before, and a positive engagement made of his meeting
 some of the gentlemen at Pemberley before noon.
 
 
@@ -8948,7 +8948,7 @@ entrance of servants with cold meat, cake, and a variety of all the
 finest fruits in season; but this did not take place till after many
 a significant look and smile from Mrs. Annesley to Miss Darcy had been
 given, to remind her of her post. There was now employment for the whole
-[party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip)--for though they could not all talk, they could all eat; and the
+[party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip)--for though they could not all talk, they could all eat; and the
 beautiful pyramids of grapes, nectarines, and peaches soon collected
 them round the table.
 
@@ -8964,7 +8964,7 @@ only on learning that the ladies of the family intended a visit to
 Georgiana that morning. No sooner did he appear than Elizabeth wisely
 resolved to be perfectly easy and unembarrassed; a resolution the more
 necessary to be made, but perhaps not the more easily kept, because she
-saw that the suspicions of the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) were awakened against them,
+saw that the suspicions of the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) were awakened against them,
 and that there was scarcely an eye which did not watch his behaviour
 when he first came into the room. In no countenance was attentive
 curiosity so strongly marked as in Miss Bingley's, in spite of the
@@ -9088,9 +9088,9 @@ Jane had written the direction remarkably ill.
 They had just been preparing to walk as the letters came in; and
 her uncle and aunt, leaving her to enjoy them in quiet, set off by
 themselves. The one missent must first be attended to; it had been
-written five days ago. The beginning contained an account of all their
+written five [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s ago. The beginning contained an account of all their
 little parties and engagements, with such news as the country afforded;
-but the latter half, which was dated a day later, and written in evident
+but the latter half, which was dated a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) later, and written in evident
 agitation, gave more important intelligence. It was to this effect:
 
 “Since writing the above, dearest Lizzy, something has occurred of a
@@ -9107,8 +9107,8 @@ Thoughtless and indiscreet I can easily believe him, but this step
 disinterested at least, for he must know my father can give her nothing.
 Our poor mother is sadly grieved. My father bears it better. How
 thankful am I that we never let them know what has been said against
-him; we must forget it ourselves. They were off Saturday night about
-twelve, as is conjectured, but were not missed till yesterday morning at
+him; we must forget it ourselves. They were off Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night about
+twelve, as is conjectured, but were not missed till yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning at
 eight. The express was sent off directly. My dear Lizzy, they must have
 passed within ten miles of us. Colonel Forster gives us reason to expect
 him here soon. Lydia left a few lines for his wife, informing her of
@@ -9119,7 +9119,7 @@ know what I have written.”
 Without allowing herself time for consideration, and scarcely knowing
 what she felt, Elizabeth on finishing this letter instantly seized the
 other, and opening it with the utmost impatience, read as follows: it
-had been written a day later than the conclusion of the first.
+had been written a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) later than the conclusion of the first.
 
 “By this time, my dearest sister, you have received my hurried letter; I
 wish this may be more intelligible, but though not confined for time, my
@@ -9128,8 +9128,8 @@ Lizzy, I hardly know what I would write, but I have bad news for you,
 and it cannot be delayed. Imprudent as the marriage between Mr. Wickham
 and our poor Lydia would be, we are now anxious to be assured it has
 taken place, for there is but too much reason to fear they are not gone
-to Scotland. Colonel Forster came yesterday, having left Brighton the
-day before, not many hours after the express. Though Lydia's short
+to Scotland. Colonel Forster came yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), having left Brighton the
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before, not many hours after the express. Though Lydia's short
 letter to Mrs. F. gave them to understand that they were going to Gretna
 Green, something was dropped by Denny expressing his belief that W.
 never intended to go there, or to marry Lydia at all, which was
@@ -9223,7 +9223,7 @@ have happened. But it is all--all too late now.”
 “I am grieved indeed,” cried Darcy; “grieved--shocked. But is it
 certain--absolutely certain?”
 
-“Oh, yes! They left Brighton together on Sunday night, and were traced
+“Oh, yes! They left Brighton together on Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night, and were traced
 almost to London, but not beyond; they are certainly not gone to
 Scotland.”
 
@@ -9232,7 +9232,7 @@ Scotland.”
 “My father is gone to London, and Jane has written to beg my uncle's
 immediate assistance; and we shall be off, I hope, in half-an-hour. But
 nothing can be done--I know very well that nothing can be done. How is
-such a man to be worked on? How are they even to be discovered? I have
+such a man to be [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed on? How are they even to be discovered? I have
 not the smallest hope. It is every way horrible!”
 
 Darcy shook his head in silent acquiescence.
@@ -9265,7 +9265,7 @@ could be either said or done on my part that might offer consolation to
 such distress! But I will not torment you with vain wishes, which may
 seem purposely to ask for your thanks. This unfortunate affair will, I
 fear, prevent my sister's having the pleasure of seeing you at Pemberley
-to-day.”
+to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
 
 “Oh, yes. Be so kind as to apologise for us to Miss Darcy. Say that
 urgent business calls us home immediately. Conceal the unhappy truth as
@@ -9448,7 +9448,7 @@ as false and deceitful as he is insinuating.”
 “And do you really know all this?” cried Mrs. Gardiner, whose curiosity
 as to the mode of her intelligence was all alive.
 
-“I do indeed,” replied Elizabeth, colouring. “I told you, the other day,
+“I do indeed,” replied Elizabeth, colouring. “I told you, the other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),
 of his infamous behaviour to Mr. Darcy; and you yourself, when last at
 Longbourn, heard in what manner he spoke of the man who had behaved
 with such forbearance and liberality towards him. And there are other
@@ -9499,7 +9499,7 @@ Fixed there by the keenest of all anguish, self-reproach, she could find
 no interval of ease or forgetfulness.
 
 They travelled as expeditiously as possible, and, sleeping one night
-on the road, reached Longbourn by dinner time the next day. It was a
+on the road, reached Longbourn by dinner time the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). It was a
 comfort to Elizabeth to consider that Jane could not have been wearied
 by long expectations.
 
@@ -9522,11 +9522,11 @@ everything will be well.”
 
 “Is my father in town?”
 
-“Yes, he went on Tuesday, as I wrote you word.”
+“Yes, he went on Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), as I wrote you word.”
 
 “And have you heard from him often?”
 
-“We have heard only twice. He wrote me a few lines on Wednesday to say
+“We have heard only twice. He wrote me a few lines on Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to say
 that he had arrived in safety, and to give me his directions, which I
 particularly begged him to do. He merely added that he should not write
 again till he had something of importance to mention.”
@@ -9543,8 +9543,8 @@ must have gone through!”
 
 Her sister, however, assured her of her being perfectly well; and their
 conversation, which had been passing while Mr. and Mrs. Gardiner were
-engaged with their [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, was now put an end to by the approach
-of the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip). Jane ran to her uncle and aunt, and welcomed and
+engaged with their [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, was now put an end to by the approach
+of the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). Jane ran to her uncle and aunt, and welcomed and
 thanked them both, with alternate smiles and tears.
 
 When they were all in the drawing-room, the questions which Elizabeth
@@ -9568,7 +9568,7 @@ had nobody to take care of her. Why did the Forsters ever let her go out
 of their sight? I am sure there was some great neglect or other on their
 side, for she is not the kind of girl to do such a thing if she had been
 well looked after. I always thought they were very unfit to have the
-charge of her; but I was overruled, as I always am. Poor dear [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)!
+charge of her; but I was overruled, as I always am. Poor dear [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)!
 And now here's Mr. Bennet gone away, and I know he will fight Wickham,
 wherever he meets him and then he will be killed, and what is to become
 of us all? The Collinses will turn us out before he is cold in his
@@ -9577,16 +9577,16 @@ shall do.”
 
 They all exclaimed against such terrific ideas; and Mr. Gardiner, after
 general assurances of his affection for her and all her family, told her
-that he meant to be in London the very next day, and would assist Mr.
+that he meant to be in London the very next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and would assist Mr.
 Bennet in every endeavour for recovering Lydia.
 
 “Do not give way to useless alarm,” added he; “though it is right to be
 prepared for the worst, there is no occasion to look on it as certain.
-It is not quite a week since they left Brighton. In a few days more we
+It is not quite a week since they left Brighton. In a few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s more we
 may gain some news of them; and till we know that they are not married,
 and have no design of marrying, do not let us give the matter over as
 lost. As soon as I get to town I shall go to my brother, and make
-him come home with me to Gracechurch Street; and then we may consult
+him come home with me to Gracechurch S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t; and then we may consult
 together as to what is to be done.”
 
 “Oh! my dear brother,” replied Mrs. Bennet, “that is exactly what I
@@ -9598,7 +9598,7 @@ after they are married. And, above all, keep Mr. Bennet from fighting.
 Tell him what a dreadful state I am in, that I am frighted out of my
 wits--and have such tremblings, such flutterings, all over me--such
 spasms in my side and pains in my head, and such beatings at heart, that
-I can get no rest by night nor by day. And tell my dear Lydia not to
+I can get no rest by night nor by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). And tell my dear Lydia not to
 give any directions about her clothes till she has seen me, for she does
 not know which are the best warehouses. Oh, brother, how kind you are! I
 know you will contrive it all.”
@@ -9722,7 +9722,7 @@ Pratt for not keeping my engagement, and dancing with him to-night.
 Tell him I hope he will excuse me when he knows all; and tell him I will
 dance with him at the next ball we meet, with great pleasure. I shall
 send for my clothes when I get to Longbourn; but I wish you would tell
-Sally to mend a great slit in my worked muslin gown before they are
+Sally to mend a great slit in my [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed muslin gown before they are
 packed up. Good-bye. Give my love to Colonel Forster. I hope you will
 drink to our good journey.
 
@@ -9741,7 +9741,7 @@ minutes. My mother was taken ill immediately, and the whole house in
 such confusion!”
 
 “Oh! Jane,” cried Elizabeth, “was there a servant belonging to it who
-did not know the whole story before the end of the day?”
+did not know the whole story before the end of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?”
 
 “I do not know. I hope there was. But to be guarded at such a time is
 very difficult. My mother was in hysterics, and though I endeavoured to
@@ -9757,9 +9757,9 @@ upon yourself alone.”
 fatigue, I am sure; but I did not think it right for either of them.
 Kitty is slight and delicate; and Mary studies so much, that her hours
 of repose should not be broken in on. My aunt Phillips came to Longbourn
-on Tuesday, after my father went away; and was so good as to stay till
-Thursday with me. She was of great use and comfort to us all. And
-Lady Lucas has been very kind; she walked here on Wednesday morning to
+on Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), after my father went away; and was so good as to stay till
+Thurs[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) with me. She was of great use and comfort to us all. And
+Lady Lucas has been very kind; she walked here on Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning to
 condole with us, and offered her services, or any of her daughters', if
 they should be of use to us.”
 
@@ -9791,7 +9791,7 @@ out even so much as this.”
 ## Chapter 48
 
 
-The whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) were in hopes of a letter from Mr. Bennet the next
+The whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) were in hopes of a letter from Mr. Bennet the next
 morning, but the post came in without bringing a single line from him.
 His family knew him to be, on all common occasions, a most negligent and
 dilatory correspondent; but at such a time they had hoped for exertion.
@@ -9805,8 +9805,8 @@ to prevail on Mr. Bennet to return to Longbourn, as soon as he could,
 to the great consolation of his sister, who considered it as the only
 security for her husband's not being killed in a duel.
 
-Mrs. Gardiner and the [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren were to remain in Hertfordshire a few
-days longer, as the former thought her presence might be serviceable
+Mrs. Gardiner and the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren were to remain in Hertfordshire a few
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s longer, as the former thought her presence might be serviceable
 to her nieces. She shared in their attendance on Mrs. Bennet, and was a
 great comfort to them in their hours of freedom. Their other aunt also
 visited them frequently, and always, as she said, with the design of
@@ -9829,9 +9829,9 @@ when, if they had gone to Scotland, which she had never before entirely
 despaired of, they must in all probability have gained some news of
 them.
 
-Mr. Gardiner left Longbourn on Sunday; on Tuesday his wife received a
+Mr. Gardiner left Longbourn on Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); on Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) his wife received a
 letter from him; it told them that, on his arrival, he had immediately
-found out his brother, and persuaded him to come to Gracechurch Street;
+found out his brother, and persuaded him to come to Gracechurch S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t;
 that Mr. Bennet had been to Epsom and Clapham, before his arrival,
 but without gaining any satisfactory information; and that he was now
 determined to inquire at all the principal hotels in town, as Mr. Bennet
@@ -9862,11 +9862,11 @@ his companions in the ----shire might be able to give more information;
 and though she was not very sanguine in expecting it, the application
 was a something to look forward to.
 
-Every day at Longbourn was now a day of anxiety; but the most anxious
+Every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) at Longbourn was now a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of anxiety; but the most anxious
 part of each was when the post was expected. The arrival of letters
 was the grand object of every morning's impatience. Through letters,
 whatever of good or bad was to be told would be communicated, and every
-succeeding day was expected to bring some news of importance.
+succeeding [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was expected to bring some news of importance.
 
 But before they heard again from Mr. Gardiner, a letter arrived for
 their father, from a different quarter, from Mr. Collins; which, as Jane
@@ -9879,14 +9879,14 @@ follows:
 
 “I feel myself called upon, by our relationship, and my situation
 in life, to condole with you on the grievous affliction you are now
-suffering under, of which we were yesterday informed by a letter from
+suffering under, of which we were yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) informed by a letter from
 Hertfordshire. Be assured, my dear sir, that Mrs. Collins and myself
 sincerely sympathise with you and all your respectable family, in
 your present distress, which must be of the bitterest kind, because
 proceeding from a cause which no time can remove. No arguments shall be
 wanting on my part that can alleviate so severe a misfortune--or that
 may comfort you, under a circumstance that must be of all others the
-most afflicting to a parent's mind. The [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) of your daughter would
+most afflicting to a parent's mind. The [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) of your daughter would
 have been a blessing in comparison of this. And it is the more to
 be lamented, because there is reason to suppose as my dear Charlotte
 informs me, that this licentiousness of behaviour in your daughter has
@@ -9903,7 +9903,7 @@ will connect themselves with such a family? And this consideration leads
 me moreover to reflect, with augmented satisfaction, on a certain event
 of last November; for had it been otherwise, I must have been involved
 in all your sorrow and disgrace. Let me then advise you, dear sir, to
-console yourself as much as possible, to throw off your unworthy [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)
+console yourself as much as possible, to throw off your unworthy [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)
 from your affection for ever, and leave her to reap the fruits of her
 own heinous offense.
 
@@ -9928,12 +9928,12 @@ from the Longbourn family. Jane heard them with horror. “A gamester!”
 she cried. “This is wholly unexpected. I had not an idea of it.”
 
 Mr. Gardiner added in his letter, that they might expect to see their
-father at home on the following day, which was Saturday. Rendered
+father at home on the following [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), which was Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Rendered
 spiritless by the ill-success of all their endeavours, he had yielded
 to his brother-in-law's entreaty that he would return to his family, and
 leave it to him to do whatever occasion might suggest to be advisable
 for continuing their pursuit. When Mrs. Bennet was told of this, she did
-not express so much satisfaction as her [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren expected, considering
+not express so much satisfaction as her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren expected, considering
 what her anxiety for his life had been before.
 
 “What, is he coming home, and without poor Lydia?” she cried. “Sure he
@@ -9941,7 +9941,7 @@ will not leave London before he has found them. Who is to fight Wickham,
 and make him marry her, if he comes away?”
 
 As Mrs. Gardiner began to wish to be at home, it was settled that she
-and the [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren should go to London, at the same time that Mr. Bennet
+and the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren should go to London, at the same time that Mr. Bennet
 came from it. The coach, therefore, took them the first stage of their
 journey, and brought its master back to Longbourn.
 
@@ -9997,7 +9997,7 @@ They were interrupted by Miss Bennet, who came to fetch her mother's
 tea.
 
 “This is a parade,” he cried, “which does one good; it gives such an
-elegance to misfortune! Another day I will do the same; I will sit in my
+elegance to misfortune! Another [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) I will do the same; I will sit in my
 library, in my nightcap and powdering gown, and give as much trouble as
 I can; or, perhaps, I may defer it till Kitty runs away.”
 
@@ -10010,7 +10010,7 @@ you will feel the effects of it. No officer is ever to enter into
 my house again, nor even to pass through the village. Balls will be
 absolutely prohibited, unless you stand up with one of your sisters.
 And you are never to stir out of doors till you can prove that you have
-spent ten minutes of every day in a rational manner.”
+spent ten minutes of every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) in a rational manner.”
 
 Kitty, who took all these threats in a serious light, began to cry.
 
@@ -10024,7 +10024,7 @@ them.”
 ## Chapter 49
 
 
-Two days after Mr. Bennet's return, as Jane and Elizabeth were walking
+Two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s after Mr. Bennet's return, as Jane and Elizabeth were walking
 together in the shrubbery behind the house, they saw the housekeeper
 coming towards them, and, concluding that she came to call them to their
 mother, went forward to meet her; but, instead of the expected summons,
@@ -10069,13 +10069,13 @@ Elizabeth impatiently caught it from his hand. Jane now came up.
 “Read it aloud,” said their father, “for I hardly know myself what it is
 about.”
 
-“Gracechurch Street, Monday, August 2.
+“Gracechurch S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), August 2.
 
 “MY DEAR BROTHER,
 
 “At last I am able to send you some tidings of my niece, and such as,
 upon the whole, I hope it will give you satisfaction. Soon after you
-left me on Saturday, I was fortunate enough to find out in what part of
+left me on Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), I was fortunate enough to find out in what part of
 London they were. The particulars I reserve till we meet; it is enough
 to know they are discovered. I have seen them both--”
 
@@ -10088,7 +10088,7 @@ was any intention of being so; but if you are willing to perform the
 engagements which I have ventured to make on your side, I hope it will
 not be long before they are. All that is required of you is, to assure
 to your daughter, by settlement, her equal share of the five thousand
-pounds secured among your [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren after the decease of yourself and
+pounds secured among your [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren after the decease of yourself and
 my sister; and, moreover, to enter into an engagement of allowing her,
 during your life, one hundred pounds per annum. These are conditions
 which, considering everything, I had no hesitation in complying with,
@@ -10106,7 +10106,7 @@ smallest occasion for your coming to town again; therefore stay quiet at
 Longbourn, and depend on my diligence and care. Send back your answer as
 fast as you can, and be careful to write explicitly. We have judged it
 best that my niece should be married from this house, of which I hope
-you will approve. She comes to us to-day. I shall write again as soon as
+you will approve. She comes to us to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). I shall write again as soon as
 anything more is determined on. Yours, etc.,
 
 “EDW. GARDINER.”
@@ -10176,7 +10176,7 @@ and wretched as is his character, we are forced to rejoice. Oh, Lydia!”
 “I comfort myself with thinking,” replied Jane, “that he certainly would
 not marry Lydia if he had not a real regard for her. Though our kind
 uncle has done something towards clearing him, I cannot believe that ten
-thousand pounds, or anything like it, has been advanced. He has [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren
+thousand pounds, or anything like it, has been advanced. He has [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren
 of his own, and may have more. How could he spare half ten thousand
 pounds?”
 
@@ -10243,7 +10243,7 @@ measure to his kindness. We are persuaded that he has pledged himself to
 assist Mr. Wickham with money.”
 
 “Well,” cried her mother, “it is all very right; who should do it but
-her own uncle? If he had not had a family of his own, I and my [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren
+her own uncle? If he had not had a family of his own, I and my [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren
 must have had all his money, you know; and it is the first time we have
 ever had anything from him, except a few presents. Well! I am so happy!
 In a short time I shall have a daughter married. Mrs. Wickham! How well
@@ -10255,7 +10255,7 @@ afterwards; but the things should be ordered immediately.”
 She was then proceeding to all the particulars of calico, muslin, and
 cambric, and would shortly have dictated some very plentiful orders, had
 not Jane, though with some difficulty, persuaded her to wait till her
-father was at leisure to be consulted. One day's delay, she observed,
+father was at leisure to be consulted. One [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)'s delay, she observed,
 would be of small importance; and her mother was too happy to be quite
 so obstinate as usual. Other schemes, too, came into her head.
 
@@ -10286,7 +10286,7 @@ gained.
 
 Mr. Bennet had very often wished before this period of his life that,
 instead of spending his whole income, he had laid by an annual sum for
-the better provision of his [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, and of his wife, if she survived
+the better provision of his [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, and of his wife, if she survived
 him. He now wished it more than ever. Had he done his duty in that
 respect, Lydia need not have been indebted to her uncle for whatever
 of honour or credit could now be purchased for her. The satisfaction of
@@ -10301,7 +10301,7 @@ and to discharge the obligation as soon as he could.
 When first Mr. Bennet had married, economy was held to be perfectly
 useless, for, of course, they were to have a son. The son was to join
 in cutting off the entail, as soon as he should be of age, and the widow
-and younger [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren would by that means be provided for. Five daughters
+and younger [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren would by that means be provided for. Five daughters
 successively entered the world, but yet the son was to come; and Mrs.
 Bennet, for many years after Lydia's birth, had been certain that he
 would. This event had at last been despaired of, but it was then
@@ -10310,7 +10310,7 @@ husband's love of independence had alone prevented their exceeding their
 income.
 
 Five thousand pounds was settled by marriage articles on Mrs. Bennet and
-the [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren. But in what proportions it should be divided amongst the
+the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren. But in what proportions it should be divided amongst the
 latter depended on the will of the parents. This was one point, with
 regard to Lydia, at least, which was now to be settled, and Mr. Bennet
 could have no hesitation in acceding to the proposal before him. In
@@ -10348,7 +10348,7 @@ in this change of circumstances, because with such an husband her misery
 was considered certain.
 
 It was a fortnight since Mrs. Bennet had been downstairs; but on this
-happy day she again took her seat at the head of her table, and in
+happy [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) she again took her seat at the head of her table, and in
 spirits oppressively high. No sentiment of shame gave a damp to her
 triumph. The marriage of a daughter, which had been the first object
 of her wishes since Jane was sixteen, was now on the point of
@@ -10507,7 +10507,7 @@ have been the last object of her wishes.
 ## Chapter 51
 
 
-Their sister's wedding day arrived; and Jane and Elizabeth felt for her
+Their sister's wedding [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) arrived; and Jane and Elizabeth felt for her
 probably more than she felt for herself. The carriage was sent to
 meet them at ----, and they were to return in it by dinner-time. Their
 arrival was dreaded by the elder Miss Bennets, and Jane more especially,
@@ -10564,7 +10564,7 @@ thought it would be very good fun if I was.”
 Her father lifted up his eyes. Jane was distressed. Elizabeth looked
 expressively at Lydia; but she, who never heard nor saw anything of
 which she chose to be insensible, gaily continued, “Oh! mamma, do the
-people hereabouts know I am married to-day? I was afraid they might not;
+people hereabouts know I am married to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)? I was afraid they might not;
 and we overtook William Goulding in his curricle, so I was determined he
 should know it, and so I let down the side-glass next to him, and took
 off my glove, and let my hand just rest upon the window frame, so that
@@ -10607,7 +10607,7 @@ winter is over.”
 “I thank you for my share of the favour,” said Elizabeth; “but I do not
 particularly like your way of getting husbands.”
 
-Their visitors were not to remain above ten days with them. Mr. Wickham
+Their visitors were not to remain above ten [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s with them. Mr. Wickham
 had received his commission before he left London, and he was to join
 his regiment at the end of a fortnight.
 
@@ -10646,7 +10646,7 @@ on the subject.”
 married, you know, at St. Clement's, because Wickham's lodgings were in
 that parish. And it was settled that we should all be there by eleven
 o'clock. My uncle and aunt and I were to go together; and the others
-were to meet us at the church. Well, Monday morning came, and I was in
+were to meet us at the church. Well, Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning came, and I was in
 such a fuss! I was so afraid, you know, that something would happen to
 put it off, and then I should have gone quite distracted. And there was
 my aunt, all the time I was dressing, preaching and talking away just as
@@ -10658,13 +10658,13 @@ to know whether he would be married in his blue coat.”
 be over; for, by the bye, you are to understand, that my uncle and aunt
 were horrid unpleasant all the time I was with them. If you'll believe
 me, I did not once put my foot out of doors, though I was there a
-fortnight. Not one [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip), or scheme, or anything. To be sure London was
+fortnight. Not one [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip), or scheme, or anything. To be sure London was
 rather thin, but, however, the Little Theatre was open. Well, and so
 just as the carriage came to the door, my uncle was called away upon
 business to that horrid man Mr. Stone. And then, you know, when once
 they get together, there is no end of it. Well, I was so frightened I
 did not know what to do, for my uncle was to give me away; and if we
-were beyond the hour, we could not be married all day. But, luckily, he
+were beyond the hour, we could not be married all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). But, luckily, he
 came back again in ten minutes' time, and then we all set out. However,
 I recollected afterwards that if he had been prevented going, the
 wedding need not be put off, for Mr. Darcy might have done as well.”
@@ -10730,7 +10730,7 @@ be interrupted, she sat down on one of the benches and prepared to
 be happy; for the length of the letter convinced her that it did not
 contain a denial.
 
-“Gracechurch street, Sept. 6.
+“Gracechurch s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, Sept. 6.
 
 “MY DEAR NIECE,
 
@@ -10741,17 +10741,17 @@ application; I did not expect it from _you_. Don't think me angry,
 however, for I only mean to let you know that I had not imagined such
 inquiries to be necessary on _your_ side. If you do not choose to
 understand me, forgive my impertinence. Your uncle is as much surprised
-as I am--and nothing but the belief of your being a [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) concerned
+as I am--and nothing but the belief of your being a [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) concerned
 would have allowed him to act as he has done. But if you are really
 innocent and ignorant, I must be more explicit.
 
-“On the very day of my coming home from Longbourn, your uncle had a most
+“On the very [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of my coming home from Longbourn, your uncle had a most
 unexpected visitor. Mr. Darcy called, and was shut up with him several
 hours. It was all over before I arrived; so my curiosity was not so
 dreadfully racked as _yours_ seems to have been. He came to tell Mr.
 Gardiner that he had found out where your sister and Mr. Wickham were,
 and that he had seen and talked with them both; Wickham repeatedly,
-Lydia once. From what I can collect, he left Derbyshire only one day
+Lydia once. From what I can collect, he left Derbyshire only one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
 after ourselves, and came to town with the resolution of hunting for
 them. The motive professed was his conviction of its being owing to
 himself that Wickham's worthlessness had not been so well known as to
@@ -10761,7 +10761,7 @@ confessed that he had before thought it beneath him to lay his private
 actions open to the world. His character was to speak for itself. He
 called it, therefore, his duty to step forward, and endeavour to remedy
 an evil which had been brought on by himself. If he _had another_
-motive, I am sure it would never disgrace him. He had been some days
+motive, I am sure it would never disgrace him. He had been some [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s
 in town, before he was able to discover them; but he had something to
 direct his search, which was more than _we_ had; and the consciousness
 of this was another reason for his resolving to follow us.
@@ -10769,16 +10769,16 @@ of this was another reason for his resolving to follow us.
 “There is a lady, it seems, a Mrs. Younge, who was some time ago
 governess to Miss Darcy, and was dismissed from her charge on some cause
 of disapprobation, though he did not say what. She then took a large
-house in Edward-street, and has since maintained herself by letting
+house in Edward-s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, and has since maintained herself by letting
 lodgings. This Mrs. Younge was, he knew, intimately acquainted with
 Wickham; and he went to her for intelligence of him as soon as he got to
-town. But it was two or three days before he could get from her what he
+town. But it was two or three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s before he could get from her what he
 wanted. She would not betray her trust, I suppose, without bribery and
 corruption, for she really did know where her friend was to be found.
 Wickham indeed had gone to her on their first arrival in London, and had
 she been able to receive them into her house, they would have taken up
 their abode with her. At length, however, our kind friend procured the
-wished-for direction. They were in ---- street. He saw Wickham, and
+wished-for direction. They were in ---- s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t. He saw Wickham, and
 afterwards insisted on seeing Lydia. His first object with her, he
 acknowledged, had been to persuade her to quit her present disgraceful
 situation, and return to her friends as soon as they could be prevailed
@@ -10811,19 +10811,19 @@ reasonable.
 
 “Every thing being settled between _them_, Mr. Darcy's next step was to
 make your uncle acquainted with it, and he first called in Gracechurch
-street the evening before I came home. But Mr. Gardiner could not be
+s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t the evening before I came home. But Mr. Gardiner could not be
 seen, and Mr. Darcy found, on further inquiry, that your father was
 still with him, but would quit town the next morning. He did not judge
 your father to be a person whom he could so properly consult as your
 uncle, and therefore readily postponed seeing him till after the
 departure of the former. He did not leave his name, and till the next
-day it was only known that a gentleman had called on business.
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) it was only known that a gentleman had called on business.
 
-“On Saturday he came again. Your father was gone, your uncle at home,
+“On Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) he came again. Your father was gone, your uncle at home,
 and, as I said before, they had a great deal of talk together.
 
-“They met again on Sunday, and then _I_ saw him too. It was not all
-settled before Monday: as soon as it was, the express was sent off to
+“They met again on Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and then _I_ saw him too. It was not all
+settled before Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip): as soon as it was, the express was sent off to
 Longbourn. But our visitor was very obstinate. I fancy, Lizzy, that
 obstinacy is the real defect of his character, after all. He has been
 accused of many faults at different times, but _this_ is the true one.
@@ -10866,7 +10866,7 @@ afford you any displeasure. Lydia came to us; and Wickham had constant
 admission to the house. _He_ was exactly what he had been, when I
 knew him in Hertfordshire; but I would not tell you how little I was
 satisfied with her behaviour while she staid with us, if I had not
-perceived, by Jane's letter last Wednesday, that her conduct on coming
+perceived, by Jane's letter last Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), that her conduct on coming
 home was exactly of a piece with it, and therefore what I now tell
 you can give you no fresh pain. I talked to her repeatedly in the most
 serious manner, representing to her all the wickedness of what she had
@@ -10876,8 +10876,8 @@ sometimes quite provoked, but then I recollected my dear Elizabeth and
 Jane, and for their sakes had patience with her.
 
 “Mr. Darcy was punctual in his return, and as Lydia informed you,
-attended the wedding. He dined with us the next day, and was to leave
-town again on Wednesday or Thursday. Will you be very angry with me, my
+attended the wedding. He dined with us the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and was to leave
+town again on Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or Thurs[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Will you be very angry with me, my
 dear Lizzy, if I take this opportunity of saying (what I was never bold
 enough to say before) how much I like him. His behaviour to us has,
 in every respect, been as pleasing as when we were in Derbyshire. His
@@ -10891,7 +10891,7 @@ punish me so far as to exclude me from P. I shall never be quite happy
 till I have been all round the park. A low phaeton, with a nice little
 pair of ponies, would be the very thing.
 
-“But I must write no more. The [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren have been wanting me this half
+“But I must write no more. The [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren have been wanting me this half
 hour.
 
 “Yours, very sincerely,
@@ -11050,7 +11050,7 @@ never again distressed himself, or provoked his dear sister Elizabeth,
 by introducing the subject of it; and she was pleased to find that she
 had said enough to keep him quiet.
 
-The day of his and Lydia's departure soon came, and Mrs. Bennet was
+The [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of his and Lydia's departure soon came, and Mrs. Bennet was
 forced to submit to a separation, which, as her husband by no means
 entered into her scheme of their all going to Newcastle, was likely to
 continue at least a twelvemonth.
@@ -11073,7 +11073,7 @@ the house, “as ever I saw. He simpers, and smirks, and makes love to
 us all. I am prodigiously proud of him. I defy even Sir William Lucas
 himself to produce a more valuable son-in-law.”
 
-The loss of her daughter made Mrs. Bennet very dull for several days.
+The loss of her daughter made Mrs. Bennet very dull for several [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s.
 
 “I often think,” said she, “that there is nothing so bad as parting with
 one's friends. One seems so forlorn without them.”
@@ -11090,7 +11090,7 @@ But the spiritless condition which this event threw her into was shortly
 relieved, and her mind opened again to the agitation of hope, by an
 article of news which then began to be in circulation. The housekeeper
 at Netherfield had received orders to prepare for the arrival of her
-master, who was coming down in a day or two, to shoot there for several
+master, who was coming down in a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two, to shoot there for several
 weeks. Mrs. Bennet was quite in the fidgets. She looked at Jane, and
 smiled and shook her head by turns.
 
@@ -11105,15 +11105,15 @@ mention a word about it. And so, is it quite certain he is coming?”
 “You may depend on it,” replied the other, “for Mrs. Nicholls was in
 Meryton last night; I saw her passing by, and went out myself on purpose
 to know the truth of it; and she told me that it was certain true. He
-comes down on Thursday at the latest, very likely on Wednesday. She was
+comes down on Thurs[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) at the latest, very likely on Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). She was
 going to the butcher's, she told me, on purpose to order in some meat on
-Wednesday, and she has got three couple of ducks just fit to be killed.”
+Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and she has got three couple of ducks just fit to be killed.”
 
 Miss Bennet had not been able to hear of his coming without changing
 colour. It was many months since she had mentioned his name to
 Elizabeth; but now, as soon as they were alone together, she said:
 
-“I saw you look at me to-day, Lizzy, when my aunt told us of the present
+“I saw you look at me to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Lizzy, when my aunt told us of the present
 report; and I know I appeared distressed. But don't imagine it was from
 any silly cause. I was only confused for the moment, because I felt that
 I _should_ be looked at. I do assure you that the news does not affect
@@ -11165,7 +11165,7 @@ him.”
 Consoled by this resolution, she was the better able to bear her
 husband's incivility; though it was very mortifying to know that her
 neighbours might all see Mr. Bingley, in consequence of it, before
-_they_ did. As the day of his arrival drew near,--
+_they_ did. As the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of his arrival drew near,--
 
 “I begin to be sorry that he comes at all,” said Jane to her sister. “It
 would be nothing; I could see him with perfect indifference, but I can
@@ -11181,7 +11181,7 @@ always so much.”
 Mr. Bingley arrived. Mrs. Bennet, through the assistance of servants,
 contrived to have the earliest tidings of it, that the period of anxiety
 and fretfulness on her side might be as long as it could. She counted
-the days that must intervene before their invitation could be sent;
+the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s that must intervene before their invitation could be sent;
 hopeless of seeing him before. But on the third morning after his
 arrival in Hertfordshire, she saw him, from her dressing-room window,
 enter the paddock and ride towards the house.
@@ -11231,7 +11231,7 @@ wishes must still be unshaken. But she would not be secure.
 “Let me first see how he behaves,” said she; “it will then be early
 enough for expectation.”
 
-She sat intently at work, striving to be composed, and without daring to
+She sat intently at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), striving to be composed, and without daring to
 lift up her eyes, till anxious curiosity carried them to the face of
 her sister as the servant was approaching the door. Jane looked a little
 paler than usual, but more sedate than Elizabeth had expected. On the
@@ -11240,7 +11240,7 @@ tolerable ease, and with a propriety of behaviour equally free from any
 symptom of resentment or any unnecessary complaisance.
 
 Elizabeth said as little to either as civility would allow, and sat down
-again to her work, with an eagerness which it did not often command. She
+again to her [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), with an eagerness which it did not often command. She
 had ventured only one glance at Darcy. He looked serious, as usual; and,
 she thought, more as he had been used to look in Hertfordshire, than as
 she had seen him at Pemberley. But, perhaps he could not in her mother's
@@ -11342,7 +11342,7 @@ that she did not always know when she was silent.
 
 When the gentlemen rose to go away, Mrs. Bennet was mindful of her
 intended civility, and they were invited and engaged to dine at
-Longbourn in a few days time.
+Longbourn in a few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s time.
 
 “You are quite a visit in my debt, Mr. Bingley,” she added, “for when
 you went to town last winter, you promised to take a family dinner with
@@ -11354,7 +11354,7 @@ Bingley looked a little silly at this reflection, and said something of
 his concern at having been prevented by business. They then went away.
 
 Mrs. Bennet had been strongly inclined to ask them to stay and dine
-there that day; but, though she always kept a very good table, she did
+there that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); but, though she always kept a very good table, she did
 not think anything less than two courses could be good enough for a man
 on whom she had such anxious designs, or satisfy the appetite and pride
 of one who had ten thousand a year.
@@ -11385,7 +11385,7 @@ better satisfied with their visitors, than Elizabeth.
 
 “Now,” said she, “that this first meeting is over, I feel perfectly
 easy. I know my own strength, and I shall never be embarrassed again by
-his coming. I am glad he dines here on Tuesday. It will then be publicly
+his coming. I am glad he dines here on Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). It will then be publicly
 seen that, on both sides, we meet only as common and indifferent
 acquaintance.”
 
@@ -11399,12 +11399,12 @@ you as ever.”
 
 * * * * *
 
-They did not see the gentlemen again till Tuesday; and Mrs. Bennet, in
+They did not see the gentlemen again till Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); and Mrs. Bennet, in
 the meanwhile, was giving way to all the happy schemes, which the good
 humour and common politeness of Bingley, in half an hour's visit, had
 revived.
 
-On Tuesday there was a large [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) assembled at Longbourn; and the two
+On Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) there was a large [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) assembled at Longbourn; and the two
 who were most anxiously expected, to the credit of their punctuality
 as sportsmen, were in very good time. When they repaired to the
 dining-room, Elizabeth eagerly watched to see whether Bingley would take
@@ -11490,7 +11490,7 @@ When the tea-things were removed, and the card-tables placed, the ladies
 all rose, and Elizabeth was then hoping to be soon joined by him,
 when all her views were overthrown by seeing him fall a victim to her
 mother's rapacity for whist players, and in a few moments after seated
-with the rest of the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip). She now lost every expectation of pleasure.
+with the rest of the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). She now lost every expectation of pleasure.
 They were confined for the evening at different tables, and she had
 nothing to hope, but that his eyes were so often turned towards her side
 of the room, as to make him play as unsuccessfully as herself.
@@ -11500,7 +11500,7 @@ supper; but their carriage was unluckily ordered before any of the
 others, and she had no opportunity of detaining them.
 
 “Well girls,” said she, as soon as they were left to themselves, “What
-say you to the day? I think every thing has passed off uncommonly well,
+say you to the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)? I think every thing has passed off uncommonly well,
 I assure you. The dinner was as well dressed as any I ever saw. The
 venison was roasted to a turn--and everybody said they never saw so
 fat a haunch. The soup was fifty times better than what we had at the
@@ -11517,10 +11517,10 @@ Mrs. Bennet, in short, was in very great spirits; she had seen enough of
 Bingley's behaviour to Jane, to be convinced that she would get him at
 last; and her expectations of advantage to her family, when in a happy
 humour, were so far beyond reason, that she was quite disappointed at
-not seeing him there again the next day, to make his proposals.
+not seeing him there again the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), to make his proposals.
 
-“It has been a very agreeable day,” said Miss Bennet to Elizabeth. “The
-[party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) seemed so well selected, so suitable one with the other. I hope we
+“It has been a very agreeable [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),” said Miss Bennet to Elizabeth. “The
+[party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) seemed so well selected, so suitable one with the other. I hope we
 may often meet again.”
 
 Elizabeth smiled.
@@ -11553,9 +11553,9 @@ me; and if you persist in indifference, do not make me your confidante.”
 ## Chapter 55
 
 
-A few days after this visit, Mr. Bingley called again, and alone. His
+A few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s after this visit, Mr. Bingley called again, and alone. His
 friend had left him that morning for London, but was to return home in
-ten days time. He sat with them above an hour, and was in remarkably
+ten [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s time. He sat with them above an hour, and was in remarkably
 good spirits. Mrs. Bennet invited him to dine with them; but, with many
 expressions of concern, he confessed himself engaged elsewhere.
 
@@ -11596,7 +11596,7 @@ impression on them. Elizabeth would not observe her; and when at last
 Kitty did, she very innocently said, “What is the matter mamma? What do
 you keep winking at me for? What am I to do?”
 
-“Nothing [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), nothing. I did not wink at you.” She then sat still
+“Nothing [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), nothing. I did not wink at you.” She then sat still
 five minutes longer; but unable to waste such a precious occasion, she
 suddenly got up, and saying to Kitty, “Come here, my love, I want to
 speak to you,” took her out of the room. Jane instantly gave a look
@@ -11616,10 +11616,10 @@ Elizabeth made no attempt to reason with her mother, but remained
 quietly in the hall, till she and Kitty were out of sight, then returned
 into the drawing-room.
 
-Mrs. Bennet's schemes for this day were ineffectual. Bingley was every
+Mrs. Bennet's schemes for this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) were ineffectual. Bingley was every
 thing that was charming, except the professed lover of her daughter. His
 ease and cheerfulness rendered him a most agreeable addition to their
-evening [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip); and he bore with the ill-judged officiousness of the
+evening [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip); and he bore with the ill-judged officiousness of the
 mother, and heard all her silly remarks with a forbearance and command
 of countenance particularly grateful to the daughter.
 
@@ -11627,7 +11627,7 @@ He scarcely needed an invitation to stay supper; and before he went
 away, an engagement was formed, chiefly through his own and Mrs.
 Bennet's means, for his coming next morning to shoot with her husband.
 
-After this day, Jane said no more of her indifference. Not a word passed
+After this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Jane said no more of her indifference. Not a word passed
 between the sisters concerning Bingley; but Elizabeth went to bed in
 the happy belief that all must speedily be concluded, unless Mr. Darcy
 returned within the stated time. Seriously, however, she felt tolerably
@@ -11640,7 +11640,7 @@ agreeable than his companion expected. There was nothing of presumption
 or folly in Bingley that could provoke his ridicule, or disgust him into
 silence; and he was more communicative, and less eccentric, than the
 other had ever seen him. Bingley of course returned with him to dinner;
-and in the evening Mrs. Bennet's invention was again at work to get
+and in the evening Mrs. Bennet's invention was again at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) to get
 every body away from him and her daughter. Elizabeth, who had a letter
 to write, went into the breakfast room for that purpose soon after tea;
 for as the others were all going to sit down to cards, she could not be
@@ -11678,7 +11678,7 @@ know that what I have to relate will give such pleasure to all my dear
 family! how shall I bear so much happiness!”
 
 She then hastened away to her mother, who had purposely broken up the
-card [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip), and was sitting up stairs with Kitty.
+card [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip), and was sitting up stairs with Kitty.
 
 Elizabeth, who was left by herself, now smiled at the rapidity and ease
 with which an affair was finally settled, that had given them so many
@@ -11745,7 +11745,7 @@ that you should come together. Oh! he is the handsomest young man that
 ever was seen!”
 
 Wickham, Lydia, were all forgotten. Jane was beyond competition her
-favourite [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip). At that moment, she cared for no other. Her younger
+favourite [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip). At that moment, she cared for no other. Her younger
 sisters soon began to make interest with her for objects of happiness
 which she might in future be able to dispense.
 
@@ -11927,7 +11927,7 @@ know, that I am not to be trifled with. But however insincere _you_ may
 choose to be, you shall not find _me_ so. My character has ever been
 celebrated for its sincerity and frankness, and in a cause of such
 moment as this, I shall certainly not depart from it. A report of a most
-alarming nature reached me two days ago. I was told that not only your
+alarming nature reached me two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s ago. I was told that not only your
 sister was on the point of being most advantageously married, but that
 you, that Miss Elizabeth Bennet, would, in all likelihood, be soon
 afterwards united to my nephew, my own nephew, Mr. Darcy. Though I
@@ -12075,7 +12075,7 @@ my refusing to accept his hand make him wish to bestow it on his cousin?
 Allow me to say, Lady Catherine, that the arguments with which you have
 supported this extraordinary application have been as frivolous as the
 application was ill-judged. You have widely mistaken my character, if
-you think I can be worked on by such persuasions as these. How far your
+you think I can be [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed on by such persuasions as these. How far your
 nephew might approve of your interference in his affairs, I cannot tell;
 but you have certainly no right to concern yourself in mine. I must beg,
 therefore, to be importuned no farther on the subject.”
@@ -12193,7 +12193,7 @@ Catherine might see him in her way through town; and his engagement to
 Bingley of coming again to Netherfield must give way.
 
 “If, therefore, an excuse for not keeping his promise should come to his
-friend within a few days,” she added, “I shall know how to understand
+friend within a few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s,” she added, “I shall know how to understand
 it. I shall then give over every expectation, every wish of his
 constancy. If he is satisfied with only regretting me, when he might
 have obtained my affections and hand, I shall soon cease to regret him
@@ -12333,7 +12333,7 @@ his seeing too little, she might have fancied too much.
 
 Instead of receiving any such letter of excuse from his friend, as
 Elizabeth half expected Mr. Bingley to do, he was able to bring Darcy
-with him to Longbourn before many days had passed after Lady Catherine's
+with him to Longbourn before many [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s had passed after Lady Catherine's
 visit. The gentlemen arrived early; and, before Mrs. Bennet had time
 to tell him of their having seen his aunt, of which her daughter sat
 in momentary dread, Bingley, who wanted to be alone with Jane, proposed
@@ -12483,10 +12483,10 @@ retrospections must be so totally void of reproach, that the contentment
 arising from them is not of philosophy, but, what is much better, of
 innocence. But with me, it is not so. Painful recollections will intrude
 which cannot, which ought not, to be repelled. I have been a selfish
-being all my life, in practice, though not in principle. As a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) I
+being all my life, in practice, though not in principle. As a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) I
 was taught what was right, but I was not taught to correct my temper. I
 was given good principles, but left to follow them in pride and conceit.
-Unfortunately an only son (for many years an only [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)), I was spoilt
+Unfortunately an only son (for many years an only [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)), I was spoilt
 by my parents, who, though good themselves (my father, particularly, all
 that was benevolent and amiable), allowed, encouraged, almost taught
 me to be selfish and overbearing; to care for none beyond my own family
@@ -12706,7 +12706,7 @@ epithet.
 As soon as they entered, Bingley looked at her so expressively, and
 shook hands with such warmth, as left no doubt of his good information;
 and he soon afterwards said aloud, “Mrs. Bennet, have you no more lanes
-hereabouts in which Lizzy may lose her way again to-day?”
+hereabouts in which Lizzy may lose her way again to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?”
 
 “I advise Mr. Darcy, and Lizzy, and Kitty,” said Mrs. Bennet, “to walk
 to Oakham Mount this morning. It is a nice long walk, and Mr. Darcy has
@@ -12741,12 +12741,12 @@ In the evening, soon after Mr. Bennet withdrew to the library, she saw
 Mr. Darcy rise also and follow him, and her agitation on seeing it was
 extreme. She did not fear her father's opposition, but he was going to
 be made unhappy; and that it should be through her means--that _she_,
-his favourite [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), should be distressing him by her choice, should be
+his favourite [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), should be distressing him by her choice, should be
 filling him with fears and regrets in disposing of her--was a wretched
 reflection, and she sat in misery till Mr. Darcy appeared again, when,
 looking at him, she was a little relieved by his smile. In a few minutes
 he approached the table where she was sitting with Kitty; and, while
-pretending to admire her work said in a whisper, “Go to your father, he
+pretending to admire her [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) said in a whisper, “Go to your father, he
 wants you in the library.” She was gone directly.
 
 Her father was walking about the room, looking grave and anxious.
@@ -12782,7 +12782,7 @@ your disposition, Lizzy. I know that you could be neither happy nor
 respectable, unless you truly esteemed your husband; unless you looked
 up to him as a superior. Your lively talents would place you in the
 greatest danger in an unequal marriage. You could scarcely escape
-discredit and misery. My [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), let me not have the grief of seeing
+discredit and misery. My [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), let me not have the grief of seeing
 _you_ unable to respect your partner in life. You know not what you are
 about.”
 
@@ -12790,7 +12790,7 @@ Elizabeth, still more affected, was earnest and solemn in her reply; and
 at length, by repeated assurances that Mr. Darcy was really the object
 of her choice, by explaining the gradual change which her estimation of
 him had undergone, relating her absolute certainty that his affection
-was not the work of a day, but had stood the test of many months'
+was not the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), but had stood the test of many months'
 suspense, and enumerating with energy all his good qualities, she did
 conquer her father's incredulity, and reconcile him to the match.
 
@@ -12809,7 +12809,7 @@ paid him; but these violent young lovers carry every thing their own
 way. I shall offer to pay him to-morrow; he will rant and storm about
 his love for you, and there will be an end of the matter.”
 
-He then recollected her embarrassment a few days before, on his reading
+He then recollected her embarrassment a few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s before, on his reading
 Mr. Collins's letter; and after laughing at her some time, allowed her
 at last to go--saying, as she quitted the room, “If any young men come
 for Mary or Kitty, send them in, for I am quite at leisure.”
@@ -12845,7 +12845,7 @@ Elizabeth, rejoicing that such an effusion was heard only by herself,
 soon went away. But before she had been three minutes in her own room,
 her mother followed her.
 
-“My dearest [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip),” she cried, “I can think of nothing else! Ten
+“My dearest [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip),” she cried, “I can think of nothing else! Ten
 thousand a year, and very likely more! 'Tis as good as a Lord! And a
 special licence. You must and shall be married by a special licence. But
 my dearest love, tell me what dish Mr. Darcy is particularly fond of,
@@ -12967,7 +12967,7 @@ From an unwillingness to confess how much her intimacy with Mr. Darcy
 had been over-rated, Elizabeth had never yet answered Mrs. Gardiner's
 long letter; but now, having _that_ to communicate which she knew would
 be most welcome, she was almost ashamed to find that her uncle and
-aunt had already lost three days of happiness, and immediately wrote as
+aunt had already lost three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of happiness, and immediately wrote as
 follows:
 
 “I would have thanked you before, my dear aunt, as I ought to have done,
@@ -12979,7 +12979,7 @@ subject will afford, and unless you believe me actually married, you
 cannot greatly err. You must write again very soon, and praise him a
 great deal more than you did in your last. I thank you, again and again,
 for not going to the Lakes. How could I be so silly as to wish it! Your
-idea of the ponies is delightful. We will go round the Park every day. I
+idea of the ponies is delightful. We will go round the Park every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). I
 am the happiest creature in the world. Perhaps other people have said so
 before, but not one with such justice. I am happier even than Jane; she
 only smiles, I laugh. Mr. Darcy sends you all the love in the world that
@@ -13038,7 +13038,7 @@ without mortification; and though the uncomfortable feelings arising
 from all this took from the season of courtship much of its pleasure, it
 added to the hope of the future; and she looked forward with delight to
 the time when they should be removed from society so little pleasing
-to either, to all the comfort and elegance of their family [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) at
+to either, to all the comfort and elegance of their family [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) at
 Pemberley.
 
 
@@ -13047,12 +13047,12 @@ Pemberley.
 ## Chapter 61
 
 
-Happy for all her maternal feelings was the day on which Mrs. Bennet got
+Happy for all her maternal feelings was the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) on which Mrs. Bennet got
 rid of her two most deserving daughters. With what delighted pride
 she afterwards visited Mrs. Bingley, and talked of Mrs. Darcy, may
 be guessed. I wish I could say, for the sake of her family, that the
 accomplishment of her earnest desire in the establishment of so many
-of her [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren produced so happy an effect as to make her a sensible,
+of her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren produced so happy an effect as to make her a sensible,
 amiable, well-informed woman for the rest of her life; though perhaps it
 was lucky for her husband, who might not have relished domestic felicity
 in so unusual a form, that she still was occasionally nervous and

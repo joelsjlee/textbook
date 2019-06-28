@@ -47,7 +47,7 @@ it, ‘and what is the use of a book,’ thought Alice ‘without pictures or
 conversations?’
 
 So she was considering in her own mind (as well as she could, for the
-hot day made her feel very sleepy and stupid), whether the pleasure
+hot [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) made her feel very sleepy and stupid), whether the pleasure
 of making a daisy-chain would be worth the trouble of getting up and
 picking the daisies, when suddenly a White Rabbit with pink eyes ran
 close by her.
@@ -173,7 +173,7 @@ letters.
 It was all very well to say ‘Drink me,’ but the wise little Alice was
 not going to do THAT in a hurry. ‘No, I’ll look first,’ she said, ‘and
 see whether it’s marked “poison” or not’; for she had read several nice
-little histories about [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren who had got burnt, and eaten up by wild
+little histories about [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren who had got burnt, and eaten up by wild
 beasts and other unpleasant things, all because they WOULD not remember
 the simple rules their friends had taught them: such as, that a red-hot
 poker will burn you if you hold it too long; and that if you cut your
@@ -220,7 +220,7 @@ gave herself very good advice, (though she very seldom followed it),
 and sometimes she scolded herself so severely as to bring tears into
 her eyes; and once she remembered trying to box her own ears for having
 cheated herself in a game of croquet she was playing against herself,
-for this curious [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) was very fond of pretending to be two people.
+for this curious [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) was very fond of pretending to be two people.
 ‘But it’s no use now,’ thought poor Alice, ‘to pretend to be two people!
 Why, there’s hardly enough of me left to make ONE respectable person!’
 
@@ -239,7 +239,7 @@ had got so much into the way of expecting nothing but out-of-the-way
 things to happen, that it seemed quite dull and stupid for life to go on
 in the common way.
 
-So she set to work, and very soon finished off the cake.
+So she set to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and very soon finished off the cake.
 
 *    *    *    *    *    *    *
 
@@ -302,12 +302,12 @@ and skurried away into the darkness as hard as he could go.
 
 Alice took up the fan and gloves, and, as the hall was very hot, she
 kept fanning herself all the time she went on talking: ‘Dear, dear! How
-queer everything is to-day! And yesterday things went on just as usual.
+queer everything is to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)! And yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) things went on just as usual.
 I wonder if I’ve been changed in the night? Let me think: was I the
 same when I got up this morning? I almost think I can remember feeling a
 little different. But if I’m not the same, the next question is, Who
 in the world am I? Ah, THAT’S the great puzzle!’ And she began thinking
-over all the [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren she knew that were of the same age as herself, to
+over all the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren she knew that were of the same age as herself, to
 see if she could have been changed for any of them.
 
 ‘I’m sure I’m not Ada,’ she said, ‘for her hair goes in such long
@@ -361,7 +361,7 @@ sudden change, but very glad to find herself still in existence; ‘and
 now for the garden!’ and she ran with all speed back to the little door:
 but, alas! the little door was shut again, and the little golden key was
 lying on the glass table as before, ‘and things are worse than ever,’
-thought the poor [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), ‘for I never was so small as this before, never!
+thought the poor [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), ‘for I never was so small as this before, never!
 And I declare it’s too bad, that it is!’
 
 As she said these words her foot slipped, and in another moment, splash!
@@ -370,7 +370,7 @@ had somehow fallen into the sea, ‘and in that case I can go back by
 railway,’ she said to herself. (Alice had been to the seaside once in
 her life, and had come to the general conclusion, that wherever you go
 to on the English coast you find a number of bathing machines in the
-sea, some [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren digging in the sand with wooden spades, then a row
+sea, some [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren digging in the sand with wooden spades, then a row
 of lodging houses, and behind them a railway station.) However, she soon
 made out that she was in the pool of tears which she had wept when she
 was nine feet high.
@@ -378,7 +378,7 @@ was nine feet high.
 ‘I wish I hadn’t cried so much!’ said Alice, as she swam about, trying
 to find her way out. ‘I shall be punished for it now, I suppose, by
 being drowned in my own tears! That WILL be a queer thing, to be sure!
-However, everything is queer to-day.’
+However, everything is queer to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).’
 
 Just then she heard something splashing about in the pool a little way
 off, and she swam nearer to make out what it was: at first she thought
@@ -447,7 +447,7 @@ history, and you’ll understand why it is I hate cats and dogs.’
 It was high time to go, for the pool was getting quite crowded with the
 birds and animals that had fallen into it: there were a Duck and a Dodo,
 a Lory and an Eaglet, and several other curious creatures. Alice led the
-way, and the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) swam to the shore.
+way, and the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) swam to the shore.
 
 
 
@@ -455,7 +455,7 @@ way, and the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/co
 ---
 ## CHAPTER III. A C...
 
-They were indeed a queer-looking [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) that assembled on the bank--the
+They were indeed a queer-looking [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) that assembled on the bank--the
 birds with draggled feathers, the animals with their fur clinging close
 to them, and all dripping wet, cross, and uncomfortable.
 
@@ -527,11 +527,11 @@ but the Dodo had paused as if it thought that SOMEBODY ought to speak,
 and no one else seemed inclined to say anything.
 
 ‘Why,’ said the Dodo, ‘the best way to explain it is to do it.’ (And, as
-you might like to try the thing yourself, some winter day, I will tell
+you might like to try the thing yourself, some winter [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), I will tell
 you how the Dodo managed it.)
 
 First it marked out a race-course, in a sort of circle, [‘the exact
-shape doesn’t matter,’ it said,) and then all the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) were placed
+shape doesn’t matter,’ it said,) and then all the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) were placed
 along the course, here and there. There was no ‘One, two, three, and
 away,’ but they began running when they liked, and left off when they
 liked, so that it was not easy to know when the race was over. However,
@@ -548,7 +548,7 @@ of him), while the rest waited in silence. At last the Dodo said,
 ‘But who is to give the prizes?’ quite a chorus of voices asked.
 
 ‘Why, SHE, of course,’ said the Dodo, pointing to Alice with one finger;
-and the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) at once crowded round her, calling out in a confused
+and the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) at once crowded round her, calling out in a confused
 way, ‘Prizes! Prizes!’
 
 Alice had no idea what to do, and in despair she put her hand in her
@@ -635,7 +635,7 @@ and
 condemn
 you
 to
-[death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip).”’
+[death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip).”’
 
 
 ‘You are not attending!’ said the Mouse to Alice severely. ‘What are you
@@ -678,11 +678,11 @@ Alice replied eagerly, for she was always ready to talk about her pet:
 can’t think! And oh, I wish you could see her after the birds! Why,
 she’ll eat a little bird as soon as look at it!’
 
-This speech caused a remarkable sensation among the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip). Some of the
+This speech caused a remarkable sensation among the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). Some of the
 birds hurried off at once: one old Magpie began wrapping itself up very
 carefully, remarking, ‘I really must be getting home; the night-air
 doesn’t suit my throat!’ and a Canary called out in a trembling voice to
-its [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, ‘Come away, my dears! It’s high time you were all in bed!’
+its [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, ‘Come away, my dears! It’s high time you were all in bed!’
 On various pretexts they all moved off, and Alice was soon left alone.
 
 ‘I wish I hadn’t mentioned Dinah!’ she said to herself in a melancholy
@@ -907,7 +907,7 @@ the best plan.’
 It sounded an excellent plan, no doubt, and very neatly and simply
 arranged; the only difficulty was, that she had not the smallest idea
 how to set about it; and while she was peering about anxiously among
-the trees, a little sharp bark just over her head made her look up in a
+the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s, a little sharp bark just over her head made her look up in a
 great hurry.
 
 An enormous puppy was looking down at her with large round eyes, and
@@ -983,12 +983,12 @@ myself, you see.’
 
 ‘I’m afraid I can’t put it more clearly,’ Alice replied very politely,
 ‘for I can’t understand it myself to begin with; and being so many
-different sizes in a day is very confusing.’
+different sizes in a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) is very confusing.’
 
 ‘It isn’t,’ said the Caterpillar.
 
 ‘Well, perhaps you haven’t found it so yet,’ said Alice; ‘but when you
-have to turn into a chrysalis--you will some day, you know--and then
+have to turn into a chrysalis--you will some [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), you know--and then
 after that into a butterfly, I should think you’ll feel it a little
 queer, won’t you?’
 
@@ -1077,7 +1077,7 @@ What made you so awfully clever?’
 
 ‘I have answered three questions, and that is enough,’
 Said his father; ‘don’t give yourself airs!
-Do you think I can listen all day to such stuff?
+Do you think I can listen all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to such stuff?
 Be off, or I’ll kick you down stairs!’
 
 
@@ -1140,7 +1140,7 @@ blow underneath her chin: it had struck her foot!
 
 She was a good deal frightened by this very sudden change, but she felt
 that there was no time to be lost, as she was shrinking rapidly; so she
-set to work at once to eat some of the other bit. Her chin was pressed
+set to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) at once to eat some of the other bit. Her chin was pressed
 so closely against her foot, that there was hardly room to open her
 mouth; but she did it at last, and managed to swallow a morsel of the
 lefthand bit.
@@ -1168,7 +1168,7 @@ tried to get her head down to them, and was delighted to find that her
 neck would bend about easily in any direction, like a serpent. She had
 just succeeded in curving it down into a graceful zigzag, and was going
 to dive in among the leaves, which she found to be nothing but the tops
-of the trees under which she had been wandering, when a sharp hiss made
+of the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s under which she had been wandering, when a sharp hiss made
 her draw back in a hurry: a large pigeon had flown into her face, and
 was beating her violently with its wings.
 
@@ -1182,7 +1182,7 @@ to suit them!’
 
 ‘I haven’t the least idea what you’re talking about,’ said Alice.
 
-‘I’ve tried the roots of trees, and I’ve tried banks, and I’ve tried
+‘I’ve tried the roots of [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s, and I’ve tried banks, and I’ve tried
 hedges,’ the Pigeon went on, without attending to her; ‘but those
 serpents! There’s no pleasing them!’
 
@@ -1190,13 +1190,13 @@ Alice was more and more puzzled, but she thought there was no use in
 saying anything more till the Pigeon had finished.
 
 ‘As if it wasn’t trouble enough hatching the eggs,’ said the Pigeon;
-‘but I must be on the look-out for serpents night and day! Why, I
+‘but I must be on the look-out for serpents night and [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)! Why, I
 haven’t had a wink of sleep these three weeks!’
 
 ‘I’m very sorry you’ve been annoyed,’ said Alice, who was beginning to
 see its meaning.
 
-‘And just as I’d taken the highest tree in the wood,’ continued the
+‘And just as I’d taken the highest [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) in the wood,’ continued the
 Pigeon, raising its voice to a shriek, ‘and just as I was thinking I
 should be free of them at last, they must needs come wriggling down from
 the sky! Ugh, Serpent!’
@@ -1207,7 +1207,7 @@ the sky! Ugh, Serpent!’
 invent something!’
 
 ‘I--I’m a little girl,’ said Alice, rather doubtfully, as she remembered
-the number of changes she had gone through that day.
+the number of changes she had gone through that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
 ‘A likely story indeed!’ said the Pigeon in a tone of the deepest
 contempt. ‘I’ve seen a good many little girls in my time, but never ONE
@@ -1216,7 +1216,7 @@ denying it. I suppose you’ll be telling me next that you never tasted an
 egg!’
 
 ‘I HAVE tasted eggs, certainly,’ said Alice, who was a very truthful
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip); ‘but little girls eat eggs quite as much as serpents do, you
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip); ‘but little girls eat eggs quite as much as serpents do, you
 know.’
 
 ‘I don’t believe it,’ said the Pigeon; ‘but if they do, why then they’re
@@ -1232,11 +1232,11 @@ for eggs, as it happens; and if I was, I shouldn’t want YOURS: I don’t
 like them raw.’
 
 ‘Well, be off, then!’ said the Pigeon in a sulky tone, as it settled
-down again into its nest. Alice crouched down among the trees as well as
+down again into its nest. Alice crouched down among the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s as well as
 she could, for her neck kept getting entangled among the branches, and
 every now and then she had to stop and untwist it. After a while she
 remembered that she still held the pieces of mushroom in her hands, and
-she set to work very carefully, nibbling first at one and then at the
+she set to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) very carefully, nibbling first at one and then at the
 other, and growing sometimes taller and sometimes shorter, until she had
 succeeded in bringing herself down to her usual height.
 
@@ -1307,9 +1307,9 @@ repeated, aloud.
 
 At this moment the door of the house opened, and a large plate came
 skimming out, straight at the Footman’s head: it just grazed his nose,
-and broke to pieces against one of the trees behind him.
+and broke to pieces against one of the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s behind him.
 
-‘--or next day, maybe,’ the Footman continued in the same tone, exactly
+‘--or next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), maybe,’ the Footman continued in the same tone, exactly
 as if nothing had happened.
 
 ‘How am I to get in?’ asked Alice again, in a louder tone.
@@ -1323,7 +1323,7 @@ It’s enough to drive one crazy!’
 
 The Footman seemed to think this a good opportunity for repeating his
 remark, with variations. ‘I shall sit here,’ he said, ‘on and off, for
-days and days.’
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s.’
 
 ‘But what am I to do?’ said Alice.
 
@@ -1369,7 +1369,7 @@ pleased to have got into a conversation.
 Alice did not at all like the tone of this remark, and thought it would
 be as well to introduce some other subject of conversation. While she
 was trying to fix on one, the cook took the cauldron of soup off the
-fire, and at once set to work throwing everything within her reach at
+fire, and at once set to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) throwing everything within her reach at
 the Duchess and the baby--the fire-irons came first; then followed a
 shower of saucepans, plates, and dishes. The Duchess took no notice of
 them even when they hit her; and the baby was howling so much already,
@@ -1384,7 +1384,7 @@ growl, ‘the world would go round a deal faster than it does.’
 
 ‘Which would NOT be an advantage,’ said Alice, who felt very glad to get
 an opportunity of showing off a little of her knowledge. ‘Just think of
-what work it would make with the day and night! You see the earth takes
+what [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) it would make with the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) and night! You see the earth takes
 twenty-four hours to turn round on its axis--’
 
 ‘Talking of axes,’ said the Duchess, ‘chop off her head!’
@@ -1395,7 +1395,7 @@ be listening, so she went on again: ‘Twenty-four hours, I THINK; or is
 it twelve? I--’
 
 ‘Oh, don’t bother ME,’ said the Duchess; ‘I never could abide figures!’
-And with that she began nursing her [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) again, singing a sort of
+And with that she began nursing her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) again, singing a sort of
 lullaby to it as she did so, and giving it a violent shake at the end of
 every line:
 
@@ -1438,8 +1438,8 @@ or two, it was as much as she could do to hold it.
 As soon as she had made out the proper way of nursing it, (which was to
 twist it up into a sort of knot, and then keep tight hold of its right
 ear and left foot, so as to prevent its undoing itself,) she carried
-it out into the open air. ‘IF I don’t take this [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) away with me,’
-thought Alice, ‘they’re sure to kill it in a day or two: wouldn’t it be
+it out into the open air. ‘IF I don’t take this [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) away with me,’
+thought Alice, ‘they’re sure to kill it in a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two: wouldn’t it be
 murder to leave it behind?’ She said the last words out loud, and the
 little thing grunted in reply (it had left off sneezing by this time).
 ‘Don’t grunt,’ said Alice; ‘that’s not at all a proper way of expressing
@@ -1466,12 +1466,12 @@ felt that it would be quite absurd for her to carry it further.
 
 So she set the little creature down, and felt quite relieved to see
 it trot away quietly into the wood. ‘If it had grown up,’ she said
-to herself, ‘it would have made a dreadfully ugly [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip): but it makes
+to herself, ‘it would have made a dreadfully ugly [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip): but it makes
 rather a handsome pig, I think.’ And she began thinking over other
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren she knew, who might do very well as pigs, and was just saying
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren she knew, who might do very well as pigs, and was just saying
 to herself, ‘if one only knew the right way to change them--’ when she
 was a little startled by seeing the Cheshire Cat sitting on a bough of a
-tree a few yards off.
+[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) a few yards off.
 
 The Cat only grinned when it saw Alice. It looked good-natured, she
 thought: still it had VERY long claws and a great many teeth, so she
@@ -1523,7 +1523,7 @@ wag my tail when I’m angry. Therefore I’m mad.’
 ‘I call it purring, not growling,’ said Alice.
 
 ‘Call it what you like,’ said the Cat. ‘Do you play croquet with the
-Queen to-day?’
+Queen to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?’
 
 ‘I should like it very much,’ said Alice, ‘but I haven’t been invited
 yet.’
@@ -1548,7 +1548,7 @@ which the March Hare was said to live. ‘I’ve seen hatters before,’ she
 said to herself; ‘the March Hare will be much the most interesting, and
 perhaps as this is May it won’t be raving mad--at least not so mad as
 it was in March.’ As she said this, she looked up, and there was the Cat
-again, sitting on a branch of a tree.
+again, sitting on a branch of a [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip).
 
 ‘Did you say pig, or fig?’ said the Cat.
 
@@ -1577,7 +1577,7 @@ wish I’d gone to see the Hatter instead!’
 ---
 ## CHAPTER VII. A M...
 
-There was a table set out under a tree in front of the house, and the
+There was a table set out under a [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) in front of the house, and the
 March Hare and the Hatter were having tea at it: a Dormouse was sitting
 between them, fast asleep, and the other two were using it as a
 cushion, resting their elbows on it, and talking over its head. ‘Very
@@ -1637,19 +1637,19 @@ talking in his sleep, ‘that “I breathe when I sleep” is the same thing
 as “I sleep when I breathe”!’
 
 ‘It IS the same thing with you,’ said the Hatter, and here the
-conversation dropped, and the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) sat silent for a minute, while Alice
+conversation dropped, and the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) sat silent for a minute, while Alice
 thought over all she could remember about ravens and writing-desks,
 which wasn’t much.
 
-The Hatter was the first to break the silence. ‘What day of the month
+The Hatter was the first to break the silence. ‘What [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of the month
 is it?’ he said, turning to Alice: he had taken his watch out of his
 pocket, and was looking at it uneasily, shaking it every now and then,
 and holding it to his ear.
 
 Alice considered a little, and then said ‘The fourth.’
 
-‘Two days wrong!’ sighed the Hatter. ‘I told you butter wouldn’t suit
-the works!’ he added looking angrily at the March Hare.
+‘Two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s wrong!’ sighed the Hatter. ‘I told you butter wouldn’t suit
+the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s!’ he added looking angrily at the March Hare.
 
 ‘It was the BEST butter,’ the March Hare meekly replied.
 
@@ -1662,7 +1662,7 @@ nothing better to say than his first remark, ‘It was the BEST butter,
 you know.’
 
 Alice had been looking over his shoulder with some curiosity. ‘What a
-funny watch!’ she remarked. ‘It tells the day of the month, and doesn’t
+funny watch!’ she remarked. ‘It tells the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of the month, and doesn’t
 tell what o’clock it is!’
 
 ‘Why should it?’ muttered the Hatter. ‘Does YOUR watch tell you what
@@ -1894,18 +1894,18 @@ the last time she saw them, they were trying to put the Dormouse into
 the teapot.
 
 ‘At any rate I’ll never go THERE again!’ said Alice as she picked her
-way through the wood. ‘It’s the stupidest tea-[party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) I ever was at in all
+way through the wood. ‘It’s the stupidest tea-[party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) I ever was at in all
 my life!’
 
-Just as she said this, she noticed that one of the trees had a door
+Just as she said this, she noticed that one of the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s had a door
 leading right into it. ‘That’s very curious!’ she thought. ‘But
-everything’s curious today. I think I may as well go in at once.’ And in
+everything’s curious to[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). I think I may as well go in at once.’ And in
 she went.
 
 Once more she found herself in the long hall, and close to the little
 glass table. ‘Now, I’ll manage better this time,’ she said to herself,
 and began by taking the little golden key, and unlocking the door that
-led into the garden. Then she went to work nibbling at the mushroom (she
+led into the garden. Then she went to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) nibbling at the mushroom (she
 had kept a piece of it in her pocket) till she was about a foot high:
 then she walked down the little passage: and THEN--she found herself at
 last in the beautiful garden, among the bright flower-beds and the cool
@@ -1917,7 +1917,7 @@ fountains.
 ---
 ## CHAPTER VIII. Th...
 
-A large rose-tree stood near the entrance of the garden: the roses
+A large rose-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) stood near the entrance of the garden: the roses
 growing on it were white, but there were three gardeners at it, busily
 painting them red. Alice thought this a very curious thing, and she went
 nearer to watch them, and just as she came up to them she heard one of
@@ -1931,7 +1931,7 @@ On which Seven looked up and said, ‘That’s right, Five! Always lay the
 blame on others!’
 
 ‘YOU’D better not talk!’ said Five. ‘I heard the Queen say only
-yesterday you deserved to be beheaded!’
+yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) you deserved to be beheaded!’
 
 ‘What for?’ said the one who had spoken first.
 
@@ -1950,7 +1950,7 @@ those roses?’
 
 Five and Seven said nothing, but looked at Two. Two began in a low
 voice, ‘Why the fact is, you see, Miss, this here ought to have been a
-RED rose-tree, and we put a white one in by mistake; and if the Queen
+RED rose-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip), and we put a white one in by mistake; and if the Queen
 was to find it out, we should all have our heads cut off, you know.
 So you see, Miss, we’re doing our best, afore she comes, to--’ At this
 moment Five, who had been anxiously looking across the garden, called
@@ -1962,7 +1962,7 @@ First came ten soldiers carrying clubs; these were all shaped like
 the three gardeners, oblong and flat, with their hands and feet at the
 corners: next the ten courtiers; these were ornamented all over with
 diamonds, and walked two and two, as the soldiers did. After these came
-the royal [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren; there were ten of them, and the little dears came
+the royal [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren; there were ten of them, and the little dears came
 jumping merrily along hand in hand, in couples: they were all ornamented
 with hearts. Next came the guests, mostly Kings and Queens, and among
 them Alice recognised the White Rabbit: it was talking in a hurried
@@ -1983,17 +1983,17 @@ at her, and the Queen said severely ‘Who is this?’ She said it to the
 Knave of Hearts, who only bowed and smiled in reply.
 
 ‘Idiot!’ said the Queen, tossing her head impatiently; and, turning to
-Alice, she went on, ‘What’s your name, [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)?’
+Alice, she went on, ‘What’s your name, [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)?’
 
 ‘My name is Alice, so please your Majesty,’ said Alice very politely;
 but she added, to herself, ‘Why, they’re only a pack of cards, after
 all. I needn’t be afraid of them!’
 
 ‘And who are THESE?’ said the Queen, pointing to the three gardeners who
-were lying round the rosetree; for, you see, as they were lying on their
+were lying round the rose[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip); for, you see, as they were lying on their
 faces, and the pattern on their backs was the same as the rest of the
 pack, she could not tell whether they were gardeners, or soldiers, or
-courtiers, or three of her own [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren.
+courtiers, or three of her own [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren.
 
 ‘How should I know?’ said Alice, surprised at her own courage. ‘It’s no
 business of MINE.’
@@ -2005,7 +2005,7 @@ moment like a wild beast, screamed ‘Off with her head! Off--’
 silent.
 
 The King laid his hand upon her arm, and timidly said ‘Consider, my
-dear: she is only a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)!’
+dear: she is only a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)!’
 
 The Queen turned angrily away from him, and said to the Knave ‘Turn them
 over!’
@@ -2014,10 +2014,10 @@ The Knave did so, very carefully, with one foot.
 
 ‘Get up!’ said the Queen, in a shrill, loud voice, and the three
 gardeners instantly jumped up, and began bowing to the King, the Queen,
-the royal [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, and everybody else.
+the royal [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, and everybody else.
 
 ‘Leave off that!’ screamed the Queen. ‘You make me giddy.’ And then,
-turning to the rose-tree, she went on, ‘What HAVE you been doing here?’
+turning to the rose-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip), she went on, ‘What HAVE you been doing here?’
 
 ‘May it please your Majesty,’ said Two, in a very humble tone, going
 down on one knee as he spoke, ‘we were trying--’
@@ -2047,7 +2047,7 @@ evidently meant for her.
 ‘Come on, then!’ roared the Queen, and Alice joined the procession,
 wondering very much what would happen next.
 
-‘It’s--it’s a very fine day!’ said a timid voice at her side. She was
+‘It’s--it’s a very fine [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)!’ said a timid voice at her side. She was
 walking by the White Rabbit, who was peeping anxiously into her face.
 
 ‘Very,’ said Alice: ‘--where’s the Duchess?’
@@ -2073,26 +2073,26 @@ Queen said--’
 people began running about in all directions, tumbling up against each
 other; however, they got settled down in a minute or two, and the game
 began. Alice thought she had never seen such a curious croquet-ground in
-her life; it was all ridges and furrows; the balls were live hedge[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)s,
+her life; it was all ridges and furrows; the balls were live hedge[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)s,
 the mallets live flamingoes, and the soldiers had to double themselves
 up and to stand on their hands and feet, to make the arches.
 
 The chief difficulty Alice found at first was in managing her flamingo:
 she succeeded in getting its body tucked away, comfortably enough, under
 her arm, with its legs hanging down, but generally, just as she had got
-its neck nicely straightened out, and was going to give the hedge[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip) a
+its neck nicely straightened out, and was going to give the hedge[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip) a
 blow with its head, it WOULD twist itself round and look up in her face,
 with such a puzzled expression that she could not help bursting out
 laughing: and when she had got its head down, and was going to begin
-again, it was very provoking to find that the hedge[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip) had unrolled
+again, it was very provoking to find that the hedge[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip) had unrolled
 itself, and was in the act of crawling away: besides all this, there was
 generally a ridge or furrow in the way wherever she wanted to send the
-hedge[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip) to, and, as the doubled-up soldiers were always getting up
+hedge[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip) to, and, as the doubled-up soldiers were always getting up
 and walking off to other parts of the ground, Alice soon came to the
 conclusion that it was a very difficult game indeed.
 
 The players all played at once without waiting for turns, quarrelling
-all the while, and fighting for the hedge[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)s; and in a very short
+all the while, and fighting for the hedge[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)s; and in a very short
 time the Queen was in a furious passion, and went stamping about, and
 shouting ‘Off with his head!’ or ‘Off with her head!’ about once in a
 minute.
@@ -2125,7 +2125,7 @@ oneself speak--and they don’t seem to have any rules in particular;
 at least, if there are, nobody attends to them--and you’ve no idea how
 confusing it is all the things being alive; for instance, there’s the
 arch I’ve got to go through next walking about at the other end of the
-ground--and I should have croqueted the Queen’s hedge[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip) just now, only
+ground--and I should have croqueted the Queen’s hedge[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip) just now, only
 it ran away when it saw mine coming!’
 
 ‘How do you like the Queen?’ said the Cat in a low voice.
@@ -2168,16 +2168,16 @@ on, as she heard the Queen’s voice in the distance, screaming with
 passion. She had already heard her sentence three of the players to be
 executed for having missed their turns, and she did not like the look
 of things at all, as the game was in such confusion that she never knew
-whether it was her turn or not. So she went in search of her hedge[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip).
+whether it was her turn or not. So she went in search of her hedge[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip).
 
-The hedge[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip) was engaged in a fight with another hedge[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip), which seemed
+The hedge[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip) was engaged in a fight with another hedge[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip), which seemed
 to Alice an excellent opportunity for croqueting one of them with the
 other: the only difficulty was, that her flamingo was gone across to the
 other side of the garden, where Alice could see it trying in a helpless
-sort of way to fly up into a tree.
+sort of way to fly up into a [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip).
 
 By the time she had caught the flamingo and brought it back, the fight
-was over, and both the hedge[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)s were out of sight: ‘but it doesn’t
+was over, and both the hedge[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)s were out of sight: ‘but it doesn’t
 matter much,’ thought Alice, ‘as all the arches are gone from this side
 of the ground.’ So she tucked it away under her arm, that it might not
 escape again, and went back for a little more conversation with her
@@ -2202,7 +2202,7 @@ beheaded, and that you weren’t to talk nonsense.
 
 The Queen’s argument was, that if something wasn’t done about it in less
 than no time she’d have everybody executed, all round. (It was this last
-remark that had made the whole [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) look so grave and anxious.)
+remark that had made the whole [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) look so grave and anxious.)
 
 Alice could think of nothing else to say but ‘It belongs to the Duchess:
 you’d better ask HER about it.’
@@ -2213,7 +2213,7 @@ And the executioner went off like an arrow.
 The Cat’s head began fading away the moment he was gone, and,
 by the time he had come back with the Duchess, it had entirely
 disappeared; so the King and the executioner ran wildly up and down
-looking for it, while the rest of the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) went back to the game.
+looking for it, while the rest of the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) went back to the game.
 
 
 
@@ -2234,7 +2234,7 @@ though), ‘I won’t have any pepper in my kitchen AT ALL. Soup does very
 well without--Maybe it’s always pepper that makes people hot-tempered,’
 she went on, very much pleased at having found out a new kind of
 rule, ‘and vinegar that makes them sour--and camomile that makes
-them bitter--and--and barley-sugar and such things that make [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren
+them bitter--and--and barley-sugar and such things that make [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren
 sweet-tempered. I only wish people knew that: then they wouldn’t be so
 stingy about it, you know--’
 
@@ -2246,7 +2246,7 @@ a bit.’
 
 ‘Perhaps it hasn’t one,’ Alice ventured to remark.
 
-‘Tut, tut, [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)!’ said the Duchess. ‘Everything’s got a moral, if only
+‘Tut, tut, [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)!’ said the Duchess. ‘Everything’s got a moral, if only
 you can find it.’ And she squeezed herself up closer to Alice’s side as
 she spoke.
 
@@ -2316,7 +2316,7 @@ Alice.
 of everything I’ve said as yet.’
 
 ‘A cheap sort of present!’ thought Alice. ‘I’m glad they don’t give
-birthday presents like that!’ But she did not venture to say it out
+birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) presents like that!’ But she did not venture to say it out
 loud.
 
 ‘Thinking again?’ the Duchess asked, with another dig of her sharp
@@ -2333,7 +2333,7 @@ in the middle of her favourite word ‘moral,’ and the arm that was linked
 into hers began to tremble. Alice looked up, and there stood the Queen
 in front of them, with her arms folded, frowning like a thunderstorm.
 
-‘A fine day, your Majesty!’ the Duchess began in a low, weak voice.
+‘A fine [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), your Majesty!’ the Duchess began in a low, weak voice.
 
 ‘Now, I give you fair warning,’ shouted the Queen, stamping on the
 ground as she spoke; ‘either you or your head must be off, and that in
@@ -2437,7 +2437,7 @@ angrily: ‘really you are very dull!’
 ‘You ought to be ashamed of yourself for asking such a simple question,’
 added the Gryphon; and then they both sat silent and looked at poor
 Alice, who felt ready to sink into the earth. At last the Gryphon said
-to the Mock Turtle, ‘Drive on, old fellow! Don’t be all day about it!’
+to the Mock Turtle, ‘Drive on, old fellow! Don’t be all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) about it!’
 and he went on in these words:
 
 ‘Yes, we went to school in the sea, though you mayn’t believe it--’
@@ -2449,9 +2449,9 @@ and he went on in these words:
 ‘Hold your tongue!’ added the Gryphon, before Alice could speak again.
 The Mock Turtle went on.
 
-‘We had the best of educations--in fact, we went to school every day--’
+‘We had the best of educations--in fact, we went to school every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)--’
 
-‘I’VE been to a day-school, too,’ said Alice; ‘you needn’t be so proud
+‘I’VE been to a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)-school, too,’ said Alice; ‘you needn’t be so proud
 as all that.’
 
 ‘With extras?’ asked the Mock Turtle a little anxiously.
@@ -2511,20 +2511,20 @@ Laughing and Grief, they used to say.’
 ‘So he did, so he did,’ said the Gryphon, sighing in his turn; and both
 creatures hid their faces in their paws.
 
-‘And how many hours a day did you do lessons?’ said Alice, in a hurry to
+‘And how many hours a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) did you do lessons?’ said Alice, in a hurry to
 change the subject.
 
-‘Ten hours the first day,’ said the Mock Turtle: ‘nine the next, and so
+‘Ten hours the first [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),’ said the Mock Turtle: ‘nine the next, and so
 on.’
 
 ‘What a curious plan!’ exclaimed Alice.
 
 ‘That’s the reason they’re called lessons,’ the Gryphon remarked:
-‘because they lessen from day to day.’
+‘because they lessen from [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).’
 
 This was quite a new idea to Alice, and she thought it over a little
-before she made her next remark. ‘Then the eleventh day must have been a
-holiday?’
+before she made her next remark. ‘Then the eleventh [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) must have been a
+holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?’
 
 ‘Of course it was,’ said the Mock Turtle.
 
@@ -2542,7 +2542,7 @@ tone: ‘tell her something about the games now.’
 The Mock Turtle sighed deeply, and drew the back of one flapper across
 his eyes. He looked at Alice, and tried to speak, but for a minute or
 two sobs choked his voice. ‘Same as if he had a bone in his throat,’
-said the Gryphon: and it set to work shaking him and punching him in
+said the Gryphon: and it set to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) shaking him and punching him in
 the back. At last the Mock Turtle recovered his voice, and, with tears
 running down his cheeks, he went on again:--
 
@@ -2700,7 +2700,7 @@ told me he was going a journey, I should say “With what porpoise?”’
 the Gryphon added ‘Come, let’s hear some of YOUR adventures.’
 
 ‘I could tell you my adventures--beginning from this morning,’ said
-Alice a little timidly: ‘but it’s no use going back to yesterday,
+Alice a little timidly: ‘but it’s no use going back to yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),
 because I was a different person then.’
 
 ‘Explain all that,’ said the Mock Turtle.
@@ -2744,7 +2744,7 @@ And will talk in contemptuous tones of the Shark,
 But, when the tide rises and sharks are around,
 His voice has a timid and tremulous sound.]
 
-‘That’s different from what I used to say when I was a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip),’ said the
+‘That’s different from what I used to say when I was a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip),’ said the
 Gryphon.
 
 ‘Well, I never heard it before,’ said the Mock Turtle; ‘but it sounds
@@ -2891,7 +2891,7 @@ could not stand, and she went round the court and got behind him, and
 very soon found an opportunity of taking it away. She did it so quickly
 that the poor little juror (it was Bill, the Lizard) could not make out
 at all what had become of it; so, after hunting all about for it, he was
-obliged to write with one finger for the rest of the day; and this was
+obliged to write with one finger for the rest of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); and this was
 of very little use, as it left no mark on the slate.
 
 ‘Herald, read the accusation!’ said the King.
@@ -2900,7 +2900,7 @@ On this the White Rabbit blew three blasts on the trumpet, and then
 unrolled the parchment scroll, and read as follows:--
 
 ‘The Queen of Hearts, she made some tarts,
-All on a summer day:
+All on a summer [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip):
 The Knave of Hearts, he stole those tarts,
 And took them quite away!’
 
@@ -3125,7 +3125,7 @@ one way up as the other.’
 
 As soon as the jury had a little recovered from the shock of being
 upset, and their slates and pencils had been found and handed back to
-them, they set to work very diligently to write out a history of the
+them, they set to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) very diligently to write out a history of the
 accident, all except the Lizard, who seemed too much overcome to do
 anything but sit with its mouth open, gazing up into the roof of the
 court.
@@ -3209,7 +3209,7 @@ worse. You MUST have meant some mischief, or else you’d have signed your
 name like an honest man.’
 
 There was a general clapping of hands at this: it was the first really
-clever thing the King had said that day.
+clever thing the King had said that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
 ‘That PROVES his guilt,’ said the Queen.
 
@@ -3300,7 +3300,7 @@ with a smile. There was a dead silence.
 
 ‘It’s a pun!’ the King added in an offended tone, and everybody laughed,
 ‘Let the jury consider their verdict,’ the King said, for about the
-twentieth time that day.
+twentieth time that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
 ‘No, no!’ said the Queen. ‘Sentence first--verdict afterwards.’
 
@@ -3321,7 +3321,7 @@ At this the whole pack rose up into the air, and came flying down upon
 her: she gave a little scream, half of fright and half of anger, and
 tried to beat them off, and found herself lying on the bank, with her
 head in the lap of her sister, who was gently brushing away some dead
-leaves that had fluttered down from the trees upon her face.
+leaves that had fluttered down from the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s upon her face.
 
 ‘Wake up, Alice dear!’ said her sister; ‘Why, what a long sleep you’ve
 had!’
@@ -3372,11 +3372,11 @@ heavy sobs.
 Lastly, she pictured to herself how this same little sister of hers
 would, in the after-time, be herself a grown woman; and how she would
 keep, through all her riper years, the simple and loving heart of her
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)hood: and how she would gather about her other little [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, and
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)hood: and how she would gather about her other little [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, and
 make THEIR eyes bright and eager with many a strange tale, perhaps even
 with the dream of Wonderland of long ago: and how she would feel with
 all their simple sorrows, and find a pleasure in all their simple joys,
-remembering her own [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)-life, and the happy summer days.
+remembering her own [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)-life, and the happy summer [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s.
 
 THE END
 

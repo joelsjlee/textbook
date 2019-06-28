@@ -240,7 +240,7 @@ PEHEE-NUEE-NUEE,    _Erromangoan_.
 
 It will be seen that this mere painstaking burrower and grub-worm of
 a poor devil of a Sub-Sub appears to have gone through the long
-Vaticans and street-stalls of the earth, picking up whatever random
+Vaticans and s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t-stalls of the earth, picking up whatever random
 allusions to whales he could anyways find in any book whatsoever,
 sacred or profane. Therefore you must not, in every case at least,
 take the higgledy-piggledy whale statements, however authentic, in
@@ -281,7 +281,7 @@ to be hoary.” —_Job_.
 “There go the ships; there is that Leviathan whom thou hast made to
 play therein.” —_Psalms_.
 
-“In that day, the Lord with his sore, and great, and strong sword,
+“In that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), the Lord with his sore, and great, and strong sword,
 shall punish Leviathan the piercing serpent, even Leviathan that
 crooked serpent; and he shall slay the dragon that is in the sea.”
 —_Isaiah_.
@@ -295,7 +295,7 @@ bottomless gulf of his paunch.” —_Holland’s Plutarch’s Morals_.
 among which the Whales and Whirlpooles called Balaene, take up as
 much in length as four acres or arpens of land.” —_Holland’s Pliny_.
 
-“Scarcely had we proceeded two days on the sea, when about sunrise a
+“Scarcely had we proceeded two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s on the sea, when about sunrise a
 great many Whales and other monsters of the sea, appeared. Among the
 former, one was of a most monstrous size.... This came towards us,
 open-mouthed, raising the waves on all sides, and beating the sea
@@ -308,7 +308,7 @@ before him into a foam.” —_Tooke’s Lucian_. “_The True History_.”
 which had bones of very great value for their teeth, of which he
 brought some to the king.... The best whales were catched in his own
 country, of which some were forty-eight, some fifty yards long. He
-said that he was one of six who had killed sixty in two days.”
+said that he was one of six who had killed sixty in two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s.”
 —_Other or Other’s verbal narrative taken down from his mouth by King
 Alfred, A.D._ 890.
 
@@ -330,7 +330,7 @@ pan.” —_Lord Bacon’s Version of the Psalms_.
 “Touching that monstrous bulk of the whale or ork we have received
 nothing certain. They grow exceeding fat, insomuch that an incredible
 quantity of oil will be extracted out of one whale.” —_Ibid_.
-“_History of Life and [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)_.”
+“_History of Life and [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)_.”
 
 
 
@@ -342,7 +342,7 @@ quantity of oil will be extracted out of one whale.” —_Ibid_.
 
 
 “Which to secure, no skill of leach’s art Mote him availle, but to
-returne againe To his wound’s worker, that with lowly dart, Dinting
+returne againe To his wound’s [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)er, that with lowly dart, Dinting
 his breast, had bred his restless paine, Like as the wounded whale to
 shore flies thro’ the maine.” —_The Faerie Queen_.
 
@@ -353,7 +353,7 @@ calm trouble the ocean till it boil.” —_Sir William Davenant. Preface
 to Gondibert_.
 
 “What spermacetti is, men might justly doubt, since the learned
-Hosmannus in his work of thirty years, saith plainly, _Nescio quid
+Hosmannus in his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of thirty years, saith plainly, _Nescio quid
 sit_.” —_Sir T. Browne. Of Sperma Ceti and the Sperma Ceti Whale.
 Vide his V. E._
 
@@ -373,7 +373,7 @@ sentence of Hobbes’s Leviathan_.
 sprat in the mouth of a whale.” —_Pilgrim’s Progress_.
 
 
-“That sea beast Leviathan, which God of all his works Created hugest
+“That sea beast Leviathan, which God of all his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s Created hugest
 that swim the ocean stream.” —_Paradise Lost_.
 
 —“There Leviathan, Hugest of living creatures, in the deep Stretched
@@ -484,7 +484,7 @@ and sturgeon. And these, when either thrown ashore or caught near the
 coast, are the property of the king.” —_Blackstone_.
 
 
-“Soon to the sport of [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) the crews repair: Rodmond unerring o’er
+“Soon to the sport of [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) the crews repair: Rodmond unerring o’er
 his head suspends The barbed steel, and every turn attends.”
 —_Falconer’s Shipwreck_.
 
@@ -502,7 +502,7 @@ stroke, with immense velocity.” —_John Hunter’s account of the
 dissection of a whale_. (_A small sized one_.)
 
 “The aorta of a whale is larger in the bore than the main pipe of the
-water-works at London Bridge, and the water roaring in its passage
+water-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s at London Bridge, and the water roaring in its passage
 through that pipe is inferior in impetus and velocity to the blood
 gushing from the whale’s heart.” —_Paley’s Theology_.
 
@@ -534,8 +534,8 @@ Whale_.
 
 “In the year 1690 some persons were on a high hill observing the
 whales spouting and sporting with each other, when one observed:
-there—pointing to the sea—is a green pasture where our [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren’s
-grand-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren will go for bread.” —_Obed Macy’s History of
+there—pointing to the sea—is a green pasture where our [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren’s
+grand-[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren will go for bread.” —_Obed Macy’s History of
 Nantucket_.
 
 “I built a cottage for Susan and myself and made a gateway in the
@@ -684,7 +684,7 @@ Trucks_.
 “On one occasion I saw two of these monsters (whales) probably male
 and female, slowly swimming, one after the other, within less than a
 stone’s throw of the shore” (Terra Del Fuego), “over which the beech
-tree extended its branches.” —_Darwin’s Voyage of a Naturalist_.
+[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) extended its branches.” —_Darwin’s Voyage of a Naturalist_.
 
 “‘Stern all!’ exclaimed the mate, as upon turning his head, he saw
 the distended jaws of a large Sperm Whale close to the head of the
@@ -715,7 +715,7 @@ the mouth; whenever it is a damp, drizzly November in my soul; whenever
 I find myself involuntarily pausing before coffin warehouses, and
 bringing up the rear of every funeral I meet; and especially whenever
 my hypos get such an upper hand of me, that it requires a strong moral
-principle to prevent me from deliberately stepping into the street, and
+principle to prevent me from deliberately stepping into the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, and
 methodically knocking people’s hats off—then, I account it high time to
 get to sea as soon as I can. This is my substitute for pistol and ball.
 With a philosophical flourish Cato throws himself upon his sword; I
@@ -725,7 +725,7 @@ cherish very nearly the same feelings towards the ocean with me.
 
 There now is your insular city of the Manhattoes, belted round by
 wharves as Indian isles by coral reefs—commerce surrounds it with her
-surf. Right and left, the streets take you waterward. Its extreme
+surf. Right and left, the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts take you waterward. Its extreme
 downtown is the battery, where that noble mole is washed by waves, and
 cooled by breezes, which a few hours previous were out of sight of
 land. Look at the crowds of water-gazers there.
@@ -737,7 +737,7 @@ thousands upon thousands of mortal men fixed in ocean reveries. Some
 leaning against the spiles; some seated upon the pier-heads; some
 looking over the bulwarks of ships from China; some high aloft in the
 rigging, as if striving to get a still better seaward peep. But these
-are all landsmen; of week days pent up in lath and plaster—tied to
+are all landsmen; of week [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s pent up in lath and plaster—tied to
 counters, nailed to benches, clinched to desks. How then is this? Are
 the green fields gone? What do they here?
 
@@ -746,7 +746,7 @@ seemingly bound for a dive. Strange! Nothing will content them but the
 extremest limit of the land; loitering under the shady lee of yonder
 warehouses will not suffice. No. They must get just as nigh the water
 as they possibly can without falling in. And there they stand—miles of
-them—leagues. Inlanders all, they come from lanes and alleys, streets
+them—leagues. Inlanders all, they come from lanes and alleys, s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts
 and avenues—north, east, south, and west. Yet here they all unite. Tell
 me, does the magnetic virtue of the needles of the compasses of all
 those ships attract them thither?
@@ -765,12 +765,12 @@ ever.
 But here is an artist. He desires to paint you the dreamiest, shadiest,
 quietest, most enchanting bit of romantic landscape in all the valley
 of the Saco. What is the chief element he employs? There stand his
-trees, each with a hollow trunk, as if a hermit and a crucifix were
+[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s, each with a hollow trunk, as if a hermit and a crucifix were
 within; and here sleeps his meadow, and there sleep his cattle; and up
 from yonder cottage goes a sleepy smoke. Deep into distant woodlands
 winds a mazy way, reaching to overlapping spurs of mountains bathed in
 their hill-side blue. But though the picture lies thus tranced, and
-though this pine-tree shakes down its sighs like leaves upon this
+though this pine-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) shakes down its sighs like leaves upon this
 shepherd’s head, yet all were vain, unless the shepherd’s eye were
 fixed upon the magic stream before him. Go visit the Prairies in June,
 when for scores on scores of miles you wade knee-deep among
@@ -871,7 +871,7 @@ as a sort of brief interlude and solo between more extensive
 performances. I take it that this part of the bill must have run
 something like this:
 
-“_Grand Contested [Election](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/election.zip) for the Presidency of the United States._
+“_Grand Contested [Election](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/election.zip) for the Presidency of the United States._
 “WHALING VOYAGE BY ONE ISHMAEL. “BLOODY BATTLE IN AFFGHANISTAN.”
 
 Though I cannot tell why it was exactly that those stage managers, the
@@ -910,10 +910,10 @@ all, one grand hooded phantom, like a snow hill in the air.
 
 I stuffed a shirt or two into my old carpet-bag, tucked it under my
 arm, and started for Cape Horn and the Pacific. Quitting the good city
-of old Manhatto, I duly arrived in New Bedford. It was a Saturday night
+of old Manhatto, I duly arrived in New Bedford. It was a Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night
 in December. Much was I disappointed upon learning that the little
 packet for Nantucket had already sailed, and that no way of reaching
-that place would offer, till the following Monday.
+that place would offer, till the following Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
 As most young candidates for the pains and penalties of whaling stop at
 this same New Bedford, thence to embark on their voyage, it may as well
@@ -932,19 +932,19 @@ imported cobblestones—so goes the story—to throw at the whales, in
 order to discover when they were nigh enough to risk a harpoon from the
 bowsprit?
 
-Now having a night, a day, and still another night following before me
+Now having a night, a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and still another night following before me
 in New Bedford, ere I could embark for my destined port, it became a
 matter of concernment where I was to eat and sleep meanwhile. It was a
 very dubious-looking, nay, a very dark and dismal night, bitingly cold
 and cheerless. I knew no one in the place. With anxious grapnels I had
 sounded my pocket, and only brought up a few pieces of silver,—So,
 wherever you go, Ishmael, said I to myself, as I stood in the middle of
-a dreary street shouldering my bag, and comparing the gloom towards the
+a dreary s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t shouldering my bag, and comparing the gloom towards the
 north with the darkness towards the south—wherever in your wisdom you
 may conclude to lodge for the night, my dear Ishmael, be sure to
 inquire the price, and don’t be too particular.
 
-With halting steps I paced the streets, and passed the sign of “The
+With halting steps I paced the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts, and passed the sign of “The
 Crossed Harpoons”—but it looked too expensive and jolly there. Further
 on, from the bright red windows of the “Sword-Fish Inn,” there came
 such fervent rays, that it seemed to have melted the packed snow and
@@ -953,16 +953,16 @@ ten inches thick in a hard, asphaltic pavement,—rather weary for me,
 when I struck my foot against the flinty projections, because from
 hard, remorseless service the soles of my boots were in a most
 miserable plight. Too expensive and jolly, again thought I, pausing one
-moment to watch the broad glare in the street, and hear the sounds of
+moment to watch the broad glare in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, and hear the sounds of
 the tinkling glasses within. But go on, Ishmael, said I at last; don’t
 you hear? get away from before the door; your patched boots are
-stopping the way. So on I went. I now by instinct followed the streets
+stopping the way. So on I went. I now by instinct followed the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts
 that took me waterward, for there, doubtless, were the cheapest, if not
 the cheeriest inns.
 
-Such dreary streets! blocks of blackness, not houses, on either hand,
+Such dreary s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts! blocks of blackness, not houses, on either hand,
 and here and there a candle, like a candle moving about in a tomb. At
-this hour of the night, of the last day of the week, that quarter of
+this hour of the night, of the last [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of the week, that quarter of
 the town proved all but deserted. But presently I came to a smoky light
 proceeding from a low, wide building, the door of which stood
 invitingly open. It had a careless look, as if it were meant for the
@@ -1002,11 +1002,11 @@ where that tempestuous wind Euroclydon kept up a worse howling than
 ever it did about poor Paul’s tossed craft. Euroclydon, nevertheless,
 is a mighty pleasant zephyr to any one in-doors, with his feet on the
 hob quietly toasting for bed. “In judging of that tempestuous wind
-called Euroclydon,” says an old writer—of whose works I possess the
+called Euroclydon,” says an old writer—of whose [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s I possess the
 only copy extant—“it maketh a marvellous difference, whether thou
 lookest out at it from a glass window where the frost is all on the
 outside, or whether thou observest it from that sashless window, where
-the frost is on both sides, and of which the wight [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) is the only
+the frost is on both sides, and of which the wight [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) is the only
 glazier.” True enough, thought I, as this passage occurred to my
 mind—old black-letter, thou reasonest well. Yes, these eyes are
 windows, and this body of mine is the house. What a pity they didn’t
@@ -1032,7 +1032,7 @@ order to keep out this frost?
 Now, that Lazarus should lie stranded there on the curbstone before the
 door of Dives, this is more wonderful than that an iceberg should be
 moored to one of the Moluccas. Yet Dives himself, he too lives like a
-Czar in an ice palace made of frozen sighs, and being a [president](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/President.zip) of a
+Czar in an ice palace made of frozen sighs, and being a [president](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/President.zip) of a
 temperance society, he only drinks the tepid tears of orphans.
 
 But no more of this blubbering now, we are going a-whaling, and there
@@ -1088,7 +1088,7 @@ glittering teeth resembling ivory saws; others were tufted with knots
 of human hair; and one was sickle-shaped, with a vast handle sweeping
 round like the segment made in the new-mown grass by a long-armed
 mower. You shuddered as you gazed, and wondered what monstrous cannibal
-and savage could ever have gone a [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)-harvesting with such a hacking,
+and savage could ever have gone a [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)-harvesting with such a hacking,
 horrifying implement. Mixed with these were rusty old whaling lances
 and harpoons all broken and deformed. Some were storied weapons. With
 this once long lance, now wildly elbowed, fifty years ago did Nathan
@@ -1115,7 +1115,7 @@ drive beneath it. Within are shabby shelves, ranged round with old
 decanters, bottles, flasks; and in those jaws of swift destruction,
 like another cursed Jonah (by which name indeed they called him),
 bustles a little withered old man, who, for their money, dearly sells
-the sailors deliriums and [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip).
+the sailors deliriums and [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip).
 
 Abominable are the tumblers into which he pours his poison. Though true
 cylinders without—within, the villanous green goggling glasses
@@ -1145,7 +1145,7 @@ Supper’ll be ready directly.”
 
 I sat down on an old wooden settle, carved all over like a bench on the
 Battery. At one end a ruminating tar was still further adorning it with
-his jack-knife, stooping over and diligently working away at the space
+his jack-knife, stooping over and diligently [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing away at the space
 between his legs. He was trying his hand at a ship under full sail, but
 he didn’t make much headway, I thought.
 
@@ -1310,7 +1310,7 @@ unless, may be, he can’t sell his head.”
 “Can’t sell his head?—What sort of a bamboozingly story is this you are
 telling me?” getting into a towering rage. “Do you pretend to say,
 landlord, that this harpooneer is actually engaged this blessed
-Saturday night, or rather Sunday morning, in peddling his head around
+Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night, or rather Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning, in peddling his head around
 this town?”
 
 “That’s precisely it,” said the landlord, “and I told him he couldn’t
@@ -1359,16 +1359,16 @@ sarmon for a chap that rips a little now and then. But be easy, be
 easy, this here harpooneer I have been tellin’ you of has just arrived
 from the south seas, where he bought up a lot of ’balmed New Zealand
 heads (great curios, you know), and he’s sold all on ’em but one, and
-that one he’s trying to sell to-night, cause to-morrow’s Sunday, and it
-would not do to be sellin’ human heads about the streets when folks is
-goin’ to churches. He wanted to, last Sunday, but I stopped him just as
+that one he’s trying to sell to-night, cause to-morrow’s Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and it
+would not do to be sellin’ human heads about the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts when folks is
+goin’ to churches. He wanted to, last Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), but I stopped him just as
 he was goin’ out of the door with four heads strung on a string, for
 all the airth like a string of inions.”
 
 This account cleared up the otherwise unaccountable mystery, and showed
 that the landlord, after all, had had no idea of fooling me—but at the
 same time what could I think of a harpooneer who stayed out of a
-Saturday night clean into the holy Sabbath, engaged in such a cannibal
+Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night clean into the holy Sabbath, engaged in such a cannibal
 business as selling the heads of dead idolators?
 
 “Depend upon it, landlord, that harpooneer is a dangerous man.”
@@ -1383,7 +1383,7 @@ somehow, Sam got pitched on the floor, and came near breaking his arm.
 Arter that, Sal said it wouldn’t do. Come along here, I’ll give ye a
 glim in a jiffy;” and so saying he lighted a candle and held it towards
 me, offering to lead the way. But I stood irresolute; when looking at a
-clock in the corner, he exclaimed “I vum it’s Sunday—you won’t see that
+clock in the corner, he exclaimed “I vum it’s Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)—you won’t see that
 harpooneer to-night; he’s come to anchor somewhere—come along then;
 _do_ come; _won’t_ ye come?”
 
@@ -1417,10 +1417,10 @@ tinkling tags something like the stained porcupine quills round an
 Indian moccasin. There was a hole or slit in the middle of this mat, as
 you see the same in South American ponchos. But could it be possible
 that any sober harpooneer would get into a door mat, and parade the
-streets of any Christian town in that sort of guise? I put it on, to
+s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts of any Christian town in that sort of guise? I put it on, to
 try it, and it weighed me down like a hamper, being uncommonly shaggy
 and thick, and I thought a little damp, as though this mysterious
-harpooneer had been wearing it of a rainy day. I went up in it to a bit
+harpooneer had been wearing it of a rainy [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). I went up in it to a bit
 of glass stuck against the wall, and I never saw such a sight in my
 life. I tore myself out of it in such a hurry that I gave myself a kink
 in the neck.
@@ -1448,7 +1448,7 @@ head-peddler. But I lay perfectly still, and resolved not to say a word
 till spoken to. Holding a light in one hand, and that identical New
 Zealand head in the other, the stranger entered the room, and without
 looking towards the bed, placed his candle a good way off from me on
-the floor in one corner, and then began working away at the knotted
+the floor in one corner, and then began [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing away at the knotted
 cords of the large bag I before spoke of as being in the room. I was
 all eagerness to see his face, but he kept it averted for some time
 while employed in unlacing the bag’s mouth. This accomplished, however,
@@ -1512,7 +1512,7 @@ something that completely fascinated my attention, and convinced me
 that he must indeed be a heathen. Going to his heavy grego, or wrapall,
 or dreadnaught, which he had previously hung on a chair, he fumbled in
 the pockets, and produced at length a curious little deformed image
-with a hunch on its back, and exactly the colour of a three days’ old
+with a hunch on its back, and exactly the colour of a three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s’ old
 Congo baby. Remembering the embalmed head, at first I almost thought
 that this black manikin was a real baby preserved in some similar
 manner. But seeing that it was not at all limber, and that it glistened
@@ -1614,30 +1614,30 @@ I turned in, and never slept better in my life.
 ---
 ## CHAPTER 4. The C...
 
-Upon waking next morning about daylight, I found Queequeg’s arm thrown
+Upon waking next morning about [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light, I found Queequeg’s arm thrown
 over me in the most loving and affectionate manner. You had almost
-thought I had been his wife. The counterpane was of patchwork, full of
+thought I had been his wife. The counterpane was of patch[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), full of
 odd little parti-coloured squares and triangles; and this arm of his
 tattooed all over with an interminable Cretan labyrinth of a figure, no
 two parts of which were of one precise shade—owing I suppose to his
 keeping his arm at sea unmethodically in sun and shade, his shirt
 sleeves irregularly rolled up at various times—this same arm of his, I
-say, looked for all the world like a strip of that same patchwork
+say, looked for all the world like a strip of that same patch[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)
 quilt. Indeed, partly lying on it as the arm did when I first awoke, I
 could hardly tell it from the quilt, they so blended their hues
 together; and it was only by the sense of weight and pressure that I
 could tell that Queequeg was hugging me.
 
 My sensations were strange. Let me try to explain them. When I was a
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), I well remember a somewhat similar circumstance that befell me;
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), I well remember a somewhat similar circumstance that befell me;
 whether it was a reality or a dream, I never could entirely settle. The
 circumstance was this. I had been cutting up some caper or other—I
 think it was trying to crawl up the chimney, as I had seen a little
-sweep do a few days previous; and my stepmother who, somehow or other,
+sweep do a few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s previous; and my stepmother who, somehow or other,
 was all the time whipping me, or sending me to bed supperless,—my
 mother dragged me by the legs out of the chimney and packed me off to
 bed, though it was only two o’clock in the afternoon of the 21st June,
-the longest day in the year in our hemisphere. I felt dreadfully. But
+the longest [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) in the year in our hemisphere. I felt dreadfully. But
 there was no help for it, so up stairs I went to my little room in the
 third floor, undressed myself as slowly as possible so as to kill time,
 and with a bitter sigh got between the sheets.
@@ -1646,7 +1646,7 @@ I lay there dismally calculating that sixteen entire hours must elapse
 before I could hope for a resurrection. Sixteen hours in bed! the small
 of my back ached to think of it. And it was so light too; the sun
 shining in at the window, and a great rattling of coaches in the
-streets, and the sound of gay voices all over the house. I felt worse
+s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts, and the sound of gay voices all over the house. I felt worse
 and worse—at last I got up, dressed, and softly going down in my
 stockinged feet, sought out my stepmother, and suddenly threw myself at
 her feet, beseeching her as a particular favour to give me a good
@@ -1667,7 +1667,7 @@ frozen with the most awful fears, not daring to drag away my hand; yet
 ever thinking that if I could but stir it one single inch, the horrid
 spell would be broken. I knew not how this consciousness at last glided
 away from me; but waking in the morning, I shudderingly remembered it
-all, and for days and weeks and months afterwards I lost myself in
+all, and for [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and weeks and months afterwards I lost myself in
 confounding attempts to explain the mystery. Nay, to this very hour, I
 often puzzle myself with it.
 
@@ -1678,13 +1678,13 @@ thrown round me. But at length all the past night’s events soberly
 recurred, one by one, in fixed reality, and then I lay only alive to
 the comical predicament. For though I tried to move his arm—unlock his
 bridegroom clasp—yet, sleeping as he was, he still hugged me tightly,
-as though naught but [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) should part us twain. I now strove to rouse
+as though naught but [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) should part us twain. I now strove to rouse
 him—“Queequeg!”—but his only answer was a snore. I then rolled over, my
 neck feeling as if it were in a horse-collar; and suddenly felt a
 slight scratch. Throwing aside the counterpane, there lay the tomahawk
 sleeping by the savage’s side, as if it were a hatchet-faced baby. A
 pretty pickle, truly, thought I; abed here in a strange house in the
-broad day, with a cannibal and a tomahawk! “Queequeg!—in the name of
+broad [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), with a cannibal and a tomahawk! “Queequeg!—in the name of
 goodness, Queequeg, wake!” At length, by dint of much wriggling, and
 loud and incessant expostulations upon the unbecomingness of his
 hugging a fellow male in that matrimonial sort of style, I succeeded in
@@ -1707,7 +1707,7 @@ particular compliment to Queequeg, because he treated me with so much
 civility and consideration, while I was guilty of great rudeness;
 staring at him from the bed, and watching all his toilette motions; for
 the time my curiosity getting the better of my breeding. Nevertheless,
-a man like Queequeg you don’t see every day, he and his ways were well
+a man like Queequeg you don’t see every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), he and his ways were well
 worth unusual regarding.
 
 He commenced dressing at top by donning his beaver hat, a very tall
@@ -1715,7 +1715,7 @@ one, by the by, and then—still minus his trowsers—he hunted up his
 boots. What under the heavens he did it for, I cannot tell, but his
 next movement was to crush himself—boots in hand, and hat on—under the
 bed; when, from sundry violent gaspings and strainings, I inferred he
-was hard at work booting himself; though by no law of propriety that I
+was hard at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) booting himself; though by no law of propriety that I
 ever heard of, is any man required to be private when putting on his
 boots. But Queequeg, do you see, was a creature in the transition
 stage—neither caterpillar nor butterfly. He was just enough civilized
@@ -1731,7 +1731,7 @@ ones—probably not made to order either—rather pinched and tormented him
 at the first go off of a bitter cold morning.
 
 Seeing, now, that there were no curtains to the window, and that the
-street being very narrow, the house opposite commanded a plain view
+s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t being very narrow, the house opposite commanded a plain view
 into the room, and observing more and more the indecorous figure that
 Queequeg made, staving about with little else but his hat and boots on;
 I begged him as well as I could, to accelerate his toilet somewhat, and
@@ -1781,7 +1781,7 @@ gowns.
 
 You could pretty plainly tell how long each one had been ashore. This
 young fellow’s healthy cheek is like a sun-toasted pear in hue, and
-would seem to smell almost as musky; he cannot have been three days
+would seem to smell almost as musky; he cannot have been three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s
 landed from his Indian voyage. That man next him looks a few shades
 lighter; you might say a touch of satin wood is in him. In the
 complexion of a third still lingers a tropic tawn, but slightly
@@ -1822,14 +1822,14 @@ the table, too, it so chanced; as cool as an icicle. To be sure I
 cannot say much for his breeding. His greatest admirer could not have
 cordially justified his bringing his harpoon into breakfast with him,
 and using it there without ceremony; reaching over the table with it,
-to the imminent jeopardy of many heads, and grappling the beefsteaks
+to the imminent jeopardy of many heads, and grappling the [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip)steaks
 towards him. But _that_ was certainly very coolly done by him, and
 every one knows that in most people’s estimation, to do anything coolly
 is to do it genteelly.
 
 We will not speak of all Queequeg’s peculiarities here; how he eschewed
 coffee and hot rolls, and applied his undivided attention to
-beefsteaks, done rare. Enough, that when breakfast was over he withdrew
+[beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip)steaks, done rare. Enough, that when breakfast was over he withdrew
 like the rest into the public room, lighted his tomahawk-pipe, and was
 sitting there quietly digesting and smoking with his inseparable hat
 on, when I sallied out for a stroll.
@@ -1841,22 +1841,22 @@ on, when I sallied out for a stroll.
 If I had been astonished at first catching a glimpse of so outlandish
 an individual as Queequeg circulating among the polite society of a
 civilized town, that astonishment soon departed upon taking my first
-daylight stroll through the streets of New Bedford.
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light stroll through the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts of New Bedford.
 
 In thoroughfares nigh the docks, any considerable seaport will
 frequently offer to view the queerest looking nondescripts from foreign
-parts. Even in Broadway and Chestnut streets, Mediterranean mariners
-will sometimes jostle the affrighted ladies. Regent Street is not
+parts. Even in Broadway and Chestnut s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts, Mediterranean mariners
+will sometimes jostle the affrighted ladies. Regent S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t is not
 unknown to Lascars and Malays; and at Bombay, in the Apollo Green, live
 Yankees have often scared the natives. But New Bedford beats all Water
-Street and Wapping. In these last-mentioned haunts you see only
-sailors; but in New Bedford, actual cannibals stand chatting at street
+S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t and Wapping. In these last-mentioned haunts you see only
+sailors; but in New Bedford, actual cannibals stand chatting at s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t
 corners; savages outright; many of whom yet carry on their bones unholy
 flesh. It makes a stranger stare.
 
 But, besides the Feegeeans, Tongatobooarrs, Erromanggoans, Pannangians,
 and Brighggians, and, besides the wild specimens of the whaling-craft
-which unheeded reel about the streets, you will see other sights still
+which unheeded reel about the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts, you will see other sights still
 more curious, certainly more comical. There weekly arrive in this town
 scores of green Vermonters and New Hampshire men, all athirst for gain
 and glory in the fishery. They are mostly young, of stalwart frames;
@@ -1868,7 +1868,7 @@ and swallow-tailed coat, girdled with a sailor-belt and sheath-knife.
 Here comes another with a sou’-wester and a bombazine cloak.
 
 No town-bred dandy will compare with a country-bred one—I mean a
-downright bumpkin dandy—a fellow that, in the dog-days, will mow his
+downright bumpkin dandy—a fellow that, in the dog-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, will mow his
 two acres in buckskin gloves for fear of tanning his hands. Now when a
 country dandy like this takes it into his head to make a distinguished
 reputation, and joins the great whale-fishery, you should see the
@@ -1881,11 +1881,11 @@ buttons, and all, down the throat of the tempest.
 But think not that this famous town has only harpooneers, cannibals,
 and bumpkins to show her visitors. Not at all. Still New Bedford is a
 queer place. Had it not been for us whalemen, that tract of land would
-this day perhaps have been in as howling condition as the coast of
+this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) perhaps have been in as howling condition as the coast of
 Labrador. As it is, parts of her back country are enough to frighten
 one, they look so bony. The town itself is perhaps the dearest place to
 live in, in all New England. It is a land of oil, true enough: but not
-like Canaan; a land, also, of corn and wine. The streets do not run
+like Canaan; a land, also, of corn and wine. The s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts do not run
 with milk; nor in the spring-time do they pave them with fresh eggs.
 Yet, in spite of this, nowhere in all America will you find more
 patrician-like houses; parks and gardens more opulent, than in New
@@ -1910,7 +1910,7 @@ and bountiful horse-chestnuts, candelabra-wise, proffer the passer-by
 their tapering upright cones of congregated blossoms. So omnipotent is
 art; which in many a district of New Bedford has superinduced bright
 terraces of flowers upon the barren refuse rocks thrown aside at
-creation’s final day.
+creation’s final [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
 And the women of New Bedford, they bloom like their own red roses. But
 roses only bloom in summer; whereas the fine carnation of their cheeks
@@ -1926,7 +1926,7 @@ the Puritanic sands.
 
 In this same New Bedford there stands a Whaleman’s Chapel, and few are
 the moody fishermen, shortly bound for the Indian Ocean or Pacific, who
-fail to make a Sunday visit to the spot. I am sure that I did not.
+fail to make a Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) visit to the spot. I am sure that I did not.
 
 Returning from my first morning stroll, I again sallied out upon this
 special errand. The sky had changed from clear, sunny cold, to driving
@@ -1984,10 +1984,10 @@ here.
 In what census of living creatures, the dead of mankind are included;
 why it is that a universal proverb says of them, that they tell no
 tales, though containing more secrets than the Goodwin Sands; how it is
-that to his name who yesterday departed for the other world, we prefix
+that to his name who yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) departed for the other world, we prefix
 so significant and infidel a word, and yet do not thus entitle him, if
 he but embarks for the remotest Indies of this living earth; why the
-Life Insurance Companies pay [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)-forfeitures upon immortals; in what
+Life Insurance Companies pay [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)-forfeitures upon immortals; in what
 eternal, unstirring paralysis, and deadly, hopeless trance, yet lies
 antique Adam who died sixty round centuries ago; how it is that we
 still refuse to be comforted for those who we nevertheless maintain are
@@ -2000,13 +2000,13 @@ dead doubts she gathers her most vital hope.
 
 It needs scarcely to be told, with what feelings, on the eve of a
 Nantucket voyage, I regarded those marble tablets, and by the murky
-light of that darkened, doleful day read the fate of the whalemen who
+light of that darkened, doleful [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) read the fate of the whalemen who
 had gone before me. Yes, Ishmael, the same fate may be thine. But
 somehow I grew merry again. Delightful inducements to embark, fine
 chance for promotion, it seems—aye, a stove boat will make me an
-immortal by brevet. Yes, there is [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) in this business of whaling—a
+immortal by brevet. Yes, there is [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) in this business of whaling—a
 speechlessly quick chaotic bundling of a man into Eternity. But what
-then? Methinks we have hugely mistaken this matter of Life and [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip).
+then? Methinks we have hugely mistaken this matter of Life and [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip).
 Methinks that what they call my shadow here on earth is my true
 substance. Methinks that in looking at things spiritual, we are too
 much like oysters observing the sun through the water, and thinking
@@ -2050,7 +2050,7 @@ finished the pulpit without a stairs, substituting a perpendicular side
 ladder, like those used in mounting a ship from a boat at sea. The wife
 of a whaling captain had provided the chapel with a handsome pair of
 red worsted man-ropes for this ladder, which, being itself nicely
-headed, and stained with a ma[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)any colour, the whole contrivance,
+headed, and stained with a ma[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)any colour, the whole contrivance,
 considering what manner of chapel it was, seemed by no means in bad
 taste. Halting for an instant at the foot of the ladder, and with both
 hands grasping the ornamental knobs of the man-ropes, Father Mapple
@@ -2097,7 +2097,7 @@ off—serenest azure is at hand.”
 Nor was the pulpit itself without a trace of the same sea-taste that
 had achieved the ladder and the picture. Its panelled front was in the
 likeness of a ship’s bluff bows, and the Holy Bible rested on a
-projecting piece of scroll work, fashioned after a ship’s fiddle-headed
+projecting piece of scroll [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), fashioned after a ship’s fiddle-headed
 beak.
 
 What could be more full of meaning?—for the pulpit is ever this earth’s
@@ -2188,7 +2188,7 @@ a ship that’s bound for Tarshish. There lurks, perhaps, a hitherto
 unheeded meaning here. By all accounts Tarshish could have been no
 other city than the modern Cadiz. That’s the opinion of learned men.
 And where is Cadiz, shipmates? Cadiz is in Spain; as far by water, from
-Joppa, as Jonah could possibly have sailed in those ancient days, when
+Joppa, as Jonah could possibly have sailed in those ancient [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, when
 the Atlantic was an almost unknown sea. Because Joppa, the modern
 Jaffa, shipmates, is on the most easterly coast of the Mediterranean,
 the Syrian; and Tarshish or Cadiz more than two thousand miles to the
@@ -2198,7 +2198,7 @@ Miserable man! Oh! most contemptible and worthy of all scorn; with
 slouched hat and guilty eye, skulking from his God; prowling among the
 shipping like a vile burglar hastening to cross the seas. So
 disordered, self-condemning is his look, that had there been policemen
-in those days, Jonah, on the mere suspicion of something wrong, had
+in those [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, Jonah, on the mere suspicion of something wrong, had
 been arrested ere he touched a deck. How plainly he’s a fugitive! no
 baggage, not a hat-box, valise, or carpet-bag,—no friends accompany him
 to the wharf with their adieux. At last, after much dodging search, he
@@ -2283,7 +2283,7 @@ Roman race-horse but so much the more strike his steel tags into him;
 as one who in that miserable plight still turns and turns in giddy
 anguish, praying God for annihilation until the fit be passed; and at
 last amid the whirl of woe he feels, a deep stupor steals over him, as
-over the man who bleeds to [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), for conscience is the wound, and
+over the man who bleeds to [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), for conscience is the wound, and
 there’s naught to staunch it; so, after sore wrestlings in his berth,
 Jonah’s prodigy of ponderous misery drags him drowning down to sleep.
 
@@ -2364,7 +2364,7 @@ While he was speaking these words, the howling of the shrieking,
 slanting storm without seemed to add new power to the preacher, who,
 when describing Jonah’s sea-storm, seemed tossed by a storm himself.
 His deep chest heaved as with a ground-swell; his tossed arms seemed
-the warring elements at work; and the thunders that rolled away from
+the warring elements at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip); and the thunders that rolled away from
 off his swarthy brow, and the light leaping from his eye, made all his
 simple hearers look on him with a quick fear that was strange to them.
 
@@ -2425,7 +2425,7 @@ stands forth his own inexorable self. Delight is to him whose strong
 arms yet support him, when the ship of this base treacherous world has
 gone down beneath him. Delight is to him, who gives no quarter in the
 truth, and kills, burns, and destroys all sin though he pluck it out
-from under the robes of [Senator](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/senator.zip)s and Judges. Delight,—top-gallant
+from under the robes of [Senator](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/senator.zip)s and Judges. Delight,—top-gallant
 delight is to him, who acknowledges no law or lord, but the Lord his
 God, and is only a patriot to heaven. Delight is to him, whom all the
 waves of the billows of the seas of the boisterous mob can never shake
@@ -2592,7 +2592,7 @@ Queequeg now and then affectionately throwing his brown tattooed legs
 over mine, and then drawing them back; so entirely sociable and free
 and easy were we; when, at last, by reason of our confabulations, what
 little nappishness remained in us altogether departed, and we felt like
-getting up again, though day-break was yet some way down the future.
+getting up again, though [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)-break was yet some way down the future.
 
 Yes, we became very wakeful; so much so that our recumbent position
 began to grow wearisome, and by little and little we found ourselves
@@ -2617,7 +2617,7 @@ you lie like the one warm spark in the heart of an arctic crystal.
 
 We had been sitting in this crouching manner for some time, when all at
 once I thought I would open my eyes; for when between sheets, whether
-by day or by night, and whether asleep or awake, I have a way of always
+by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or by night, and whether asleep or awake, I have a way of always
 keeping my eyes shut, in order the more to concentrate the snugness of
 being in bed. Because no man can ever feel his own identity aright
 except his eyes be closed; as if darkness were indeed the proper
@@ -2739,7 +2739,7 @@ were sleeping.
 ---
 ## CHAPTER 13. Whee...
 
-Next morning, Monday, after disposing of the embalmed head to a barber,
+Next morning, Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), after disposing of the embalmed head to a barber,
 for a block, I settled my own and comrade’s bill; using, however, my
 comrade’s money. The grinning landlord, as well as the boarders, seemed
 amazingly tickled at the sudden friendship which had sprung up between
@@ -2752,7 +2752,7 @@ poor carpet-bag, and Queequeg’s canvas sack and hammock, away we went
 down to “the Moss,” the little Nantucket packet schooner moored at the
 wharf. As we were going along the people stared; not at Queequeg so
 much—for they were used to seeing cannibals like him in their
-streets,—but at seeing him and me upon such confidential terms. But we
+s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts,—but at seeing him and me upon such confidential terms. But we
 heeded them not, going along wheeling the barrow by turns, and Queequeg
 now and then stopping to adjust the sheath on his harpoon barbs. I
 asked him why he carried such a troublesome thing with him ashore, and
@@ -2803,7 +2803,7 @@ Queequeg, “what you tink now?—Didn’t our people laugh?”
 
 At last, passage paid, and luggage safe, we stood on board the
 schooner. Hoisting sail, it glided down the Acushnet river. On one
-side, New Bedford rose in terraces of streets, their ice-covered trees
+side, New Bedford rose in terraces of s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts, their ice-covered [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s
 all glittering in the clear, cold air. Huge hills and mountains of
 casks on casks were piled upon her wharves, and side by side the
 world-wandering whale ships lay silent and safely moored at last; while
@@ -2918,7 +2918,7 @@ to send beyond seas for a spile to stop a leak in an oil cask; that
 pieces of wood in Nantucket are carried about like bits of the true
 cross in Rome; that people there plant toadstools before their houses,
 to get under the shade in summer time; that one blade of grass makes an
-oasis, three blades in a day’s walk a prairie; that they wear quicksand
+oasis, three blades in a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)’s walk a prairie; that they wear quicksand
 shoes, something like Laplander snow-shoes; that they are so shut up,
 belted about, every way inclosed, surrounded, and made an utter island
 of by the ocean, that to their very chairs and tables small clams will
@@ -2928,14 +2928,14 @@ extravaganzas only show that Nantucket is no Illinois.
 Look now at the wondrous traditional story of how this island was
 settled by the red-men. Thus goes the legend. In olden times an eagle
 swooped down upon the New England coast, and carried off an infant
-Indian in his talons. With loud lament the parents saw their [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)
+Indian in his talons. With loud lament the parents saw their [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)
 borne out of sight over the wide waters. They resolved to follow in the
 same direction. Setting out in their canoes, after a perilous passage
 they discovered the island, and there they found an empty ivory
 casket,—the poor little Indian’s skeleton.
 
 What wonder, then, that these Nantucketers, born on a beach, should
-take to the sea for a livelihood! They first caught crabs and quo[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)s
+take to the sea for a livelihood! They first caught crabs and quo[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)s
 in the sand; grown bolder, they waded out with nets for mackerel; more
 experienced, they pushed off in boats and captured cod; and at last,
 launching a navy of great ships on the sea, explored this watery world;
@@ -2979,7 +2979,7 @@ very pillow rush herds of walruses and whales.
 
 It was quite late in the evening when the little Moss came snugly to
 anchor, and Queequeg and I went ashore; so we could attend to no
-business that day, at least none but a supper and a bed. The landlord
+business that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), at least none but a supper and a bed. The landlord
 of the Spouter-Inn had recommended us to his cousin Hosea Hussey of the
 Try Pots, whom he asserted to be the proprietor of one of the best kept
 hotels in all Nantucket, and moreover he had assured us that Cousin
@@ -2999,8 +2999,8 @@ inquire the way, we at last came to something which there was no
 mistaking.
 
 Two enormous wooden pots painted black, and suspended by asses’ ears,
-swung from the cross-trees of an old top-mast, planted in front of an
-old doorway. The horns of the cross-trees were sawed off on the other
+swung from the cross-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s of an old top-mast, planted in front of an
+old doorway. The horns of the cross-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s were sawed off on the other
 side, so that this old top-mast looked not a little like a gallows.
 Perhaps I was over sensitive to such impressions at the time, but I
 could not help staring at this gallows with a vague misgiving. A sort
@@ -3105,7 +3105,7 @@ diligently consulting Yojo—the name of his black little god—and Yojo
 had told him two or three times over, and strongly insisted upon it
 everyway, that instead of our going together among the whaling-fleet in
 harbor, and in concert selecting our craft; instead of this, I say,
-Yojo earnestly enjoined that the s[election](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/election.zip) of the ship should rest
+Yojo earnestly enjoined that the s[election](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/election.zip) of the ship should rest
 wholly with me, inasmuch as Yojo purposed befriending us; and, in order
 to do so, had already pitched upon a vessel, which, if left to myself,
 I, Ishmael, should infallibly light upon, for all the world as though
@@ -3118,7 +3118,7 @@ of things; and cherished Yojo with considerable esteem, as a rather
 good sort of god, who perhaps meant well enough upon the whole, but in
 all cases did not succeed in his benevolent designs.
 
-Now, this plan of Queequeg’s, or rather Yojo’s, touching the s[election](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/election.zip)
+Now, this plan of Queequeg’s, or rather Yojo’s, touching the s[election](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/election.zip)
 of our craft; I did not like that plan at all. I had not a little
 relied upon Queequeg’s sagacity to point out the whaler best fitted to
 carry us and our fortunes securely. But as all my remonstrances
@@ -3127,8 +3127,8 @@ accordingly prepared to set about this business with a determined
 rushing sort of energy and vigor, that should quickly settle that
 trifling little affair. Next morning early, leaving Queequeg shut up
 with Yojo in our little bedroom—for it seemed that it was some sort of
-Lent or Ramadan, or day of fasting, humiliation, and prayer with
-Queequeg and Yojo that day; _how_ it was I never could find out, for,
+Lent or Ramadan, or [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of fasting, humiliation, and prayer with
+Queequeg and Yojo that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); _how_ it was I never could find out, for,
 though I applied myself to it several times, I never could master his
 liturgies and XXXIX Articles—leaving Queequeg, then, fasting on his
 tomahawk pipe, and Yojo warming himself at his sacrificial fire of
@@ -3142,7 +3142,7 @@ peered and pryed about the Devil-dam; from her, hopped over to the
 Tit-bit; and finally, going on board the Pequod, looked around her for
 a moment, and then decided that this was the very ship for us.
 
-You may have seen many a quaint craft in your day, for aught I
+You may have seen many a quaint craft in your [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), for aught I
 know;—square-toed luggers; mountainous Japanese junks; butter-box
 galliots, and what not; but take my word for it, you never saw such a
 rare old craft as this same rare old Pequod. She was a ship of the old
@@ -3194,7 +3194,7 @@ insider commanded a complete view forward.
 
 And half concealed in this queer tenement, I at length found one who by
 his aspect seemed to have authority; and who, it being noon, and the
-ship’s work suspended, was now enjoying respite from the burden of
+ship’s [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) suspended, was now enjoying respite from the burden of
 command. He was seated on an old-fashioned oaken chair, wriggling all
 over with curious carving; and the bottom of which was formed of a
 stout interlacing of the same elastic stuff of which the wigwam was
@@ -3203,7 +3203,7 @@ constructed.
 There was nothing so very particular, perhaps, about the appearance of
 the elderly man I saw; he was brown and brawny, like most old seamen,
 and heavily rolled up in blue pilot-cloth, cut in the Quaker style;
-only there was a fine and almost microscopic net-work of the minutest
+only there was a fine and almost microscopic net-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of the minutest
 wrinkles interlacing round his eyes, which must have arisen from his
 continual sailings in many hard gales, and always looking to
 windward;—for this causes the muscles about the eyes to become pursed
@@ -3336,7 +3336,7 @@ Seated on the transom was what seemed to me a most uncommon and
 surprising figure. It turned out to be Captain Bildad, who along with
 Captain Peleg was one of the largest owners of the vessel; the other
 shares, as is sometimes the case in these ports, being held by a crowd
-of old annuitants; widows, fatherless [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, and chancery wards;
+of old annuitants; widows, fatherless [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, and chancery wards;
 each owning about the value of a timber head, or a foot of plank, or a
 nail or two in the ship. People in Nantucket invest their money in
 whaling vessels, the same way that you do yours in approved state
@@ -3344,7 +3344,7 @@ stocks bringing in good interest.
 
 Now, Bildad, like Peleg, and indeed many other Nantucketers, was a
 Quaker, the island having been originally settled by that sect; and to
-this day its inhabitants in general retain in an uncommon measure the
+this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) its inhabitants in general retain in an uncommon measure the
 peculiarities of the Quaker, only variously and anomalously modified by
 things altogether alien and heterogeneous. For some of these same
 Quakers are the most sanguinary of all sailors and whale-hunters. They
@@ -3352,7 +3352,7 @@ are fighting Quakers; they are Quakers with a vengeance.
 
 So that there are instances among them of men, who, named with
 Scripture names—a singularly common fashion on the island—and in
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)hood naturally imbibing the stately dramatic thee and thou of the
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)hood naturally imbibing the stately dramatic thee and thou of the
 Quaker idiom; still, from the audacious, daring, and boundless
 adventure of their subsequent lives, strangely blend with these
 unoutgrown peculiarities, a thousand bold dashes of character, not
@@ -3389,7 +3389,7 @@ conscientious scruples, to bear arms against land invaders, yet himself
 had illimitably invaded the Atlantic and Pacific; and though a sworn
 foe to human bloodshed, yet had he in his straight-bodied coat, spilled
 tuns upon tuns of leviathan gore. How now in the contemplative evening
-of his days, the pious Bildad reconciled these things in the
+of his [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, the pious Bildad reconciled these things in the
 reminiscence, I do not know; but it did not seem to concern him much,
 and very probably he had long since come to the sage and sensible
 conclusion that a man’s religion is one thing, and this practical world
@@ -3399,20 +3399,20 @@ broad shad-bellied waistcoat; from that becoming boat-header,
 chief-mate, and captain, and finally a ship owner; Bildad, as I hinted
 before, had concluded his adventurous career by wholly retiring from
 active life at the goodly age of sixty, and dedicating his remaining
-days to the quiet receiving of his well-earned income.
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s to the quiet receiving of his well-earned income.
 
 Now, Bildad, I am sorry to say, had the reputation of being an
-incorrigible old hunks, and in his sea-going days, a bitter, hard
+incorrigible old hunks, and in his sea-going [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, a bitter, hard
 task-master. They told me in Nantucket, though it certainly seems a
 curious story, that when he sailed the old Categut whaleman, his crew,
 upon arriving home, were mostly all carried ashore to the hospital,
 sore exhausted and worn out. For a pious man, especially for a Quaker,
 he was certainly rather hard-hearted, to say the least. He never used
 to swear, though, at his men, they said; but somehow he got an
-inordinate quantity of cruel, unmitigated hard work out of them. When
+inordinate quantity of cruel, unmitigated hard [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) out of them. When
 Bildad was a chief-mate, to have his drab-coloured eye intently looking
 at you, made you feel completely nervous, till you could clutch
-something—a hammer or a marling-spike, and go to work like mad, at
+something—a hammer or a marling-spike, and go to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) like mad, at
 something or other, never mind what. Indolence and idleness perished
 before him. His own person was the exact embodiment of his utilitarian
 character. On his long, gaunt body, he carried no spare flesh, no
@@ -3464,7 +3464,7 @@ lay—that is, the 275th part of the clear net proceeds of the voyage,
 whatever that might eventually amount to. And though the 275th lay was
 what they call a rather _long lay_, yet it was better than nothing; and
 if we had a lucky voyage, might pretty nearly pay for the clothing I
-would wear out on it, not to speak of my three years’ beef and board,
+would wear out on it, not to speak of my three years’ [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip) and board,
 for which I would not have to pay one stiver.
 
 It might be thought that this was a poor way to accumulate a princely
@@ -3487,7 +3487,7 @@ shipping hands, especially as I now found him on board the Pequod,
 quite at home there in the cabin, and reading his Bible as if at his
 own fireside. Now while Peleg was vainly trying to mend a pen with his
 jack-knife, old Bildad, to my no small surprise, considering that he
-was such an interested [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) in these proceedings; Bildad never heeded
+was such an interested [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) in these proceedings; Bildad never heeded
 us, but went on mumbling to himself out of his book, “_Lay_ not up for
 yourselves treasures upon earth, where moth—”
 
@@ -3581,7 +3581,7 @@ whaled it any?” turning to me.
 “Well, bring him along then.”
 
 And, after signing the papers, off I went; nothing doubting but that I
-had done a good morning’s work, and that the Pequod was the identical
+had done a good morning’s [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and that the Pequod was the identical
 ship that Yojo had provided to carry Queequeg and me round the Cape.
 
 But I had not proceeded far, when I began to bethink me that the
@@ -3641,7 +3641,7 @@ man, it’s better to sail with a moody good captain than a laughing bad
 one. So good-bye to thee—and wrong not Captain Ahab, because he happens
 to have a wicked name. Besides, my boy, he has a wife—not three voyages
 wedded—a sweet, resigned girl. Think of that; by that sweet girl that
-old man has a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip): hold ye then there can be any utter, hopeless harm
+old man has a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip): hold ye then there can be any utter, hopeless harm
 in Ahab? No, no, my lad; stricken, blasted, if he be, Ahab has his
 humanities!”
 
@@ -3662,7 +3662,7 @@ that for the present dark Ahab slipped my mind.
 ## CHAPTER 17. The...
 
 As Queequeg’s Ramadan, or Fasting and Humiliation, was to continue all
-day, I did not choose to disturb him till towards night-fall; for I
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), I did not choose to disturb him till towards night-fall; for I
 cherish the greatest respect towards everybody’s religious obligations,
 never mind how comical, and could not find it in my heart to undervalue
 even a congregation of ants worshipping a toad-stool; or those other
@@ -3769,7 +3769,7 @@ like a carved image with scarce a sign of active life.
 “Queequeg,” said I, going up to him, “Queequeg, what’s the matter with
 you?”
 
-“He hain’t been a sittin’ so all day, has he?” said the landlady.
+“He hain’t been a sittin’ so all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), has he?” said the landlady.
 
 But all we said, not a word could we drag out of him; I almost felt
 like pushing him over, so as to change his position, for it was almost
@@ -3802,7 +3802,7 @@ went up stairs to go to bed, feeling quite sure by this time Queequeg
 must certainly have brought his Ramadan to a termination. But no; there
 he was just where I had left him; he had not stirred an inch. I began
 to grow vexed with him; it seemed so downright senseless and insane to
-be sitting there all day and half the night on his hams in a cold room,
+be sitting there all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) and half the night on his hams in a cold room,
 holding a piece of wood on his head.
 
 “For heaven’s sake, Queequeg, get up and shake yourself; get up and
@@ -3821,7 +3821,7 @@ wretched. Think of it; sleeping all night in the same room with a wide
 awake pagan on his hams in this dreary, unaccountable Ramadan!
 
 But somehow I dropped off at last, and knew nothing more till break of
-day; when, looking over the bedside, there squatted Queequeg, as if he
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); when, looking over the bedside, there squatted Queequeg, as if he
 had been screwed down to the floor. But as soon as the first glimpse of
 sun entered the window, up he got, with stiff and grating joints, but
 with a cheerful look; limped towards me where I lay; pressed his
@@ -3925,7 +3925,7 @@ would have washed some of that devil’s blue off his face.”
 
 “Do tell, now,” cried Bildad, “is this Philistine a regular member of
 Deacon Deuteronomy’s meeting? I never saw him going there, and I pass
-it every Lord’s day.”
+it every Lord’s [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
 
 “I don’t know anything about Deacon Deuteronomy or his meeting,” said
 I; “all I know is, that Queequeg here is a born member of the First
@@ -3946,10 +3946,10 @@ join hands.”
 “Young man, you’d better ship for a missionary, instead of a fore-mast
 hand; I never heard a better sermon. Deacon Deuteronomy—why Father
 Mapple himself couldn’t beat it, and he’s reckoned something. Come
-aboard, come aboard; never mind about the papers. I say, tell Quo[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)
-there—what’s that you call him? tell Quo[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip) to step along. By the great
+aboard, come aboard; never mind about the papers. I say, tell Quo[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)
+there—what’s that you call him? tell Quo[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip) to step along. By the great
 anchor, what a harpoon he’s got there! looks like good stuff that; and
-he handles it about right. I say, Quo[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip), or whatever your name is, did
+he handles it about right. I say, Quo[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip), or whatever your name is, did
 you ever stand in the head of a whale-boat? did you ever strike a
 fish?”
 
@@ -3969,16 +3969,16 @@ eye; why, dad whale dead.”
 “Quick, Bildad,” said Peleg, his partner, who, aghast at the close
 vicinity of the flying harpoon, had retreated towards the cabin
 gangway. “Quick, I say, you Bildad, and get the ship’s papers. We must
-have Hedge[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip) there, I mean Quo[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip), in one of our boats. Look ye,
-Quo[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip), we’ll give ye the ninetieth lay, and that’s more than ever was
+have Hedge[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip) there, I mean Quo[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip), in one of our boats. Look ye,
+Quo[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip), we’ll give ye the ninetieth lay, and that’s more than ever was
 given a harpooneer yet out of Nantucket.”
 
 So down we went into the cabin, and to my great joy Queequeg was soon
 enrolled among the same ship’s company to which I myself belonged.
 
 When all preliminaries were over and Peleg had got everything ready for
-signing, he turned to me and said, “I guess, Quo[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip) there don’t know
-how to write, does he? I say, Quo[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip), blast ye! dost thou sign thy name
+signing, he turned to me and said, “I guess, Quo[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip) there don’t know
+how to write, does he? I say, Quo[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip), blast ye! dost thou sign thy name
 or make thy mark?”
 
 But at this question, Queequeg, who had twice or thrice before taken
@@ -3988,12 +3988,12 @@ counterpart of a queer round figure which was tattooed upon his arm; so
 that through Captain Peleg’s obstinate mistake touching his
 appellative, it stood something like this:—
 
-Quo[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip). his X mark.
+Quo[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip). his X mark.
 
 Meanwhile Captain Bildad sat earnestly and steadfastly eyeing Queequeg,
 and at last rising solemnly and fumbling in the huge pockets of his
 broad-skirted drab coat, took out a bundle of tracts, and selecting one
-entitled “The Latter Day Coming; or No Time to Lose,” placed it in
+entitled “The Latter [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) Coming; or No Time to Lose,” placed it in
 Queequeg’s hands, and then grasping them and the book with both his,
 looked earnestly into his eyes, and said, “Son of darkness, I must do
 my duty by thee; I am part owner of this ship, and feel concerned for
@@ -4017,19 +4017,19 @@ he got stove and went to Davy Jones.”
 
 “Peleg! Peleg!” said Bildad, lifting his eyes and hands, “thou thyself,
 as I myself, hast seen many a perilous time; thou knowest, Peleg, what
-it is to have the fear of [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip); how, then, can’st thou prate in this
+it is to have the fear of [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip); how, then, can’st thou prate in this
 ungodly guise. Thou beliest thine own heart, Peleg. Tell me, when this
 same Pequod here had her three masts overboard in that typhoon on
 Japan, that same voyage when thou went mate with Captain Ahab, did’st
-thou not think of [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) and the Judgment then?”
+thou not think of [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) and the Judgment then?”
 
 “Hear him, hear him now,” cried Peleg, marching across the cabin, and
 thrusting his hands far down into his pockets,—“hear him, all of ye.
-Think of that! When every moment we thought the ship would sink! [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)
+Think of that! When every moment we thought the ship would sink! [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)
 and the Judgment then? What? With all three masts making such an
 everlasting thundering against the side; and every sea breaking over
-us, fore and aft. Think of [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) and the Judgment then? No! no time to
-think about [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) then. Life was what Captain Ahab and I was thinking
+us, fore and aft. Think of [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) and the Judgment then? No! no time to
+think about [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) then. Life was what Captain Ahab and I was thinking
 of; and how to save all hands—how to rig jury-masts—how to get into the
 nearest port; that was what I was thinking of.”
 
@@ -4113,7 +4113,7 @@ a good whale-hunter, and a good captain to his crew.”
 “That’s true, that’s true—yes, both true enough. But you must jump when
 he gives an order. Step and growl; growl and go—that’s the word with
 Captain Ahab. But nothing about that thing that happened to him off
-Cape Horn, long ago, when he lay like dead for three days and nights;
+Cape Horn, long ago, when he lay like dead for three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and nights;
 nothing about that deadly skrimmage with the Spaniard afore the altar
 in Santa?—heard nothing about that, eh? Nothing about the silver
 calabash he spat into? And nothing about his losing his leg last
@@ -4179,7 +4179,7 @@ shrouded sort of talk, now begat in me all kinds of vague wonderments
 and half-apprehensions, and all connected with the Pequod; and Captain
 Ahab; and the leg he had lost; and the Cape Horn fit; and the silver
 calabash; and what Captain Peleg had said of him, when I left the ship
-the day previous; and the prediction of the squaw Tistig; and the
+the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) previous; and the prediction of the squaw Tistig; and the
 voyage we had bound ourselves to sail; and a hundred other shadowy
 things.
 
@@ -4193,22 +4193,22 @@ finally as it seemed to me, I pronounced him in my heart, a humbug.
 ---
 ## CHAPTER 20. All...
 
-A day or two passed, and there was great activity aboard the Pequod.
+A [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two passed, and there was great activity aboard the Pequod.
 Not only were the old sails being mended, but new sails were coming on
 board, and bolts of canvas, and coils of rigging; in short, everything
 betokened that the ship’s preparations were hurrying to a close.
 Captain Peleg seldom or never went ashore, but sat in his wigwam
 keeping a sharp look-out upon the hands: Bildad did all the purchasing
 and providing at the stores; and the men employed in the hold and on
-the rigging were working till long after night-fall.
+the rigging were [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing till long after night-fall.
 
-On the day following Queequeg’s signing the articles, word was given at
+On the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) following Queequeg’s signing the articles, word was given at
 all the inns where the ship’s company were stopping, that their chests
 must be on board before night, for there was no telling how soon the
 vessel might be sailing. So Queequeg and I got down our traps,
 resolving, however, to sleep ashore till the last. But it seems they
 always give very long notice in these cases, and the ship did not sail
-for several days. But no wonder; there was a good deal to be done, and
+for several [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s. But no wonder; there was a good deal to be done, and
 there is no telling how many things to be thought of, before the Pequod
 was fully equipped.
 
@@ -4229,7 +4229,7 @@ spars, and spare lines and harpoons, and spare everythings, almost, but
 a spare Captain and duplicate ship.
 
 At the period of our arrival at the Island, the heaviest storage of the
-Pequod had been almost completed; comprising her beef, bread, water,
+Pequod had been almost completed; comprising her [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip), bread, water,
 fuel, and iron hoops and staves. But, as before hinted, for some time
 there was a continual fetching and carrying on board of divers odds and
 ends of things, both large and small.
@@ -4251,7 +4251,7 @@ Bildad was concerned, and in which she herself owned a score or two of
 well-saved dollars.
 
 But it was startling to see this excellent hearted Quakeress coming on
-board, as she did the last day, with a long oil-ladle in one hand, and
+board, as she did the last [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), with a long oil-ladle in one hand, and
 a still longer whaling lance in the other. Nor was Bildad himself nor
 Captain Peleg at all backward. As for Bildad, he carried about with him
 a long list of the articles needed, and at every fresh arrival, down
@@ -4260,11 +4260,11 @@ while Peleg came hobbling out of his whalebone den, roaring at the men
 down the hatchways, roaring up to the riggers at the mast-head, and
 then concluded by roaring back into his wigwam.
 
-During these days of preparation, Queequeg and I often visited the
+During these [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of preparation, Queequeg and I often visited the
 craft, and as often I asked about Captain Ahab, and how he was, and
 when he was going to come on board his ship. To these questions they
 would answer, that he was getting better and better, and was expected
-aboard every day; meantime, the two captains, Peleg and Bildad, could
+aboard every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); meantime, the two captains, Peleg and Bildad, could
 attend to everything necessary to fit the vessel for the voyage. If I
 had been downright honest with myself, I would have seen very plainly
 in my heart that I did but half fancy being committed this way to so
@@ -4275,7 +4275,7 @@ be already involved in the matter, he insensibly strives to cover up
 his suspicions even from himself. And much this way it was with me. I
 said nothing, and tried to think nothing.
 
-At last it was given out that some time next day the ship would
+At last it was given out that some time next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) the ship would
 certainly sail. So next morning, Queequeg and I took a very early
 start.
 
@@ -4387,7 +4387,7 @@ fellows, and lay them round in the piers and alcoves. Besides, it was
 very convenient on an excursion; much better than those garden-chairs
 which are convertible into walking-sticks; upon occasion, a chief
 calling his attendant, and desiring him to make a settee of himself
-under a spreading tree, perhaps in some damp marshy place.
+under a spreading [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip), perhaps in some damp marshy place.
 
 While narrating these things, every time Queequeg received the tomahawk
 from me, he flourished the hatchet-side of it over the sleeper’s head.
@@ -4408,7 +4408,7 @@ rubbed his eyes.
 
 “Shipped men,” answered I, “when does she sail?”
 
-“Aye, aye, ye are going in her, be ye? She sails to-day. The Captain
+“Aye, aye, ye are going in her, be ye? She sails to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). The Captain
 came aboard last night.”
 
 “What Captain?—Ahab?”
@@ -4487,7 +4487,7 @@ now be seen actively engaged in looking over the bows for the
 approaching anchor, and at intervals singing what seemed a dismal stave
 of psalmody, to cheer the hands at the windlass, who roared forth some
 sort of a chorus about the girls in Booble Alley, with hearty good
-will. Nevertheless, not three days previous, Bildad had told them that
+will. Nevertheless, not three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s previous, Bildad had told them that
 no profane songs would be allowed on board the Pequod, particularly in
 getting under weigh; and Charity, his sister, had placed a small choice
 copy of Watts in each seaman’s berth.
@@ -4506,15 +4506,15 @@ first kick.
 
 “Is that the way they heave in the marchant service?” he roared.
 “Spring, thou sheep-head; spring, and break thy backbone! Why don’t ye
-spring, I say, all of ye—spring! Quo[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)! spring, thou chap with the red
+spring, I say, all of ye—spring! Quo[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)! spring, thou chap with the red
 whiskers; spring there, Scotch-cap; spring, thou green pants. Spring, I
 say, all of ye, and spring your eyes out!” And so saying, he moved
 along the windlass, here and there using his leg very freely, while
 imperturbable Bildad kept leading off with his psalmody. Thinks I,
-Captain Peleg must have been drinking something to-day.
+Captain Peleg must have been drinking something to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
 At last the anchor was up, the sails were set, and off we glided. It
-was a short, cold Christmas; and as the short northern day merged into
+was a short, cold Christmas; and as the short northern [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) merged into
 night, we found ourselves almost broad upon the wintry ocean, whose
 freezing spray cased us in ice, as in polished armor. The long rows of
 teeth on the bulwarks glistened in the moonlight; and like the white
@@ -4571,7 +4571,7 @@ him,—“Captain Bildad—come, old shipmate, we must go. Back the main-yard
 there! Boat ahoy! Stand by to come close alongside, now! Careful,
 careful!—come, Bildad, boy—say your last. Luck to ye, Starbuck—luck to
 ye, Mr. Stubb—luck to ye, Mr. Flask—good-bye and good luck to ye
-all—and this day three years I’ll have a hot supper smoking for ye in
+all—and this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) three years I’ll have a hot supper smoking for ye in
 old Nantucket. Hurrah and away!”
 
 “God bless ye, and have ye in His holy keeping, men,” murmured old
@@ -4582,7 +4582,7 @@ careful in the hunt, ye mates. Don’t stave the boats needlessly, ye
 harpooneers; good white cedar plank is raised full three per cent.
 within the year. Don’t forget your prayers, either. Mr. Starbuck, mind
 that cooper don’t waste the spare staves. Oh! the sail-needles are in
-the green locker! Don’t whale it too much a’ Lord’s days, men; but
+the green locker! Don’t whale it too much a’ Lord’s [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, men; but
 don’t miss a fair chance either, that’s rejecting Heaven’s good gifts.
 Have an eye to the molasses tierce, Mr. Stubb; it was a little leaky, I
 thought. If ye touch at the islands, Mr. Flask, beware of fornication.
@@ -4778,7 +4778,7 @@ _No good blood in their veins?_ They have something better than royal
 blood there. The grandmother of Benjamin Franklin was Mary Morrel;
 afterwards, by marriage, Mary Folger, one of the old settlers of
 Nantucket, and the ancestress to a long line of Folgers and
-harpooneers—all kith and kin to noble Benjamin—this day darting the
+harpooneers—all kith and kin to noble Benjamin—this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) darting the
 barbed iron from one side of the world to the other.
 
 Good again; but then all confess that somehow whaling is not
@@ -4811,7 +4811,7 @@ And, as for me, if, by any possibility, there be any as yet
 undiscovered prime thing in me; if I shall ever deserve any real repute
 in that small but high hushed world which I might not be unreasonably
 ambitious of; if hereafter I shall do anything that, upon the whole, a
-man might rather have done than to have left undone; if, at my [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip),
+man might rather have done than to have left undone; if, at my [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip),
 my executors, or more properly my creditors, find any precious MSS. in
 my desk, then here I prospectively ascribe all the honor and the glory
 to whaling; for a whale-ship was my Yale College and my Harvard.
@@ -4859,7 +4859,7 @@ Quaker by descent. He was a long, earnest man, and though born on an
 icy coast, seemed well adapted to endure hot latitudes, his flesh being
 hard as twice-baked biscuit. Transported to the Indies, his live blood
 would not spoil like bottled ale. He must have been born in some time
-of general drought and famine, or upon one of those fast days for which
+of general drought and famine, or upon one of those fast [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s for which
 his state is famous. Only some thirty arid summers had he seen; those
 summers had dried up all his physical superfluousness. But this, his
 thinness, so to speak, seemed no more the token of wasting anxieties
@@ -4883,7 +4883,7 @@ him to superstition; but to that sort of superstition, which in some
 organizations seems rather to spring, somehow, from intelligence than
 from ignorance. Outward portents and inward presentiments were his. And
 if at times these things bent the welded iron of his soul, much more
-did his far-away domestic memories of his young Cape wife and [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip),
+did his far-away domestic memories of his young Cape wife and [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip),
 tend to bend him still more from the original ruggedness of his nature,
 and open him still further to those latent influences which, in some
 honest-hearted men, restrain the gush of dare-devil daring, so often
@@ -4903,7 +4903,7 @@ Starbuck was no crusader after perils; in him courage was not a
 sentiment; but a thing simply useful to him, and always at hand upon
 all mortally practical occasions. Besides, he thought, perhaps, that in
 this business of whaling, courage was one of the great staple outfits
-of the ship, like her beef and her bread, and not to be foolishly
+of the ship, like her [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip) and her bread, and not to be foolishly
 wasted. Wherefore he had no fancy for lowering for whales after
 sun-down; nor for persisting in fighting a fish that too much persisted
 in fighting him. For, thought Starbuck, I am here in this critical
@@ -4951,7 +4951,7 @@ If, then, to meanest mariners, and renegades and castaways, I shall
 hereafter ascribe high qualities, though dark; weave round them tragic
 graces; if even the most mournful, perchance the most abased, among
 them all, shall at times lift himself to the exalted mounts; if I shall
-touch that workman’s arm with some ethereal light; if I shall spread a
+touch that [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)man’s arm with some ethereal light; if I shall spread a
 rainbow over his disastrous set of sun; then against all mortal critics
 bear me out in it, thou just Spirit of Equality, which hast spread one
 royal mantle of humanity over all my kind! Bear me out in it, thou
@@ -4978,11 +4978,11 @@ whale-boat as if the most deadly encounter were but a dinner, and his
 crew all invited guests. He was as particular about the comfortable
 arrangement of his part of the boat, as an old stage-driver is about
 the snugness of his box. When close to the whale, in the very
-[death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)-lock of the fight, he handled his unpitying lance coolly and
+[death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)-lock of the fight, he handled his unpitying lance coolly and
 off-handedly, as a whistling tinker his hammer. He would hum over his
 old rigadig tunes while flank and flank with the most exasperated
-monster. Long usage had, for this Stubb, converted the jaws of [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)
-into an easy chair. What he thought of [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) itself, there is no
+monster. Long usage had, for this Stubb, converted the jaws of [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)
+into an easy chair. What he thought of [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) itself, there is no
 telling. Whether he ever thought of it at all, might be a question;
 but, if he ever did chance to cast his mind that way after a
 comfortable dinner, no doubt, like a good sailor, he took it to be a
@@ -5091,7 +5091,7 @@ him; and a white man standing before him seemed a white flag come to
 beg truce of a fortress. Curious to tell, this imperial negro,
 Ahasuerus Daggoo, was the Squire of little Flask, who looked like a
 chess-man beside him. As for the residue of the Pequod’s company, be it
-said, that at the present day not one in two of the many thousand men
+said, that at the present [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) not one in two of the many thousand men
 before the mast employed in the American whale fishery, are Americans
 born, though pretty nearly all the officers are. Herein it is the same
 with the American whale fishery as with the American army and military
@@ -5123,7 +5123,7 @@ glory; called a coward here, hailed a hero there!
 ---
 ## CHAPTER 28. Ahab...
 
-For several days after leaving Nantucket, nothing above hatches was
+For several [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s after leaving Nantucket, nothing above hatches was
 seen of Captain Ahab. The mates regularly relieved each other at the
 watches, and for aught that could be seen to the contrary, they seemed
 to be the only commanders of the ship; only they sometimes issued from
@@ -5177,9 +5177,9 @@ from among his grey hairs, and continuing right down one side of his
 tawny scorched face and neck, till it disappeared in his clothing, you
 saw a slender rod-like mark, lividly whitish. It resembled that
 perpendicular seam sometimes made in the straight, lofty trunk of a
-great tree, when the upper lightning tearingly darts down it, and
+great [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip), when the upper lightning tearingly darts down it, and
 without wrenching a single twig, peels and grooves out the bark from
-top to bottom, ere running off into the soil, leaving the tree still
+top to bottom, ere running off into the soil, leaving the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) still
 greenly alive, but branded. Whether that mark was born with him, or
 whether it was the scar left by some desperate wound, no one could
 certainly say. By some tacit consent, throughout the voyage little or
@@ -5223,7 +5223,7 @@ in his face; in all the nameless regal overbearing dignity of some
 mighty woe.
 
 Ere long, from his first visit in the air, he withdrew into his cabin.
-But after that morning, he was every day visible to the crew; either
+But after that morning, he was every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) visible to the crew; either
 standing in his pivot-hole, or seated upon an ivory stool he had; or
 heavily walking the deck. As the sky grew less gloomy; indeed, began to
 grow a little genial, he became still less and less a recluse; as if,
@@ -5240,7 +5240,7 @@ layer upon layer were piled upon his brow, as ever all clouds choose
 the loftiest peaks to pile themselves upon.
 
 Nevertheless, ere long, the warm, warbling persuasiveness of the
-pleasant, holiday weather we came to, seemed gradually to charm him
+pleasant, holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) weather we came to, seemed gradually to charm him
 from his mood. For, as when the red-cheeked, dancing girls, April and
 May, trip home to the wintry, misanthropic woods; even the barest,
 ruggedest, most thunder-cloven old oak will at least send forth some
@@ -5253,15 +5253,15 @@ which, in any other man, would have soon flowered out in a smile.
 ---
 ## CHAPTER 29. Ente...
 
-Some days elapsed, and ice and icebergs all astern, the Pequod now went
+Some [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s elapsed, and ice and icebergs all astern, the Pequod now went
 rolling through the bright Quito spring, which, at sea, almost
 perpetually reigns on the threshold of the eternal August of the
 Tropic. The warmly cool, clear, ringing, perfumed, overflowing,
-redundant days, were as crystal goblets of Persian sherbet, heaped
+redundant [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, were as crystal goblets of Persian sherbet, heaped
 up—flaked up, with rose-water snow. The starred and stately nights
 seemed haughty dames in jewelled velvets, nursing at home in lonely
 pride, the memory of their absent conquering Earls, the golden helmeted
-suns! For sleeping man, ’twas hard to choose between such winsome days
+suns! For sleeping man, ’twas hard to choose between such winsome [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s
 and such seducing nights. But all the witcheries of that unwaning
 weather did not merely lend new spells and potencies to the outward
 world. Inward they turned upon the soul, especially when the still mild
@@ -5270,7 +5270,7 @@ most forms of noiseless twilights. And all these subtle agencies, more
 and more they wrought on Ahab’s texture.
 
 Old age is always wakeful; as if, the longer linked with life, the less
-man has to do with aught that looks like [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip). Among sea-commanders,
+man has to do with aught that looks like [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). Among sea-commanders,
 the old greybeards will oftenest leave their berths to visit the
 night-cloaked deck. It was so with Ahab; only that now, of late, he
 seemed so much to live in the open air, that truly speaking, his visits
@@ -5282,7 +5282,7 @@ grave-dug berth.”
 So, almost every twenty-four hours, when the watches of the night were
 set, and the band on deck sentinelled the slumbers of the band below;
 and when if a rope was to be hauled upon the forecastle, the sailors
-flung it not rudely down, as by day, but with some cautiousness dropt
+flung it not rudely down, as by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), but with some cautiousness dropt
 it to its place for fear of disturbing their slumbering shipmates; when
 this sort of steady quietude would begin to prevail, habitually, the
 silent steersman would watch the cabin-scuttle; and ere long the old
@@ -5361,7 +5361,7 @@ don’t stand right on my legs. Coming afoul of that old man has a sort
 of turned me wrong side out. By the Lord, I must have been dreaming,
 though—How? how? how?—but the only way’s to stash it; so here goes to
 hammock again; and in the morning, I’ll see how this plaguey juggling
-thinks over by daylight.”
+thinks over by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light.”
 
 
 ---
@@ -5526,10 +5526,10 @@ upon the throne of the seas. He is not even by any means the largest of
 the whales. Yet, owing to the long priority of his claims, and the
 profound ignorance which, till some seventy years back, invested the
 then fabulous or utterly unknown sperm-whale, and which ignorance to
-this present day still reigns in all but some few scientific retreats
+this present [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) still reigns in all but some few scientific retreats
 and whale-ports; this usurpation has been every way complete. Reference
 to nearly all the leviathanic allusions in the great poets of past
-days, will satisfy you that the Greenland whale, without one rival, was
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, will satisfy you that the Greenland whale, without one rival, was
 to them the monarch of the seas. But the time has at last come for a
 new proclamation. This is Charing Cross; hear ye! good people all,—the
 Greenland whale is deposed,—the great sperm whale now reigneth!
@@ -5647,7 +5647,7 @@ obtained. All his peculiarities will, in many other places, be enlarged
 upon. It is chiefly with his name that I now have to do. Philologically
 considered, it is absurd. Some centuries ago, when the Sperm whale was
 almost wholly unknown in his own proper individuality, and when his oil
-was only accidentally obtained from the stranded fish; in those days
+was only accidentally obtained from the stranded fish; in those [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s
 spermaceti, it would seem, was popularly supposed to be derived from a
 creature identical with the one then known in England as the Greenland
 or Right Whale. It was the idea also, that this same spermaceti was
@@ -5655,7 +5655,7 @@ that quickening humor of the Greenland Whale which the first syllable
 of the word literally expresses. In those times, also, spermaceti was
 exceedingly scarce, not being used for light, but only as an ointment
 and medicament. It was only to be had from the druggists as you
-nowadays buy an ounce of rhubarb. When, as I opine, in the course of
+nowa[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s buy an ounce of rhubarb. When, as I opine, in the course of
 time, the true nature of spermaceti became known, its original name was
 still retained by the dealers; no doubt to enhance its value by a
 notion so strangely significant of its scarcity. And so the appellation
@@ -5783,7 +5783,7 @@ The Narwhale I have heard called the Tusked whale, the Horned whale,
 and the Unicorn whale. He is certainly a curious example of the
 Unicornism to be found in almost every kingdom of animated nature. From
 certain cloistered old authors I have gathered that this same
-sea-unicorn’s horn was in ancient days regarded as the great antidote
+sea-unicorn’s horn was in ancient [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s regarded as the great antidote
 against poison, and as such, preparations of it brought immense prices.
 It was also distilled to a volatile salts for fainting ladies, the same
 way that the horns of the male deer are manufactured into hartshorn.
@@ -5888,7 +5888,7 @@ and more ago, the command of a whale ship was not wholly lodged in the
 person now called the captain, but was divided between him and an
 officer called the Specksnyder. Literally this word means Fat-Cutter;
 usage, however, in time made it equivalent to Chief Harpooneer. In
-those days, the captain’s authority was restricted to the navigation
+those [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, the captain’s authority was restricted to the navigation
 and general management of the vessel; while over the whale-hunting
 department and all its concerns, the Specksnyder or Chief Harpooneer
 reigned supreme. In the British Greenland Fishery, under the corrupted
@@ -5918,7 +5918,7 @@ of all voyages now or ever made by man), the peculiar perils of it, and
 the community of interest prevailing among a company, all of whom, high
 or low, depend for their profits, not upon fixed wages, but upon their
 common luck, together with their common vigilance, intrepidity, and
-hard work; though all these things do in some cases tend to beget a
+hard [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip); though all these things do in some cases tend to beget a
 less rigorous discipline than in merchantmen generally; yet, never mind
 how much like an old Mesopotamian family these whalemen may, in some
 primitive instances, live together; for all that, the punctilious
@@ -6033,13 +6033,13 @@ peculiarity of sea-life just mentioned.
 Over his ivory-inlaid table, Ahab presided like a mute, maned sea-lion
 on the white coral beach, surrounded by his warlike but still
 deferential cubs. In his own proper turn, each officer waited to be
-served. They were as little [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren before Ahab; and yet, in Ahab,
+served. They were as little [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren before Ahab; and yet, in Ahab,
 there seemed not to lurk the smallest social arrogance. With one mind,
 their intent eyes all fastened upon the old man’s knife, as he carved
 the chief dish before him. I do not suppose that for the world they
 would have profaned that moment with the slightest observation, even
 upon so neutral a topic as the weather. No! And when reaching out his
-knife and fork, between which the slice of beef was locked, Ahab
+knife and fork, between which the slice of [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip) was locked, Ahab
 thereby motioned Starbuck’s plate towards him, the mate received his
 meat as though receiving alms; and cut it tenderly; and a little
 started if, perchance, the knife grazed against the plate; and chewed
@@ -6050,7 +6050,7 @@ were somehow solemn meals, eaten in awful silence; and yet at table old
 Ahab forbade not conversation; only he himself was dumb. What a relief
 it was to choking Stubb, when a rat made a sudden racket in the hold
 below. And poor little Flask, he was the youngest son, and little boy
-of this weary family [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip). His were the shinbones of the saline beef;
+of this weary family [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). His were the shinbones of the saline [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip);
 his would have been the drumsticks. For Flask to have presumed to help
 himself, this must have seemed to him tantamount to larceny in the
 first degree. Had he helped himself at that table, doubtless, never
@@ -6071,14 +6071,14 @@ and yet they also have the privilege of lounging in the rear. If Stubb
 even, who is but a peg higher than Flask, happens to have but a small
 appetite, and soon shows symptoms of concluding his repast, then Flask
 must bestir himself, he will not get more than three mouthfuls that
-day; for it is against holy usage for Stubb to precede Flask to the
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); for it is against holy usage for Stubb to precede Flask to the
 deck. Therefore it was that Flask once admitted in private, that ever
 since he had arisen to the dignity of an officer, from that moment he
 had never known what it was to be otherwise than hungry, more or less.
 For what he ate did not so much relieve his hunger, as keep it immortal
 in him. Peace and satisfaction, thought Flask, have for ever departed
 from my stomach. I am an officer; but, how I wish I could fish a bit of
-old-fashioned beef in the forecastle, as I used to when I was before
+old-fashioned [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip) in the forecastle, as I used to when I was before
 the mast. There’s the fruits of promotion now; there’s the vanity of
 glory: there’s the insanity of life! Besides, if it were so that any
 mere sailor of the Pequod had a grudge against Flask in Flask’s
@@ -6101,7 +6101,7 @@ license and ease, the almost frantic democracy of those inferior
 fellows the harpooneers. While their masters, the mates, seemed afraid
 of the sound of the hinges of their own jaws, the harpooneers chewed
 their food with such a relish that there was a report to it. They dined
-like lords; they filled their bellies like Indian ships all day loading
+like lords; they filled their bellies like Indian ships all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) loading
 with spices. Such portentous appetites had Queequeg and Tashtego, that
 to fill out the vacancies made by the previous repast, often the pale
 Dough-Boy was fain to bring on a great baron of salt-junk, seemingly
@@ -6126,14 +6126,14 @@ It was a sight to see Queequeg seated over against Tashtego, opposing
 his filed teeth to the Indian’s: crosswise to them, Daggoo seated on
 the floor, for a bench would have brought his hearse-plumed head to the
 low carlines; at every motion of his colossal limbs, making the low
-cabin framework to shake, as when an African elephant goes passenger in
+cabin frame[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) to shake, as when an African elephant goes passenger in
 a ship. But for all this, the great negro was wonderfully abstemious,
 not to say dainty. It seemed hardly possible that by such comparatively
 small mouthfuls he could keep up the vitality diffused through so
 broad, baronial, and superb a person. But, doubtless, this noble savage
 fed strong and drank deep of the abounding element of air; and through
 his dilated nostrils snuffed in the sublime life of the worlds. Not by
-beef or by bread, are giants made or nourished. But Queequeg, he had a
+[beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip) or by bread, are giants made or nourished. But Queequeg, he had a
 mortal, barbaric smack of the lip in eating—an ugly sound enough—so
 much so, that the trembling Dough-Boy almost looked to see whether any
 marks of teeth lurked in his own lean arms. And when he would hear
@@ -6144,7 +6144,7 @@ did the whetstone which the harpooneers carried in their pockets, for
 their lances and other weapons; and with which whetstones, at dinner,
 they would ostentatiously sharpen their knives; that grating sound did
 not at all tend to tranquillize poor Dough-Boy. How could he forget
-that in his Island days, Queequeg, for one, must certainly have been
+that in his Island [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, Queequeg, for one, must certainly have been
 guilty of some murderous, convivial indiscretions. Alas! Dough-Boy!
 hard fares the white waiter who waits upon cannibals. Not a napkin
 should he carry on his arm, but a buckler. In good time, though, to his
@@ -6163,14 +6163,14 @@ the ship’s cabin belongs to them; and that it is by courtesy alone that
 anybody else is, at any time, permitted there. So that, in real truth,
 the mates and harpooneers of the Pequod might more properly be said to
 have lived out of the cabin than in it. For when they did enter it, it
-was something as a street-door enters a house; turning inwards for a
+was something as a s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t-door enters a house; turning inwards for a
 moment, only to be turned out the next; and, as a permanent thing,
 residing in the open air. Nor did they lose much hereby; in the cabin
 was no companionship; socially, Ahab was inaccessible. Though nominally
 included in the census of Christendom, he was still an alien to it. He
 lived in the world, as the last of the Grisly Bears lived in settled
 Missouri. And as when Spring and Summer had departed, that wild Logan
-of the woods, burying himself in the hollow of a tree, lived out the
+of the woods, burying himself in the hollow of a [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip), lived out the
 winter there, sucking his own paws; so, in his inclement, howling old
 age, Ahab’s soul, shut up in the caved trunk of his body, there fed
 upon the sullen paws of its gloom!
@@ -6277,7 +6277,7 @@ a hearse, a sentry box, a pulpit, a coach, or any other of those small
 and snug contrivances in which men temporarily isolate themselves. Your
 most usual point of perch is the head of the t’ gallant-mast, where you
 stand upon two thin parallel sticks (almost peculiar to whalemen)
-called the t’ gallant cross-trees. Here, tossed about by the sea, the
+called the t’ gallant cross-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s. Here, tossed about by the sea, the
 beginner feels about as cosy as he would standing on a bull’s horns. To
 be sure, in cold weather you may carry your house aloft with you, in
 the shape of a watch-coat; but properly speaking the thickest
@@ -6302,7 +6302,7 @@ charmingly circumstantial account of the then recently invented
 _crow’s-nest_ of the Glacier, which was the name of Captain Sleet’s
 good craft. He called it the _Sleet’s crow’s-nest_, in honor of
 himself; he being the original inventor and patentee, and free from all
-ridiculous false delicacy, and holding that if we call our own [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren
+ridiculous false delicacy, and holding that if we call our own [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren
 after our own names (we fathers being the original inventors and
 patentees), so likewise should we denominate after ourselves any other
 apparatus we may beget. In shape, the Sleet’s crow’s-nest is something
@@ -6367,10 +6367,10 @@ offers to ship with the Phædon instead of Bowditch in his head. Beware
 of such an one, I say; your whales must be seen before they can be
 killed; and this sunken-eyed young Platonist will tow you ten wakes
 round the world, and never make you one pint of sperm the richer. Nor
-are these monitions at all unneeded. For nowadays, the whale-fishery
+are these monitions at all unneeded. For nowa[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, the whale-fishery
 furnishes an asylum for many romantic, melancholy, and absent-minded
 young men, disgusted with the carking cares of earth, and seeking
-sentiment in tar and blubber. [Child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)e Harold not unfrequently perches
+sentiment in tar and blubber. [Child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)e Harold not unfrequently perches
 himself upon the mast-head of some luckless disappointed whale-ship,
 and in moody phrase ejaculates:—
 
@@ -6411,7 +6411,7 @@ gently rolling ship; by her, borrowed from the sea; by the sea, from
 the inscrutable tides of God. But while this sleep, this dream is on
 ye, move your foot or hand an inch; slip your hold at all; and your
 identity comes back in horror. Over Descartian vortices you hover. And
-perhaps, at mid-day, in the fairest weather, with one half-throttled
+perhaps, at mid-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), in the fairest weather, with one half-throttled
 shriek you drop through that transparent air into the summer sea, no
 more to rise for ever. Heed it well, ye Pantheists!
 
@@ -6448,7 +6448,7 @@ the shell. ’Twill soon be out.”
 The hours wore on;—Ahab now shut up within his cabin; anon, pacing the
 deck, with the same intense bigotry of purpose in his aspect.
 
-It drew near the close of day. Suddenly he came to a halt by the
+It drew near the close of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Suddenly he came to a halt by the
 bulwarks, and inserting his bone leg into the auger-hole there, and
 with one hand grasping a shroud, he ordered Starbuck to send everybody
 aft.
@@ -6547,7 +6547,7 @@ round as though uncorking a bottle—“like him—him—”
 and wrenched in him; aye, Daggoo, his spout is a big one, like a whole
 shock of wheat, and white as a pile of our Nantucket wool after the
 great annual sheep-shearing; aye, Tashtego, and he fan-tails like a
-split jib in a squall. [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) and devils! men, it is Moby Dick ye have
+split jib in a squall. [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) and devils! men, it is Moby Dick ye have
 seen—Moby Dick—Moby Dick!”
 
 “Captain Ahab,” said Starbuck, who, with Stubb and Flask, had thus far
@@ -6561,7 +6561,7 @@ hearties all round; it was Moby Dick that dismasted me; Moby Dick that
 brought me to this dead stump I stand on now. Aye, aye,” he shouted
 with a terrific, loud, animal sob, like that of a heart-stricken moose;
 “Aye, aye! it was that accursed white whale that razed me; made a poor
-pegging lubber of me for ever and a day!” Then tossing both arms, with
+pegging lubber of me for ever and a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)!” Then tossing both arms, with
 measureless imprecations he shouted out: “Aye, aye! and I’ll chase him
 round Good Hope, and round the Horn, and round the Norway Maelstrom,
 and round perdition’s flames before I give him up. And this is what ye
@@ -6579,7 +6579,7 @@ men. Steward! go draw the great measure of grog. But what’s this long
 face about, Mr. Starbuck; wilt thou not chase the white whale? art not
 game for Moby Dick?”
 
-“I am game for his crooked jaw, and for the jaws of [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) too, Captain
+“I am game for his crooked jaw, and for the jaws of [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) too, Captain
 Ahab, if it fairly comes in the way of the business we follow; but I
 came here to hunt whales, not my commander’s vengeance. How many
 barrels will thy vengeance yield thee even if thou gettest it, Captain
@@ -6713,8 +6713,8 @@ sockets with the fiery waters from the pewter.
 them, ye who are now made parties to this indissoluble league. Ha!
 Starbuck! but the deed is done! Yon ratifying sun now waits to sit upon
 it. Drink, ye harpooneers! drink and swear, ye men that man the
-[death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)ful whaleboat’s bow—[Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) to Moby Dick! God hunt us all, if we do
-not hunt Moby Dick to his [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)!” The long, barbed steel goblets were
+[death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)ful whaleboat’s bow—[Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) to Moby Dick! God hunt us all, if we do
+not hunt Moby Dick to his [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)!” The long, barbed steel goblets were
 lifted; and to cries and maledictions against the white whale, the
 spirits were simultaneously quaffed down with a hiss. Starbuck paled,
 and turned, and shivered. Once more, and finally, the replenished
@@ -6832,7 +6832,7 @@ Stubb, what of it, Stubb? Here’s a carcase. I know not all that may be
 coming, but be it what it will, I’ll go to it laughing. Such a waggish
 leering as lurks in all your horribles! I feel funny. Fa, la! lirra,
 skirra! What’s my juicy little pear at home doing now? Crying its eyes
-out?—Giving a [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) to the last arrived harpooneers, I dare say, gay as
+out?—Giving a [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) to the last arrived harpooneers, I dare say, gay as
 a frigate’s pennant, and so am I—fa, la! lirra, skirra! Oh—
 
 
@@ -6879,7 +6879,7 @@ MATE’S VOICE FROM THE QUARTER-DECK. Eight bells there, forward!
 
 2ND NANTUCKET SAILOR. Avast the chorus! Eight bells there! d’ye hear,
 bell-boy? Strike the bell eight, thou Pip! thou blackling! and let me
-call the watch. I’ve the sort of mouth for that—the [hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)shead mouth. So,
+call the watch. I’ve the sort of mouth for that—the [hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)shead mouth. So,
 so, (_thrusts his head down the scuttle_,) Star-bo-l-e-e-n-s, a-h-o-y!
 Eight bells there below! Tumble up!
 
@@ -6969,7 +6969,7 @@ else come satiety. Eh, Pagan? (_Nudging_.)
 TAHITAN SAILOR. (_Reclining on a mat_.) Hail, holy nakedness of our
 dancing girls!—the Heeva-Heeva! Ah! low veiled, high palmed Tahiti! I
 still rest me on thy mat, but the soft soil has slid! I saw thee woven
-in the wood, my mat! green the first day I brought ye thence; now worn
+in the wood, my mat! green the first [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) I brought ye thence; now worn
 and wilted quite. Ah me!—not thou nor I can bear the change! How then,
 if so be transplanted to yon sky? Hear I the roaring streams from
 Pirohitee’s peak of spears, when they leap down the crags and drown the
@@ -6995,7 +6995,7 @@ lads to hunt him up his whale!
 ALL. Aye! aye!
 
 OLD MANX SAILOR. How the three pines shake! Pines are the hardest sort
-of tree to live when shifted to any other soil, and here there’s none
+of [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) to live when shifted to any other soil, and here there’s none
 but the crew’s cursed clay. Steady, helmsman! steady. This is the sort
 of weather when brave hearts snap ashore, and keeled hulls split at
 sea. Our captain has his birthmark; look yonder, boys, there’s another
@@ -7012,7 +7012,7 @@ DAGGOO (_grimly_). None.
 
 ST. JAGO’S SAILOR. That Spaniard’s mad or drunk. But that can’t be, or
 else in his one case our old Mogul’s fire-waters are somewhat long in
-working.
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing.
 
 5TH NANTUCKET SAILOR. What’s that I saw—lightning? Yes.
 
@@ -7034,7 +7034,7 @@ Plunge in with ye!
 ENGLISH SAILOR. Fair play! Snatch the Spaniard’s knife! A ring, a ring!
 
 OLD MANX SAILOR. Ready formed. There! the ringed horizon. In that ring
-Cain struck Abel. Sweet work, right work! No? Why then, God, mad’st
+Cain struck Abel. Sweet [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), right [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)! No? Why then, God, mad’st
 thou the ring?
 
 MATE’S VOICE FROM THE QUARTER-DECK. Hands by the halyards! in
@@ -7045,7 +7045,7 @@ ALL. The squall! the squall! jump, my jollies! (_They scatter_.)
 PIP (_shrinking under the windlass_). Jollies? Lord help such jollies!
 Crish, crash! there goes the jib-stay! Blang-whang! God! Duck lower,
 Pip, here comes the royal yard! It’s worse than being in the whirled
-woods, the last day of the year! Who’d go climbing after chestnuts now?
+woods, the last [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of the year! Who’d go climbing after chestnuts now?
 But there they go, all cursing, and here I don’t. Fine prospects to
 ’em; they’re on the road to heaven. Hold on hard! Jimmini, what a
 squall! But those chaps there are worse yet—they are your white
@@ -7113,7 +7113,7 @@ Whale had eventually come.
 Nor did wild rumors of all sorts fail to exaggerate, and still the more
 horrify the true histories of these deadly encounters. For not only do
 fabulous rumors naturally grow out of the very body of all surprising
-terrible events,—as the smitten tree gives birth to its fungi; but, in
+terrible events,—as the smitten [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) gives birth to its fungi; but, in
 maritime life, far more than in that of terra firma, wild rumors
 abound, wherever there is any adequate reality for them to cling to.
 And as the sea surpasses the land in this matter, so the whale fishery
@@ -7141,11 +7141,11 @@ strike, that few who by those rumors, at least, had heard of the White
 Whale, few of those hunters were willing to encounter the perils of his
 jaw.
 
-But there were still other and more vital practical influences at work.
-Not even at the present day has the original prestige of the Sperm
+But there were still other and more vital practical influences at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip).
+Not even at the present [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) has the original prestige of the Sperm
 Whale, as fearfully distinguished from all other species of the
 leviathan, died out of the minds of the whalemen as a body. There are
-those this day among them, who, though intelligent and courageous
+those this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) among them, who, though intelligent and courageous
 enough in offering battle to the Greenland or Right whale, would
 perhaps—either from professional inexperience, or incompetency, or
 timidity, decline a contest with the Sperm Whale; at any rate, there
@@ -7153,7 +7153,7 @@ are plenty of whalemen, especially among those whaling nations not
 sailing under the American flag, who have never hostilely encountered
 the Sperm Whale, but whose sole knowledge of the leviathan is
 restricted to the ignoble monster primitively pursued in the North;
-seated on their hatches, these men will hearken with a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ish
+seated on their hatches, these men will hearken with a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ish
 fireside interest and awe, to the wild, strange tales of Southern
 whaling. Nor is the pre-eminent tremendousness of the great Sperm Whale
 anywhere more feelingly comprehended, than on board of those prows
@@ -7169,14 +7169,14 @@ similar impressions effaced. For in his Natural History, the Baron
 himself affirms that at sight of the Sperm Whale, all fish (sharks
 included) are “struck with the most lively terrors,” and “often in the
 precipitancy of their flight dash themselves against the rocks with
-such violence as to cause instantaneous [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip).” And however the general
+such violence as to cause instantaneous [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip).” And however the general
 experiences in the fishery may amend such reports as these; yet in
 their full terribleness, even to the bloodthirsty item of Povelson, the
 superstitious belief in them is, in some vicissitudes of their
 vocation, revived in the minds of the hunters.
 
 So that overawed by the rumors and portents concerning him, not a few
-of the fishermen recalled, in reference to Moby Dick, the earlier days
+of the fishermen recalled, in reference to Moby Dick, the earlier [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s
 of the Sperm Whale fishery, when it was oftentimes hard to induce long
 practised Right whalemen to embark in the perils of this new and daring
 warfare; such men protesting that although other leviathans might be
@@ -7215,7 +7215,7 @@ that some whales have been captured far north in the Pacific, in whose
 bodies have been found the barbs of harpoons darted in the Greenland
 seas. Nor is it to be gainsaid, that in some of these instances it has
 been declared that the interval of time between the two assaults could
-not have exceeded very many days. Hence, by inference, it has been
+not have exceeded very many [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s. Hence, by inference, it has been
 believed by some whalemen, that the Nor’ West Passage, so long a
 problem to man, was never a problem to the whale. So that here, in the
 real living experience of living men, the prodigies related in old
@@ -7266,7 +7266,7 @@ boats to splinters, or drive them back in consternation to their ship.
 Already several fatalities had attended his chase. But though similar
 disasters, however little bruited ashore, were by no means unusual in
 the fishery; yet, in most instances, such seemed the White Whale’s
-infernal aforethought of ferocity, that every dismembering or [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)
+infernal aforethought of ferocity, that every dismembering or [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)
 that he caused, was not wholly regarded as having been inflicted by an
 unintelligent agent.
 
@@ -7311,7 +7311,7 @@ monster, knife in hand, he had but given loose to a sudden, passionate,
 corporal animosity; and when he received the stroke that tore him, he
 probably but felt the agonizing bodily laceration, but nothing more.
 Yet, when by this collision forced to turn towards home, and for long
-months of days and weeks, Ahab and anguish lay stretched together in
+months of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and weeks, Ahab and anguish lay stretched together in
 one hammock, rounding in mid winter that dreary, howling Patagonian
 Cape; then it was, that his torn body and gashed soul bled into one
 another; and so interfusing, made him mad. That it was only then, on
@@ -7371,7 +7371,7 @@ terrible casualty which had overtaken him.
 
 The report of his undeniable delirium at sea was likewise popularly
 ascribed to a kindred cause. And so too, all the added moodiness which
-always afterwards, to the very day of sailing in the Pequod on the
+always afterwards, to the very [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of sailing in the Pequod on the
 present voyage, sat brooding on his brow. Nor is it so very unlikely,
 that far from distrusting his fitness for another whaling voyage, on
 account of such dark symptoms, the calculating people of that prudent
@@ -7409,7 +7409,7 @@ be—what the White Whale was to them, or how to their unconscious
 understandings, also, in some dim, unsuspected way, he might have
 seemed the gliding great demon of the seas of life,—all this to
 explain, would be to dive deeper than Ishmael can go. The subterranean
-miner that works in us all, how can one tell whither leads his shaft by
+miner that [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s in us all, how can one tell whither leads his shaft by
 the ever shifting, muffled sound of his pick? Who does not feel the
 irresistible arm drag? What skiff in tow of a seventy-four can stand
 still? For one, I gave myself up to the abandonment of the time and the
@@ -7446,7 +7446,7 @@ overlording Rome, having for the imperial colour the same imperial hue;
 and though this pre-eminence in it applies to the human race itself,
 giving the white man ideal mastership over every dusky tribe; and
 though, besides, all this, whiteness has been even made significant of
-gladness, for among the Romans a white stone marked a joyful day; and
+gladness, for among the Romans a white stone marked a joyful [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); and
 though in other mortal sympathies and symbolizings, this same hue is
 made the emblem of many touching, noble things—the innocence of brides,
 the benignity of age; though among the Red Men of America the giving of
@@ -7503,7 +7503,7 @@ same quality in the Polar quadruped. This peculiarity is most vividly
 hit by the French in the name they bestow upon that fish. The Romish
 mass for the dead begins with “Requiem eternam” (eternal rest), whence
 _Requiem_ denominating the mass itself, and any other funeral music.
-Now, in allusion to the white, silent stillness of [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) in this shark,
+Now, in allusion to the white, silent stillness of [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) in this shark,
 and the mild deadliness of his habits, the French call him _Requin_.
 
 Bethink thee of the albatross, whence come those clouds of spiritual
@@ -7554,7 +7554,7 @@ White Steed of the Prairies; a magnificent milk-white charger,
 large-eyed, small-headed, bluff-chested, and with the dignity of a
 thousand monarchs in his lofty, overscorning carriage. He was the
 elected Xerxes of vast herds of wild horses, whose pastures in those
-days were only fenced by the Rocky Mountains and the Alleghanies. At
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s were only fenced by the Rocky Mountains and the Alleghanies. At
 their flaming head he westward trooped it like that chosen star which
 every evening leads on the hosts of light. The flashing cascade of his
 mane, the curving comet of his tail, invested him with housings more
@@ -7631,7 +7631,7 @@ entirely conscious of them at the time, and therefore may not be able
 to recall them now.
 
 Why to the man of untutored ideality, who happens to be but loosely
-acquainted with the peculiar character of the day, does the bare
+acquainted with the peculiar character of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), does the bare
 mention of Whitsuntide marshal in the fancy such long, dreary,
 speechless processions of slow-pacing pilgrims, down-cast and hooded
 with new-fallen snow? Or, to the unread, unsophisticated Protestant of
@@ -7699,7 +7699,7 @@ mere fancying of the eternal frosted desolateness reigning at such vast
 altitudes, and the natural conceit of what a fearfulness it would be to
 lose oneself in such inhuman solitudes. Much the same is it with the
 backwoodsman of the West, who with comparative indifference views an
-unbounded prairie sheeted with driven snow, no shadow of tree or twig
+unbounded prairie sheeted with driven snow, no shadow of [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) or twig
 to break the fixed trance of whiteness. Not so the sailor, beholding
 the scenery of the Antarctic seas; where at times, by some infernal
 trick of legerdemain in the powers of frost and air, he, shivering and
@@ -7713,7 +7713,7 @@ hypo, Ishmael.
 
 Tell me, why this strong young colt, foaled in some peaceful valley of
 Vermont, far removed from all beasts of prey—why is it that upon the
-sunniest day, if you but shake a fresh buffalo robe behind him, so that
+sunniest [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), if you but shake a fresh buffalo robe behind him, so that
 he cannot even see it, but only smells its wild animal muskiness—why
 will he start, snort, and with bursting eyes paw the ground in
 phrensies of affright? There is no remembrance in him of any gorings of
@@ -7858,7 +7858,7 @@ to Ahab, who knew the sets of all tides and currents; and thereby
 calculating the driftings of the sperm whale’s food; and, also, calling
 to mind the regular, ascertained seasons for hunting him in particular
 latitudes; could arrive at reasonable surmises, almost approaching to
-certainties, concerning the timeliest day to be upon this or that
+certainties, concerning the timeliest [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to be upon this or that
 ground in search of his prey.
 
 So assured, indeed, is the fact concerning the periodicalness of the
@@ -7879,9 +7879,9 @@ portions of it are presented in the circular. “This chart divides the
 ocean into districts of five degrees of latitude by five degrees of
 longitude; perpendicularly through each of which districts are twelve
 columns for the twelve months; and horizontally through each of which
-districts are three lines; one to show the number of days that have
+districts are three lines; one to show the number of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s that have
 been spent in each month in every district, and the two others to
-show the number of days in which whales, sperm or right, have been
+show the number of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s in which whales, sperm or right, have been
 seen.”
 
 
@@ -7955,7 +7955,7 @@ Pacific in time to cruise there. Therefore, he must wait for the next
 ensuing season. Yet the premature hour of the Pequod’s sailing had,
 perhaps, been correctly selected by Ahab, with a view to this very
 complexion of things. Because, an interval of three hundred and
-sixty-five days and nights was before him; an interval which, instead
+sixty-five [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and nights was before him; an interval which, instead
 of impatiently enduring ashore, he would spend in a miscellaneous hunt;
 if by chance the White Whale, spending his vacation in seas far remote
 from his periodical feeding-grounds, should turn up his wrinkled brow
@@ -7984,7 +7984,7 @@ with his own bloody nails in his palms.
 
 Often, when forced from his hammock by exhausting and intolerably vivid
 dreams of the night, which, resuming his own intense thoughts through
-the day, carried them on amid a clashing of phrensies, and whirled them
+the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), carried them on amid a clashing of phrensies, and whirled them
 round and round and round in his blazing brain, till the very throbbing
 of his life-spot became insufferable anguish; and when, as was
 sometimes the case, these spiritual throes in him heaved his being up
@@ -8047,7 +8047,7 @@ private cypher, have been taken from the body. In the instance where
 three years intervened between the flinging of the two harpoons; and I
 think it may have been something more than that; the man who darted
 them happening, in the interval, to go in a trading ship on a voyage to
-Africa, went ashore there, joined a discovery [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip), and penetrated far
+Africa, went ashore there, joined a discovery [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip), and penetrated far
 into the interior, where he travelled for a period of nearly two years,
 often endangered by serpents, savages, tigers, poisonous miasmas, with
 all the other common perils incident to wandering in the heart of
@@ -8082,13 +8082,13 @@ fishermen were content to recognise him by merely touching their
 tarpaulins when he would be discovered lounging by them on the sea,
 without seeking to cultivate a more intimate acquaintance. Like some
 poor devils ashore that happen to know an irascible great man, they
-make distant unobtrusive salutations to him in the street, lest if they
+make distant unobtrusive salutations to him in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, lest if they
 pursued the acquaintance further, they might receive a summary thump
 for their presumption.
 
 But not only did each of these famous whales enjoy great individual
 celebrity—Nay, you may call it an ocean-wide renown; not only was he
-famous in life and now is immortal in forecastle stories after [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip),
+famous in life and now is immortal in forecastle stories after [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip),
 but he was admitted into all the rights, privileges, and distinctions
 of a name; had as much a name indeed as Cambyses or Cæsar. Was it not
 so, O Timor Tom! thou famed leviathan, scarred like an iceberg, who so
@@ -8126,7 +8126,7 @@ First: Though most men have some vague flitting ideas of the general
 perils of the grand fishery, yet they have nothing like a fixed, vivid
 conception of those perils, and the frequency with which they recur.
 One reason perhaps is, that not one in fifty of the actual disasters
-and [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)s by casualties in the fishery, ever finds a public record at
+and [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)s by casualties in the fishery, ever finds a public record at
 home, however transient and immediately forgotten that record. Do you
 suppose that that poor fellow there, who this moment perhaps caught by
 the whale-line off the coast of New Guinea, is being carried down to
@@ -8137,7 +8137,7 @@ irregular between here and New Guinea. In fact, did you ever hear what
 might be called regular news direct or indirect from New Guinea? Yet I
 tell you that upon one particular voyage which I made to the Pacific,
 among many others we spoke thirty different ships, every one of which
-had had a [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) by a whale, some of them more than one, and three that
+had had a [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) by a whale, some of them more than one, and three that
 had each lost a boat’s crew. For God’s sake, be economical with your
 lamps and candles! not a gallon you burn, but at least one drop of
 man’s blood was spilled for it.
@@ -8157,7 +8157,7 @@ malicious, as with direct aforethought to stave in, utterly destroy,
 and sink a large ship; and what is more, the Sperm Whale _has_ done it.
 
 First: In the year 1820 the ship Essex, Captain Pollard, of Nantucket,
-was cruising in the Pacific Ocean. One day she saw spouts, lowered her
+was cruising in the Pacific Ocean. One [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) she saw spouts, lowered her
 boats, and gave chase to a shoal of sperm whales. Ere long, several of
 the whales were wounded; when, suddenly, a very large whale escaping
 from the boats, issued from the shoal, and bore directly down upon the
@@ -8169,7 +8169,7 @@ returned home at last, Captain Pollard once more sailed for the Pacific
 in command of another ship, but the gods shipwrecked him again upon
 unknown rocks and breakers; for the second time his ship was utterly
 lost, and forthwith forswearing the sea, he has never tempted it since.
-At this day Captain Pollard is a resident of Nantucket. I have seen
+At this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) Captain Pollard is a resident of Nantucket. I have seen
 Owen Chace, who was chief mate of the Essex at the time of the tragedy;
 I have read his plain and faithful narrative; I have conversed with his
 son; and all this within a few miles of the scene of the catastrophe.*
@@ -8198,7 +8198,7 @@ fears of being swallowed up by some dreadful tempest, or dashed upon
 hidden rocks, with all the other ordinary subjects of fearful
 contemplation, seemed scarcely entitled to a moment’s thought; the
 dismal looking wreck, and _the horrid aspect and revenge of the whale_,
-wholly engrossed my reflections, until day again made its appearance.”
+wholly engrossed my reflections, until [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) again made its appearance.”
 
 In another place—p. 45,—he speaks of “_the mysterious and mortal attack
 of the animal_.”
@@ -8211,7 +8211,7 @@ allusions to it.
 
 Thirdly: Some eighteen or twenty years ago Commodore J——, then
 commanding an American sloop-of-war of the first class, happened to be
-dining with a [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) of whaling captains, on board a Nantucket ship in
+dining with a [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) of whaling captains, on board a Nantucket ship in
 the harbor of Oahu, Sandwich Islands. Conversation turning upon whales,
 the Commodore was pleased to be sceptical touching the amazing strength
 ascribed to them by the professional gentlemen present. He peremptorily
@@ -8233,10 +8233,10 @@ must know by the way, was attached to the Russian Admiral Krusenstern’s
 famous Discovery Expedition in the beginning of the present century.
 Captain Langsdorff thus begins his seventeenth chapter:
 
-“By the thirteenth of May our ship was ready to sail, and the next day
+“By the thirteenth of May our ship was ready to sail, and the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
 we were out in the open sea, on our way to Ochotsh. The weather was
 very clear and fine, but so intolerably cold that we were obliged to
-keep on our fur clothing. For some days we had very little wind; it was
+keep on our fur clothing. For some [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s we had very little wind; it was
 not till the nineteenth that a brisk gale from the northwest sprang up.
 An uncommon large whale, the body of which was larger than the ship
 itself, lay almost at the surface of the water, but was not perceived
@@ -8254,7 +8254,7 @@ happily it had escaped entirely uninjured.”
 
 Now, the Captain D’Wolf here alluded to as commanding the ship in
 question, is a New Englander, who, after a long life of unusual
-adventures as a sea-captain, this day resides in the village of
+adventures as a sea-captain, this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) resides in the village of
 Dorchester near Boston. I have the honor of being a nephew of his. I
 have particularly questioned him concerning this passage in Langsdorff.
 He substantiates every word. The ship, however, was by no means a large
@@ -8272,7 +8272,7 @@ modern Juan Fernandes. “In our way thither,” he says, “about four
 o’clock in the morning, when we were about one hundred and fifty
 leagues from the Main of America, our ship felt a terrible shock, which
 put our men in such consternation that they could hardly tell where
-they were or what to think; but every one began to prepare for [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip).
+they were or what to think; but every one began to prepare for [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip).
 And, indeed, the shock was so sudden and violent, that we took it for
 granted the ship had struck against a rock; but when the amazement was
 a little over, we cast the lead, and sounded, but found no ground. * *
@@ -8304,15 +8304,15 @@ frequently open his mouth, and retain it in that dread expansion for
 several consecutive minutes. But I must be content with only one more
 and a concluding illustration; a remarkable and most significant one,
 by which you will not fail to see, that not only is the most marvellous
-event in this book corroborated by plain facts of the present day, but
+event in this book corroborated by plain facts of the present [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), but
 that these marvels (like all marvels) are mere repetitions of the ages;
 so that for the millionth time we say amen with Solomon—Verily there is
 nothing new under the sun.
 
 In the sixth Christian century lived Procopius, a Christian magistrate
-of Constantinople, in the days when Justinian was Emperor and
+of Constantinople, in the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s when Justinian was Emperor and
 Belisarius general. As many know, he wrote the history of his own
-times, a work every way of uncommon value. By the best authorities, he
+times, a [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) every way of uncommon value. By the best authorities, he
 has always been considered a most trustworthy and unexaggerating
 historian, except in some one or two particulars, not at all affecting
 the matter presently to be mentioned.
@@ -8481,7 +8481,7 @@ and by this difference in the concluding blow producing a corresponding
 contrast in the final aspect of the completed fabric; this savage’s
 sword, thought I, which thus finally shapes and fashions both warp and
 woof; this easy, indifferent sword must be chance—aye, chance, free
-will, and necessity—nowise incompatible—all interweavingly working
+will, and necessity—nowise incompatible—all interweavingly [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing
 together. The straight warp of necessity, not to be swerved from its
 ultimate course—its every alternating vibration, indeed, only tending
 to that; free will still free to ply her shuttle between given threads;
@@ -8493,7 +8493,7 @@ last featuring blow at events.
 Thus we were weaving and weaving away when I started at a sound so
 strange, long drawn, and musically wild and unearthly, that the ball of
 free will dropped from my hand, and I stood gazing up at the clouds
-whence that voice dropped like a wing. High aloft in the cross-trees
+whence that voice dropped like a wing. High aloft in the cross-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s
 was that mad Gay-Header, Tashtego. His body was reaching eagerly
 forward, his hand stretched out like a wand, and at brief sudden
 intervals he continued his cries. To be sure the same sound was that
@@ -8612,7 +8612,7 @@ back!”
 Didn’t I hear ’em in the hold? And didn’t I tell Cabaco here of it?
 What say ye, Cabaco? They are stowaways, Mr. Flask.”
 
-“Pull, pull, my fine hearts-alive; pull, my [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren; pull, my little
+“Pull, pull, my fine hearts-alive; pull, my [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren; pull, my little
 ones,” drawlingly and soothingly sighed Stubb to his crew, some of whom
 still showed signs of uneasiness. “Why don’t you break your backbones,
 my boys? What is it you stare at? Those chaps in yonder boat? Tut! They
@@ -8668,7 +8668,7 @@ like a flint from Stubb’s.
 boys!)” in a whisper to his crew, then speaking out loud again: “A sad
 business, Mr. Stubb! (seethe her, seethe her, my lads!) but never mind,
 Mr. Stubb, all for the best. Let all your crew pull strong, come what
-will. (Spring, my men, spring!) There’s [hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)sheads of sperm ahead, Mr.
+will. (Spring, my men, spring!) There’s [hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)sheads of sperm ahead, Mr.
 Stubb, and that’s what ye came for. (Pull, my boys!) Sperm, sperm’s the
 play! This at least is duty; duty and profit hand in hand.”
 
@@ -8677,7 +8677,7 @@ diverged, “as soon as I clapt eye on ’em, I thought so. Aye, and that’s
 what he went into the after hold for, so often, as Dough-Boy long
 suspected. They were hidden down there. The White Whale’s at the bottom
 of it. Well, well, so be it! Can’t be helped! All right! Give way, men!
-It ain’t the White Whale to-day! Give way!”
+It ain’t the White Whale to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)! Give way!”
 
 Now the advent of these outlandish strangers at such a critical instant
 as the lowering of the boats from the deck, this had not unreasonably
@@ -8813,7 +8813,7 @@ peculiar whispers, now harsh with command, now soft with entreaty.
 How different the loud little King-Post. “Sing out and say something,
 my hearties. Roar and pull, my thunderbolts! Beach me, beach me on
 their black backs, boys; only do that for me, and I’ll sign over to you
-my Martha’s Vineyard plantation, boys; including wife and [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren,
+my Martha’s Vineyard plantation, boys; including wife and [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren,
 boys. Lay me on—lay me on! O Lord, Lord! but I shall go stark, staring
 mad! See! see that white water!” And so shouting, he pulled his hat
 from his head, and stamped up and down on it; then picking it up,
@@ -8874,7 +8874,7 @@ everywhere to right and left; the whales seemed separating their wakes.
 The boats were pulled more apart; Starbuck giving chase to three whales
 running dead to leeward. Our sail was now set, and, with the still
 rising wind, we rushed along; the boat going with such madness through
-the water, that the lee oars could scarcely be worked rapidly enough to
+the water, that the lee oars could scarcely be [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed rapidly enough to
 escape being torn from the row-locks.
 
 Soon we were running through a suffusing wide veil of mist; neither
@@ -8889,7 +8889,7 @@ that the other boats had got fast; but hardly were they overheard, when
 with a lightning-like hurtling whisper Starbuck said: “Stand up!” and
 Queequeg, harpoon in hand, sprang to his feet.
 
-Though not one of the oarsmen was then facing the life and [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) peril
+Though not one of the oarsmen was then facing the life and [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) peril
 so close to them ahead, yet with their eyes on the intense countenance
 of the mate in the stern of the boat, they knew that the imminent
 instant had come; they heard, too, an enormous wallowing sound as of
@@ -8919,7 +8919,7 @@ bottom of the ocean.
 The wind increased to a howl; the waves dashed their bucklers together;
 the whole squall roared, forked, and crackled around us like a white
 fire upon the prairie, in which, unconsumed, we were burning; immortal
-in these jaws of [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)! In vain we hailed the other boats; as well roar
+in these jaws of [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)! In vain we hailed the other boats; as well roar
 to the live coals down the chimney of a flaming furnace as hail those
 boats in that storm. Meanwhile the driving scud, rack, and mist, grew
 darker with the shadows of night; no sign of the ship could be seen.
@@ -8966,7 +8966,7 @@ bolts down all events, all creeds, and beliefs, and persuasions, all
 hard things visible and invisible, never mind how knobby; as an ostrich
 of potent digestion gobbles down bullets and gun flints. And as for
 small difficulties and worryings, prospects of sudden disaster, peril
-of life and limb; all these, and [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) itself, seem to him only sly,
+of life and limb; all these, and [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) itself, seem to him only sly,
 good-natured hits, and jolly punches in the side bestowed by the unseen
 and unaccountable old joker. That odd sort of wayward mood I am
 speaking of, comes over a man only in some time of extreme tribulation;
@@ -8997,7 +8997,7 @@ Cape Horn.”
 close by; “you are experienced in these things, and I am not. Will you
 tell me whether it is an unalterable law in this fishery, Mr. Flask,
 for an oarsman to break his own back pulling himself back-foremost into
-[death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)’s jaws?”
+[death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)’s jaws?”
 
 “Can’t you twist that smaller?” said Flask. “Yes, that’s the law. I
 should like to see a boat’s crew backing water up to a whale face
@@ -9027,15 +9027,15 @@ their last wills and testaments, but there are no people in the world
 more fond of that diversion. This was the fourth time in my nautical
 life that I had done the same thing. After the ceremony was concluded
 upon the present occasion, I felt all the easier; a stone was rolled
-away from my heart. Besides, all the days I should now live would be as
-good as the days that Lazarus lived after his resurrection; a
+away from my heart. Besides, all the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s I should now live would be as
+good as the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s that Lazarus lived after his resurrection; a
 supplementary clean gain of so many months or weeks as the case might
-be. I survived myself; my [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) and burial were locked up in my chest.
+be. I survived myself; my [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) and burial were locked up in my chest.
 I looked round me tranquilly and contentedly, like a quiet ghost with a
 clean conscience sitting inside the bars of a snug family vault.
 
 Now then, thought I, unconsciously rolling up the sleeves of my frock,
-here goes for a cool, collected dive at [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) and destruction, and the
+here goes for a cool, collected dive at [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) and destruction, and the
 devil fetch the hindmost.
 
 
@@ -9127,7 +9127,7 @@ civilized, domestic people in the temperate zone only see in their
 dreams, and that but dimly; but the like of whom now and then glide
 among the unchanging Asiatic communities, especially the Oriental isles
 to the east of the continent—those insulated, immemorial, unalterable
-countries, which even in these modern days still preserve much of the
+countries, which even in these modern [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s still preserve much of the
 ghostly aboriginalness of earth’s primal generations, when the memory
 of the first man was a distinct recollection, and all men his
 descendants, unknowing whence he came, eyed each other as real
@@ -9140,7 +9140,7 @@ uncanonical Rabbins, indulged in mundane amours.
 ---
 ## CHAPTER 51. The...
 
-Days, weeks passed, and under easy sail, the ivory Pequod had slowly
+[Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, weeks passed, and under easy sail, the ivory Pequod had slowly
 swept across four several cruising-grounds; that off the Azores; off
 the Cape de Verdes; on the Plate (so called), being off the mouth of
 the Rio de la Plata; and the Carrol Ground, an unstaked, watery
@@ -9154,7 +9154,7 @@ far in advance of the white bubbles at the bow. Lit up by the moon, it
 looked celestial; seemed some plumed and glittering god uprising from
 the sea. Fedallah first descried this jet. For of these moonlight
 nights, it was his wont to mount to the main-mast head, and stand a
-look-out there, with the same precision as if it had been day. And yet,
+look-out there, with the same precision as if it had been [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). And yet,
 though herds of whales were seen by night, not one whaleman in a
 hundred would venture a lowering for them. You may think with what
 emotions, then, the seamen beheld this old Oriental perched aloft at
@@ -9182,18 +9182,18 @@ other to drive yawingly to some horizontal goal. And had you watched
 Ahab’s face that night, you would have thought that in him also two
 different things were warring. While his one live leg made lively
 echoes along the deck, every stroke of his dead limb sounded like a
-coffin-tap. On life and [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) this old man walked. But though the ship
+coffin-tap. On life and [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) this old man walked. But though the ship
 so swiftly sped, and though from every eye, like arrows, the eager
 glances shot, yet the silvery jet was no more seen that night. Every
 sailor swore he saw it once, but not a second time.
 
-This midnight-spout had almost grown a forgotten thing, when, some days
+This midnight-spout had almost grown a forgotten thing, when, some [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s
 after, lo! at the same silent hour, it was again announced: again it
 was descried by all; but upon making sail to overtake it, once more it
 disappeared as if it had never been. And so it served us night after
 night, till no one heeded it but to wonder at it. Mysteriously jetted
 into the clear moonlight, or starlight, as the case might be;
-disappearing again for one whole day, or two days, or three; and
+disappearing again for one whole [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), or two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, or three; and
 somehow seeming at every distinct repetition to be advancing still
 further and further in our van, this solitary jet seemed for ever
 alluring us on.
@@ -9212,7 +9212,7 @@ and most savage seas.
 These temporary apprehensions, so vague but so awful, derived a
 wondrous potency from the contrasting serenity of the weather, in
 which, beneath all its blue blandness, some thought there lurked a
-devilish charm, as for days and days we voyaged along, through seas so
+devilish charm, as for [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s we voyaged along, through seas so
 wearily, lonesomely mild, that all space, in repugnance to our vengeful
 errand, seemed vacating itself of life before our urn-like prow.
 
@@ -9261,7 +9261,7 @@ stood in a line along the bulwarks in the waist; and the better to
 guard against the leaping waves, each man had slipped himself into a
 sort of bowline secured to the rail, in which he swung as in a loosened
 belt. Few or no words were spoken; and the silent ship, as if manned by
-painted sailors in wax, day after day tore on through all the swift
+painted sailors in wax, [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) tore on through all the swift
 madness and gladness of the demoniac waves. By night the same muteness
 of humanity before the shrieks of the ocean prevailed; still in silence
 the men swung in the bowlines; still wordless Ahab stood up to the
@@ -9298,7 +9298,7 @@ in the far ocean fisheries—a whaler at sea, and long absent from home.
 As if the waves had been fullers, this craft was bleached like the
 skeleton of a stranded walrus. All down her sides, this spectral
 appearance was traced with long channels of reddened rust, while all
-her spars and her rigging were like the thick branches of trees furred
+her spars and her rigging were like the thick branches of [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s furred
 over with hoar-frost. Only her lower sails were set. A wild sight it
 was to see her long-bearded look-outs at those three mast-heads. They
 seemed clad in the skins of beasts, so torn and bepatched the raiment
@@ -9331,7 +9331,7 @@ tell them to address them to ——”
 
 At that moment the two wakes were fairly crossed, and instantly, then,
 in accordance with their singular ways, shoals of small harmless fish,
-that for some days before had been placidly swimming by our side,
+that for some [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s before had been placidly swimming by our side,
 darted away with what seemed shuddering fins, and ranged themselves
 fore and aft with the stranger’s flanks. Though in the course of his
 continual voyagings Ahab must often before have noticed a similar
@@ -9419,7 +9419,7 @@ whalers sometimes affect a kind of metropolitan superiority over the
 American whalers; regarding the long, lean Nantucketer, with his
 nondescript provincialisms, as a sort of sea-peasant. But where this
 superiority in the English whalemen does really consist, it would be
-hard to say, seeing that the Yankees in one day, collectively, kill
+hard to say, seeing that the Yankees in one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), collectively, kill
 more whales than all the English, collectively, in ten years. But this
 is a harmless little foible in the English whale-hunters, which the
 Nantucketer does not take much to heart; probably, because he knows
@@ -9487,7 +9487,7 @@ admits of any such effeminacy; and therefore as in gamming a complete
 boat’s crew must leave the ship, and hence as the boat steerer or
 harpooneer is of the number, that subordinate is the steersman upon the
 occasion, and the captain, having no place to sit in, is pulled off to
-his visit all standing like a pine tree. And often you will notice that
+his visit all standing like a pine [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip). And often you will notice that
 being conscious of the eyes of the whole visible world resting on him
 from the sides of the two ships, this standing captain is all alive to
 the importance of sustaining his dignity by maintaining his legs. Nor
@@ -9508,7 +9508,7 @@ generally very large, heavy hands, he carries them there for ballast.
 Nevertheless there have occurred instances, well authenticated ones
 too, where the captain has been known for an uncommonly critical moment
 or two, in a sudden squall say—to seize hold of the nearest oarsman’s
-hair, and hold on there like grim [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip).
+hair, and hold on there like grim [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip).
 
 
 ---
@@ -9557,7 +9557,7 @@ occasionally put, and which are duly answered at the time.
 
 “Some two years prior to my first learning the events which I am about
 rehearsing to you, gentlemen, the Town-Ho, Sperm Whaler of Nantucket,
-was cruising in your Pacific here, not very many days’ sail eastward
+was cruising in your Pacific here, not very many [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s’ sail eastward
 from the eaves of this good Golden Inn. She was somewhere to the
 northward of the Line. One morning upon handling the pumps, according
 to daily usage, it was observed that she made more water in her hold
@@ -9567,8 +9567,8 @@ luck awaited him in those latitudes; and therefore being very averse to
 quit them, and the leak not being then considered at all dangerous,
 though, indeed, they could not find it after searching the hold as low
 down as was possible in rather heavy weather, the ship still continued
-her cruisings, the mariners working at the pumps at wide and easy
-intervals; but no good luck came; more days went by, and not only was
+her cruisings, the mariners [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing at the pumps at wide and easy
+intervals; but no good luck came; more [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s went by, and not only was
 the leak yet undiscovered, but it sensibly increased. So much so, that
 now taking some alarm, the captain, making all sail, stood away for the
 nearest harbor among the islands, there to have his hull hove out and
@@ -9633,10 +9633,10 @@ Steelkilt had long been retained harmless and docile. At all events, he
 had proved so thus far; but Radney was doomed and made mad, and
 Steelkilt—but, gentlemen, you shall hear.
 
-“It was not more than a day or two at the furthest after pointing her
+“It was not more than a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two at the furthest after pointing her
 prow for her island haven, that the Town-Ho’s leak seemed again
 increasing, but only so as to require an hour or more at the pumps
-every day. You must know that in a settled and civilized ocean like our
+every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). You must know that in a settled and civilized ocean like our
 Atlantic, for example, some skippers think little of pumping their
 whole way across it; though of a still, sleepy night, should the
 officer of the deck happen to forget his duty in that respect, the
@@ -9660,7 +9660,7 @@ touching his own person as any fearless, unthinking creature on land or
 on sea that you can conveniently imagine, gentlemen. Therefore when he
 betrayed this solicitude about the safety of the ship, some of the
 seamen declared that it was only on account of his being a part owner
-in her. So when they were working that evening at the pumps, there was
+in her. So when they were [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing that evening at the pumps, there was
 on this head no small gamesomeness slily going on among them, as they
 stood with their feet continually overflowed by the rippling clear
 water; clear as any mountain spring, gentlemen—that bubbling from the
@@ -9692,7 +9692,7 @@ tell ye what, men, old Rad’s investment must go for it! he had best cut
 away his part of the hull and tow it home. The fact is, boys, that
 sword-fish only began the job; he’s come back again with a gang of
 ship-carpenters, saw-fish, and file-fish, and what not; and the whole
-posse of ’em are now hard at work cutting and slashing at the bottom;
+posse of ’em are now hard at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) cutting and slashing at the bottom;
 making improvements, I suppose. If old Rad were here now, I’d tell him
 to jump overboard and scatter ’em. They’re playing the devil with his
 estate, I can tell him. But he’s a simple old soul,—Rad, and a beauty
@@ -9720,7 +9720,7 @@ shovel, and remove some offensive matters consequent upon allowing a
 pig to run at large.
 
 “Now, gentlemen, sweeping a ship’s deck at sea is a piece of household
-work which in all times but raging gales is regularly attended to every
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) which in all times but raging gales is regularly attended to every
 evening; it has been known to be done in the case of ships actually
 foundering at the time. Such, gentlemen, is the inflexibility of
 sea-usages and the instinctive love of neatness in seamen; some of whom
@@ -9754,7 +9754,7 @@ exhaustion he was temporarily in, he answered him saying that sweeping
 the deck was not his business, and he would not do it. And then,
 without at all alluding to the shovel, he pointed to three lads as the
 customary sweepers; who, not being billeted at the pumps, had done
-little or nothing all day. To this, Radney replied with an oath, in a
+little or nothing all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). To this, Radney replied with an oath, in a
 most domineering and outrageous manner unconditionally reiterating his
 command; meanwhile advancing upon the still seated Lakeman, with an
 uplifted cooper’s club hammer which he had snatched from a cask near
@@ -9844,7 +9844,7 @@ pour out again.’
 
 “Freely depicted in his own vocation, gentlemen, the Canaller would
 make a fine dramatic hero, so abundantly and picturesquely wicked is
-he. Like Mark Antony, for days and days along his green-turfed, flowery
+he. Like Mark Antony, for [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s along his green-turfed, flowery
 Nile, he indolently floats, openly toying with his red-cheeked
 Cleopatra, ripening his apricot thigh upon the sunny deck. But ashore,
 all this effeminacy is dashed. The brigandish guise which the Canaller
@@ -9894,7 +9894,7 @@ out of that, ye cut-throats!’
 
 “Steelkilt leaped on the barricade, and striding up and down there,
 defied the worst the pistols could do; but gave the captain to
-understand distinctly, that his (Steelkilt’s) [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) would be the signal
+understand distinctly, that his (Steelkilt’s) [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) would be the signal
 for a murderous mutiny on the part of all hands. Fearing in his heart
 lest this might prove but too true, the captain a little desisted, but
 still commanded the insurgents instantly to return to their duty.
@@ -9928,7 +9928,7 @@ flogged.’
 ‘there are a few of us here (and I am one of them) who have shipped for
 the cruise, d’ye see; now as you well know, sir, we can claim our
 discharge as soon as the anchor is down; so we don’t want a row; it’s
-not our interest; we want to be peaceable; we are ready to work, but we
+not our interest; we want to be peaceable; we are ready to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), but we
 won’t be flogged.’
 
 “‘Turn to!’ roared the Captain.
@@ -9963,11 +9963,11 @@ pumps, whose clinking and clanking at intervals through the dreary
 night dismally resounded through the ship.
 
 “At sunrise the Captain went forward, and knocking on the deck,
-summoned the prisoners to work; but with a yell they refused. Water was
+summoned the prisoners to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip); but with a yell they refused. Water was
 then lowered down to them, and a couple of handfuls of biscuit were
 tossed after it; when again turning the key upon them and pocketing it,
-the Captain returned to the quarter-deck. Twice every day for three
-days this was repeated; but on the fourth morning a confused wrangling,
+the Captain returned to the quarter-deck. Twice every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) for three
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s this was repeated; but on the fourth morning a confused wrangling,
 and then a scuffling was heard, as the customary summons was delivered;
 and suddenly four men burst up from the forecastle, saying they were
 ready to turn to. The fetid closeness of the air, and a famishing diet,
@@ -10078,10 +10078,10 @@ to his pinioned foe.
 when another hiss stayed his uplifted arm. He paused: and then pausing
 no more, made good his word, spite of Steelkilt’s threat, whatever that
 might have been. The three men were then cut down, all hands were
-turned to, and, sullenly worked by the moody seamen, the iron pumps
+turned to, and, sullenly [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed by the moody seamen, the iron pumps
 clanged as before.
 
-“Just after dark that day, when one watch had retired below, a clamor
+“Just after dark that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), when one watch had retired below, a clamor
 was heard in the forecastle; and the two trembling traitors running up,
 besieged the cabin door, saying they durst not consort with the crew.
 Entreaties, cuffs, and kicks could not drive them back, so at their own
@@ -10094,9 +10094,9 @@ speediest end to the voyage, they all agreed to another thing—namely,
 not to sing out for whales, in case any should be discovered. For,
 spite of her leak, and spite of all her other perils, the Town-Ho still
 maintained her mast-heads, and her captain was just as willing to lower
-for a fish that moment, as on the day his craft first struck the
+for a fish that moment, as on the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) his craft first struck the
 cruising ground; and Radney the mate was quite as ready to change his
-berth for a boat, and with his bandaged mouth seek to gag in [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) the
+berth for a boat, and with his bandaged mouth seek to gag in [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) the
 vital jaw of the whale.
 
 “But though the Lakeman had induced the seamen to adopt this sort of
@@ -10116,7 +10116,7 @@ this attitude, it was well known, he sometimes dozed. There was a
 considerable vacancy between the boat and the ship, and down between
 this was the sea. Steelkilt calculated his time, and found that his
 next trick at the helm would come round at two o’clock, in the morning
-of the third day from that in which he had been betrayed. At his
+of the third [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) from that in which he had been betrayed. At his
 leisure, he employed the interval in braiding something very carefully
 in his watches below.
 
@@ -10154,8 +10154,8 @@ avenger. For by a mysterious fatality, Heaven itself seemed to step in
 to take out of his hands into its own the damning thing he would have
 done.
 
-“It was just between daybreak and sunrise of the morning of the second
-day, when they were washing down the decks, that a stupid Teneriffe
+“It was just between [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)break and sunrise of the morning of the second
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), when they were washing down the decks, that a stupid Teneriffe
 man, drawing water in the main-chains, all at once shouted out, ‘There
 she rolls! there she rolls!’ Jesu, what a whale! It was Moby Dick.
 
@@ -10226,7 +10226,7 @@ war-canoe of the savages, and setting sail for some other harbor.
 upon the Islanders to assist him in the laborious business of heaving
 down the ship to stop the leak. But to such unresting vigilance over
 their dangerous allies was this small band of whites necessitated, both
-by night and by day, and so extreme was the hard work they underwent,
+by night and by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and so extreme was the hard [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) they underwent,
 that upon the vessel being ready again for sea, they were in such a
 weakened condition that the captain durst not put off with them in so
 heavy a vessel. After taking counsel with his officers, he anchored the
@@ -10237,7 +10237,7 @@ him, and setting the sail of his best whale-boat, steered straight
 before the wind for Tahiti, five hundred miles distant, to procure a
 reinforcement to his crew.
 
-“On the fourth day of the sail, a large canoe was descried, which
+“On the fourth [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of the sail, a large canoe was descried, which
 seemed to have touched at a low isle of corals. He steered away from
 it; but the savage craft bore down on him; and soon the voice of
 Steelkilt hailed him to heave to, or he would run him under water. The
@@ -10259,21 +10259,21 @@ stood face to face with the captain.
 
 “‘Cross your arms, sir; throw back your head. Now, repeat after me. As
 soon as Steelkilt leaves me, I swear to beach this boat on yonder
-island, and remain there six days. If I do not, may lightnings strike
+island, and remain there six [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s. If I do not, may lightnings strike
 me!’
 
 “‘A pretty scholar,’ laughed the Lakeman. ‘Adios, Senor!’ and leaping
 into the sea, he swam back to his comrades.
 
 “Watching the boat till it was fairly beached, and drawn up to the
-roots of the cocoa-nut trees, Steelkilt made sail again, and in due
+roots of the cocoa-nut [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s, Steelkilt made sail again, and in due
 time arrived at Tahiti, his own place of destination. There, luck
 befriended him; two ships were about to sail for France, and were
 providentially in want of precisely that number of men which the sailor
 headed. They embarked; and so for ever got the start of their former
-captain, had he been at all minded to work them legal retribution.
+captain, had he been at all minded to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) them legal retribution.
 
-“Some ten days after the French ships sailed, the whale-boat arrived,
+“Some ten [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s after the French ships sailed, the whale-boat arrived,
 and the captain was forced to enlist some of the more civilized
 Tahitians, who had been somewhat used to the sea. Chartering a small
 native schooner, he returned with them to his vessel; and finding all
@@ -10324,7 +10324,7 @@ and hold the Holy Book before me that I may touch it.
 “‘So help me Heaven, and on my honor the story I have told ye,
 gentlemen, is in substance and its great items, true. I know it to be
 true; it happened on this ball; I trod the ship; I knew the crew; I
-have seen and talked with Steelkilt since the [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) of Radney.’”
+have seen and talked with Steelkilt since the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) of Radney.’”
 
 
 ---
@@ -10335,7 +10335,7 @@ something like the true form of the whale as he actually appears to the
 eye of the whaleman when in his own absolute body the whale is moored
 alongside the whale-ship so that he can be fairly stepped upon there.
 It may be worth while, therefore, previously to advert to those curious
-imaginary portraits of him which even down to the present day
+imaginary portraits of him which even down to the present [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
 confidently challenge the faith of the landsman. It is time to set the
 world right in this matter, by proving such pictures of the whale all
 wrong.
@@ -10368,9 +10368,9 @@ But go to the old Galleries, and look now at a great Christian
 painter’s portrait of this fish; for he succeeds no better than the
 antediluvian Hindoo. It is Guido’s picture of Perseus rescuing
 Andromeda from the sea-monster or whale. Where did Guido get the model
-of such a strange creature as that? Nor does [Hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)arth, in painting the
+of such a strange creature as that? Nor does [Hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)arth, in painting the
 same scene in his own “Perseus Descending,” make out one whit better.
-The huge corpulence of that [Hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)arthian monster undulates on the
+The huge corpulence of that [Hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)arthian monster undulates on the
 surface, scarcely drawing one inch of water. It has a sort of howdah on
 its back, and its distended tusked mouth into which the billows are
 rolling, might be taken for the Traitors’ Gate leading from the Thames
@@ -10385,7 +10385,7 @@ antique vases. Though universally denominated a dolphin, I nevertheless
 call this book-binder’s fish an attempt at a whale; because it was so
 intended when the device was first introduced. It was introduced by an
 old Italian publisher somewhere about the 15th century, during the
-Revival of Learning; and in those days, and even down to a
+Revival of Learning; and in those [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, and even down to a
 comparatively late period, dolphins were popularly supposed to be a
 species of the Leviathan.
 
@@ -10422,7 +10422,7 @@ give us Jonah looking out of that eye!
 
 Nor are the most conscientious compilations of Natural History for the
 benefit of the young and tender, free from the same heinousness of
-mistake. Look at that popular work “Goldsmith’s Animated Nature.” In
+mistake. Look at that popular [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) “Goldsmith’s Animated Nature.” In
 the abridged London edition of 1807, there are plates of an alleged
 “whale” and a “narwhale.” I do not wish to seem inelegant, but this
 unsightly whale looks much like an amputated sow; and, as for the
@@ -10451,7 +10451,7 @@ in the same field, Desmarest, got one of his authentic abortions; that
 is, from a Chinese drawing. And what sort of lively lads with the
 pencil those Chinese are, many queer cups and saucers inform us.
 
-As for the sign-painters’ whales seen in the streets hanging over the
+As for the sign-painters’ whales seen in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts hanging over the
 shops of oil-dealers, what shall be said of them? They are generally
 Richard III. whales, with dromedary humps, and very savage;
 breakfasting on three or four sailor tarts, that is whaleboats full of
@@ -10496,7 +10496,7 @@ thumb. This fin has four regular bone-fingers, the index, middle, ring,
 and little finger. But all these are permanently lodged in their fleshy
 covering, as the human fingers in an artificial covering. “However
 recklessly the whale may sometimes serve us,” said humorous Stubb one
-day, “he can never be truly said to handle us without mittens.”
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), “he can never be truly said to handle us without mittens.”
 
 For all these reasons, then, any way you may look at it, you must needs
 conclude that the great Leviathan is that one creature in the world
@@ -10606,7 +10606,7 @@ Right whaleman, after giving us a stiff full length of the Greenland
 whale, and three or four delicate miniatures of narwhales and
 porpoises, treats us to a series of classical engravings of boat hooks,
 chopping knives, and grapnels; and with the microscopic diligence of a
-Leuwenhoeck submits to the [inspection](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/inspection.zip) of a shivering world ninety-six
+Leuwenhoeck submits to the [inspection](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/inspection.zip) of a shivering world ninety-six
 fac-similes of magnified Arctic snow crystals. I mean no disparagement
 to the excellent voyager (I honor him for a veteran), but in so
 important a matter it was certainly an oversight not to have procured
@@ -10680,13 +10680,13 @@ hours, is his wonderful patience of industry. An ancient Hawaiian
 war-club or spear-paddle, in its full multiplicity and elaboration of
 carving, is as great a trophy of human perseverance as a Latin lexicon.
 For, with but a bit of broken sea-shell or a shark’s tooth, that
-miraculous intricacy of wooden net-work has been achieved; and it has
+miraculous intricacy of wooden net-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) has been achieved; and it has
 cost steady years of steady application.
 
 As with the Hawaiian savage, so with the white sailor-savage. With the
 same marvellous patience, and with the same single shark’s tooth, of
 his one poor jack-knife, he will carve you a bit of bone sculpture, not
-quite as workmanlike, but as close packed in its maziness of design, as
+quite as [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)manlike, but as close packed in its maziness of design, as
 the Greek savage, Achilles’s shield; and full of barbaric spirit and
 suggestiveness, as the prints of that fine old Dutch savage, Albert
 Durer.
@@ -10708,7 +10708,7 @@ them closely enough to decide upon their merit.
 In bony, ribby regions of the earth, where at the base of high broken
 cliffs masses of rock lie strewn in fantastic groupings upon the plain,
 you will often discover images as of the petrified forms of the
-Leviathan partly merged in grass, which of a windy day breaks against
+Leviathan partly merged in grass, which of a windy [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) breaks against
 them in a surf of green surges.
 
 Then, again, in mountainous countries where the traveller is
@@ -10748,7 +10748,7 @@ largely feeds. For leagues and leagues it undulated round us, so that
 we seemed to be sailing through boundless fields of ripe and golden
 wheat.
 
-On the second day, numbers of Right Whales were seen, who, secure from
+On the second [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), numbers of Right Whales were seen, who, secure from
 the attack of a Sperm Whaler like the Pequod, with open jaws sluggishly
 swam through the brit, which, adhering to the fringing fibres of that
 wondrous Venetian blind in their mouths, was in that manner separated
@@ -10875,7 +10875,7 @@ his orders to the helmsman, cast his eager glance in the direction
 indicated aloft by the outstretched motionless arm of Daggoo.
 
 Whether the flitting attendance of the one still and solitary jet had
-gradually worked upon Ahab, so that he was now prepared to connect the
+gradually [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed upon Ahab, so that he was now prepared to connect the
 ideas of mildness and repose with the first sight of the particular
 whale he pursued; however this was, or whether his eagerness betrayed
 him; whichever way it might have been, no sooner did he distinctly
@@ -11040,11 +11040,11 @@ contortions be put in play like ringed lightnings; he cannot be thus
 circumstanced without a shudder that makes the very marrow in his bones
 to quiver in him like a shaken jelly. Yet habit—strange thing! what
 cannot habit accomplish?—Gayer sallies, more merry mirth, better jokes,
-and brighter repartees, you never heard over your ma[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)any, than you
+and brighter repartees, you never heard over your ma[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)any, than you
 will hear over the half-inch white cedar of the whale-boat, when thus
 hung in hangman’s nooses; and, like the six burghers of Calais before
 King Edward, the six men composing the crew pull into the jaws of
-[death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), with a halter around every neck, as you may say.
+[death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), with a halter around every neck, as you may say.
 
 Perhaps a very little thought will now enable you to account for those
 repeated whaling disasters—some few of which are casually chronicled—of
@@ -11069,7 +11069,7 @@ line, as it silently serpentines about the oarsmen before being brought
 into actual play—this is a thing which carries more of true terror than
 any other aspect of this dangerous affair. But why say more? All men
 live enveloped in whale-lines. All are born with halters round their
-necks; but it is only when caught in the swift, sudden turn of [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip),
+necks; but it is only when caught in the swift, sudden turn of [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip),
 that mortals realize the silent, subtle, ever-present perils of life.
 And if you be a philosopher, though seated in the whale-boat, you would
 not at heart feel one whit more of terror, than though seated before
@@ -11085,7 +11085,7 @@ Queequeg it was quite a different object.
 “When you see him ’quid,” said the savage, honing his harpoon in the
 bow of his hoisted boat, “then you quick see him ’parm whale.”
 
-The next day was exceedingly still and sultry, and with nothing special
+The next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was exceedingly still and sultry, and with nothing special
 to engage them, the Pequod’s crew could hardly resist the spell of
 sleep induced by such a vacant sea. For this part of the Indian Ocean
 through which we then were voyaging is not what whalemen call a lively
@@ -11166,7 +11166,7 @@ time—but start her; start her like thunder-claps, that’s all,” cried
 Stubb, spluttering out the smoke as he spoke. “Start her, now; give ’em
 the long and strong stroke, Tashtego. Start her, Tash, my boy—start
 her, all; but keep cool, keep cool—cucumbers is the word—easy,
-easy—only start her like grim [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) and grinning devils, and raise the
+easy—only start her like grim [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) and grinning devils, and raise the
 buried dead perpendicular out of their graves, boys—that’s all. Start
 her!”
 
@@ -11257,7 +11257,7 @@ from his trance into that unspeakable thing called his “flurry,” the
 monster horribly wallowed in his blood, overwrapped himself in
 impenetrable, mad, boiling spray, so that the imperilled craft,
 instantly dropping astern, had much ado blindly to struggle out from
-that phrensied twilight into the clear air of the day.
+that phrensied twilight into the clear air of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
 And now abating in his flurry, the whale once more rolled out into
 view; surging from side to side; spasmodically dilating and contracting
@@ -11291,7 +11291,7 @@ activity to the rest, not only by incredible rowing, but by repeated
 loud and intrepid exclamations; and what it is to keep shouting at the
 top of one’s compass, while all the other muscles are strained and half
 started—what that is none know but those who have tried it. For one, I
-cannot bawl very heartily and work very recklessly at one and the same
+cannot bawl very heartily and [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) very recklessly at one and the same
 time. In this straining, bawling state, then, with his back to the
 fish, all at once the exhausted harpooneer hears the exciting
 cry—“Stand up, and give it to him!” He now has to drop and secure his
@@ -11409,7 +11409,7 @@ morning.
 Though, in overseeing the pursuit of this whale, Captain Ahab had
 evinced his customary activity, to call it so; yet now that the
 creature was dead, some vague dissatisfaction, or impatience, or
-despair, seemed working in him; as if the sight of that dead body
+despair, seemed [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing in him; as if the sight of that dead body
 reminded him that Moby Dick was yet to be slain; and though a thousand
 other whales were brought to his ship, all that would not one jot
 advance his grand, monomaniac object. Very soon you would have thought
@@ -11427,7 +11427,7 @@ reclines while the other remains standing.*
 reliable hold which the ship has upon the whale when moored alongside,
 is by the flukes or tail; and as from its greater density that part is
 relatively heavier than any other (excepting the side-fins), its
-flexibility even in [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), causes it to sink low beneath the surface;
+flexibility even in [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), causes it to sink low beneath the surface;
 so that with the hand you cannot get at it from the boat, in order to
 put the chain round it. But this difficulty is ingeniously overcome: a
 small, strong line is prepared with a wooden float at its outer end,
@@ -11721,7 +11721,7 @@ Whale was esteemed a great delicacy in France, and commanded large
 prices there. Also, that in Henry VIIIth’s time, a certain cook of the
 court obtained a handsome reward for inventing an admirable sauce to be
 eaten with barbacued porpoises, which, you remember, are a species of
-whale. Porpoises, indeed, are to this day considered fine eating. The
+whale. Porpoises, indeed, are to this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) considered fine eating. The
 meat is made into balls about the size of billiard balls, and being
 well seasoned and spiced might be taken for turtle-balls or veal balls.
 The old monks of Dunfermline were very fond of them. They had a great
@@ -11731,7 +11731,7 @@ The fact is, that among his hunters at least, the whale would by all
 hands be considered a noble dish, were there not so much of him; but
 when you come to sit down before a meat-pie nearly one hundred feet
 long, it takes away your appetite. Only the most unprejudiced of men
-like Stubb, nowadays partake of cooked whales; but the Esquimaux are
+like Stubb, nowa[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s partake of cooked whales; but the Esquimaux are
 not so fastidious. We all know how they live upon whales, and have rare
 old vintages of prime old train oil. Zogranda, one of their most famous
 doctors, recommends strips of blubber for infants, as being exceedingly
@@ -11780,19 +11780,19 @@ of the sea, and eat it too by its own light. But no doubt the first man
 that ever murdered an ox was regarded as a murderer; perhaps he was
 hung; and if he had been put on his trial by oxen, he certainly would
 have been; and he certainly deserved it if any murderer does. Go to the
-meat-market of a Saturday night and see the crowds of live bipeds
+meat-market of a Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night and see the crowds of live bipeds
 staring up at the long rows of dead quadrupeds. Does not that sight
 take a tooth out of the cannibal’s jaw? Cannibals? who is not a
 cannibal? I tell you it will be more tolerable for the Fejee that
 salted down a lean missionary in his cellar against a coming famine; it
-will be more tolerable for that provident Fejee, I say, in the day of
+will be more tolerable for that provident Fejee, I say, in the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of
 judgment, than for thee, civilized and enlightened gourmand, who
 nailest geese to the ground and feastest on their bloated livers in thy
 paté-de-foie-gras.
 
 But Stubb, he eats the whale by its own light, does he? and that is
 adding insult to injury, is it? Look at your knife-handle, there, my
-civilized and enlightened gourmand dining off that roast beef, what is
+civilized and enlightened gourmand dining off that roast [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip), what is
 that handle made of?—what but the bones of the brother of the very ox
 you are eating? And what do you pick your teeth with, after devouring
 that fat goose? With a feather of the same fowl. And with what quill
@@ -11811,7 +11811,7 @@ thing at least, customary to proceed at once to the business of cutting
 him in. For that business is an exceedingly laborious one; is not very
 soon completed; and requires all hands to set about it. Therefore, the
 common usage is to take in all sail; lash the helm a’lee; and then send
-every one below to his hammock till daylight, with the reservation
+every one below to his hammock till [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light, with the reservation
 that, until that time, anchor-watches shall be kept; that is, two and
 two for an hour, each couple, the crew in rotation shall mount the deck
 to see that all goes well.
@@ -11867,7 +11867,7 @@ Nantucket god; but de god wat made shark must be one dam Ingin.”
 ---
 ## CHAPTER 67. Cutt...
 
-It was a Saturday night, and such a Sabbath as followed! Ex officio
+It was a Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night, and such a Sabbath as followed! Ex officio
 professors of Sabbath breaking are all whalemen. The ivory Pequod was
 turned into what seemed a shamble; every sailor a butcher. You would
 have thought we were offering up ten thousand red oxen to the sea gods.
@@ -11925,7 +11925,7 @@ is slowly slackened away, and down goes the first strip through the
 main hatchway right beneath, into an unfurnished parlor called the
 blubber-room. Into this twilight apartment sundry nimble hands keep
 coiling away the long blanket-piece as if it were a great live mass of
-plaited serpents. And thus the work proceeds; the two tackles hoisting
+plaited serpents. And thus the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) proceeds; the two tackles hoisting
 and lowering simultaneously; both whale and windlass heaving, the
 heavers singing, the blubber-room gentlemen coiling, the mates
 scarfing, the ship straining, and all hands swearing occasionally, by
@@ -11942,7 +11942,7 @@ remains unchanged; but it is only an opinion.
 
 The question is, what and where is the skin of the whale? Already you
 know what his blubber is. That blubber is something of the consistence
-of firm, close-grained beef, but tougher, more elastic and compact, and
+of firm, close-grained [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip), but tougher, more elastic and compact, and
 ranges from eight or ten to twelve and fifteen inches in thickness.
 
 Now, however preposterous it may at first seem to talk of any
@@ -11966,7 +11966,7 @@ admit, invests the entire body of the whale, is not so much to be
 regarded as the skin of the creature, as the skin of the skin, so to
 speak; for it were simply ridiculous to say, that the proper skin of
 the tremendous whale is thinner and more tender than the skin of a
-new-born [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip). But no more of this.
+new-born [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip). But no more of this.
 
 Assuming the blubber to be the skin of the whale; then, when this skin,
 as in the case of a very large Sperm Whale, will yield the bulk of one
@@ -12063,7 +12063,7 @@ what seem square roods of sharks and cubic roods of fowls, augment the
 murderous din. For hours and hours from the almost stationary ship that
 hideous sight is seen. Beneath the unclouded and mild azure sky, upon
 the fair face of the pleasant sea, wafted by the joyous breezes, that
-great mass of [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) floats on and on, till lost in infinite
+great mass of [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) floats on and on, till lost in infinite
 perspectives.
 
 There’s a most doleful and most mocking funeral! The sea-vultures all
@@ -12088,7 +12088,7 @@ old beliefs never bottomed on the earth, and now not even hovering in
 the air! There’s orthodoxy!
 
 Thus, while in life the great whale’s body may have been a real terror
-to his foes, in his [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) his ghost becomes a powerless panic to a
+to his foes, in his [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) his ghost becomes a powerless panic to a
 world.
 
 Are you a believer in ghosts, my friend? There are other ghosts than
@@ -12272,12 +12272,12 @@ excited imagination, and all the preternatural terrors of real
 delirium, united to invest this Gabriel in the minds of the majority of
 the ignorant crew, with an atmosphere of sacredness. Moreover, they
 were afraid of him. As such a man, however, was not of much practical
-use in the ship, especially as he refused to work except when he
+use in the ship, especially as he refused to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) except when he
 pleased, the incredulous captain would fain have been rid of him; but
 apprised that that individual’s intention was to land him in the first
 convenient port, the archangel forthwith opened all his seals and
 vials—devoting the ship and all hands to unconditional perdition, in
-case this intention was carried out. So strongly did he work upon his
+case this intention was carried out. So strongly did he [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) upon his
 disciples among the crew, that at last in a body they went to the
 captain and told him if Gabriel was sent from the ship, not a man of
 them would remain. He was therefore forced to relinquish his plan. Nor
@@ -12394,7 +12394,7 @@ after attaining an age of two or three years or more.
 Soon Starbuck returned with a letter in his hand. It was sorely
 tumbled, damp, and covered with a dull, spotted, green mould, in
 consequence of being kept in a dark locker of the cabin. Of such a
-letter, [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) himself might well have been the post-boy.
+letter, [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) himself might well have been the post-boy.
 
 “Can’st not read it?” cried Ahab. “Give it me, man. Aye, aye, it’s but
 a dim scrawl;—what’s this?” As he was studying it out, Starbuck took a
@@ -12424,7 +12424,7 @@ feet. Then Gabriel shrieked out to his comrades to give way with their
 oars, and in that manner the mutinous boat rapidly shot away from the
 Pequod.
 
-As, after this interlude, the seamen resumed their work upon the jacket
+As, after this interlude, the seamen resumed their [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) upon the jacket
 of the whale, many strange things were hinted in reference to this wild
 affair.
 
@@ -12480,7 +12480,7 @@ that while earnestly watching his motions, I seemed distinctly to
 perceive that my own individuality was now merged in a joint stock
 company of two; that my free will had received a mortal wound; and that
 another’s mistake or misfortune might plunge innocent me into unmerited
-disaster and [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip). Therefore, I saw that here was a sort of
+disaster and [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). Therefore, I saw that here was a sort of
 interregnum in Providence; for its even-handed equity never could have
 so gross an injustice. And yet still further pondering—while I jerked
 him now and then from between the whale and ship, which would threaten
@@ -12615,7 +12615,7 @@ those inferior creatures; and though the Pequod was not commissioned to
 cruise for them at all, and though she had passed numbers of them near
 the Crozetts without lowering a boat; yet now that a Sperm Whale had
 been brought alongside and beheaded, to the surprise of all, the
-announcement was made that a Right Whale should be captured that day,
+announcement was made that a Right Whale should be captured that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),
 if opportunity offered.
 
 Nor was this long wanting. Tall spouts were seen to leeward; and two
@@ -12869,7 +12869,7 @@ yourself, how it would fare with you, did you sideways survey objects
 through your ears. You would find that you could only command some
 thirty degrees of vision in advance of the straight side-line of sight;
 and about thirty more behind it. If your bitterest foe were walking
-straight towards you, with dagger uplifted in broad day, you would not
+straight towards you, with dagger uplifted in broad [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), you would not
 be able to see him, any more than if he were stealing upon you from
 behind. In a word, you would have two backs, so to speak; but, at the
 same time, also, two fronts (side fronts): for what is it that makes
@@ -12971,8 +12971,8 @@ with which the fishermen fashion all sorts of curious articles,
 including canes, umbrella-stocks, and handles to riding-whips.
 
 With a long, weary hoist the jaw is dragged on board, as if it were an
-anchor; and when the proper time comes—some few days after the other
-work—Queequeg, Daggoo, and Tashtego, being all accomplished dentists,
+anchor; and when the proper time comes—some few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s after the other
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)—Queequeg, Daggoo, and Tashtego, being all accomplished dentists,
 are set to drawing teeth. With a keen cutting-spade, Queequeg lances
 the gums; then the jaw is lashed down to ringbolts, and a tackle being
 rigged from aloft, they drag out these teeth, as Michigan oxen drag
@@ -13044,7 +13044,7 @@ will seem reasonable.
 
 In old times, there seem to have prevailed the most curious fancies
 concerning these blinds. One voyager in Purchas calls them the wondrous
-“whiskers” inside of the whale’s mouth;* another, “[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)s’ bristles”; a
+“whiskers” inside of the whale’s mouth;* another, “[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)s’ bristles”; a
 third old gentleman in Hackluyt uses the following elegant language:
 “There are about two hundred and fifty fins growing on each side of his
 upper _chop_, which arch over his tongue on each side of his mouth.”
@@ -13055,14 +13055,14 @@ upper part of the outer end of the lower jaw. Sometimes these tufts
 impart a rather brigandish expression to his otherwise solemn
 countenance.
 
-As every one knows, these same “[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)s’ bristles,” “fins,” “whiskers,”
+As every one knows, these same “[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)s’ bristles,” “fins,” “whiskers,”
 “blinds,” or whatever you please, furnish to the ladies their busks and
 other stiffening contrivances. But in this particular, the demand has
 long been on the decline. It was in Queen Anne’s time that the bone was
 in its glory, the farthingale being then all the fashion. And as those
 ancient dames moved about gaily, though in the jaws of the whale, as
 you may say; even so, in a shower, with the like thoughtlessness, do we
-nowadays fly under the same jaws for protection; the umbrella being a
+nowa[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s fly under the same jaws for protection; the umbrella being a
 tent spread over the same bone.
 
 But now forget all about blinds and whiskers for a moment, and,
@@ -13092,11 +13092,11 @@ will not be very long in following.
 Can you catch the expression of the Sperm Whale’s there? It is the same
 he died with, only some of the longer wrinkles in the forehead seem now
 faded away. I think his broad brow to be full of a prairie-like
-placidity, born of a speculative indifference as to [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip). But mark the
+placidity, born of a speculative indifference as to [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). But mark the
 other head’s expression. See that amazing lower lip, pressed by
 accident against the vessel’s side, so as firmly to embrace the jaw.
 Does not this whole head seem to speak of an enormous practical
-resolution in facing [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)? This Right Whale I take to have been a
+resolution in facing [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)? This Right Whale I take to have been a
 Stoic; the Sperm Whale, a Platonian, who might have taken up Spinoza in
 his latter years.
 
@@ -13219,7 +13219,7 @@ of the whale contains by far the most precious of all his oily
 vintages; namely, the highly-prized spermaceti, in its absolutely pure,
 limpid, and odoriferous state. Nor is this precious substance found
 unalloyed in any other part of the creature. Though in life it remains
-perfectly fluid, yet, upon exposure to the air, after [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), it soon
+perfectly fluid, yet, upon exposure to the air, after [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), it soon
 begins to concrete; sending forth beautiful crystalline shoots, as when
 the first thin delicate ice is just forming in water. A large whale’s
 case generally yields about five hundred gallons of sperm, though from
@@ -13410,8 +13410,8 @@ Now, had Tashtego perished in that head, it had been a very precious
 perishing; smothered in the very whitest and daintiest of fragrant
 spermaceti; coffined, hearsed, and tombed in the secret inner chamber
 and sanctum sanctorum of the whale. Only one sweeter end can readily be
-recalled—the delicious [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) of an Ohio honey-hunter, who seeking honey
-in the crotch of a hollow tree, found such exceeding store of it, that
+recalled—the delicious [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) of an Ohio honey-hunter, who seeking honey
+in the crotch of a hollow [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip), found such exceeding store of it, that
 leaning too far over, it sucked him in, so that he died embalmed. How
 many, think ye, have likewise fallen into Plato’s honey head, and
 sweetly perished there?
@@ -13425,7 +13425,7 @@ Leviathan; this is a thing which no Physiognomist or Phrenologist has
 as yet undertaken. Such an enterprise would seem almost as hopeful as
 for Lavater to have scrutinized the wrinkles on the Rock of Gibraltar,
 or for Gall to have mounted a ladder and manipulated the Dome of the
-Pantheon. Still, in that famous work of his, Lavater not only treats of
+Pantheon. Still, in that famous [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of his, Lavater not only treats of
 the various faces of men, but also attentively studies the faces of
 horses, birds, serpents, and fish; and dwells in detail upon the
 modifications of expression discernible therein. Nor have Gall and his
@@ -13443,7 +13443,7 @@ its entire absence, as an external appendage, must very largely affect
 the countenance of the whale. For as in landscape gardening, a spire,
 cupola, monument, or tower of some sort, is deemed almost indispensable
 to the completion of the scene; so no face can be physiognomically in
-keeping without the elevated open-work belfry of the nose. Dash the
+keeping without the elevated open-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) belfry of the nose. Dash the
 nose from Phidias’s marble Jove, and what a sorry remainder!
 Nevertheless, Leviathan is of so mighty a magnitude, all his
 proportions are so stately, that the same deficiency which in the
@@ -13464,7 +13464,7 @@ morning. In the repose of the pasture, the curled brow of the bull has
 a touch of the grand in it. Pushing heavy cannon up mountain defiles,
 the elephant’s brow is majestic. Human or animal, the mystical brow is
 as that great golden seal affixed by the German emperors to their
-decrees. It signifies—“God: done this day by my hand.” But in most
+decrees. It signifies—“God: done this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) by my hand.” But in most
 creatures, nay in man himself, very often the brow is but a mere strip
 of alpine land lying along the snow line. Few are the foreheads which
 like Shakespeare’s or Melancthon’s rise so high, and descend so low,
@@ -13490,11 +13490,11 @@ book, spoken a speech? No, his great genius is declared in his doing
 nothing particular to prove it. It is moreover declared in his
 pyramidical silence. And this reminds me that had the great Sperm Whale
 been known to the young Orient World, he would have been deified by
-their [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)-magian thoughts. They deified the crocodile of the Nile,
+their [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)-magian thoughts. They deified the crocodile of the Nile,
 because the crocodile is tongueless; and the Sperm Whale has no tongue,
 or at least it is so exceedingly small, as to be incapable of
 protrusion. If hereafter any highly cultured, poetical nation shall
-lure back to their birth-right, the merry May-day gods of old; and
+lure back to their birth-right, the merry May-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) gods of old; and
 livingly enthrone them again in the now egotistical sky; in the now
 unhaunted hill; then be sure, exalted to Jove’s high seat, the great
 Sperm Whale shall lord it.
@@ -13526,7 +13526,7 @@ bed that part of the mass; while under the long floor of this crater—in
 another cavity seldom exceeding ten inches in length and as many in
 depth—reposes the mere handful of this monster’s brain. The brain is at
 least twenty feet from his apparent forehead in life; it is hidden away
-behind its vast outworks, like the innermost citadel within the
+behind its vast out[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s, like the innermost citadel within the
 amplified fortifications of Quebec. So like a choice casket is it
 secreted in him, that I have known some whalemen who peremptorily deny
 that the Sperm Whale has any other brain than that palpable semblance
@@ -13601,7 +13601,7 @@ reason to know.
 ---
 ## CHAPTER 81. The...
 
-The predestinated day arrived, and we duly met the ship Jungfrau,
+The predestinated [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) arrived, and we duly met the ship Jungfrau,
 Derick De Deer, master, of Bremen.
 
 At one time the greatest whaling people in the world, the Dutch and
@@ -13711,7 +13711,7 @@ it!”
 “I tell ye what it is, men”—cried Stubb to his crew—“it’s against my
 religion to get mad; but I’d like to eat that villainous
 Yarman—Pull—won’t ye? Are ye going to let that rascal beat ye? Do ye
-love brandy? A [hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)shead of brandy, then, to the best man. Come, why
+love brandy? A [hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)shead of brandy, then, to the best man. Come, why
 don’t some of ye burst a blood-vessel? Who’s that been dropping an
 anchor overboard—we don’t budge an inch—we’re becalmed. Halloo, here’s
 grass growing in the boat’s bottom—and by the Lord, the mast there’s
@@ -13719,8 +13719,8 @@ budding. This won’t do, boys. Look at that Yarman! The short and long
 of it is, men, will ye spit fire or not?”
 
 “Oh! see the suds he makes!” cried Flask, dancing up and down—“What a
-hump—Oh, _do_ pile on the beef—lays like a log! Oh! my lads, _do_
-spring—slap-jacks and qua[hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)s for supper, you know, my lads—baked clams
+hump—Oh, _do_ pile on the [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip)—lays like a log! Oh! my lads, _do_
+spring—slap-jacks and qua[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)s for supper, you know, my lads—baked clams
 and muffins—oh, _do_, _do_, spring,—he’s a hundred barreller—don’t lose
 him now—don’t oh, _don’t!_—see that Yarman—Oh, won’t ye pull for your
 duff, my lads—such a sog! such a sogger! Don’t ye love sperm? There
@@ -13837,7 +13837,7 @@ what landsman would have thought, that beneath all that silence and
 placidity, the utmost monster of the seas was writhing and wrenching in
 agony! Not eight inches of perpendicular rope were visible at the bows.
 Seems it credible that by three such thin threads the great Leviathan
-was suspended like the big weight to an eight day clock. Suspended? and
+was suspended like the big weight to an eight [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) clock. Suspended? and
 to what? To three bits of board. Is this the creature of whom it was
 once so triumphantly said—“Canst thou fill his skin with barbed irons?
 or his head with fish-spears? The sword of him that layeth at him
@@ -13855,7 +13855,7 @@ wounded whale must have been such huge phantoms flitting over his head!
 
 “Stand by, men; he stirs,” cried Starbuck, as the three lines suddenly
 vibrated in the water, distinctly conducting upwards to them, as by
-magnetic wires, the life and [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) throbs of the whale, so that every
+magnetic wires, the life and [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) throbs of the whale, so that every
 oarsman felt them in his seat. The next moment, relieved in great part
 from the downward strain at the bows, the boats gave a sudden bounce
 upwards, as a small icefield will, when a dense herd of white bears are
@@ -13897,7 +13897,7 @@ beheld. As strange misgrown masses gather in the knot-holes of the
 noblest oaks when prostrate, so from the points which the whale’s eyes
 had once occupied, now protruded blind bulbs, horribly pitiable to see.
 But pity there was none. For all his old age, and his one arm, and his
-blind eyes, he must die the [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) and be murdered, in order to light
+blind eyes, he must die the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) and be murdered, in order to light
 the gay bridals and other merry-makings of men, and also to illuminate
 the solemn churches that preach unconditional inoffensiveness by all to
 all. Still rolling in his blood, at last he partially disclosed a
@@ -13913,7 +13913,7 @@ ulcerous jet shot from this cruel wound, and goaded by it into more
 than sufferable anguish, the whale now spouting thick blood, with swift
 fury blindly darted at the craft, bespattering them and their glorying
 crews all over with showers of gore, capsizing Flask’s boat and marring
-the bows. It was his [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) stroke. For, by this time, so spent was he
+the bows. It was his [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) stroke. For, by this time, so spent was he
 by loss of blood, that he helplessly rolled away from the wreck he had
 made; lay panting on his side, impotently flapped with his stumped fin,
 then over and over slowly revolved like a waning world; turned up the
@@ -13999,7 +13999,7 @@ Right Whales do. This difference in the species is no doubt imputable
 in no small degree to the greater quantity of bone in the Right Whale;
 his Venetian blinds alone sometimes weighing more than a ton; from this
 incumbrance the Sperm Whale is wholly free. But there are instances
-where, after the lapse of many hours or several days, the sunken whale
+where, after the lapse of many hours or several [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, the sunken whale
 again rises, more buoyant than in life. But the reason of this is
 obvious. Gases are generated in him; he swells to a prodigious
 magnitude; becomes a sort of animal balloon. A line-of-battle ship
@@ -14040,14 +14040,14 @@ fraternity.
 The gallant Perseus, a son of Jupiter, was the first whaleman; and to
 the eternal honor of our calling be it said, that the first whale
 attacked by our brotherhood was not killed with any sordid intent.
-Those were the knightly days of our profession, when we only bore arms
+Those were the knightly [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of our profession, when we only bore arms
 to succor the distressed, and not to fill men’s lamp-feeders. Every one
 knows the fine story of Perseus and Andromeda; how the lovely
 Andromeda, the daughter of a king, was tied to a rock on the sea-coast,
 and as Leviathan was in the very act of carrying her off, Perseus, the
 prince of whalemen, intrepidly advancing, harpooned the monster, and
 delivered and married the maid. It was an admirable artistic exploit,
-rarely achieved by the best harpooneers of the present day; inasmuch as
+rarely achieved by the best harpooneers of the present [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); inasmuch as
 this Leviathan was slain at the very first dart. And let no man doubt
 this Arkite story; for in the ancient Joppa, now Jaffa, on the Syrian
 coast, in one of the Pagan temples, there stood for many ages the vast
@@ -14120,7 +14120,7 @@ us this divine Vishnoo himself for our Lord;—Vishnoo, who, by the first
 of his ten earthly incarnations, has for ever set apart and sanctified
 the whale. When Brahma, or the God of Gods, saith the Shaster, resolved
 to recreate the world after one of its periodical dissolutions, he gave
-birth to Vishnoo, to preside over the work; but the Vedas, or mystical
+birth to Vishnoo, to preside over the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip); but the Vedas, or mystical
 books, whose perusal would seem to have been indispensable to Vishnoo
 before beginning the creation, and which therefore must have contained
 something in the shape of practical hints to young architects, these
@@ -14172,16 +14172,16 @@ been divined by other continental commentators, that when Jonah was
 thrown overboard from the Joppa ship, he straightway effected his
 escape to another vessel near by, some vessel with a whale for a
 figure-head; and, I would add, possibly called “The Whale,” as some
-craft are nowadays christened the “Shark,” the “Gull,” the “Eagle.” Nor
+craft are nowa[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s christened the “Shark,” the “Gull,” the “Eagle.” Nor
 have there been wanting learned exegetists who have opined that the
 whale mentioned in the book of Jonah merely meant a life-preserver—an
 inflated bag of wind—which the endangered prophet swam to, and so was
 saved from a watery doom. Poor Sag-Harbor, therefore, seems worsted all
 round. But he had still another reason for his want of faith. It was
 this, if I remember right: Jonah was swallowed by the whale in the
-Mediterranean Sea, and after three days he was vomited up somewhere
-within three days’ journey of Nineveh, a city on the Tigris, very much
-more than three days’ journey across from the nearest point of the
+Mediterranean Sea, and after three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s he was vomited up somewhere
+within three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s’ journey of Nineveh, a city on the Tigris, very much
+more than three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s’ journey across from the nearest point of the
 Mediterranean coast. How is that?
 
 But was there no other way for the whale to land the prophet within
@@ -14189,10 +14189,10 @@ that short distance of Nineveh? Yes. He might have carried him round by
 the way of the Cape of Good Hope. But not to speak of the passage
 through the whole length of the Mediterranean, and another passage up
 the Persian Gulf and Red Sea, such a supposition would involve the
-complete circumnavigation of all Africa in three days, not to speak of
+complete circumnavigation of all Africa in three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, not to speak of
 the Tigris waters, near the site of Nineveh, being too shallow for any
 whale to swim in. Besides, this idea of Jonah’s weathering the Cape of
-Good Hope at so early a day would wrest the honor of the discovery of
+Good Hope at so early a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) would wrest the honor of the discovery of
 that great headland from Bartholomew Diaz, its reputed discoverer, and
 so make modern history a liar.
 
@@ -14203,7 +14203,7 @@ sun and the sea. I say it only shows his foolish, impious pride, and
 abominable, devilish rebellion against the reverend clergy. For by a
 Portuguese Catholic priest, this very idea of Jonah’s going to Nineveh
 via the Cape of Good Hope was advanced as a signal magnification of the
-general miracle. And so it was. Besides, to this day, the highly
+general miracle. And so it was. Besides, to this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), the highly
 enlightened Turks devoutly believe in the historical story of Jonah.
 And some three centuries ago, an English traveller in old Harris’s
 Voyages, speaks of a Turkish Mosque built in honor of Jonah, in which
@@ -14224,7 +14224,7 @@ his boat, and one morning not long after the German ship Jungfrau
 disappeared, took more than customary pains in that occupation;
 crawling under its bottom, where it hung over the side, and rubbing in
 the unctuousness as though diligently seeking to insure a crop of hair
-from the craft’s bald keel. He seemed to be working in obedience to
+from the craft’s bald keel. He seemed to be [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing in obedience to
 some particular presentiment. Nor did it remain unwarranted by the
 event.
 
@@ -14280,7 +14280,7 @@ distance, and quivers in the life spot of the whale. Instead of
 sparkling water, he now spouts red blood.
 
 “That drove the spigot out of him!” cried Stubb. “’Tis July’s immortal
-Fourth; all fountains must run wine today! Would now, it were old
+Fourth; all fountains must run wine to[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)! Would now, it were old
 Orleans whiskey, or old Ohio, or unspeakable old Monongahela! Then,
 Tashtego, lad, I’d have ye hold a canakin to the jet, and we’d drink
 round it! Yea, verily, hearts alive, we’d brew choice punch in the
@@ -14304,7 +14304,7 @@ sprinkling or mistifying pots; and that for some centuries back,
 thousands of hunters should have been close by the fountain of the
 whale, watching these sprinklings and spoutings—that all this should
 be, and yet, that down to this blessed minute (fifteen and a quarter
-minutes past one o’clock P.M. of this sixteenth day of December, A.D.
+minutes past one o’clock P.M. of this sixteenth [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of December, A.D.
 1851), it should still remain a problem, whether these spoutings are,
 after all, really water, or nothing but vapor—this is surely a
 noteworthy thing.
@@ -14369,7 +14369,7 @@ necessities that strike the victory to thee!
 In man, breathing is incessantly going on—one breath only serving for
 two or three pulsations; so that whatever other business he has to
 attend to, waking or sleeping, breathe he must, or die he will. But the
-Sperm Whale only breathes about one seventh or Sunday of his time.
+Sperm Whale only breathes about one seventh or Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of his time.
 
 It has been said that the whale only breathes through his spout-hole;
 if it could truthfully be added that his spouts are mixed with water,
@@ -14397,7 +14397,7 @@ Now, the spouting canal of the Sperm Whale, chiefly intended as it is
 for the conveyance of air, and for several feet laid along,
 horizontally, just beneath the upper surface of his head, and a little
 to one side; this curious canal is very much like a gas-pipe laid down
-in a city on one side of a street. But the question returns whether
+in a city on one side of a s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t. But the question returns whether
 this gas-pipe is also a water-pipe; in other words, whether the spout
 of the Sperm Whale is the mere vapor of the exhaled breath, or whether
 that exhaled breath is mixed with water taken in at the mouth, and
@@ -14428,7 +14428,7 @@ perceived drops of moisture in the spout, how do you know that they are
 not merely condensed from its vapor; or how do you know that they are
 not those identical drops superficially lodged in the spout-hole
 fissure, which is countersunk into the summit of the whale’s head? For
-even when tranquilly swimming through the mid-day sea in a calm, with
+even when tranquilly swimming through the mid-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) sea in a calm, with
 his elevated hump sun-dried as a dromedary’s in the desert; even then,
 the whale always carries a small basin of water on his head, as under a
 blazing sun you will sometimes see a cavity in a rock filled up with
@@ -14568,7 +14568,7 @@ opposing water, then partly owing to the light buoyancy of the
 whale-boat, and the elasticity of its materials, a cracked rib or a
 dashed plank or two, a sort of stitch in the side, is generally the
 most serious result. These submerged side blows are so often received
-in the fishery, that they are accounted mere [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)’s play. Some one
+in the fishery, that they are accounted mere [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)’s play. Some one
 strips off a frock, and the hole is stopped.
 
 Third: I cannot demonstrate it, but it seems to me, that in the whale
@@ -14687,7 +14687,7 @@ those domineering fortresses which guard the entrances to the
 Mediterranean, the Baltic, and the Propontis. Unlike the Danes, these
 Orientals do not demand the obsequious homage of lowered top-sails from
 the endless procession of ships before the wind, which for centuries
-past, by night and by day, have passed between the islands of Sumatra
+past, by night and by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), have passed between the islands of Sumatra
 and Java, freighted with the costliest cargoes of the east. But while
 they freely waive a ceremonial like this, they do by no means renounce
 their claim to more solid tribute.
@@ -14698,7 +14698,7 @@ vessels sailing through the straits, fiercely demanding tribute at the
 point of their spears. Though by the repeated bloody chastisements they
 have received at the hands of European cruisers, the audacity of these
 corsairs has of late been somewhat repressed; yet, even at the present
-day, we occasionally hear of English and American vessels, which, in
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), we occasionally hear of English and American vessels, which, in
 those waters, have been remorselessly boarded and pillaged.
 
 With a fair, fresh wind, the Pequod was now drawing nigh to these
@@ -14724,7 +14724,7 @@ whole lake’s contents bottled in her ample hold. She is ballasted with
 utilities; not altogether with unusable pig-lead and kentledge. She
 carries years’ water in her. Clear old prime Nantucket water; which,
 when three years afloat, the Nantucketer, in the Pacific, prefers to
-drink before the brackish fluid, but yesterday rafted off in casks,
+drink before the brackish fluid, but yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) rafted off in casks,
 from the Peruvian or Indian streams. Hence it is, that, while other
 ships may have gone to China from New York, and back again, touching at
 a score of ports, the whale-ship, in all that interval, may not have
@@ -14762,7 +14762,7 @@ thousands on thousands.
 Broad on both bows, at the distance of some two or three miles, and
 forming a great semicircle, embracing one half of the level horizon, a
 continuous chain of whale-jets were up-playing and sparkling in the
-noon-day air. Unlike the straight perpendicular twin-jets of the Right
+noon-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) air. Unlike the straight perpendicular twin-jets of the Right
 Whale, which, dividing at top, fall over in two branches, like the
 cleft drooping boughs of a willow, the single forward-slanting spout of
 the Sperm Whale presents a thick curled bush of white mist, continually
@@ -14860,7 +14860,7 @@ West have fled before a solitary horseman. Witness, too, all human
 beings, how when herded together in the sheepfold of a theatre’s pit,
 they will, at the slightest alarm of fire, rush helter-skelter for the
 outlets, crowding, trampling, jamming, and remorselessly dashing each
-other to [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip). Best, therefore, withhold any amazement at the
+other to [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). Best, therefore, withhold any amazement at the
 strangely gallied whales before us, for there is no folly of the beasts
 of the earth which is not infinitely outdone by the madness of men.
 
@@ -14908,7 +14908,7 @@ attached to the middle of this block, and the other end of the line
 being looped, it can in a moment be fastened to a harpoon. It is
 chiefly among gallied whales that this drugg is used. For then, more
 whales are close round you than you can possibly chase at one time. But
-sperm whales are not every day encountered; while you may, then, you
+sperm whales are not every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) encountered; while you may, then, you
 must kill all you can. And if you cannot kill them all at once, you
 must wing them, so that they can be afterwards killed at your leisure.
 Hence it is, that at times like these the drugg, comes into
@@ -14947,7 +14947,7 @@ the embayed axis of the herd, no possible chance of escape was at
 present afforded us. We must watch for a breach in the living wall that
 hemmed us in; the wall that had only admitted us in order to shut us
 up. Keeping at the centre of the lake, we were occasionally visited by
-small tame cows and calves; the women and [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren of this routed host.
+small tame cows and calves; the women and [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren of this routed host.
 
 Now, inclusive of the occasional wide intervals between the revolving
 outer circles, and inclusive of the spaces between the various pods in
@@ -14983,7 +14983,7 @@ did the young of these whales seem looking up towards us, but not at
 us, as if we were but a bit of Gulfweed in their new-born sight.
 Floating on their sides, the mothers also seemed quietly eyeing us. One
 of these little infants, that from certain queer tokens seemed hardly a
-day old, might have measured some fourteen feet in length, and some six
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) old, might have measured some fourteen feet in length, and some six
 feet in girth. He was a little frisky; though as yet his body seemed
 scarce yet recovered from that irksome position it had so lately
 occupied in the maternal reticule; where, tail to head, and all ready
@@ -15057,7 +15057,7 @@ that by one of the unimaginable accidents of the fishery, this whale
 had become entangled in the harpoon-line that he towed; he had also run
 away with the cutting-spade in him; and while the free end of the rope
 attached to that weapon, had permanently caught in the coils of the
-harpoon-line round his tail, the cutting-spade itself had worked loose
+harpoon-line round his tail, the cutting-spade itself had [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed loose
 from his flesh. So that tormented to madness, he was now churning
 through the water, violently flailing with his flexible tail, and
 tossing the keen spade about him, wounding and murdering his own
@@ -15121,7 +15121,7 @@ Whales, and there was also then given the probable cause inducing those
 vast aggregations.
 
 Now, though such great bodies are at times encountered, yet, as must
-have been seen, even at the present day, small detached bands are
+have been seen, even at the present [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), small detached bands are
 occasionally observed, embracing from twenty to fifty individuals each.
 Such bands are known as schools. They generally are of two sorts; those
 composed almost entirely of females, and those mustering none but young
@@ -15199,7 +15199,7 @@ His title, schoolmaster, would very naturally seem derived from the
 name bestowed upon the harem itself, but some have surmised that the
 man who first thus entitled this sort of Ottoman whale, must have read
 the memoirs of Vidocq, and informed himself what sort of a
-country-schoolmaster that famous Frenchman was in his younger days, and
+country-schoolmaster that famous Frenchman was in his younger [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, and
 what was the nature of those occult lessons he inculcated into some of
 his pupils.
 
@@ -15264,7 +15264,7 @@ Chinese Society for the Suppression of Meddling with other People’s
 Business. Yes; these laws might be engraven on a Queen Anne’s farthing,
 or the barb of a harpoon, and worn round the neck, so small are they.
 
-I. A Fast-Fish belongs to the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) fast to it.
+I. A Fast-Fish belongs to the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) fast to it.
 
 II. A Loose-Fish is fair game for anybody who can soonest catch it.
 
@@ -15277,7 +15277,7 @@ when it is connected with an occupied ship or boat, by any medium at
 all controllable by the occupant or occupants,—a mast, an oar, a
 nine-inch cable, a telegraph wire, or a strand of cobweb, it is all the
 same. Likewise a fish is technically fast when it bears a waif, or any
-other recognised symbol of possession; so long as the [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) waifing it
+other recognised symbol of possession; so long as the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) waifing it
 plainly evince their ability at any time to take it alongside, as well
 as their intention so to do.
 
@@ -15285,8 +15285,8 @@ These are scientific commentaries; but the commentaries of the whalemen
 themselves sometimes consist in hard words and harder knocks—the
 Coke-upon-Littleton of the fist. True, among the more upright and
 honorable whalemen allowances are always made for peculiar cases, where
-it would be an outrageous moral injustice for one [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) to claim
-possession of a whale previously chased or killed by another [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip). But
+it would be an outrageous moral injustice for one [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) to claim
+possession of a whale previously chased or killed by another [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). But
 others are by no means so scrupulous.
 
 Some fifty years ago there was a curious case of whale-trover litigated
@@ -15392,7 +15392,7 @@ that land, the King, as Honorary Grand Harpooneer, must have the head,
 and the Queen be respectfully presented with the tail. A division
 which, in the whale, is much like halving an apple; there is no
 intermediate remainder. Now as this law, under a modified form, is to
-this day in force in England; and as it offers in various respects a
+this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) in force in England; and as it offers in various respects a
 strange anomaly touching the general law of Fast and Loose-Fish, it is
 here treated of in a separate chapter, on the same courteous principle
 that prompts the English railways to be at the expense of a separate
@@ -15511,13 +15511,13 @@ Leviathan, insufferable fetor denying not inquiry.” _Sir T. Browne,
 V.E._
 
 It was a week or two after the last whaling scene recounted, and when
-we were slowly sailing over a sleepy, vapory, mid-day sea, that the
+we were slowly sailing over a sleepy, vapory, mid-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) sea, that the
 many noses on the Pequod’s deck proved more vigilant discoverers than
 the three pairs of eyes aloft. A peculiar and not very pleasant smell
 was smelt in the sea.
 
 “I will bet something now,” said Stubb, “that somewhere hereabouts are
-some of those drugged whales we tickled the other day. I thought they
+some of those drugged whales we tickled the other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). I thought they
 would keel up before long.”
 
 Presently, the vapors in advance slid aside; and there in the distance
@@ -15627,7 +15627,7 @@ bag.
 the Guernsey-man, who did not seem to relish the job he was at very
 much. “But what are you holding _yours_ for?”
 
-“Oh, nothing! It’s a wax nose; I have to hold it on. Fine day, ain’t
+“Oh, nothing! It’s a wax nose; I have to hold it on. Fine [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), ain’t
 it? Air rather gardenny, I should say; throw us a bunch of posies, will
 ye, Bouton-de-Rose?”
 
@@ -15635,7 +15635,7 @@ ye, Bouton-de-Rose?”
 flying into a sudden passion.
 
 “Oh! keep cool—cool? yes, that’s the word! why don’t you pack those
-whales in ice while you’re working at ’em? But joking aside, though; do
+whales in ice while you’re [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing at ’em? But joking aside, though; do
 you know, Rose-bud, that it’s all nonsense trying to get any oil out of
 such whales? As for that dried up one, there, he hasn’t a gill in his
 whole carcase.”
@@ -15648,10 +15648,10 @@ get out of this dirty scrape.”
 “Anything to oblige ye, my sweet and pleasant fellow,” rejoined Stubb,
 and with that he soon mounted to the deck. There a queer scene
 presented itself. The sailors, in tasselled caps of red worsted, were
-getting the heavy tackles in readiness for the whales. But they worked
+getting the heavy tackles in readiness for the whales. But they [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed
 rather slow and talked very fast, and seemed in anything but a good
 humor. All their noses upwardly projected from their faces like so many
-jib-booms. Now and then pairs of them would drop their work, and run up
+jib-booms. Now and then pairs of them would drop their [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and run up
 to the mast-head to get some fresh air. Some thinking they would catch
 the plague, dipped oakum in coal-tar, and at intervals held it to their
 nostrils. Others having broken the stems of their pipes almost short
@@ -15662,7 +15662,7 @@ Stubb was struck by a shower of outcries and anathemas proceeding from
 the Captain’s round-house abaft; and looking in that direction saw a
 fiery face thrust from behind the door, which was held ajar from
 within. This was the tormented surgeon, who, after in vain
-remonstrating against the proceedings of the day, had betaken himself
+remonstrating against the proceedings of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), had betaken himself
 to the Captain’s round-house (_cabinet_ he called it) to avoid the
 pest; but still, could not help yelling out his entreaties and
 indignations at times.
@@ -15696,7 +15696,7 @@ may as well begin by telling him that he looks a sort of babyish to me,
 though I don’t pretend to be a judge.”
 
 “He says, Monsieur,” said the Guernsey-man, in French, turning to his
-captain, “that only yesterday his ship spoke a vessel, whose captain
+captain, “that only yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) his ship spoke a vessel, whose captain
 and chief-mate, with six sailors, had all died of a fever caught from a
 blasted whale they had brought alongside.”
 
@@ -15737,7 +15737,7 @@ his cabin to drink a bottle of Bordeaux.
 with the man I’ve diddled. In fact, tell him I must go.”
 
 “He says, Monsieur, that his principles won’t admit of his drinking;
-but that if Monsieur wants to live another day to drink, then Monsieur
+but that if Monsieur wants to live another [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to drink, then Monsieur
 had best drop all four boats, and pull the ship away from these whales,
 for it’s so calm they won’t drift.”
 
@@ -15790,7 +15790,7 @@ on board, else the ship would bid them good bye.
 Now this ambergris is a very curious substance, and so important as an
 article of commerce, that in 1791 a certain Nantucket-born Captain
 Coffin was examined at the bar of the English House of Commons on that
-subject. For at that time, and indeed until a comparatively late day,
+subject. For at that time, and indeed until a comparatively late [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),
 the precise origin of ambergris remained, like amber itself, a problem
 to the learned. Though the word ambergris is but the French compound
 for grey amber, yet the two substances are quite distinct. For amber,
@@ -15853,15 +15853,15 @@ I partly surmise also, that this wicked charge against whalers may be
 likewise imputed to the existence on the coast of Greenland, in former
 times, of a Dutch village called Schmerenburgh or Smeerenberg, which
 latter name is the one used by the learned Fogo Von Slack, in his great
-work on Smells, a text-book on that subject. As its name imports
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) on Smells, a text-book on that subject. As its name imports
 (smeer, fat; berg, to put up), this village was founded in order to
 afford a place for the blubber of the Dutch whale fleet to be tried
 out, without being taken home to Holland for that purpose. It was a
-collection of furnaces, fat-kettles, and oil sheds; and when the works
+collection of furnaces, fat-kettles, and oil sheds; and when the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s
 were in full operation certainly gave forth no very pleasant savor. But
 all this is quite different with a South Sea Sperm Whaler; which in a
 voyage of four years perhaps, after completely filling her hold with
-oil, does not, perhaps, consume fifty days in the business of boiling
+oil, does not, perhaps, consume fifty [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s in the business of boiling
 out; and in the state that it is casked, the oil is nearly scentless.
 The truth is, that living or dead, if but decently treated, whales as a
 species are by no means creatures of ill odor; nor can whalemen be
@@ -15880,7 +15880,7 @@ which was led out of an Indian town to do honor to Alexander the Great?
 ---
 ## CHAPTER 93. The...
 
-It was but some few days after encountering the Frenchman, that a most
+It was but some few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s after encountering the Frenchman, that a most
 significant event befell the most insignificant of the Pequod’s crew;
 an event most lamentable; and which ended in providing the sometimes
 madly merry and predestinated craft with a living and ever accompanying
@@ -15888,7 +15888,7 @@ prophecy of whatever shattered sequel might prove her own.
 
 Now, in the whale ship, it is not every one that goes in the boats.
 Some few hands are reserved called ship-keepers, whose province it is
-to work the vessel while the boats are pursuing the whale. As a general
+to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) the vessel while the boats are pursuing the whale. As a general
 thing, these ship-keepers are as hardy fellows as the men comprising
 the boats’ crews. But if there happen to be an unduly slender, clumsy,
 or timorous wight in the ship, that wight is certain to be made a
@@ -15902,10 +15902,10 @@ a white one, of equal developments, though of dissimilar colour, driven
 in one eccentric span. But while hapless Dough-Boy was by nature dull
 and torpid in his intellects, Pip, though over tender-hearted, was at
 bottom very bright, with that pleasant, genial, jolly brightness
-peculiar to his tribe; a tribe, which ever enjoy all holidays and
+peculiar to his tribe; a tribe, which ever enjoy all holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and
 festivities with finer, freer relish than any other race. For blacks,
 the year’s calendar should show naught but three hundred and sixty-five
-Fourth of Julys and New Year’s Days. Nor smile so, while I write that
+Fourth of Julys and New Year’s [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s. Nor smile so, while I write that
 this little black was brilliant, for even blackness has its brilliancy;
 behold yon lustrous ebony, panelled in king’s cabinets. But Pip loved
 life, and all life’s peaceable securities; so that the panic-striking
@@ -15917,7 +15917,7 @@ off to ten times the natural lustre with which in his native Tolland
 County in Connecticut, he had once enlivened many a fiddler’s frolic on
 the green; and at melodious even-tide, with his gay ha-ha! had turned
 the round horizon into one star-belled tambourine. So, though in the
-clear air of day, suspended against a blue-veined neck, the
+clear air of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), suspended against a blue-veined neck, the
 pure-watered diamond drop will healthful glow; yet, when the cunning
 jeweller would show you the diamond in its most impressive lustre, he
 lays it against a gloomy ground, and then lights it up, not by the sun,
@@ -15982,7 +15982,7 @@ under very similar circumstances to the first performance; but this
 time he did not breast out the line; and hence, when the whale started
 to run, Pip was left behind on the sea, like a hurried traveller’s
 trunk. Alas! Stubb was but too true to his word. It was a beautiful,
-bounteous, blue day; the spangled sea calm and cool, and flatly
+bounteous, blue [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); the spangled sea calm and cool, and flatly
 stretching away, all round, to the horizon, like gold-beater’s skin
 hammered out to the extremest. Bobbing up and down in that sea, Pip’s
 ebon head showed like a head of cloves. No boat-knife was lifted when
@@ -16045,7 +16045,7 @@ the Heidelburgh Tun, or Case.
 While some were occupied with this latter duty, others were employed in
 dragging away the larger tubs, so soon as filled with the sperm; and
 when the proper time arrived, this same sperm was carefully manipulated
-ere going to the try-works, of which anon.
+ere going to the try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s, of which anon.
 
 It had cooled and crystallized to such a degree, that when, with
 several others, I sat down before a large Constantine’s bath of it, I
@@ -16097,7 +16097,7 @@ spermaceti.
 
 Now, while discoursing of sperm, it behooves to speak of other things
 akin to it, in the business of preparing the sperm whale for the
-try-works.
+try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s.
 
 First comes white-horse, so called, which is obtained from the tapering
 part of the fish, and also from the thicker portions of his flukes. It
@@ -16116,7 +16116,7 @@ purple. It is plums of rubies, in pictures of citron. Spite of reason,
 it is hard to keep yourself from eating it. I confess, that once I
 stole behind the foremast to try it. It tasted something as I should
 conceive a royal cutlet from the thigh of Louis le Gros might have
-tasted, supposing him to have been killed the first day after the
+tasted, supposing him to have been killed the first [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after the
 venison season, and that particular venison season contemporary with an
 unusually fine vintage of the vineyards of Champagne.
 
@@ -16149,7 +16149,7 @@ inmates. This place has previously been mentioned as the receptacle for
 the blanket-pieces, when stript and hoisted from the whale. When the
 proper time arrives for cutting up its contents, this apartment is a
 scene of terror to all tyros, especially by night. On one side, lit by
-a dull lantern, a space has been left clear for the workmen. They
+a dull lantern, a space has been left clear for the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)men. They
 generally go in pairs,—a pike-and-gaffman and a spade-man. The
 whaling-pike is similar to a frigate’s boarding-weapon of the same
 name. The gaff is something like a boat-hook. With his gaff, the
@@ -16207,7 +16207,7 @@ intent on bible leaves; what a candidate for an archbishopric, what a
 lad for a Pope were this mincer!*
 
 *Bible leaves! Bible leaves! This is the invariable cry from the mates
-to the mincer. It enjoins him to be careful, and cut his work into as
+to the mincer. It enjoins him to be careful, and cut his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) into as
 thin slices as possible, inasmuch as by so doing the business of
 boiling out the oil is much accelerated, and its quantity considerably
 increased, besides perhaps improving it in quality.
@@ -16217,12 +16217,12 @@ increased, besides perhaps improving it in quality.
 ## CHAPTER 96. The...
 
 Besides her hoisted boats, an American whaler is outwardly
-distinguished by her try-works. She presents the curious anomaly of the
+distinguished by her try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s. She presents the curious anomaly of the
 most solid masonry joining with oak and hemp in constituting the
 completed ship. It is as if from the open field a brick-kiln were
 transported to her planks.
 
-The try-works are planted between the foremast and mainmast, the most
+The try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s are planted between the foremast and mainmast, the most
 roomy part of the deck. The timbers beneath are of a peculiar strength,
 fitted to sustain the weight of an almost solid mass of brick and
 mortar, some ten feet by eight square, and five in height. The
@@ -16244,24 +16244,24 @@ indirectly struck by the remarkable fact, that in geometry all bodies
 gliding along the cycloid, my soapstone for example, will descend from
 any point in precisely the same time.
 
-Removing the fire-board from the front of the try-works, the bare
+Removing the fire-board from the front of the try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s, the bare
 masonry of that side is exposed, penetrated by the two iron mouths of
 the furnaces, directly underneath the pots. These mouths are fitted
 with heavy doors of iron. The intense heat of the fire is prevented
 from communicating itself to the deck, by means of a shallow reservoir
-extending under the entire inclosed surface of the works. By a tunnel
+extending under the entire inclosed surface of the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s. By a tunnel
 inserted at the rear, this reservoir is kept replenished with water as
 fast as it evaporates. There are no external chimneys; they open direct
 from the rear wall. And here let us go back for a moment.
 
-It was about nine o’clock at night that the Pequod’s try-works were
+It was about nine o’clock at night that the Pequod’s try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s were
 first started on this present voyage. It belonged to Stubb to oversee
 the business.
 
 “All ready there? Off hatch, then, and start her. You cook, fire the
-works.” This was an easy thing, for the carpenter had been thrusting
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s.” This was an easy thing, for the carpenter had been thrusting
 his shavings into the furnace throughout the passage. Here be it said
-that in a whaling voyage the first fire in the try-works has to be fed
+that in a whaling voyage the first fire in the try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s has to be fed
 for a time with wood. After that no wood is used, except as a means of
 quick ignition to the staple fuel. In a word, after being tried out,
 the crisp, shrivelled blubber, now called scraps or fritters, still
@@ -16272,10 +16272,10 @@ his own body. Would that he consumed his own smoke! for his smoke is
 horrible to inhale, and inhale it you must, and not only that, but you
 must live in it for the time. It has an unspeakable, wild, Hindoo odor
 about it, such as may lurk in the vicinity of funereal pyres. It smells
-like the left wing of the day of judgment; it is an argument for the
+like the left wing of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of judgment; it is an argument for the
 pit.
 
-By midnight the works were in full operation. We were clear from the
+By midnight the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s were in full operation. We were clear from the
 carcase; sail had been made; the wind was freshening; the wild ocean
 darkness was intense. But that darkness was licked up by the fierce
 flames, which at intervals forked forth from the sooty flues, and
@@ -16286,7 +16286,7 @@ bold Hydriote, Canaris, issuing from their midnight harbors, with broad
 sheets of flame for sails, bore down upon the Turkish frigates, and
 folded them in conflagrations.
 
-The hatch, removed from the top of the works, now afforded a wide
+The hatch, removed from the top of the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s, now afforded a wide
 hearth in front of them. Standing on this were the Tartarean shapes of
 the pagan harpooneers, always the whale-ship’s stokers. With huge
 pronged poles they pitched hissing masses of blubber into the scalding
@@ -16294,13 +16294,13 @@ pots, or stirred up the fires beneath, till the snaky flames darted,
 curling, out of the doors to catch them by the feet. The smoke rolled
 away in sullen heaps. To every pitch of the ship there was a pitch of
 the boiling oil, which seemed all eagerness to leap into their faces.
-Opposite the mouth of the works, on the further side of the wide wooden
+Opposite the mouth of the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s, on the further side of the wide wooden
 hearth, was the windlass. This served for a sea-sofa. Here lounged the
 watch, when not otherwise employed, looking into the red heat of the
 fire, till their eyes felt scorched in their heads. Their tawny
 features, now all begrimed with smoke and sweat, their matted beards,
 and the contrasting barbaric brilliancy of their teeth, all these were
-strangely revealed in the capricious emblazonings of the works. As they
+strangely revealed in the capricious emblazonings of the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s. As they
 narrated to each other their unholy adventures, their tales of terror
 told in words of mirth; as their uncivilized laughter forked upwards
 out of them, like the flames from the furnace; as to and fro, in their
@@ -16336,7 +16336,7 @@ lamp illuminating it. Nothing seemed before me but a jet gloom, now and
 then made ghastly by flashes of redness. Uppermost was the impression,
 that whatever swift, rushing thing I stood on was not so much bound to
 any haven ahead as rushing from all havens astern. A stark, bewildered
-feeling, as of [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), came over me. Convulsively my hands grasped the
+feeling, as of [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), came over me. Convulsively my hands grasped the
 tiller, but with the crazy conceit that the tiller was, somehow, in
 some enchanted way, inverted. My God! what is the matter with me?
 thought I. Lo! in my brief sleep I had turned myself about, and was
@@ -16386,7 +16386,7 @@ is still higher than other birds upon the plain, even though they soar.
 ---
 ## CHAPTER 97. The...
 
-Had you descended from the Pequod’s try-works to the Pequod’s
+Had you descended from the Pequod’s try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s to the Pequod’s
 forecastle, where the off duty watch were sleeping, for one single
 moment you would have almost thought you were standing in some
 illuminated shrine of canonized kings and counsellors. There they lay
@@ -16402,7 +16402,7 @@ the ship’s black hull still houses an illumination.
 
 See with what entire freedom the whaleman takes his handful of
 lamps—often but old bottles and vials, though—to the copper cooler at
-the try-works, and replenishes them there, as mugs of ale at a vat. He
+the try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s, and replenishes them there, as mugs of ale at a vat. He
 burns, too, the purest of oil, in its unmanufactured, and, therefore,
 unvitiated state; a fluid unknown to solar, lunar, or astral
 contrivances ashore. It is sweet as early grass butter in April. He
@@ -16444,16 +16444,16 @@ and down go the casks to their final rest in the sea. This done, the
 hatches are replaced, and hermetically closed, like a closet walled up.
 
 In the sperm fishery, this is perhaps one of the most remarkable
-incidents in all the business of whaling. One day the planks stream
+incidents in all the business of whaling. One [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) the planks stream
 with freshets of blood and oil; on the sacred quarter-deck enormous
 masses of the whale’s head are profanely piled; great rusty casks lie
-about, as in a brewery yard; the smoke from the try-works has besooted
+about, as in a brewery yard; the smoke from the try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s has besooted
 all the bulwarks; the mariners go about suffused with unctuousness; the
 entire ship seems great leviathan himself; while on all hands the din
 is deafening.
 
-But a day or two after, you look about you, and prick your ears in this
-self-same ship; and were it not for the tell-tale boats and try-works,
+But a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two after, you look about you, and prick your ears in this
+self-same ship; and were it not for the tell-tale boats and try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s,
 you would all but swear you trod some silent merchant vessel, with a
 most scrupulously neat commander. The unmanufactured sperm oil
 possesses a singularly cleansing virtue. This is the reason why the
@@ -16465,7 +16465,7 @@ exterminates it. Hands go diligently along the bulwarks, and with
 buckets of water and rags restore them to their full tidiness. The soot
 is brushed from the lower rigging. All the numerous implements which
 have been in use are likewise faithfully cleansed and put away. The
-great hatch is scrubbed and placed upon the try-works, completely
+great hatch is scrubbed and placed upon the try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s, completely
 hiding the pots; every cask is out of sight; all tackles are coiled in
 unseen nooks; and when by the combined and simultaneous industry of
 almost the entire ship’s company, the whole of this conscientious duty
@@ -16488,10 +16488,10 @@ the old oaken furniture, and drop at least one small grease-spot
 somewhere. Yes; and many is the time, when, after the severest
 uninterrupted labors, which know no night; continuing straight through
 for ninety-six hours; when from the boat, where they have swelled their
-wrists with all day rowing on the Line,—they only step to the deck to
+wrists with all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) rowing on the Line,—they only step to the deck to
 carry vast chains, and heave the heavy windlass, and cut and slash,
 yea, and in their very sweatings to be smoked and burned anew by the
-combined fires of the equatorial sun and the equatorial try-works;
+combined fires of the equatorial sun and the equatorial try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s;
 when, on the heel of all this, they have finally bestirred themselves
 to cleanse the ship, and make a spotless dairy room of it; many is the
 time the poor fellows, just buttoning the necks of their clean frocks,
@@ -16585,15 +16585,15 @@ now this coined sun wears a ruddy face; but see! aye, he enters the
 sign of storms, the equinox! and but six months before he wheeled out
 of a former equinox at Aries! From storm to storm! So be it, then. Born
 in throes, ’tis fit that man should live in pains and die in pangs! So
-be it, then! Here’s stout stuff for woe to work on. So be it, then.”
+be it, then! Here’s stout stuff for woe to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) on. So be it, then.”
 
 “No fairy fingers can have pressed the gold, but devil’s claws must
-have left their mouldings there since yesterday,” murmured Starbuck to
+have left their mouldings there since yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),” murmured Starbuck to
 himself, leaning against the bulwarks. “The old man seems to read
 Belshazzar’s awful writing. I have never marked the coin inspectingly.
 He goes below; let me read. A dark valley between three mighty,
 heaven-abiding peaks, that almost seem the Trinity, in some faint
-earthly symbol. So in this vale of [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), God girds us round; and over
+earthly symbol. So in this vale of [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), God girds us round; and over
 all our gloom, the sun of Righteousness still shines a beacon and a
 hope. If we bend down our eyes, the dark vale shows her mouldy soil;
 but if we lift them, the bright sun meets our glance half way, to
@@ -16602,7 +16602,7 @@ would fain snatch some sweet solace from him, we gaze for him in vain!
 This coin speaks wisely, mildly, truly, but still sadly to me. I will
 quit it, lest Truth shake me falsely.”
 
-“There now’s the old Mogul,” soliloquized Stubb by the try-works, “he’s
+“There now’s the old Mogul,” soliloquized Stubb by the try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s, “he’s
 been twigging it; and there goes Starbuck from the same, and both with
 faces which I should say might be somewhere within nine fathoms long.
 And all from looking at a piece of gold, which did I have it now on
@@ -16652,7 +16652,7 @@ sun goes through it every year, and yet comes out of it all alive and
 hearty. Jollily he, aloft there, wheels through toil and trouble; and
 so, alow here, does jolly Stubb. Oh, jolly’s the word for aye! Adieu,
 Doubloon! But stop; here comes little King-Post; dodge round the
-try-works, now, and let’s hear what he’ll have to say. There; he’s
+try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s, now, and let’s hear what he’ll have to say. There; he’s
 before it; he’ll out with something presently. So, so; he’s beginning.”
 
 “I see nothing here, but a round thing made of gold, and whoever raises
@@ -16671,7 +16671,7 @@ side of the mast; why, there’s a horse-shoe nailed on that side; and
 now he’s back again; what does that mean? Hark! he’s muttering—voice
 like an old worn-out coffee-mill. Prick ears, and listen!”
 
-“If the White Whale be raised, it must be in a month and a day, when
+“If the White Whale be raised, it must be in a month and a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), when
 the sun stands in some one of these signs. I’ve studied signs, and know
 their marks; they were taught me two score years ago, by the old witch
 in Copenhagen. Now, in what sign will the sun then be? The horse-shoe
@@ -16712,7 +16712,7 @@ poor fellow! But what’s that he says now—hist!”
 “Well, that’s funny.”
 
 “And I, you, and he; and we, ye, and they, are all bats; and I’m a
-crow, especially when I stand a’top of this pine tree here. Caw! caw!
+crow, especially when I stand a’top of this pine [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) here. Caw! caw!
 caw! caw! caw! caw! Ain’t I a crow? And where’s the scare-crow? There
 he stands; two bones stuck into a pair of old trowsers, and two more
 poked into the sleeves of an old jacket.”
@@ -16726,8 +16726,8 @@ sanity. So, so, I leave him muttering.”
 to unscrew it. But, unscrew your navel, and what’s the consequence?
 Then again, if it stays here, that is ugly, too, for when aught’s
 nailed to the mast it’s a sign that things grow desperate. Ha, ha! old
-Ahab! the White Whale; he’ll nail ye! This is a pine tree. My father,
-in old Tolland county, cut down a pine tree once, and found a silver
+Ahab! the White Whale; he’ll nail ye! This is a pine [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip). My father,
+in old Tolland county, cut down a pine [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) once, and found a silver
 ring grown over in it; some old darkey’s wedding ring. How did it get
 there? And so they’ll say in the resurrection, when they come to fish
 up this old mast, and find a doubloon lodged in it, with bedded oysters
@@ -16792,12 +16792,12 @@ because the strange captain, observing at a glance how affairs stood,
 cried out, “I see, I see!—avast heaving there! Jump, boys, and swing
 over the cutting-tackle.”
 
-As good luck would have it, they had had a whale alongside a day or two
+As good luck would have it, they had had a whale alongside a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two
 previous, and the great tackles were still aloft, and the massive
 curved blubber-hook, now clean and dry, was still attached to the end.
 This was quickly lowered to Ahab, who at once comprehending it all,
 slid his solitary thigh into the curve of the hook (it was like sitting
-in the fluke of an anchor, or the crotch of an apple tree), and then
+in the fluke of an anchor, or the crotch of an apple [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)), and then
 giving the word, held himself fast, and at the same time also helped to
 hoist his own weight, by pulling hand-over-hand upon one of the running
 parts of the tackle. Soon he was carefully swung inside the high
@@ -16822,7 +16822,7 @@ the capstan, and resting on the Englishman’s shoulder, as he did so.
 
 “It was the first time in my life that I ever cruised on the Line,”
 began the Englishman. “I was ignorant of the White Whale at that time.
-Well, one day we lowered for a pod of four or five whales, and my boat
+Well, one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) we lowered for a pod of four or five whales, and my boat
 fastened to one of them; a regular circus horse he was, too, that went
 milling and milling round so, that my boat’s crew could only trim dish,
 by sitting all their sterns on the outer gunwale. Presently up breaches
@@ -16861,7 +16861,7 @@ great-grandfather have it. But, Lord, look you, sir—hearts and souls
 alive, man—the next instant, in a jiff, I was blind as a bat—both eyes
 out—all befogged and bedeadened with black foam—the whale’s tail
 looming straight up out of it, perpendicular in the air, like a marble
-steeple. No use sterning all, then; but as I was groping at midday,
+steeple. No use sterning all, then; but as I was groping at mid[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),
 with a blinding sun, all crown-jewels; as I was groping, I say, after
 the second iron, to toss it overboard—down comes the tail like a Lima
 tower, cutting my boat in two, leaving each half in splinters; and,
@@ -16929,7 +16929,7 @@ more than two feet and several inches long. I measured it with the lead
 line. In short, it grew black; I knew what was threatened, and off it
 came. But I had no hand in shipping that ivory arm there; that thing is
 against all rule”—pointing at it with the marlingspike—“that is the
-captain’s work, not mine; he ordered the carpenter to make it; he had
+captain’s [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), not mine; he ordered the carpenter to make it; he had
 that club-hammer there put to the end, to knock some one’s brains out
 with, I suppose, as he tried mine once. He flies into diabolical
 passions sometimes. Do ye see this dent, sir”—removing his hat, and
@@ -17058,14 +17058,14 @@ generally known. The Syren in this famous voyage was commanded by a
 Captain Coffin, a Nantucketer.
 
 All honor to the Enderbies, therefore, whose house, I think, exists to
-the present day; though doubtless the original Samuel must long ago
+the present [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); though doubtless the original Samuel must long ago
 have slipped his cable for the great South Sea of the other world.
 
 The ship named after him was worthy of the honor, being a very fast
 sailer and a noble craft every way. I boarded her once at midnight
 somewhere off the Patagonian coast, and drank good flip down in the
 forecastle. It was a fine gam we had, and they were all trumps—every
-soul on board. A short life to them, and a jolly [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip). And that fine
+soul on board. A short life to them, and a jolly [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). And that fine
 gam I had—long, very long after old Ahab touched her planks with his
 ivory heel—it minds me of the noble, solid, Saxon hospitality of that
 ship; and may my parson forget me, and the devil remember me, if I ever
@@ -17081,8 +17081,8 @@ we had to pass the flip again, though the savage salt spray bursting
 down the forecastle scuttle, rather too much diluted and pickled it to
 my taste.
 
-The beef was fine—tough, but with body in it. They said it was
-bull-beef; others, that it was dromedary beef; but I do not know, for
+The [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip) was fine—tough, but with body in it. They said it was
+bull-[beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip); others, that it was dromedary [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip); but I do not know, for
 certain, how that was. They had dumplings too; small, but substantial,
 symmetrically globular, and indestructible dumplings. I fancied that
 you could feel them, and roll them about in you after they were
@@ -17099,7 +17099,7 @@ capital from boot heels to hat-band.
 
 But why was it, think ye, that the Samuel Enderby, and some other
 English whalers I know of—not all though—were such famous, hospitable
-ships; that passed round the beef, and the bread, and the can, and the
+ships; that passed round the [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip), and the bread, and the can, and the
 joke; and were not soon weary of eating, and drinking, and laughing? I
 will tell you. The abounding good cheer of these English whalers is
 matter for historical research. Nor have I been at all sparing of
@@ -17123,7 +17123,7 @@ cooper in the fishery, as every whale ship must carry its cooper. I was
 reinforced in this opinion by seeing that it was the production of one
 “Fitz Swackhammer.” But my friend Dr. Snodhead, a very learned man,
 professor of Low Dutch and High German in the college of Santa Claus
-and St. Pott’s, to whom I handed the work for translation, giving him a
+and St. Pott’s, to whom I handed the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) for translation, giving him a
 box of sperm candles for his trouble—this same Dr. Snodhead, so soon as
 he spied the book, assured me that “Dan Coopman” did not mean “The
 Cooper,” but “The Merchant.” In short, this ancient and learned Low
@@ -17134,7 +17134,7 @@ long detailed list of the outfits for the larders and cellars of 180
 sail of Dutch whalemen; from which list, as translated by Dr. Snodhead,
 I transcribe the following:
 
-400,000 lbs. of beef. 60,000 lbs. Friesland pork. 150,000 lbs. of stock
+400,000 lbs. of [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip). 60,000 lbs. Friesland pork. 150,000 lbs. of stock
 fish. 550,000 lbs. of biscuit. 72,000 lbs. of soft bread. 2,800 firkins
 of butter. 20,000 lbs. Texel & Leyden cheese. 144,000 lbs. cheese
 (probably an inferior article). 550 ankers of Geneva. 10,800 barrels of
@@ -17144,8 +17144,8 @@ Most statistical tables are parchingly dry in the reading; not so in
 the present case, however, where the reader is flooded with whole
 pipes, barrels, quarts, and gills of good gin and good cheer.
 
-At the time, I devoted three days to the studious digesting of all this
-beer, beef, and bread, during which many profound thoughts were
+At the time, I devoted three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s to the studious digesting of all this
+beer, [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip), and bread, during which many profound thoughts were
 incidentally suggested to me, capable of a transcendental and Platonic
 application; and, furthermore, I compiled supplementary tables of my
 own, touching the probable quantity of stock-fish, etc., consumed by
@@ -17204,7 +17204,7 @@ full-grown whale on your deck for examination, as a cook dishes a
 roast-pig? Surely not. A veritable witness have you hitherto been,
 Ishmael; but have a care how you seize the privilege of Jonah alone;
 the privilege of discoursing upon the joists and beams; the rafters,
-ridge-pole, sleepers, and under-pinnings, making up the frame-work of
+ridge-pole, sleepers, and under-pinnings, making up the frame-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of
 leviathan; and belike of the tallow-vats, dairy-rooms, butteries, and
 cheeseries in his bowels.
 
@@ -17221,7 +17221,7 @@ And as for my exact knowledge of the bones of the leviathan in their
 gigantic, full grown development, for that rare knowledge I am indebted
 to my late royal friend Tranquo, king of Tranque, one of the Arsacides.
 For being at Tranque, years ago, when attached to the trading-ship Dey
-of Algiers, I was invited to spend part of the Arsacidean holidays with
+of Algiers, I was invited to spend part of the Arsacidean holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s with
 the lord of Tranque, at his retired palm villa at Pupella; a sea-side
 glen not very far distant from what our sailors called Bamboo-Town, his
 capital.
@@ -17236,7 +17236,7 @@ wonder-freighted, tribute-rendering waves had cast upon his shores.
 
 Chief among these latter was a great Sperm Whale, which, after an
 unusually long raging gale, had been found dead and stranded, with his
-head against a cocoa-nut tree, whose plumage-like, tufted droopings
+head against a cocoa-nut [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip), whose plumage-like, tufted droopings
 seemed his verdant jet. When the vast body had at last been stripped of
 its fathom-deep enfoldings, and the bones become dust dry in the sun,
 then the skeleton was carefully transported up the Pupella glen, where
@@ -17250,10 +17250,10 @@ terrific lower jaw vibrated over all the devotees, like the hair-hung
 sword that so affrighted Damocles.
 
 It was a wondrous sight. The wood was green as mosses of the Icy Glen;
-the trees stood high and haughty, feeling their living sap; the
+the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s stood high and haughty, feeling their living sap; the
 industrious earth beneath was as a weaver’s loom, with a gorgeous
 carpet on it, whereof the ground-vine tendrils formed the warp and
-woof, and the living flowers the figures. All the trees, with all their
+woof, and the living flowers the figures. All the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s, with all their
 laden branches; all the shrubs, and ferns, and grasses; the
 message-carrying air; all these unceasingly were active. Through the
 lacings of the leaves, the great sun seemed a flying shuttle weaving
@@ -17277,7 +17277,7 @@ great, white, worshipped skeleton lay lounging—a gigantic idler! Yet,
 as the ever-woven verdant warp and woof intermixed and hummed around
 him, the mighty idler seemed the cunning weaver; himself all woven over
 with the vines; every month assuming greener, fresher verdure; but
-himself a skeleton. Life folded [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip); [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) trellised Life; the grim
+himself a skeleton. Life folded [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip); [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) trellised Life; the grim
 god wived with youthful Life, and begat him curly-headed glories.
 
 Now, when with royal Tranquo I visited this wondrous whale, and saw the
@@ -17320,7 +17320,7 @@ grounds. King Tranquo seizing his because he wanted it; and Sir
 Clifford, because he was lord of the seignories of those parts. Sir
 Clifford’s whale has been articulated throughout; so that, like a great
 chest of drawers, you can open and shut him, in all his bony
-cavities—spread out his ribs like a gigantic fan—and swing all day upon
+cavities—spread out his ribs like a gigantic fan—and swing all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) upon
 his lower jaw. Locks are to be put upon some of his trap-doors and
 shutters; and a footman will show round future visitors with a bunch of
 keys at his side. Sir Clifford thinks of charging twopence for a peep
@@ -17425,10 +17425,10 @@ middle one, is in width something less than three feet, and in depth
 more than four. The smallest, where the spine tapers away into the
 tail, is only two inches in width, and looks something like a white
 billiard-ball. I was told that there were still smaller ones, but they
-had been lost by some little cannibal urchins, the priest’s [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren,
+had been lost by some little cannibal urchins, the priest’s [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren,
 who had stolen them to play marbles with. Thus we see how that the
 spine of even the hugest of living things tapers off at last into
-simple [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)’s play.
+simple [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)’s play.
 
 
 ---
@@ -17496,7 +17496,7 @@ and skeletons, have within thirty years past, at various intervals,
 been found at the base of the Alps, in Lombardy, in France, in England,
 in Scotland, and in the States of Louisiana, Mississippi, and Alabama.
 Among the more curious of such remains is part of a skull, which in the
-year 1779 was disinterred in the Rue Dauphine in Paris, a short street
+year 1779 was disinterred in the Rue Dauphine in Paris, a short s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t
 opening almost directly upon the palace of the Tuileries; and bones
 disinterred in excavating the great docks of Antwerp, in Napoleon’s
 time. Cuvier pronounced these fragments to have belonged to some
@@ -17557,7 +17557,7 @@ the venerable John Leo, the old Barbary traveller.
 of which are made of Whale-Bones; for Whales of a monstrous size are
 oftentimes cast up dead upon that shore. The Common People imagine,
 that by a secret Power bestowed by God upon the Temple, no Whale can
-pass it without immediate [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip). But the truth of the Matter is, that
+pass it without immediate [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). But the truth of the Matter is, that
 on either side of the Temple, there are Rocks that shoot two Miles into
 the Sea, and wound the Whales when they light upon ’em. They keep a
 Whale’s Rib of an incredible length for a Miracle, which lying upon the
@@ -17581,7 +17581,7 @@ in the long course of his generations, he has not degenerated from the
 original bulk of his sires.
 
 But upon investigation we find, that not only are the whales of the
-present day superior in magnitude to those whose fossil remains are
+present [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) superior in magnitude to those whose fossil remains are
 found in the Tertiary system (embracing a distinct geological period
 prior to man), but of the whales found in that Tertiary system, those
 belonging to its latter formations exceed in size those of its earlier
@@ -17603,16 +17603,16 @@ Assuredly, we must conclude so, if we are to credit the accounts of
 such gentlemen as Pliny, and the ancient naturalists generally. For
 Pliny tells us of whales that embraced acres of living bulk, and
 Aldrovandus of others which measured eight hundred feet in length—Rope
-Walks and Thames Tunnels of Whales! And even in the days of Banks and
+Walks and Thames Tunnels of Whales! And even in the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of Banks and
 Solander, Cooke’s naturalists, we find a Danish member of the Academy
 of Sciences setting down certain Iceland Whales (reydan-siskur, or
 Wrinkled Bellies) at one hundred and twenty yards; that is, three
 hundred and sixty feet. And Lacépède, the French naturalist, in his
-elaborate history of whales, in the very beginning of his work (page
+elaborate history of whales, in the very beginning of his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) (page
 3), sets down the Right Whale at one hundred metres, three hundred and
-twenty-eight feet. And this work was published so late as A.D. 1825.
+twenty-eight feet. And this [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) was published so late as A.D. 1825.
 
-But will any whaleman believe these stories? No. The whale of to-day is
+But will any whaleman believe these stories? No. The whale of to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) is
 as big as his ancestors in Pliny’s time. And if ever I go where Pliny
 is, I, a whaleman (more than he was), will make bold to tell him so.
 Because I cannot understand how it is, that while the Egyptian mummies
@@ -17647,14 +17647,14 @@ extinction.
 
 But you must look at this matter in every light. Though so short a
 period ago—not a good lifetime—the census of the buffalo in Illinois
-exceeded the census of men now in London, and though at the present day
+exceeded the census of men now in London, and though at the present [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
 not one horn or hoof of them remains in all that region; and though the
 cause of this wondrous extermination was the spear of man; yet the far
 different nature of the whale-hunt peremptorily forbids so inglorious
 an end to the Leviathan. Forty men in one ship hunting the Sperm Whales
 for forty-eight months think they have done extremely well, and thank
 God, if at last they carry home the oil of forty fish. Whereas, in the
-days of the old Canadian and Indian hunters and trappers of the West,
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of the old Canadian and Indian hunters and trappers of the West,
 when the far west (in whose sunset suns still rise) was a wilderness
 and a virgin, the same number of moccasined men, for the same number of
 months, mounted on horse instead of sailing in ships, would have slain
@@ -17669,7 +17669,7 @@ consequence, the voyages were not so prolonged, and were also much more
 remunerative. Because, as has been elsewhere noticed, those whales,
 influenced by some views to safety, now swim the seas in immense
 caravans, so that to a large degree the scattered solitaries, yokes,
-and pods, and schools of other days are now aggregated into vast but
+and pods, and schools of other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s are now aggregated into vast but
 widely separated, unfrequent armies. That is all. And equally
 fallacious seems the conceit, that because the so-called whale-bone
 whales no longer haunt many grounds in former years abounding with
@@ -17715,7 +17715,7 @@ therefore at any one period of time, several distinct adult generations
 must be contemporary. And what that is, we may soon gain some idea of,
 by imagining all the grave-yards, cemeteries, and family vaults of
 creation yielding up the live bodies of all the men, women, and
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren who were alive seventy-five years ago; and adding this
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren who were alive seventy-five years ago; and adding this
 countless host to the present human population of the globe.
 
 Wherefore, for all these things, we account the whale immortal in his
@@ -17761,9 +17761,9 @@ all miserable events do naturally beget their like. Yea, more than
 equally, thought Ahab; since both the ancestry and posterity of Grief
 go further than the ancestry and posterity of Joy. For, not to hint of
 this: that it is an inference from certain canonic teachings, that
-while some natural enjoyments here shall have no [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren born to them
+while some natural enjoyments here shall have no [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren born to them
 for the other world, but, on the contrary, shall be followed by the
-joy-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)lessness of all hell’s despair; whereas, some guilty mortal
+joy-[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)lessness of all hell’s despair; whereas, some guilty mortal
 miseries shall still fertilely beget to themselves an eternally
 progressive progeny of griefs beyond the grave; not at all to hint of
 this, there still seems an inequality in the deeper analysis of the
@@ -17810,7 +17810,7 @@ And when that functionary appeared before him, he bade him without
 delay set about making a new leg, and directed the mates to see him
 supplied with all the studs and joists of jaw-ivory (Sperm Whale) which
 had thus far been accumulated on the voyage, in order that a careful
-s[election](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/election.zip) of the stoutest, clearest-grained stuff might be secured.
+s[election](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/election.zip) of the stoutest, clearest-grained stuff might be secured.
 This done, the carpenter received orders to have the leg completed that
 night; and to provide all the fittings for it, independent of those
 pertaining to the distrusted one in use. Moreover, the ship’s forge was
@@ -17842,7 +17842,7 @@ recurring in a large ship, upon a three or four years’ voyage, in
 uncivilized and far-distant seas. For not to speak of his readiness in
 ordinary duties:—repairing stove boats, sprung spars, reforming the
 shape of clumsy-bladed oars, inserting bull’s eyes in the deck, or new
-tree-nails in the side planks, and other miscellaneous matters more
+[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)-nails in the side planks, and other miscellaneous matters more
 directly pertaining to his special business; he was moreover
 unhesitatingly expert in all manner of conflicting aptitudes, both
 useful and capricious.
@@ -17851,7 +17851,7 @@ The one grand stage where he enacted all his various parts so manifold,
 was his vice-bench; a long rude ponderous table furnished with several
 vices, of different sizes, and both of iron and of wood. At all times
 except when whales were alongside, this bench was securely lashed
-athwartships against the rear of the Try-works.
+athwartships against the rear of the Try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s.
 
 A belaying pin is found too large to be easily inserted into its hole:
 the carpenter claps it into one of his ever-ready vices, and
@@ -17894,7 +17894,7 @@ stript abstract; an unfractioned integral; uncompromised as a new-born
 babe; living without premeditated reference to this world or the next.
 You might almost say, that this strange uncompromisedness in him
 involved a sort of unintelligence; for in his numerous trades, he did
-not seem to work so much by reason or by instinct, or simply because he
+not seem to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) so much by reason or by instinct, or simply because he
 had been tutored to it, or by any intermixture of all these, even or
 uneven; but merely by a kind of deaf and dumb, spontaneous literal
 process. He was a pure manipulator; his brain, if he had ever had one,
@@ -17930,14 +17930,14 @@ The Deck—First Night Watch.
 lanterns busily filing the ivory joist for the leg, which joist is
 firmly fixed in the vice. Slabs of ivory, leather straps, pads, screws,
 and various tools of all sorts lying about the bench. Forward, the red
-flame of the forge is seen, where the blacksmith is at work._)
+flame of the forge is seen, where the blacksmith is at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)._)
 
 Drat the file, and drat the bone! That is hard which should be soft,
 and that is soft which should be hard. So we go, who file old jaws and
-shinbones. Let’s try another. Aye, now, this works better (_sneezes_).
+shinbones. Let’s try another. Aye, now, this [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s better (_sneezes_).
 Halloa, this bone dust is (_sneezes_)—why it’s (_sneezes_)—yes it’s
 (_sneezes_)—bless my soul, it won’t let me speak! This is what an old
-fellow gets now for working in dead lumber. Saw a live tree, and you
+fellow gets now for [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing in dead lumber. Saw a live [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip), and you
 don’t get this dust; amputate a live bone, and you don’t get it
 (_sneezes_). Come, come, you old Smut, there, bear a hand, and let’s
 have that ferule and buckle-screw; I’ll be ready for them presently.
@@ -17977,7 +17977,7 @@ He must be forging the buckle-screw, sir, now.
 Right. It’s a partnership; he supplies the muscle part. He makes a
 fierce red flame there!
 
-Aye, sir; he must have the white heat for this kind of fine work.
+Aye, sir; he must have the white heat for this kind of fine [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip).
 
 Um-m. So he must. I do deem it now a most meaning thing, that that old
 Greek, Prometheus, who made men, they say, should have been a
@@ -18012,7 +18012,7 @@ I thought, sir, that you spoke to carpenter.
 
 Carpenter? why that’s—but no;—a very tidy, and, I may say, an extremely
 gentlemanlike sort of business thou art in here, carpenter;—or would’st
-thou rather work in clay?
+thou rather [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) in clay?
 
 Sir?—Clay? clay, sir? That’s mud; we leave clay to ditchers, sir.
 
@@ -18026,8 +18026,8 @@ living people’s noses.
 Sir?—oh! ah!—I guess so;—yes—oh, dear!
 
 Look ye, carpenter, I dare say thou callest thyself a right good
-workmanlike workman, eh? Well, then, will it speak thoroughly well for
-thy work, if, when I come to mount this leg thou makest, I shall
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)manlike [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)man, eh? Well, then, will it speak thoroughly well for
+thy [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), if, when I come to mount this leg thou makest, I shall
 nevertheless feel another leg in the same identical place with it; that
 is, carpenter, my old lost leg; the flesh and blood one, I mean. Canst
 thou not drive that old Adam away?
@@ -18070,7 +18070,7 @@ the Roman empire (which was the world’s); and yet I owe for the flesh
 in the tongue I brag with. By heavens! I’ll get a crucible, and into
 it, and dissolve myself down to one small, compendious vertebra. So.
 
-CARPENTER (_resuming his work_).
+CARPENTER (_resuming his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)_).
 
 Well, well, well! Stubb knows him best of all, and Stubb always says
 he’s queer; says nothing but that one sufficient little word queer;
@@ -18089,7 +18089,7 @@ life-boats. And here’s the heron’s leg! long and slim, sure enough!
 Now, for most folks one pair of legs lasts a lifetime, and that must be
 because they use them mercifully, as a tender-hearted old lady uses her
 roly-poly old coach-horses. But Ahab; oh he’s a hard driver. Look,
-driven one leg to [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), and spavined the other for life, and now wears
+driven one leg to [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), and spavined the other for life, and now wears
 out bone legs by the cord. Halloa, there, you Smut! bear a hand there
 with those screws, and let’s finish it before the resurrection fellow
 comes a-calling with his horn for all legs, true or false, as
@@ -18137,7 +18137,7 @@ We must up Burtons and break out.”
 “Up Burtons and break out? Now that we are nearing Japan; heave-to here
 for a week to tinker a parcel of old hoops?”
 
-“Either do that, sir, or waste in one day more oil than we may make
+“Either do that, sir, or waste in one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) more oil than we may make
 good in a year. What we come twenty thousand miles to get is worth
 saving, sir.”
 
@@ -18215,12 +18215,12 @@ Upon searching, it was found that the casks last struck into the hold
 were perfectly sound, and that the leak must be further off. So, it
 being calm weather, they broke out deeper and deeper, disturbing the
 slumbers of the huge ground-tier butts; and from that black midnight
-sending those gigantic moles into the daylight above. So deep did they
+sending those gigantic moles into the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light above. So deep did they
 go; and so ancient, and corroded, and weedy the aspect of the lowermost
 puncheons, that you almost looked next for some mouldy corner-stone
 cask containing coins of Captain Noah, with copies of the posted
 placards, vainly warning the infatuated old world from the flood.
-Tierce after tierce, too, of water, and bread, and beef, and shooks of
+Tierce after tierce, too, of water, and bread, and [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip), and shooks of
 staves, and iron bundles of hoops, were hoisted out, till at last the
 piled decks were hard to get about; and the hollow hull echoed under
 foot, as if you were treading over empty catacombs, and reeled and
@@ -18238,7 +18238,7 @@ higher you rise the harder you toil. So with poor Queequeg, who, as
 harpooneer, must not only face all the rage of the living whale, but—as
 we have elsewhere seen—mount his dead back in a rolling sea; and
 finally descend into the gloom of the hold, and bitterly sweating all
-day in that subterraneous confinement, resolutely manhandle the
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) in that subterraneous confinement, resolutely manhandle the
 clumsiest casks and see to their stowage. To be short, among whalemen,
 the harpooneers are the holders, so called.
 
@@ -18249,9 +18249,9 @@ amid that dampness and slime, like a green spotted lizard at the bottom
 of a well. And a well, or an ice-house, it somehow proved to him, poor
 pagan; where, strange to say, for all the heat of his sweatings, he
 caught a terrible chill which lapsed into a fever; and at last, after
-some days’ suffering, laid him in his hammock, close to the very sill
-of the door of [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip). How he wasted and wasted away in those few
-long-lingering days, till there seemed but little left of him but his
+some [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s’ suffering, laid him in his hammock, close to the very sill
+of the door of [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). How he wasted and wasted away in those few
+long-lingering [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, till there seemed but little left of him but his
 frame and tattooing. But as all else in him thinned, and his
 cheek-bones grew sharper, his eyes, nevertheless, seemed growing fuller
 and fuller; they became of a strange softness of lustre; and mildly but
@@ -18263,7 +18263,7 @@ that cannot be named would steal over you as you sat by the side of
 this waning savage, and saw as strange things in his face, as any
 beheld who were bystanders when Zoroaster died. For whatever is truly
 wondrous and fearful in man, never yet was put into words or books. And
-the drawing near of [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), which alike levels all, alike impresses all
+the drawing near of [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), which alike levels all, alike impresses all
 with a last revelation, which only an author from the dead could
 adequately tell. So that—let us say it again—no dying Chaldee or Greek
 had higher and holier thoughts than those, whose mysterious shades you
@@ -18274,7 +18274,7 @@ higher towards his destined heaven.
 
 Not a man of the crew but gave him up; and, as for Queequeg himself,
 what he thought of his case was forcibly shown by a curious favour he
-asked. He called one to him in the grey morning watch, when the day was
+asked. He called one to him in the grey morning watch, when the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was
 just breaking, and taking his hand, said that while in Nantucket he had
 chanced to see certain little canoes of dark wood, like the rich
 war-wood of his native isle; and upon inquiry, he had learned that all
@@ -18287,7 +18287,7 @@ stars are isles, but that far beyond all visible horizons, their own
 mild, uncontinented seas, interflow with the blue heavens; and so form
 the white breakers of the milky way. He added, that he shuddered at the
 thought of being buried in his hammock, according to the usual
-sea-custom, tossed like something vile to the [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)-devouring sharks.
+sea-custom, tossed like something vile to the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)-devouring sharks.
 No: he desired a canoe like those of Nantucket, all the more congenial
 to him, being a whaleman, that like a whale-boat these coffin-canoes
 were without a keel; though that involved but uncertain steering, and
@@ -18297,7 +18297,7 @@ Now, when this strange circumstance was made known aft, the carpenter
 was at once commanded to do Queequeg’s bidding, whatever it might
 include. There was some heathenish, coffin-coloured old lumber aboard,
 which, upon a long previous voyage, had been cut from the aboriginal
-groves of the Lackaday islands, and from these dark planks the coffin
+groves of the Lacka[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) islands, and from these dark planks the coffin
 was recommended to be made. No sooner was the carpenter apprised of the
 order, than taking his rule, he forthwith with all the indifferent
 promptitude of his character, proceeded into the forecastle and took
@@ -18311,7 +18311,7 @@ Going to his vice-bench, the carpenter for convenience sake and general
 reference, now transferringly measured on it the exact length the
 coffin was to be, and then made the transfer permanent by cutting two
 notches at its extremities. This done, he marshalled the planks and his
-tools, and to work.
+tools, and to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip).
 
 When the last nail was driven, and the lid duly planed and fitted, he
 lightly shouldered the coffin and went forward with it, inquiring
@@ -18358,7 +18358,7 @@ dying march.”
 “I have heard,” murmured Starbuck, gazing down the scuttle, “that in
 violent fevers, men, all ignorance, have talked in ancient tongues; and
 that when the mystery is probed, it turns out always that in their
-wholly forgotten [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)hood those ancient tongues had been really spoken
+wholly forgotten [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)hood those ancient tongues had been really spoken
 in their hearing by some lofty scholars. So, to my fond faith, poor
 Pip, in this strange sweetness of his lunacy, brings heavenly vouchers
 of all our heavenly homes. Where learned he that, but there?—Hark! he
@@ -18379,7 +18379,7 @@ jumped from a whale-boat. Shame! shame!”
 During all this, Queequeg lay with closed eyes, as if in a dream. Pip
 was led away, and the sick man was replaced in his hammock.
 
-But now that he had apparently made every preparation for [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip); now
+But now that he had apparently made every preparation for [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip); now
 that his coffin was proved a good fit, Queequeg suddenly rallied; soon
 there seemed no need of the carpenter’s box: and thereupon, when some
 expressed their delighted surprise, he, in substance, said, that the
@@ -18394,9 +18394,9 @@ or some violent, ungovernable, unintelligent destroyer of that sort.
 
 Now, there is this noteworthy difference between savage and civilized;
 that while a sick, civilized man may be six months convalescing,
-generally speaking, a sick savage is almost half-well again in a day.
+generally speaking, a sick savage is almost half-well again in a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 So, in good time my Queequeg gained strength; and at length after
-sitting on the windlass for a few indolent days (but eating with a
+sitting on the windlass for a few indolent [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s (but eating with a
 vigorous appetite) he suddenly leaped to his feet, threw out his arms
 and legs, gave himself a good stretching, yawned a little bit, and then
 springing into the head of his hoisted boat, and poising a harpoon,
@@ -18407,11 +18407,11 @@ emptying into it his canvas bag of clothes, set them in order there.
 Many spare hours he spent, in carving the lid with all manner of
 grotesque figures and drawings; and it seemed that hereby he was
 striving, in his rude way, to copy parts of the twisted tattooing on
-his body. And this tattooing had been the work of a departed prophet
+his body. And this tattooing had been the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of a departed prophet
 and seer of his island, who, by those hieroglyphic marks, had written
 out on his body a complete theory of the heavens and the earth, and a
 mystical treatise on the art of attaining truth; so that Queequeg in
-his own proper person was a riddle to unfold; a wondrous work in one
+his own proper person was a riddle to unfold; a wondrous [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) in one
 volume; but whose mysteries not even himself could read, though his own
 live heart beat against them; and these mysteries were therefore
 destined in the end to moulder away with the living parchment whereon
@@ -18444,7 +18444,7 @@ their restlessness.
 To any meditative Magian rover, this serene Pacific, once beheld, must
 ever after be the sea of his adoption. It rolls the midmost waters of
 the world, the Indian ocean and Atlantic being but its arms. The same
-waves wash the moles of the new-built Californian towns, but yesterday
+waves wash the moles of the new-built Californian towns, but yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
 planted by the recentest race of men, and lave the faded but still
 gorgeous skirts of Asiatic lands, older than Abraham; while all between
 float milky-ways of coral isles, and low-lying, endless, unknown
@@ -18474,7 +18474,7 @@ Availing himself of the mild, summer-cool weather that now reigned in
 these latitudes, and in preparation for the peculiarly active pursuits
 shortly to be anticipated, Perth, the begrimed, blistered old
 blacksmith, had not removed his portable forge to the hold again, after
-concluding his contributory work for Ahab’s leg, but still retained it
+concluding his contributory [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) for Ahab’s leg, but still retained it
 on deck, fast lashed to ringbolts by the foremast; being now almost
 incessantly invoked by the headsmen, and harpooneers, and bowsmen to do
 some little job for them; altering, or repairing, or new shaping their
@@ -18506,7 +18506,7 @@ He was an old man, who, at the age of nearly sixty, had postponedly
 encountered that thing in sorrow’s technicals called ruin. He had been
 an artisan of famed excellence, and with plenty to do; owned a house
 and garden; embraced a youthful, daughter-like, loving wife, and three
-blithe, ruddy [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren; every Sunday went to a cheerful-looking church,
+blithe, ruddy [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren; every Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) went to a cheerful-looking church,
 planted in a grove. But one night, under cover of darkness, and further
 concealed in a most cunning disguisement, a desperate burglar slid into
 his happy home, and robbed them all of everything. And darker yet to
@@ -18522,39 +18522,39 @@ by passing through the floors and walls, came up to her, not unsweetly,
 in her nursery; and so, to stout Labor’s iron lullaby, the blacksmith’s
 infants were rocked to slumber.
 
-Oh, woe on woe! Oh, [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), why canst thou not sometimes be timely?
+Oh, woe on woe! Oh, [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), why canst thou not sometimes be timely?
 Hadst thou taken this old blacksmith to thyself ere his full ruin came
 upon him, then had the young widow had a delicious grief, and her
 orphans a truly venerable, legendary sire to dream of in their after
-years; and all of them a care-killing competency. But [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) plucked
+years; and all of them a care-killing competency. But [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) plucked
 down some virtuous elder brother, on whose whistling daily toil solely
 hung the responsibilities of some other family, and left the worse than
 useless old man standing, till the hideous rot of life should make him
 easier to harvest.
 
-Why tell the whole? The blows of the basement hammer every day grew
-more and more between; and each blow every day grew fainter than the
+Why tell the whole? The blows of the basement hammer every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) grew
+more and more between; and each blow every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) grew fainter than the
 last; the wife sat frozen at the window, with tearless eyes,
-glitteringly gazing into the weeping faces of her [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren; the bellows
+glitteringly gazing into the weeping faces of her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren; the bellows
 fell; the forge choked up with cinders; the house was sold; the mother
-dived down into the long church-yard grass; her [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren twice followed
+dived down into the long church-yard grass; her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren twice followed
 her thither; and the houseless, familyless old man staggered off a
 vagabond in crape; his every woe unreverenced; his grey head a scorn to
 flaxen curls!
 
-[Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) seems the only desirable sequel for a career like this; but [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)
+[Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) seems the only desirable sequel for a career like this; but [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)
 is only a launching into the region of the strange Untried; it is but
 the first salutation to the possibilities of the immense Remote, the
-Wild, the Watery, the Unshored; therefore, to the [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)-longing eyes of
+Wild, the Watery, the Unshored; therefore, to the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)-longing eyes of
 such men, who still have left in them some interior compunctions
 against suicide, does the all-contributed and all-receptive ocean
 alluringly spread forth his whole plain of unimaginable, taking
 terrors, and wonderful, new-life adventures; and from the hearts of
 infinite Pacifics, the thousand mermaids sing to them—“Come hither,
 broken-hearted; here is another life without the guilt of intermediate
-[death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip); here are wonders supernatural, without dying for them. Come
+[death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip); here are wonders supernatural, without dying for them. Come
 hither! bury thyself in a life which, to your now equally abhorred and
-abhorring, landed world, is more oblivious than [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip). Come hither! put
+abhorring, landed world, is more oblivious than [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). Come hither! put
 up _thy_ gravestone, too, within the churchyard, and come hither, till
 we marry thee!”
 
@@ -18567,7 +18567,7 @@ went a-whaling.
 ## CHAPTER 113. The...
 
 With matted beard, and swathed in a bristling shark-skin apron, about
-mid-day, Perth was standing between his forge and anvil, the latter
+mid-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Perth was standing between his forge and anvil, the latter
 placed upon an iron-wood log, with one hand holding a pike-head in the
 coals, and with the other at his forge’s lungs, when Captain Ahab came
 along, carrying in his hand a small rusty-looking leathern bag. While
@@ -18613,9 +18613,9 @@ Answer! Can’st thou smoothe this seam?”
 “Oh! that is the one, sir! Said I not all seams and dents but one?”
 
 “Aye, blacksmith, it is the one; aye, man, it is unsmoothable; for
-though thou only see’st it here in my flesh, it has worked down into
-the bone of my skull—_that_ is all wrinkles! But, away with [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)’s
-play; no more gaffs and pikes to-day. Look ye here!” jingling the
+though thou only see’st it here in my flesh, it has [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed down into
+the bone of my skull—_that_ is all wrinkles! But, away with [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)’s
+play; no more gaffs and pikes to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Look ye here!” jingling the
 leathern bag, as if it were full of gold coins. “I, too, want a harpoon
 made; one that a thousand yoke of fiends could not part, Perth;
 something that will stick in a whale like his own fin-bone. There’s the
@@ -18623,7 +18623,7 @@ stuff,” flinging the pouch upon the anvil. “Look ye, blacksmith, these
 are the gathered nail-stubbs of the steel shoes of racing horses.”
 
 “Horse-shoe stubbs, sir? Why, Captain Ahab, thou hast here, then, the
-best and stubbornest stuff we blacksmiths ever work.”
+best and stubbornest stuff we blacksmiths ever [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip).”
 
 “I know it, old man; these stubbs will weld together like glue from the
 melted bones of murderers. Quick! forge me the harpoon. And forge me
@@ -18633,7 +18633,7 @@ I’ll blow the fire.”
 
 When at last the twelve rods were made, Ahab tried them, one by one, by
 spiralling them, with his own hand, round a long, heavy iron bolt. “A
-flaw!” rejecting the last one. “Work that over again, Perth.”
+flaw!” rejecting the last one. “[Work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) that over again, Perth.”
 
 This done, Perth was about to begin welding the twelve into one, when
 Ahab stayed his hand, and said he would weld his own iron. As, then,
@@ -18665,14 +18665,14 @@ For a moment, the old blacksmith eyed the razors as though he would
 fain not use them.
 
 “Take them, man, I have no need for them; for I now neither shave, sup,
-nor pray till—but here—to work!”
+nor pray till—but here—to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)!”
 
 Fashioned at last into an arrowy shape, and welded by Perth to the
 shank, the steel soon pointed the end of the iron; and as the
 blacksmith was about giving the barbs their final heat, prior to
 tempering them, he cried to Ahab to place the water-cask near.
 
-“No, no—no water for that; I want it of the true [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)-temper. Ahoy,
+“No, no—no water for that; I want it of the true [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)-temper. Ahoy,
 there! Tashtego, Queequeg, Daggoo! What say ye, pagans! Will ye give me
 as much blood as will cover this barb?” holding it high up. A cluster
 of dark nods replied, Yes. Three punctures were made in the heathen
@@ -18715,7 +18715,7 @@ sailing, or paddling after the whales, or for an interlude of sixty or
 seventy minutes calmly awaiting their uprising; though with but small
 success for their pains.
 
-At such times, under an abated sun; afloat all day upon smooth, slow
+At such times, under an abated sun; afloat all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) upon smooth, slow
 heaving swells; seated in his boat, light as a birch canoe; and so
 sociably mixing with the soft waves themselves, that like hearth-stone
 cats they purr against the gunwale; these are the times of dreamy
@@ -18734,7 +18734,7 @@ hidden bodies widely wade through the amazing verdure.
 
 The long-drawn virgin vales; the mild blue hill-sides; as over these
 there steals the hush, the hum; you almost swear that play-wearied
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren lie sleeping in these solitudes, in some glad May-time, when
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren lie sleeping in these solitudes, in some glad May-time, when
 the flowers of the woods are plucked. And all this mixes with your most
 mystic mood; so that fact and fancy, half-way meeting, interpenetrate,
 and form one seamless whole.
@@ -18762,7 +18762,7 @@ never weary? Where is the foundling’s father hidden? Our souls are like
 those orphans whose unwedded mothers die in bearing them: the secret of
 our paternity lies in their grave, and we must there to learn it.
 
-And that same day, too, gazing far down from his boat’s side into that
+And that same [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), too, gazing far down from his boat’s side into that
 same golden sea, Starbuck lowly murmured:—
 
 “Loveliness unfathomable, as ever lover saw in his young bride’s
@@ -18785,7 +18785,7 @@ before the wind, some few weeks after Ahab’s harpoon had been welded.
 
 It was a Nantucket ship, the Bachelor, which had just wedged in her
 last cask of oil, and bolted down her bursting hatches; and now, in
-glad holiday apparel, was joyously, though somewhat vain-gloriously,
+glad holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) apparel, was joyously, though somewhat vain-gloriously,
 sailing round among the widely-separated ships on the ground, previous
 to pointing her prow for home.
 
@@ -18795,14 +18795,14 @@ bottom down; and hanging captive from the bowsprit was seen the long
 lower jaw of the last whale they had slain. Signals, ensigns, and jacks
 of all colours were flying from her rigging, on every side. Sideways
 lashed in each of her three basketed tops were two barrels of sperm;
-above which, in her top-mast cross-trees, you saw slender breakers of
+above which, in her top-mast cross-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s, you saw slender breakers of
 the same precious fluid; and nailed to her main truck was a brazen
 lamp.
 
 As was afterwards learned, the Bachelor had met with the most
 surprising success; all the more wonderful, for that while cruising in
 the same seas numerous other vessels had gone entire months without
-securing a single fish. Not only had barrels of beef and bread been
+securing a single fish. Not only had barrels of [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip) and bread been
 given away to make room for the far more valuable sperm, but additional
 supplemental casks had been bartered for, from the ships she had met;
 and these were stowed along the deck, and in the captain’s and
@@ -18829,7 +18829,7 @@ them from the Polynesian Isles; while suspended in an ornamented boat,
 firmly secured aloft between the foremast and mainmast, three Long
 Island negroes, with glittering fiddle-bows of whale ivory, were
 presiding over the hilarious jig. Meanwhile, others of the ship’s
-company were tumultuously busy at the masonry of the try-works, from
+company were tumultuously busy at the masonry of the try-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s, from
 which the huge pots had been removed. You would have almost thought
 they were pulling down the cursed Bastille, such wild cries they
 raised, as the now useless brick and mortar were being hurled into the
@@ -18882,7 +18882,7 @@ filled with Nantucket soundings.
 Not seldom in this life, when, on the right side, fortune’s favourites
 sail close by us, we, though all adroop before, catch somewhat of the
 rushing breeze, and joyfully feel our bagging sails fill out. So seemed
-it with the Pequod. For next day after encountering the gay Bachelor,
+it with the Pequod. For next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after encountering the gay Bachelor,
 whales were seen and four were slain; and one of them by Ahab.
 
 It was far down the afternoon; and when all the spearings of the
@@ -18909,7 +18909,7 @@ these most candid and impartial seas; where to traditions no rocks
 furnish tablets; where for long Chinese ages, the billows have still
 rolled on speechless and unspoken to, as stars that shine upon the
 Niger’s unknown source; here, too, life dies sunwards full of faith;
-but see! no sooner dead, than [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) whirls round the corpse, and it
+but see! no sooner dead, than [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) whirls round the corpse, and it
 heads some other way.
 
 “Oh, thou dark Hindoo half of nature, who of drowned bones hast builded
@@ -18995,7 +18995,7 @@ whale was brought to the ship.
 ---
 ## CHAPTER 118. The...
 
-The season for the Line at length drew near; and every day when Ahab,
+The season for the Line at length drew near; and every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) when Ahab,
 coming from his cabin, cast his eyes aloft, the vigilant helmsman would
 ostentatiously handle his spokes, and the eager mariners quickly run to
 the braces, and would stand there with all their eyes centrally fixed
@@ -19005,7 +19005,7 @@ high noon; and Ahab, seated in the bows of his high-hoisted boat, was
 about taking his wonted daily observation of the sun to determine his
 latitude.
 
-Now, in that Japanese sea, the days in summer are as freshets of
+Now, in that Japanese sea, the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s in summer are as freshets of
 effulgences. That unblinkingly vivid Japanese sun seems the blazing
 focus of the glassy ocean’s immeasurable burning-glass. The sky looks
 lacquered; clouds there are none; the horizon floats; and this
@@ -19091,7 +19091,7 @@ these resplendent Japanese seas the mariner encounters the direst of
 all storms, the Typhoon. It will sometimes burst from out that
 cloudless sky, like an exploding bomb upon a dazed and sleepy town.
 
-Towards evening of that day, the Pequod was torn of her canvas, and
+Towards evening of that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), the Pequod was torn of her canvas, and
 bare-poled was left to fight a Typhoon which had struck her directly
 ahead. When darkness came on, sky and sea roared and split with the
 thunder, and blazed with the lightning, that showed the disabled masts
@@ -19108,7 +19108,7 @@ not escape. A great rolling sea, dashing high up against the reeling
 ship’s high teetering side, stove in the boat’s bottom at the stern,
 and left it again, all dripping through like a sieve.
 
-“Bad work, bad work! Mr. Starbuck,” said Stubb, regarding the wreck,
+“Bad [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), bad [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)! Mr. Starbuck,” said Stubb, regarding the wreck,
 “but the sea will have its way. Stubb, for one, can’t fight it. You
 see, Mr. Starbuck, a wave has such a great long start before it leaps,
 all round the world it runs, and then comes the spring! But as for me,
@@ -19148,7 +19148,7 @@ mind how foolish?”
 “Here!” cried Starbuck, seizing Stubb by the shoulder, and pointing his
 hand towards the weather bow, “markest thou not that the gale comes
 from the eastward, the very course Ahab is to run for Moby Dick? the
-very course he swung to this day noon? now mark his boat there; where
+very course he swung to this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) noon? now mark his boat there; where
 is that stove? In the stern-sheets, man; where he is wont to stand—his
 stand-point is stove, man! Now jump overboard, and sing away, if thou
 must!
@@ -19238,7 +19238,7 @@ they no bowels for a laugh? And look ye, Mr. Starbuck—but it’s too dark
 to look. Hear me, then: I take that mast-head flame we saw for a sign
 of good luck; for those masts are rooted in a hold that is going to be
 chock a’ block with sperm-oil, d’ye see; and so, all that sperm will
-work up into the masts, like sap in a tree. Yes, our three masts will
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) up into the masts, like sap in a [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip). Yes, our three masts will
 yet be as three spermaceti candles—that’s the good promise we saw.”
 
 At that moment Starbuck caught sight of Stubb’s face slowly beginning
@@ -19282,7 +19282,7 @@ rights. But war is pain, and hate is woe. Come in thy lowest form of
 love, and I will kneel and kiss thee; but at thy highest, come as mere
 supernal power; and though thou launchest navies of full-freighted
 worlds, there’s that in here that still remains indifferent. Oh, thou
-clear spirit, of thy fire thou madest me, and like a true [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) of
+clear spirit, of thy fire thou madest me, and like a true [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) of
 fire, I breathe it back to thee.”
 
 [_Sudden, repeated flashes of lightning; the nine flames leap
@@ -19472,7 +19472,7 @@ touch it—lift it. Strange, that I, who have handled so many deadly
 lances, strange, that I should shake so now. Loaded? I must see. Aye,
 aye; and powder in the pan;—that’s not good. Best spill it?—wait. I’ll
 cure myself of this. I’ll hold the musket boldly while I think.—I come
-to report a fair wind to him. But how fair? Fair for [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) and
+to report a fair wind to him. But how fair? Fair for [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) and
 doom,—_that’s_ fair for Moby Dick. It’s a fair wind that’s only fair
 for that accursed fish.—The very tube he pointed at me!—the very one;
 _this_ one—I hold it here; he would have killed me with the very thing
@@ -19509,9 +19509,9 @@ and half sideways looking, he placed the loaded musket’s end against
 the door.
 
 “On this level, Ahab’s hammock swings within; his head this way. A
-touch, and Starbuck may survive to hug his wife and [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) again.—Oh
-Mary! Mary!—boy! boy! boy!—But if I wake thee not to [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), old man,
-who can tell to what unsounded deeps Starbuck’s body this day week may
+touch, and Starbuck may survive to hug his wife and [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) again.—Oh
+Mary! Mary!—boy! boy! boy!—But if I wake thee not to [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), old man,
+who can tell to what unsounded deeps Starbuck’s body this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) week may
 sink, with all the crew! Great God, where art Thou? Shall I? shall
 I?—The wind has gone down and shifted, sir; the fore and main topsails
 are reefed and set; she heads her course.”
@@ -19524,7 +19524,7 @@ to speak.
 
 The yet levelled musket shook like a drunkard’s arm against the panel;
 Starbuck seemed wrestling with an angel; but turning from the door, he
-placed the [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)-tube in its rack, and left the place.
+placed the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)-tube in its rack, and left the place.
 
 “He’s too sound asleep, Mr. Stubb; go thou down, and wake him, and tell
 him. I must see to the deck here. Thou know’st what to say.”
@@ -19612,10 +19612,10 @@ magnetism shot into their congenial hearts from inflexible Ahab’s.
 
 For a space the old man walked the deck in rolling reveries. But
 chancing to slip with his ivory heel, he saw the crushed copper
-sight-tubes of the quadrant he had the day before dashed to the deck.
+sight-tubes of the quadrant he had the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before dashed to the deck.
 
-“Thou poor, proud heaven-gazer and sun’s pilot! yesterday I wrecked
-thee, and to-day the compasses would fain have wrecked me. So, so. But
+“Thou poor, proud heaven-gazer and sun’s pilot! yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) I wrecked
+thee, and to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) the compasses would fain have wrecked me. So, so. But
 Ahab is lord over the level loadstone yet. Mr. Starbuck—a lance without
 a pole; a top-maul, and the smallest of the sail-maker’s needles.
 Quick!”
@@ -19772,7 +19772,7 @@ cowardly—quickest known by that! Ding, dong, ding! Who’s seen Pip the
 coward?”
 
 “There can be no hearts above the snow-line. Oh, ye frozen heavens!
-look down here. Ye did beget this luckless [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), and have abandoned
+look down here. Ye did beget this luckless [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), and have abandoned
 him, ye creative libertines. Here, boy; Ahab’s cabin shall be Pip’s
 home henceforth, while Ahab lives. Thou touchest my inmost centre, boy;
 thou art tied to me by cords woven of my heart-strings. Come, let’s
@@ -19917,7 +19917,7 @@ the conclusion; not a cobbler’s job, that’s at an end in the middle,
 and at the beginning at the end. It’s the old woman’s tricks to be
 giving cobbling jobs. Lord! what an affection all old women have for
 tinkers. I know an old woman of sixty-five who ran away with a
-bald-headed young tinker once. And that’s the reason I never would work
+bald-headed young tinker once. And that’s the reason I never would [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)
 for lonely widow old women ashore, when I kept my job-shop in the
 Vineyard; they might have taken it into their lonely old heads to run
 off with me. But heigh-ho! there are no caps at sea but snow-caps. Let
@@ -19927,10 +19927,10 @@ the ship’s stern. Were ever such things done before with a coffin? Some
 superstitious old carpenters, now, would be tied up in the rigging, ere
 they would do the job. But I’m made of knotty Aroostook hemlock; I
 don’t budge. Cruppered with a coffin! Sailing about with a grave-yard
-tray! But never mind. We workers in woods make bridal-bedsteads and
-card-tables, as well as coffins and hearses. We work by the month, or
+tray! But never mind. We [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ers in woods make bridal-bedsteads and
+card-tables, as well as coffins and hearses. We [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) by the month, or
 by the job, or by the profit; not for us to ask the why and wherefore
-of our work, unless it be too confounded cobbling, and then we stash it
+of our [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), unless it be too confounded cobbling, and then we stash it
 if we can. Hem! I’ll do the job, now, tenderly. I’ll have me—let’s
 see—how many in the ship’s company, all told? But I’ve forgotten. Any
 way, I’ll have me thirty separate, Turk’s-headed life-lines, each three
@@ -19971,14 +19971,14 @@ shop?”
 they’ve set me now to turning it into something else.”
 
 “Then tell me; art thou not an arrant, all-grasping, intermeddling,
-monopolising, heathenish old scamp, to be one day making legs, and the
-next day coffins to clap them in, and yet again life-buoys out of those
+monopolising, heathenish old scamp, to be one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) making legs, and the
+next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) coffins to clap them in, and yet again life-buoys out of those
 same coffins? Thou art as unprincipled as the gods, and as much of a
 jack-of-all-trades.”
 
 “But I do not mean anything, sir. I do as I do.”
 
-“The gods again. Hark ye, dost thou not ever sing working about a
+“The gods again. Hark ye, dost thou not ever sing [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing about a
 coffin? The Titans, they say, hummed snatches when chipping out the
 craters for volcanoes; and the grave-digger in the play sings, spade in
 hand. Dost thou never?”
@@ -20019,11 +20019,11 @@ professor of musical glasses—tap, tap!”
 (_Ahab to himself_.)
 
 “There’s a sight! There’s a sound! The greyheaded woodpecker tapping
-the hollow tree! Blind and dumb might well be envied now. See! that
+the hollow [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)! Blind and dumb might well be envied now. See! that
 thing rests on two line-tubs, full of tow-lines. A most malicious wag,
 that fellow. Rat-tat! So man’s seconds tick! Oh! how immaterial are all
 materials! What things real are there, but imponderable thoughts? Here
-now’s the very dreaded symbol of grim [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), by a mere hap, made the
+now’s the very dreaded symbol of grim [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), by a mere hap, made the
 expressive sign of the help and hope of most endangered life. A
 life-buoy of a coffin! Does it go further? Can it be that in some
 spiritual sense the coffin is, after all, but an immortality-preserver!
@@ -20039,7 +20039,7 @@ must empty into thee!”
 ---
 ## CHAPTER 128. The...
 
-Next day, a large ship, the Rachel, was descried, bearing directly down
+Next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), a large ship, the Rachel, was descried, bearing directly down
 upon the Pequod, all her spars thickly clustering with men. At the time
 the Pequod was making good speed through the water; but as the
 broad-winged windward stranger shot nigh to her, the boastful sails all
@@ -20052,7 +20052,7 @@ could hopefully hail, Ahab’s voice was heard.
 
 “Hast seen the White Whale?”
 
-“Aye, yesterday. Have ye seen a whale-boat adrift?”
+“Aye, yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Have ye seen a whale-boat adrift?”
 
 Throttling his joy, Ahab negatively answered this unexpected question;
 and would then have fain boarded the stranger, when the stranger
@@ -20065,7 +20065,7 @@ was exchanged.
 “Where was he?—not killed!—not killed!” cried Ahab, closely advancing.
 “How was it?”
 
-It seemed that somewhat late on the afternoon of the day previous,
+It seemed that somewhat late on the afternoon of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) previous,
 while three of the stranger’s boats were engaged with a shoal of
 whales, which had led them some four or five miles from the ship; and
 while they were yet in swift chase to windward, the white hump and head
@@ -20091,7 +20091,7 @@ sufficient distance to gain the presumed place of the absent ones when
 last seen; though she then paused to lower her spare boats to pull all
 around her; and not finding anything, had again dashed on; again
 paused, and lowered her boats; and though she had thus continued doing
-till daylight; yet not the least glimpse of the missing keel had been
+till [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light; yet not the least glimpse of the missing keel had been
 seen.
 
 The story told, the stranger Captain immediately went on to reveal his
@@ -20150,8 +20150,8 @@ the least quivering of his own.
 
 “I will not go,” said the stranger, “till you say _aye_ to me. Do to me
 as you would have me do to you in the like case. For _you_ too have a
-boy, Captain Ahab—though but a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), and nestling safely at home now—a
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) of your old age too—Yes, yes, you relent; I see it—run, run, men,
+boy, Captain Ahab—though but a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), and nestling safely at home now—a
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) of your old age too—Yes, yes, you relent; I see it—run, run, men,
 now, and stand by to square in the yards.”
 
 “Avast,” cried Ahab—“touch not a rope-yarn”; then in a voice that
@@ -20173,11 +20173,11 @@ however small, on the sea. This way and that her yards were swung
 round; starboard and larboard, she continued to tack; now she beat
 against a head sea; and again it pushed her before it; while all the
 while, her masts and yards were thickly clustered with men, as three
-tall cherry trees, when the boys are cherrying among the boughs.
+tall cherry [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s, when the boys are cherrying among the boughs.
 
 But by her still halting course and winding, woeful way, you plainly
 saw that this ship that so wept with spray, still remained without
-comfort. She was Rachel, weeping for her [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, because they were
+comfort. She was Rachel, weeping for her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, because they were
 not.
 
 
@@ -20252,7 +20252,7 @@ preliminary cruise, Ahab,—all other whaling waters swept—seemed to have
 chased his foe into an ocean-fold, to slay him the more securely there;
 now, that he found himself hard by the very latitude and longitude
 where his tormenting wound had been inflicted; now that a vessel had
-been spoken which on the very day preceding had actually encountered
+been spoken which on the very [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) preceding had actually encountered
 Moby Dick;—and now that all his successive meetings with various ships
 contrastingly concurred to show the demoniac indifference with which
 the white whale tore his hunters, whether sinning or sinned against;
@@ -20285,33 +20285,33 @@ night, even, had Fedallah ever certainly been known to slumber, or go
 below. He would stand still for hours: but never sat or leaned; his wan
 but wondrous eyes did plainly say—We two watchmen never rest.
 
-Nor, at any time, by night or day could the mariners now step upon the
+Nor, at any time, by night or [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) could the mariners now step upon the
 deck, unless Ahab was before them; either standing in his pivot-hole,
 or exactly pacing the planks between two undeviating limits,—the
 main-mast and the mizen; or else they saw him standing in the
 cabin-scuttle,—his living foot advanced upon the deck, as if to step;
 his hat slouched heavily over his eyes; so that however motionless he
-stood, however the days and nights were added on, that he had not swung
+stood, however the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and nights were added on, that he had not swung
 in his hammock; yet hidden beneath that slouching hat, they could never
 tell unerringly whether, for all this, his eyes were really closed at
 times; or whether he was still intently scanning them; no matter,
 though he stood so in the scuttle for a whole hour on the stretch, and
 the unheeded night-damp gathered in beads of dew upon that stone-carved
-coat and hat. The clothes that the night had wet, the next day’s
-sunshine dried upon him; and so, day after day, and night after night;
+coat and hat. The clothes that the night had wet, the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)’s
+sunshine dried upon him; and so, [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and night after night;
 he went no more beneath the planks; whatever he wanted from the cabin
 that thing he sent for.
 
 He ate in the same open air; that is, his two only meals,—breakfast and
 dinner: supper he never touched; nor reaped his beard; which darkly
-grew all gnarled, as unearthed roots of trees blown over, which still
+grew all gnarled, as unearthed roots of [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s blown over, which still
 grow idly on at naked base, though perished in the upper verdure. But
 though his whole life was now become one watch on deck; and though the
 Parsee’s mystic watch was without intermission as his own; yet these
 two never seemed to speak—one man to the other—unless at long intervals
 some passing unmomentous matter made it necessary. Though such a potent
 spell seemed secretly to join the twain; openly, and to the awe-struck
-crew, they seemed pole-like asunder. If by day they chanced to speak
+crew, they seemed pole-like asunder. If by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) they chanced to speak
 one word; by night, dumb men were both, so far as concerned the
 slightest verbal interchange. At times, for longest hours, without a
 single hail, they stood far parted in the starlight; Ahab in his
@@ -20327,12 +20327,12 @@ shade siding the solid rib. For be this Parsee what he may, all rib and
 keel was solid Ahab.
 
 At the first faintest glimmering of the dawn, his iron voice was heard
-from aft,—“Man the mast-heads!”—and all through the day, till after
+from aft,—“Man the mast-heads!”—and all through the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), till after
 sunset and after twilight, the same voice every hour, at the striking
 of the helmsman’s bell, was heard—“What d’ye see?—sharp! sharp!”
 
-But when three or four days had slided by, after meeting the
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren-seeking Rachel; and no spout had yet been seen; the monomaniac
+But when three or four [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s had slided by, after meeting the
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren-seeking Rachel; and no spout had yet been seen; the monomaniac
 old man seemed distrustful of his crew’s fidelity; at least, of nearly
 all except the Pagan harpooneers; he seemed to doubt, even, whether
 Stubb and Flask might not willingly overlook the sight he sought. But
@@ -20357,7 +20357,7 @@ royal mast, Ahab gazed abroad upon the sea for miles and miles,—ahead,
 astern, this side, and that,—within the wide expanded circle commanded
 at so great a height.
 
-When in working with his hands at some lofty almost isolated place in
+When in [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing with his hands at some lofty almost isolated place in
 the rigging, which chances to afford no foothold, the sailor at sea is
 hoisted up to that spot, and sustained there by the rope; under these
 circumstances, its fastened end on deck is always given in strict
@@ -20412,7 +20412,7 @@ dimly discerned, falling from that vast height into the sea.
 ---
 ## CHAPTER 131. The...
 
-The intense Pequod sailed on; the rolling waves and days went by; the
+The intense Pequod sailed on; the rolling waves and [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s went by; the
 life-buoy-coffin still lightly swung; and another ship, most miserably
 misnamed the Delight, was descried. As she drew nigh, all eyes were
 fixed upon her broad beams, called shears, which, in some
@@ -20437,13 +20437,13 @@ gathered sides some noiseless sailors were busy in sewing together.
 
 “Not forged!” and snatching Perth’s levelled iron from the crotch, Ahab
 held it out, exclaiming—“Look ye, Nantucketer; here in this hand I hold
-his [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)! Tempered in blood, and tempered by lightning are these
+his [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)! Tempered in blood, and tempered by lightning are these
 barbs; and I swear to temper them triply in that hot place behind the
 fin, where the White Whale most feels his accursed life!”
 
 “Then God keep thee, old man—see’st thou that”—pointing to the
 hammock—“I bury but one of five stout men, who were alive only
-yesterday; but were dead ere night. Only _that_ one I bury; the rest
+yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); but were dead ere night. Only _that_ one I bury; the rest
 were buried before they died; you sail upon their tomb.” Then turning
 to his crew—“Are ye ready there? place the plank then on the rail, and
 lift the body; so, then—Oh! God”—advancing towards the hammock with
@@ -20467,7 +20467,7 @@ taffrail to show us your coffin!”
 ---
 ## CHAPTER 132. The...
 
-It was a clear steel-blue day. The firmaments of air and sea were
+It was a clear steel-blue [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). The firmaments of air and sea were
 hardly separable in that all-pervading azure; only, the pensive air was
 transparently pure and soft, with a woman’s look, and the robust and
 man-like sea heaved with long, strong, lingering swells, as Samson’s
@@ -20496,7 +20496,7 @@ morn; lifting his splintered helmet of a brow to the fair girl’s
 forehead of heaven.
 
 Oh, immortal infancy, and innocency of the azure! Invisible winged
-creatures that frolic all round us! Sweet [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)hood of air and sky! how
+creatures that frolic all round us! Sweet [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)hood of air and sky! how
 oblivious were ye of old Ahab’s close-coiled woe! But so have I seen
 little Miriam and Martha, laughing-eyed elves, heedlessly gambol around
 their old sire; sporting with the circle of singed locks which grew on
@@ -20528,7 +20528,7 @@ Ahab turned.
 “Sir.”
 
 “Oh, Starbuck! it is a mild, mild wind, and a mild looking sky. On such
-a day—very much such a sweetness as this—I struck my first whale—a
+a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)—very much such a sweetness as this—I struck my first whale—a
 boy-harpooneer of eighteen! Forty—forty—forty years ago!—ago! Forty
 years of continual whaling! forty years of privation, and peril, and
 storm-time! forty years on the pitiless sea! for forty years has Ahab
@@ -20544,7 +20544,7 @@ years I have fed upon dry salted fare—fit emblem of the dry nourishment
 of my soil!—when the poorest landsman has had fresh fruit to his daily
 hand, and broken the world’s fresh bread to my mouldy crusts—away,
 whole oceans away, from that young girl-wife I wedded past fifty, and
-sailed for Cape Horn the next day, leaving but one dent in my marriage
+sailed for Cape Horn the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), leaving but one dent in my marriage
 pillow—wife? wife?—rather a widow with her husband alive! Aye, I
 widowed that poor girl when I married her, Starbuck; and then, the
 madness, the frenzy, the boiling blood and the smoking brow, with
@@ -20564,22 +20564,22 @@ hairs, have I lived enough joy to wear ye; and seem and feel thus
 intolerably old? Close! stand close to me, Starbuck; let me look into a
 human eye; it is better than to gaze into sea or sky; better than to
 gaze upon God. By the green land; by the bright hearth-stone! this is
-the magic glass, man; I see my wife and my [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) in thine eye. No, no;
+the magic glass, man; I see my wife and my [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) in thine eye. No, no;
 stay on board, on board!—lower not when I do; when branded Ahab gives
 chase to Moby Dick. That hazard shall not be thine. No, no! not with
 the far away home I see in that eye!”
 
 “Oh, my Captain! my Captain! noble soul! grand old heart, after all!
 why should any one give chase to that hated fish! Away with me! let us
-fly these deadly waters! let us home! Wife and [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), too, are
-Starbuck’s—wife and [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) of his brotherly, sisterly, play-fellow
-youth; even as thine, sir, are the wife and [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) of thy loving,
+fly these deadly waters! let us home! Wife and [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), too, are
+Starbuck’s—wife and [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) of his brotherly, sisterly, play-fellow
+youth; even as thine, sir, are the wife and [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) of thy loving,
 longing, paternal old age! Away! let us away!—this instant let me alter
 the course! How cheerily, how hilariously, O my Captain, would we bowl
 on our way to see old Nantucket again! I think, sir, they have some
-such mild blue days, even as this, in Nantucket.”
+such mild blue [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, even as this, in Nantucket.”
 
-“They have, they have. I have seen them—some summer days in the
+“They have, they have. I have seen them—some summer [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s in the
 morning. About this time—yes, it is his noon nap now—the boy
 vivaciously wakes; sits up in bed; and his mother tells him of me, of
 cannibal old me; how I am abroad upon the deep, but will yet come back
@@ -20591,7 +20591,7 @@ his father’s sail! Yes, yes! no more! it is done! we head for
 Nantucket! Come, my Captain, study out the course, and let us away!
 See, see! the boy’s face from the window! the boy’s hand on the hill!”
 
-But Ahab’s glance was averted; like a blighted fruit tree he shook, and
+But Ahab’s glance was averted; like a blighted fruit [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) he shook, and
 cast his last, cindered apple to the soil.
 
 “What is it, what nameless, inscrutable, unearthly thing is it; what
@@ -20640,7 +20640,7 @@ possible, Ahab rapidly ordered the ship’s course to be slightly
 altered, and the sail to be shortened.
 
 The acute policy dictating these movements was sufficiently vindicated
-at daybreak, by the sight of a long sleek on the sea directly and
+at [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)break, by the sight of a long sleek on the sea directly and
 lengthwise ahead, smooth as oil, and resembling in the pleated watery
 wrinkles bordering it, the polished metallic-like marks of some swift
 tide-rip, at the mouth of a deep, rapid stream.
@@ -20703,7 +20703,7 @@ Shiver her!—shiver her!—So; well that! Boats, boats!”
 
 Soon all the boats but Starbuck’s were dropped; all the boat-sails
 set—all the paddles plying; with rippling swiftness, shooting to
-leeward; and Ahab heading the onset. A pale, [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)-glimmer lit up
+leeward; and Ahab heading the onset. A pale, [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)-glimmer lit up
 Fedallah’s sunken eyes; a hideous motion gnawed his mouth.
 
 Like noiseless nautilus shells, their light prows sped through the sea;
@@ -20912,7 +20912,7 @@ The eternal sap runs up in Ahab’s bones again! Set the sail; out oars;
 the helm!”
 
 It is often the case that when a boat is stove, its crew, being picked
-up by another boat, help to work that second boat; and the chase is
+up by another boat, help to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) that second boat; and the chase is
 thus continued with what is called double-banked oars. It was thus now.
 But the added power of the boat did not equal the added power of the
 whale, for he seemed to have treble-banked his every fin; swimming with
@@ -20934,7 +20934,7 @@ reported as just gone down, Ahab would take the time, and then pacing
 the deck, binnacle-watch in hand, so soon as the last second of the
 allotted hour expired, his voice was heard.—“Whose is the doubloon now?
 D’ye see him?” and if the reply was, No, sir! straightway he commanded
-them to lift him to his perch. In this way the day wore on; Ahab, now
+them to lift him to his perch. In this way the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) wore on; Ahab, now
 aloft and motionless; anon, unrestingly pacing the planks.
 
 As he was thus walking, uttering no sound, except to hail the men
@@ -20968,7 +20968,7 @@ peopled earth, nor gods nor men his neighbors! Cold, cold—I shiver!—How
 now? Aloft there! D’ye see him? Sing out for every spout, though he
 spout ten times a second!”
 
-The day was nearly done; only the hem of his golden robe was rustling.
+The [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was nearly done; only the hem of his golden robe was rustling.
 Soon, it was almost dark, but the look-out men still remained unset.
 
 “Can’t see the spout now, sir;—too dark”—cried a voice from the air.
@@ -20985,8 +20985,8 @@ a fresh hand to the fore-mast head, and see it manned till
 morning.”—Then advancing towards the doubloon in the main-mast—“Men,
 this gold is mine, for I earned it; but I shall let it abide here till
 the White Whale is dead; and then, whosoever of ye first raises him,
-upon the day he shall be killed, this gold is that man’s; and if on
-that day I shall again raise him, then, ten times its sum shall be
+upon the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) he shall be killed, this gold is that man’s; and if on
+that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) I shall again raise him, then, ten times its sum shall be
 divided among all of ye! Away now!—the deck is thine, sir!”
 
 And so saying, he placed himself half way within the scuttle, and
@@ -20997,7 +20997,7 @@ rousing himself to see how the night wore on.
 ---
 ## CHAPTER 134. The...
 
-At day-break, the three mast-heads were punctually manned afresh.
+At [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)-break, the three mast-heads were punctually manned afresh.
 
 “D’ye see him?” cried Ahab after allowing a little space for the light
 to spread.
@@ -21009,7 +21009,7 @@ for;—the top-gallant sails!—aye, they should have been kept on her all
 night. But no matter—’tis but resting for the rush.”
 
 Here be it said, that this pertinacious pursuit of one particular
-whale, continued through day into night, and through night into day, is
+whale, continued through [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) into night, and through night into [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), is
 a thing by no means unprecedented in the South sea fishery. For such is
 the wonderful skill, prescience of experience, and invincible
 confidence acquired by some great natural geniuses among the Nantucket
@@ -21025,7 +21025,7 @@ the precise bearing of the cape at present visible, in order the more
 certainly to hit aright the remote, unseen headland, eventually to be
 visited: so does the fisherman, at his compass, with the whale; for
 after being chased, and diligently marked, through several hours of
-daylight, then, when night obscures the fish, the creature’s future
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light, then, when night obscures the fish, the creature’s future
 wake through the darkness is almost as established to the sagacious
 mind of the hunter, as the pilot’s coast is to him. So that to this
 hunter’s wondrous skill, the proverbial evanescence of a thing writ in
@@ -21065,13 +21065,13 @@ trump—blister your lungs!—Ahab will dam off your blood, as a miller
 shuts his watergate upon the stream!”
 
 And Stubb did but speak out for well nigh all that crew. The frenzies
-of the chase had by this time worked them bubblingly up, like old wine
-worked anew. Whatever pale fears and forebodings some of them might
+of the chase had by this time [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed them bubblingly up, like old wine
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed anew. Whatever pale fears and forebodings some of them might
 have felt before; these were not only now kept out of sight through the
 growing awe of Ahab, but they were broken up, and on all sides routed,
 as timid prairie hares that scatter before the bounding bison. The hand
 of Fate had snatched all their souls; and by the stirring perils of the
-previous day; the rack of the past night’s suspense; the fixed,
+previous [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); the rack of the past night’s suspense; the fixed,
 unfearing, blind, reckless way in which their wild craft went plunging
 towards its flying mark; by all these things, their hearts were bowled
 along. The wind that made great bellies of their sails, and rushed the
@@ -21201,7 +21201,7 @@ distance from the centre of the destruction he had made; and with his
 back to it, he now lay for a moment slowly feeling with his flukes from
 side to side; and whenever a stray oar, bit of plank, the least chip or
 crumb of the boats touched his skin, his tail swiftly drew back, and
-came sideways smiting the sea. But soon, as if satisfied that his work
+came sideways smiting the sea. But soon, as if satisfied that his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)
 for that time was done, he pushed his pleated forehead through the
 ocean, and trailing after him the intertangled lines, continued his
 leeward way at a traveller’s methodic pace.
@@ -21213,9 +21213,9 @@ and safely landed them on her decks. Some sprained shoulders, wrists,
 and ankles; livid contusions; wrenched harpoons and lances;
 inextricable intricacies of rope; shattered oars and planks; all these
 were there; but no fatal or even serious ill seemed to have befallen
-any one. As with Fedallah the day before, so Ahab was now found grimly
+any one. As with Fedallah the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before, so Ahab was now found grimly
 clinging to his boat’s broken half, which afforded a comparatively easy
-float; nor did it so exhaust him as the previous day’s mishap.
+float; nor did it so exhaust him as the previous [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)’s mishap.
 
 But when he was helped to the deck, all eyes were fastened upon him; as
 instead of standing by himself he still half-hung upon the shoulder of
@@ -21226,7 +21226,7 @@ leg had been snapped off, leaving but one short sharp splinter.
 will; and would old Ahab had leaned oftener than he has.”
 
 “The ferrule has not stood, sir,” said the carpenter, now coming up; “I
-put good work into that leg.”
+put good [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) into that leg.”
 
 “But no bones broken, sir, I hope,” said Stubb with true concern.
 
@@ -21269,7 +21269,7 @@ nowhere to be found.
 I saw him dragging under.”
 
 “_My_ line! _my_ line? Gone?—gone? What means that little word?—What
-[death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)-knell rings in it, that old Ahab shakes as if he were the belfry.
+[death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)-knell rings in it, that old Ahab shakes as if he were the belfry.
 The harpoon, too!—toss over the litter there,—d’ye see it?—the forged
 iron, men, the white whale’s—no, no, no,—blistered fool! this hand did
 dart it!—’tis in the fish!—Aloft there! Keep him nailed—Quick!—all
@@ -21281,7 +21281,7 @@ him yet!”
 
 “Great God! but for one single instant show thyself,” cried Starbuck;
 “never, never wilt thou capture him, old man—In Jesus’ name no more of
-this, that’s worse than devil’s madness. Two days chased; twice stove
+this, that’s worse than devil’s madness. Two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s chased; twice stove
 to splinters; thy very leg once more snatched from under thee; thy evil
 shadow gone—all good angels mobbing thee with warnings:—what more
 wouldst thou have?—Shall we keep chasing this murderous fish till he
@@ -21304,14 +21304,14 @@ gale; and I may look so. But ere I break, ye’ll hear me crack; and till
 ye hear _that_, know that Ahab’s hawser tows his purpose yet. Believe
 ye, men, in the things called omens? Then laugh aloud, and cry encore!
 For ere they drown, drowning things will twice rise to the surface;
-then rise again, to sink for evermore. So with Moby Dick—two days he’s
+then rise again, to sink for evermore. So with Moby Dick—two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s he’s
 floated—tomorrow will be the third. Aye, men, he’ll rise once more,—but
 only to spout his last! D’ye feel brave men, brave?”
 
 “As fearless fire,” cried Stubb.
 
 “And as mechanical,” muttered Ahab. Then as the men went forward, he
-muttered on: “The things called omens! And yesterday I talked the same
+muttered on: “The things called omens! And yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) I talked the same
 to Starbuck there, concerning my broken boat. Oh! how valiantly I seek
 to drive out of others’ hearts what’s clinched so fast in mine!—The
 Parsee—the Parsee!—gone, gone? and he was to go before:—but still was
@@ -21324,7 +21324,7 @@ When dusk descended, the whale was still in sight to leeward.
 
 So once more the sail was shortened, and everything passed nearly as on
 the previous night; only, the sound of hammers, and the hum of the
-grindstone was heard till nearly daylight, as the men toiled by
+grindstone was heard till nearly [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light, as the men toiled by
 lanterns in the complete and careful rigging of the spare boats and
 sharpening their fresh weapons for the morrow. Meantime, of the broken
 keel of Ahab’s wrecked craft the carpenter made him another leg; while
@@ -21336,17 +21336,17 @@ dial; sat due eastward for the earliest sun.
 ---
 ## CHAPTER 135. The...
 
-The morning of the third day dawned fair and fresh, and once more the
+The morning of the third [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) dawned fair and fresh, and once more the
 solitary night-man at the fore-mast-head was relieved by crowds of the
-daylight look-outs, who dotted every mast and almost every spar.
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light look-outs, who dotted every mast and almost every spar.
 
 “D’ye see him?” cried Ahab; but the whale was not yet in sight.
 
 “In his infallible wake, though; but follow that wake, that’s all. Helm
-there; steady, as thou goest, and hast been going. What a lovely day
+there; steady, as thou goest, and hast been going. What a lovely [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
 again! were it a new-made world, and made for a summer-house to the
 angels, and this morning the first of its throwing open to them, a
-fairer day could not dawn upon that world. Here’s food for thought, had
+fairer [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) could not dawn upon that world. Here’s food for thought, had
 Ahab time to think; but Ahab never thinks; he only feels, feels, feels;
 _that’s_ tingling enough for mortal man! to think’s audacity. God only
 has that right and privilege. Thinking is, or ought to be, a coolness
@@ -21431,7 +21431,7 @@ between man’s old age and matter’s. But aye, old mast, we both grow old
 together; sound in our hulls, though, are we not, my ship? Aye, minus a
 leg, that’s all. By heaven this dead wood has the better of my live
 flesh every way. I can’t compare with it; and I’ve known some ships
-made of dead trees outlast the lives of men made of the most vital
+made of dead [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s outlast the lives of men made of the most vital
 stuff of vital fathers. What’s that he said? he should still go before
 me, my pilot; and yet to be seen again? But where? Will I have eyes at
 the bottom of the sea, supposing I descend those endless stairs? and
@@ -21500,8 +21500,8 @@ molesting the others.
 “Heart of wrought steel!” murmured Starbuck gazing over the side, and
 following with his eyes the receding boat—“canst thou yet ring boldly
 to that sight?—lowering thy keel among ravening sharks, and followed by
-them, open-mouthed to the chase; and this the critical third day?—For
-when three days flow together in one continuous intense pursuit; be
+them, open-mouthed to the chase; and this the critical third [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?—For
+when three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s flow together in one continuous intense pursuit; be
 sure the first is the morning, the second the noon, and the third the
 evening and the end of that thing—be that end what it may. Oh! my God!
 what is this that shoots through me, and leaves me so deadly calm, yet
@@ -21510,7 +21510,7 @@ as in empty outlines and skeletons; all the past is somehow grown dim.
 Mary, girl! thou fadest in pale glories behind me; boy! I seem to see
 but thy eyes grown wondrous blue. Strangest problems of life seem
 clearing; but clouds sweep between—Is my journey’s end coming? My legs
-feel faint; like his who has footed it all day. Feel thy heart,—beats
+feel faint; like his who has footed it all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Feel thy heart,—beats
 it yet? Stir thyself, Starbuck!—stave it off—move, move! speak
 aloud!—Mast-head there! See ye my boy’s hand on the hill?—Crazed;—aloft
 there!—keep thy keenest eye upon the boats:—mark well the whale!—Ho!
@@ -21543,7 +21543,7 @@ flakes, leaving the circling surface creamed like new milk round the
 marble trunk of the whale.
 
 “Give way!” cried Ahab to the oarsmen, and the boats darted forward to
-the attack; but maddened by yesterday’s fresh irons that corroded in
+the attack; but maddened by yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)’s fresh irons that corroded in
 him, Moby Dick seemed combinedly possessed by all the angels that fell
 from heaven. The wide tiers of welded tendons overspreading his broad
 white forehead, beneath the transparent skin, looked knitted together;
@@ -21583,7 +21583,7 @@ utmost velocity, and now only intent upon pursuing his own straight
 path in the sea.
 
 “Oh! Ahab,” cried Starbuck, “not too late is it, even now, the third
-day, to desist. See! Moby Dick seeks thee not. It is thou, thou, that
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), to desist. See! Moby Dick seeks thee not. It is thou, thou, that
 madly seekest him!”
 
 Setting sail to the rising wind, the lonely boat was swiftly impelled
@@ -21593,7 +21593,7 @@ leaned over the rail, he hailed him to turn the vessel about, and
 follow him, not too swiftly, at a judicious interval. Glancing upwards,
 he saw Tashtego, Queequeg, and Daggoo, eagerly mounting to the three
 mast-heads; while the oarsmen were rocking in the two staved boats
-which had but just been hoisted to the side, and were busily at work in
+which had but just been hoisted to the side, and were busily at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) in
 repairing them. One after the other, through the port-holes, as he
 sped, he also caught flying glimpses of Stubb and Flask, busying
 themselves on deck among bundles of new irons and lances. As he saw all
@@ -21603,7 +21603,7 @@ that the vane or flag was gone from the main-mast-head, he shouted to
 Tashtego, who had just gained that perch, to descend again for another
 flag, and a hammer and nails, and so nail it to the mast.
 
-Whether fagged by the three days’ running chase, and the resistance to
+Whether fagged by the three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s’ running chase, and the resistance to
 his swimming in the knotted hamper he bore; or whether it was some
 latent deceitfulness and malice in him: whichever was true, the White
 Whale’s way now began to abate, as it seemed, from the boat so rapidly
@@ -21687,7 +21687,7 @@ as he.
 air, now hug me close! Let not Starbuck die, if die he must, in a
 woman’s fainting fit. Up helm, I say—ye fools, the jaw! the jaw! Is
 this the end of all my bursting prayers? all my life-long fidelities?
-Oh, Ahab, Ahab, lo, thy work. Steady! helmsman, steady. Nay, nay! Up
+Oh, Ahab, Ahab, lo, thy [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip). Steady! helmsman, steady. Nay, nay! Up
 helm again! He turns to meet us! Oh, his unappeasable brow drives on
 towards one, whose duty tells him he cannot depart. My God, stand by me
 now!”
@@ -21702,7 +21702,7 @@ of as good a fellow as ever spouted up his ghost. For all that, I would
 yet ring glasses with ye, would ye but hand the cup! Oh, oh! oh, oh!
 thou grinning whale, but there’ll be plenty of gulping soon! Why fly ye
 not, O Ahab! For me, off shoes and jacket to it; let Stubb die in his
-drawers! A most mouldy and over salted [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), though;—cherries!
+drawers! A most mouldy and over salted [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), though;—cherries!
 cherries! cherries! Oh, Flask, for one red cherry ere we die!”
 
 “Cherries? I only wish that we were where they grow. Oh, Stubb, I hope
@@ -21733,12 +21733,12 @@ time, he lay quiescent.
 “I turn my body from the sun. What ho, Tashtego! let me hear thy
 hammer. Oh! ye three unsurrendered spires of mine; thou uncracked keel;
 and only god-bullied hull; thou firm deck, and haughty helm, and
-Pole-pointed prow,—[death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)-glorious ship! must ye then perish, and
+Pole-pointed prow,—[death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)-glorious ship! must ye then perish, and
 without me? Am I cut off from the last fond pride of meanest
-shipwrecked captains? Oh, lonely [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) on lonely life! Oh, now I feel
+shipwrecked captains? Oh, lonely [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) on lonely life! Oh, now I feel
 my topmost greatness lies in my topmost grief. Ho, ho! from all your
 furthest bounds, pour ye now in, ye bold billows of my whole foregone
-life, and top this one piled comber of my [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)! Towards thee I roll,
+life, and top this one piled comber of my [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)! Towards thee I roll,
 thou all-destroying but unconquering whale; to the last I grapple with
 thee; from hell’s heart I stab at thee; for hate’s sake I spit my last
 breath at thee. Sink all coffins and all hearses to one common pool!
@@ -21777,7 +21777,7 @@ tauntingly had followed the main-truck downwards from its natural home
 among the stars, pecking at the flag, and incommoding Tashtego there;
 this bird now chanced to intercept its broad fluttering wing between
 the hammer and the wood; and simultaneously feeling that etherial
-thrill, the submerged savage beneath, in his [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)-gasp, kept his
+thrill, the submerged savage beneath, in his [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)-gasp, kept his
 hammer frozen there; and so the bird of heaven, with archangelic
 shrieks, and his imperial beak thrust upwards, and his whole captive
 form folded in the flag of Ahab, went down with his ship, which, like
@@ -21799,7 +21799,7 @@ did survive the wreck.
 
 It so chanced, that after the Parsee’s disappearance, I was he whom the
 Fates ordained to take the place of Ahab’s bowsman, when that bowsman
-assumed the vacant post; the same, who, when on the last day the three
+assumed the vacant post; the same, who, when on the last [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) the three
 men were tossed from out of the rocking boat, was dropped astern. So,
 floating on the margin of the ensuing scene, and in full sight of it,
 when the halfspent suction of the sunk ship reached me, I was then, but
@@ -21811,12 +21811,12 @@ vital centre, the black bubble upward burst; and now, liberated by
 reason of its cunning spring, and, owing to its great buoyancy, rising
 with great force, the coffin life-buoy shot lengthwise from the sea,
 fell over, and floated by my side. Buoyed up by that coffin, for almost
-one whole day and night, I floated on a soft and dirgelike main. The
+one whole [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) and night, I floated on a soft and dirgelike main. The
 unharming sharks, they glided by as if with padlocks on their mouths;
-the savage sea-hawks sailed with sheathed beaks. On the second day, a
+the savage sea-hawks sailed with sheathed beaks. On the second [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), a
 sail drew near, nearer, and picked me up at last. It was the
 devious-cruising Rachel, that in her retracing search after her missing
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren, only found another orphan.
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, only found another orphan.
 
 
 
