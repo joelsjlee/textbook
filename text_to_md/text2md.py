@@ -180,7 +180,7 @@ def add_key_md(start_index_list, end_index_list, value, content):
 # assume key_word is lower case and length > 1
 def find_key_matches(key_word, key_word_len, value, content):
     content_copy = content.lower()
-    start_index_list = [m.start() for m in re.finditer(key_word, content_copy)]
+    start_index_list = [m.start() for m in re.finditer(r"\b" + key_word + r"\b", content_copy)]
     end_index_list = [x + key_word_len - 1 for x in start_index_list]
     return add_key_md(start_index_list, end_index_list, value, content)
 
@@ -488,8 +488,8 @@ def test_main():
 '''
 
 
+# monitor text directory for new and modified text files and update the md files
 def monitor_text_directory(text_dir, csv_dir, md_dir, timestamp_cache):
-    # check txt files in text_dir every 30s, and update md files
     with os.scandir(text_dir) as it:
         for entry in it:
             if entry.name.endswith(".txt"):
@@ -512,6 +512,28 @@ def monitor_text_directory(text_dir, csv_dir, md_dir, timestamp_cache):
     return timestamp_cache
 
 
+# monitor csv directory for modified voyant.csv and update the md files
+def monitor_csv_directory(text_dir, csv_dir, md_dir, text_timestamps, csv_timestamp):
+    csv_path = csv_dir + "/voyant.csv"
+    voyant_file_info = os.stat(csv_path)
+    # update all text files
+    if csv_timestamp != voyant_file_info.st_mtime:
+        with os.scandir(text_dir) as it:
+            for entry in it:
+                if entry.name.endswith(".txt"):
+                    entry_stats = entry.stat()
+                    text_timestamps[entry.name] = entry_stats.st_mtime
+                    entry_path = text_dir + "/" + entry.name
+                    csv_dict = read_csv_file(csv_path)
+                    # check for the special German text
+                    if entry.name == "ThomasBrussig_AmKuerzerenEndeDerSonnenallee.txt":
+                        text_dict = transfer_text_file(entry_path, csv_dict)
+                        write2mdfile(entry.name, text_dict, md_dir)
+                    else:
+                        parse_gutenberg_text(entry_path, csv_dict, md_dir)
+    return text_timestamps, csv_timestamp
+
+
 def main():
     # directory that contains all the books in text format
     text_dir = str(sys.argv[1].strip())
@@ -520,9 +542,11 @@ def main():
     csv_dir = str(sys.argv[2].strip())
     # directory to insert the markdown files
     md_dir = str(sys.argv[3].strip())
-    timestamp_cache = {}
+    text_timestamps = {}
+    csv_timestamp = 0
     while True:
-        timestamp_cache = monitor_text_directory(text_dir, csv_dir, md_dir, timestamp_cache)
+        text_timestamps, csv_timestamp = monitor_csv_directory(text_dir, csv_dir, md_dir, text_timestamps, csv_timestamp)
+        text_timestamps = monitor_text_directory(text_dir, csv_dir, md_dir, text_timestamps)
         time.sleep(30)
 
 
