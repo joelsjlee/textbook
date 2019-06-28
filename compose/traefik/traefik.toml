@@ -41,25 +41,35 @@ OnHostRule = true
     [backends.django.servers.server1]
       url = "http://django:5000"
 
+#[providers]
+#  [providers.file]
+
+#[http.middlewares]
+#  [http.middlewares.test.StripPrefix]
+#    prefixes = ["/voyant/"]
+
+
 [frontends]
   [frontends.voyant]
     backend = "voyant"
     passHostHeader = true
+    priority = 1
     [frontends.voyant.headers]
       HostsProxyHeaders = ['X-CSRFToken']
     [frontends.voyant.routes.dr1]
-      rule = "Host:jsl.pennds.org"
+      rule = "Host:jsl-voyant.pennds.org"
   [frontends.nginx]
     backend = "nginx"
     [frontends.nginx.routes.corpora]
-      rule = "Host:jsl.pennds.org;PathPrefix:/corpora"
+      rule = "Host:jsl-voyant.pennds.org;PathPrefix:/corpora"
   [frontends.django]
     backend = "django"
+    priority = 20
     passHostHeader = true
     [frontends.django.headers]
       HostsProxyHeaders = ['X-CSRFToken']
     [frontends.django.routes.dr1]
-      rule = "Host:jsl.pennds.org;PathPrefixStrip:/books"
+      rule = "Host:jsl.pennds.org"
 
 logLevel = "INFO"
 defaultEntryPoints = ["http", "https"]

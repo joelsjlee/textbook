@@ -105,7 +105,7 @@ being within a hundred miles. His lips drew back in a half-grin and
 exposed a row of upper teeth unusually white and slightly protruding. He
 was thinking of the meeting with the last person to whom he had spoken
 within twenty-four hours. He closed one eye and looked up at the sun. Yes,
-it was just about the same time yesterday that a dude from the English
+it was just about the same time yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) that a dude from the English
 ranch, a dude in knee breeches and shiny-topped riding boots, had galloped
 confidently toward him. He had dismounted and pretended to be cinching his
 saddle. When the dude was close enough Smith had thrown down on him with
@@ -246,7 +246,7 @@ He glanced over his shoulder as he spurred his horse to a gallop.
 ON THE ALKALI HILL
 
 
-There was at least an hour and a half of daylight left when Smith struck a
+There was at least an hour and a half of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light left when Smith struck a
 wagon-road. He looked each way doubtfully. The woman's house was quite as
 likely to be to the right as to the left; there was no way of telling.
 While he hesitated, his horse lifted its ears. Smith also thought he heard
@@ -392,7 +392,7 @@ collars."
 hill.
 
 When the sorrel pony at the head of the team felt the rope grow taut on
-the saddle-horn, it lay down to its work. The grit and muscle of a dozen
+the saddle-horn, it lay down to its [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip). The grit and muscle of a dozen
 horses seemed concentrated in the little cayuse. It pulled until every
 vein and cord in its body appeared to stand out beneath its skin. It lay
 down on the rope until its chest almost touched the ground. There was a
@@ -402,7 +402,7 @@ from the girl. She was standing in one stirrup, one hand on the cantle,
 the other on the pommel, watching everything with keen eyes. She issued
 orders to Tubbs like a general, telling him when to block the wheels, when
 to urge the exhausted team to greater efforts, when to relax. Nothing
-escaped her. She and the little sorrel knew their work. As the man at the
+escaped her. She and the little sorrel knew their [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip). As the man at the
 roadside watched the gallant little brute struggle, literally inch by
 inch, up the terrible grade he felt himself choking with excitement and
 making inarticulate sounds. At last the rear wheels of the wagon lurched
@@ -415,7 +415,7 @@ the saddle by the buckskin thongs.
 
 "Plumb worn to a frazzle," Smith replied with cool impudence, as he looked
 her over in much the same manner as he would have eyed a heifer on the
-range. "I was whipped for working when I was a boy, and I've always
+range. "I was whipped for [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing when I was a boy, and I've always
 remembered."
 
 "It must be quite a ride--from the brush back there in Missouri where you
@@ -590,7 +590,7 @@ McArthur laughed heartily.
 "Ah, my dear sir, I understand. You are referring to mines--to mineral
 specimens. These are the specimens of which I am speaking."
 
-Opening the sack, McArthur held up for [inspection](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/inspection.zip) what looked to be a lump
+Opening the sack, McArthur held up for [inspection](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/inspection.zip) what looked to be a lump
 of dried mud.
 
 "This is a magnificent specimen of the crustacean period," he declared.
@@ -642,7 +642,7 @@ entirely without knowledge upon any subject save those which had come
 under his direct observation. While Tubbs frequently exasperated him
 beyond expression, he found at the same time a certain fascination in the
 man's incredible ignorance. In many respects his mind was like that of a
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), and his horizon as narrow as McArthur's own, though his companion
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), and his horizon as narrow as McArthur's own, though his companion
 did not suspect it. The little scientist saw life from the viewpoint of a
 small college and a New England village; Tubbs knew only the sage-brush
 plains.
@@ -671,7 +671,7 @@ reminiscence.
 
 The odor of frying steak filled the room, and the warmth from the round
 sheet-iron stove gave Smith, in particular, a delicious sense of comfort.
-He felt as a cat on a comfortable cushion must feel after days and nights
+He felt as a cat on a comfortable cushion must feel after [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and nights
 of prowling for food and shelter. The other two men, occupied with their
 own thoughts, closed their eyes; but not so Smith. Nothing, to the
 smallest detail, escaped him. He appraised everything with as perfect an
@@ -764,7 +764,7 @@ Meeteetse.
 
 "Any of 'em's comical enough," replied a husky voice from the far end of
 the table. "I broke somethin' inside of me laffin' at that one about your
-dyin' [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)."
+dyin' [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)."
 
 "I don't care," Susie answered, unabashed by criticism. "Teacher says I've
 got quite a strain of pathos in me."
@@ -870,7 +870,7 @@ rabbit."
 
 "Some songs is touchin'," agreed Arkansaw Red.
 
-"This was," declared Meeteetse. "How she faded day by day, till a pale,
+"This was," declared Meeteetse. "How she faded [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), till a pale,
 white corp' she lay! If I hadn't got this cold on me----"
 
 "I hate to see you sufferin', Meeteetse, but if it keeps you from
@@ -879,17 +879,17 @@ warblin'----"
 He ignored Susie's implication, and went on serenely:
 
 "Looks like it's settled on me for life, and it all comes of tryin' not to
-be a [hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)."
+be a [hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)."
 
 "I hope it'll be a lesson to you," said Susie soberly.
 
 "That there Bar C cowpuncher, Babe, comes over the other night, and, the
 bunk-house bein' full, I offers him half my blankets. I never put in such
-a night since I froze to [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) on South Pass. For fair, I'd ruther sleep
+a night since I froze to [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) on South Pass. For fair, I'd ruther sleep
 with a two-year-ole steer--couldn't kick no worse than that Babe. Why them
 blankets was in the air more'n half the time, with him pullin' his way,
 and me snatchin' of 'em back. Finally I gits a corner of a soogan in my
-teeth, and that way I manages a little sleep. I vows I'd ruther be a [hog](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/hog.zip)
+teeth, and that way I manages a little sleep. I vows I'd ruther be a [hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)
 and git a night's rest than take in such a turrible bed-feller as him."
 
 Apropos of the restless Babe, one James Padden observed: "They say he's
@@ -1106,7 +1106,7 @@ off, or does he make 'em up as he goes along?"
 "I'll tip you off, feller: if ever you want to make a strong play at an
 Injun woman, you don't want to shoot off your mouth none. Keep still and
 move around just so, and pretty soon she'll throw you the sign. Did you
-ever notice a dog trottin' down the street, passin' everybody up till all
+ever notice a dog trottin' down the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, passin' everybody up till all
 to once it takes a sniff, turns around, and follers some feller off?
 That's an Injun woman."
 
@@ -1163,7 +1163,7 @@ threw it back into the kitchen.
 
 "Don't you know any better not to spoil a cook like that, woman?" he
 asked, smiling down upon her. "You never want to touch a dish for a cook.
-Row with 'em, work 'em over, keep 'em down--but don't humor 'em. You can't
+Row with 'em, [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) 'em over, keep 'em down--but don't humor 'em. You can't
 treat a cook like a real man. Ev'ry reg'lar cook has a screw loose or he
 wouldn't be a cook. Cookin' ain't no man's job. I never had no use for
 reg'lar cooks--me, Smith.
@@ -1295,7 +1295,7 @@ maddened him, but he said conciliatingly:
 
 "You mean _you_ don't." Susie slammed the door behind her.
 
-The [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)'s taunt reawakened his interest in the Schoolmarm. He thought of
+The [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)'s taunt reawakened his interest in the Schoolmarm. He thought of
 her riding home alone, and grew restless. Besides, the dulness began to
 bore him.
 
@@ -1334,8 +1334,8 @@ night and twenty below zero to ride home with that lady."
 
 "Feller," said Smith, in a paternal tone, "you never want to make a break
 at a woman before four o'clock in the afternoon. You might just as well go
-and lay down under a bush in the shade from a little after daylight until
-about this time. You wouldn't hunt deer or elk in the middle of the day,
+and lay down under a bush in the shade from a little after [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light until
+about this time. You wouldn't hunt deer or elk in the middle of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),
 would you? No, nor women--all same kind of huntin'. They'll turn you down
 sure; white or red--no difference."
 
@@ -1352,7 +1352,7 @@ returning from a survey of the surrounding country, which was to be had
 from a knoll near the house.
 
 "Mother," she said abruptly, "I feel queer here." She laid both hands on
-her flat, [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ish breast and hunched her shoulders. "I feel like
+her flat, [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ish breast and hunched her shoulders. "I feel like
 something is goin' to happen."
 
 "What happen, you think?" her mother asked listlessly.
@@ -1406,7 +1406,7 @@ hat-brim in salutation and said:
 
 "You're a thinker, I take it."
 
-"I find my work here absorbing," she replied, coloring under his steady
+"I find my [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) here absorbing," she replied, coloring under his steady
 look.
 
 He turned his horse and swung it into the road beside her.
@@ -1471,8 +1471,8 @@ was a rag-carpet on the floor--he remembered how springy it was with the
 freshly laid straw underneath it. Her husband held a lamp that she might
 see the notes, while his other hand was upon her shoulder, his adoring
 eyes upon her silly face. He, Smith, was rocking in the blue plush chair
-for which the fool with the calloused hands had done extra work that he
-might give it to the woman upon her birthday. Each time that she screeched
+for which the fool with the calloused hands had done extra [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) that he
+might give it to the woman upon her birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Each time that she screeched
 the refrain, "Love, I will love you always," she lifted her chin to sing
 it to the man beaming down upon her, while upstairs her trunk was packed
 to desert him.
@@ -1536,7 +1536,7 @@ She asked him to loop her latigo, which was trailing, and his hand shook
 as he fumbled with the leather strap.
 
 "Gawd!" he swore in bewilderment as he returned to his own horse, wiping
-his forehead with the back of his gauntlet, "what feelin' is this workin'
+his forehead with the back of his gauntlet, "what feelin' is this [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)in'
 on me? Am I gettin' locoed, me--Smith?"
 
 "I'm glad I've found a friend like you," said the Schoolmarm impulsively.
@@ -1641,7 +1641,7 @@ when 'twas offered, I might as well get the bounty."
 The Schoolmarm scarcely knew what to say; his explanation seemed so
 entirely satisfactory to himself.
 
-"I'm glad those dreadful days have gone."
+"I'm glad those dreadful [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s have gone."
 
 "They're gone all right," Smith answered sourly. "They make dum near as
 much fuss over an Injun as a white man now, and what with jumpin' up
@@ -1680,15 +1680,15 @@ opportunity?"
 
 "I learned my letters spellin' out the brands on cattle," he said frankly,
 "and that, with bein' able to write my name on the business end of a
-check, and common, everyday words, has always been enough to see me
+check, and common, every[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) words, has always been enough to see me
 through."
 
 "But when one has naturally a good mind, like yours, don't you think it is
 almost wicked not to use it?"
 
 "I got a mind all right," Smith replied complacently. "I'm kind of a
-head-worker in my way, but steady thinkin' makes me sicker nor a pup. I
-got a headache for two days spellin' out a description of myself that the
+head-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)er in my way, but steady thinkin' makes me sicker nor a pup. I
+got a headache for two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s spellin' out a description of myself that the
 sheriff of Choteau County spread around the country on handbills. It was
 plumb insultin', as I figgered it out, callin' attention to my eyes and
 ears and busted thumb. I sent word to him that I felt hos-tile over it.
@@ -1702,7 +1702,7 @@ The Schoolmarm ignored the handbill episode and went on:
 "The worst handicap I has to complain of," said Smith grimly, "is the
 habit people has got into of sending money-orders through the mail,
 instead of the cash. It keeps money out of circulation, besides bein'
-discouragin' and puttin' many a hard-workin' hold-up on the bum."
+discouragin' and puttin' many a hard-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)in' hold-up on the bum."
 
 "But," she persisted, the real meaning of Smith's observations entirely
 escaping her, "even the rudiments of an education would be such a help to
@@ -1970,7 +1970,7 @@ McArthur.
 THE GREAT SECRET
 
 
-It was the day they buried White Antelope that Smith approached Yellow
+It was the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) they buried White Antelope that Smith approached Yellow
 Bird, a Piegan, who was among the Indians paying visits of indefinite
 length to the MacDonald ranch. "Eddie" Yellow Bird, he was called at the
 Blackfoot mission where he had learned to read and write--though he would
@@ -1983,7 +1983,7 @@ their prowess, of horses they had run off, of cattle they had stolen, and
 hinting, Indian fashion, with significant intonations and pauses, at
 crimes of greater magnitude.
 
-"How is your heart to-day, friend? Is it strong?"
+"How is your heart to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), friend? Is it strong?"
 
 "Weak," replied Yellow Bird jestingly, touching his breast with a
 fluttering hand.
@@ -1994,7 +1994,7 @@ suggested significantly.
 "The bacon is not for Indians," agreed Yellow Bird.
 
 "But the woman would have no cattle left if she killed only her own
-beef."
+[beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip)."
 
 "Many people stop here--strangers and friends," Yellow Bird admitted.
 
@@ -2061,7 +2061,7 @@ their varied careers.
 
 A strong friendship had sprung up between Susie and McArthur. While Susie
 liked and greatly admired the Schoolmarm, she never yet had opened her
-heart to her. Beyond their actual school-work, they seemed to have little
+heart to her. Beyond their actual school-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), they seemed to have little
 in common; and it was a real disappointment and regret to the Schoolmarm
 that, for some reason which she could not reach, she had never been able
 to break through the curious reserve of the little half-breed, who,
@@ -2089,13 +2089,13 @@ glimmer of amusement which would have destroyed irredeemably any chance of
 real comradeship between them. But invariably McArthur had answered her
 questions gravely; and when her tears had fallen fast and hot at White
 Antelope's grave, she had known, with an intuition both savage and
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ish, that his sympathy was sincere. She had felt, too, the
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ish, that his sympathy was sincere. She had felt, too, the
 genuineness of his interest when, later, she had repeated to him many of
-the stories White Antelope had told her of the days when he and her father
+the stories White Antelope had told her of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s when he and her father
 had trapped and hunted together in the big woods to the north.
 
 So to-night, when the living-room was deserted by all save her mother, at
-work on her rugs in the corner, Susie confided to him her Great Secret,
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) on her rugs in the corner, Susie confided to him her Great Secret,
 and McArthur, some way, felt strangely flattered by the confidence. He had
 no desire to laugh; indeed, there were times when the tears were
 perilously close to the surface. He had been a shy, lonely student, and
@@ -2207,7 +2207,7 @@ kind of bug, and laugh at you with their eyes.
 horses, he would say, 'I'll take you back to see them some time, Susie,
 girl.' But he never said where 'back' was, so I've got to find out myself.
 Wouldn't it be awful, though"--and her chin quivered--"if after I'd been
-on the trail for days and days, and my ponies were foot-sore, they wasn't
+on the trail for [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, and my ponies were foot-sore, they wasn't
 glad to see me when I rode up to the house, but hinted around that
 horse-feed was short and grub was scarce, and they couldn't well winter
 me?"
@@ -2239,7 +2239,7 @@ fashion plates of several periods. "I've even picked out the clothes I'll
 buy to put on when I get nearly to the ranch where they live. I can make
 camp, you know, and change my clothes, and then go walkin' down the road
 carryin' this here parasol and wearin' this here white hat and holdin' up
-this here long skirt like Teacher on Sunday.
+this here long skirt like Teacher on Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
 "Won't they be surprised when they open the door and see me standin' on
 the door-step? I'll say, 'How do you do? I'm Susie MacDonald, your
@@ -2328,7 +2328,7 @@ mane----"
 thereby serving notice upon the Schoolmarm that he had "come to set a
 spell."
 
-So the Schoolmarm brought her needlework, and while she explained to Mr.
+So the Schoolmarm brought her needle[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and while she explained to Mr.
 Britt the exact shadings which she intended to give to each leaf and
 flower, that person sat with his entranced eyes upon her white hands, with
 their slender, tapering fingers--the smallest, the most beautiful hands,
@@ -2341,7 +2341,7 @@ the high heels of his cowboy boots--from which a faint odor of the stable
 emanated--hung over the rung of his chair, and to watch the Schoolmarm's
 hand plying the needle on that almost sacred sofa-pillow.
 
-"Your work must be very interesting, Mr. Britt," suggested Dora.
+"Your [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) must be very interesting, Mr. Britt," suggested Dora.
 
 "I dunno as 'tis," replied Mr. Britt.
 
@@ -2374,7 +2374,7 @@ another, it was upon knowing how to temper his language to his company.
 have you?"
 
 "Oh, my, yes," Mr. Britt declared heartily. "We has a game of stud poker
-nearly every Sunday mornin', and races in the afternoon."
+nearly every Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) mornin', and races in the afternoon."
 
 "Ain't he sparklin'?" whispered Susie across the room to Dora, who
 pretended not to hear.
@@ -2450,14 +2450,14 @@ by theft threw him into a rage that was like hysteria.
 
 His hand shook as he sat down at his desk and wrote a note to the
 Stockmen's Association, asking for the services of their best detective.
-It meant four days of hard riding to deliver the note, but the Colonel put
+It meant four [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of hard riding to deliver the note, but the Colonel put
 it into "Babe's" hand as if he were asking him to drop it in the mail-box
 around the corner.
 
 "Go, and git back," were his laconic instructions, and he turned to pace
 the floor.
 
-When "Babe" returned some eight days later, with the deputy sheriff, he
+When "Babe" returned some eight [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s later, with the deputy sheriff, he
 found the Colonel striding to and fro, his wrath having in no wise abated.
 The cowboy wondered if his employer had been walking the floor all that
 time.
@@ -2549,11 +2549,11 @@ himself, it was nevertheless declared that he was "worth watching."
 
 While the hangers-on at the MacDonald ranch were all known to have
 records, no particular suspicion had attached to them in this instance,
-because the squaw was known to kill her own beef, and no shadow of doubt
+because the squaw was known to kill her own [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip), and no shadow of doubt
 had ever fallen upon the good name of the ranch.
 
-The trapping of cattle-thieves is not the work of a day or a week, but
-sometimes of months; and when evidence of another stolen beef was found
+The trapping of cattle-thieves is not the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or a week, but
+sometimes of months; and when evidence of another stolen [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip) was found
 upon the range, Ralston realized that his efforts lay in that vicinity for
 some time to come. He decided to ride over to the MacDonald ranch that
 evening and have a look at the bad _hombre_ who masqueraded as a
@@ -2695,7 +2695,7 @@ jealous resentment rising within her.
 She read aright the light in his eyes; besides, her intuitions were
 greater than his powers of concealment. When she could no longer endure
 the sight of Smith and the Schoolmarm sitting side by side, she laid down
-her work and slipped out into the star-lit night, closing the door softly
+her [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) and slipped out into the star-lit night, closing the door softly
 behind her.
 
 Smith's judgment told him that he should end the lesson and go after her,
@@ -2734,7 +2734,7 @@ So they buried Minnehaha."
 The pathos of the lines never failed to touch Dora anew. Her voice broke,
 and, pausing to recover herself, she glanced at Smith. There were tears in
 his eyes. The brutal chin was quivering like that of a tender-hearted
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip).
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip).
 
 "The man that wrote that was a _chief_," he said huskily. "It hurts me
 here--in my neck." He rubbed the contracted muscles of his throat. "I'd
@@ -2773,7 +2773,7 @@ feet, all but upsetting the lamp in his violence. Unmixed horror was
 written upon his face.
 
 The girl herself shrank back at what she had done; then, holding out
-several rattles for [inspection](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/inspection.zip), she said:
+several rattles for [inspection](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/inspection.zip), she said:
 
 "Looks like you don't care for snakes."
 
@@ -2822,7 +2822,7 @@ politeness.
 
 Smith looked marvellously ugly.
 
-Susie leaned toward him, and her [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ish face was distorted with anger as
+Susie leaned toward him, and her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ish face was distorted with anger as
 she shrieked:
 
 "_Not yet, Mister Smith!_"
@@ -2844,7 +2844,7 @@ herself.
 For a full minute Smith stood as they had left him--motionless, his
 eyelids drooping. Rousing himself, he went to the window and looked into
 the moonlight-flooded world outside. Huddled in a blanket, a squat figure
-sat on a fallen cottonwood tree.
+sat on a fallen cottonwood [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip).
 
 Smith eyed it, then asked himself contemptuously:
 
@@ -2859,7 +2859,7 @@ touched hers.
 
 "My heart is under my feet." Her voice was harsh.
 
-In the tone one uses to a sulky [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), he said:
+In the tone one uses to a sulky [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), he said:
 
 "Come into the house."
 
@@ -2873,7 +2873,7 @@ He pressed her hand tightly against his heart.
 
 "Come into the house, Prairie Flower."
 
-Her face relaxed like that of a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) when it smiles through its tears.
+Her face relaxed like that of a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) when it smiles through its tears.
 And Smith, in the hour when the first real love of his life was at its
 zenith, when his heart was so full of it that it seemed well nigh
 bursting, walked back to the house with the squaw clinging tightly to his
@@ -2922,7 +2922,7 @@ but the really convincing point in its favor, though one which he refused
 to recognize as influencing him in the least, was that he was nearer Dora
 by something like eight miles than he would have been at the Bar C. Then,
 too, though there was nothing tangible to justify his suspicions, Ralston
-believed that his work lay close at hand.
+believed that his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) lay close at hand.
 
 Like Colonel Tolman, he had come to think that it was not the Indians who
 were killing; and the nesters, though a spiritless, shiftless lot, had
@@ -2974,7 +2974,7 @@ about."
 "Air you sayin' anything a-tall," demanded Old Man Rulison, suspiciously,
 "or air you joshin'?"
 
-"Them's words all right," said Tubbs. "Onct I worked under a section boss
+"Them's words all right," said Tubbs. "Onct I [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed under a section boss
 over on the Great Northern what talked words like them. He believed we
 sprung up from tuds and lizards--and the likes o' that. Yes, he did--on
 the square."
@@ -2983,7 +2983,7 @@ the square."
 
 "That's it--that's the word. That's what he was." Then, in the tone of one
 who hands out a clincher, Tubbs demanded: "Look here, Doc, if that's so
-why ain't all these ponds and cricks around here a-hatchin' out [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren?"
+why ain't all these ponds and cricks around here a-hatchin' out [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren?"
 
 "Guess that'll hold him for a minute," Meeteetse Ed whispered to his
 neighbor.
@@ -3071,8 +3071,8 @@ him. The telling of it to McArthur had been so delightful an experience
 that she yearned to repeat it, but now she meant never to tell any one
 else. Any way, McArthur was her "pardner," and it was enough that he
 should know. So it came about that afterwards, when Ralston sought her
-company and endeavored to learn something of the workings of her mind, he
-found the same barrier of [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ish reserve which had balked Dora, and no
+company and endeavored to learn something of the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ings of her mind, he
+found the same barrier of [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ish reserve which had balked Dora, and no
 amount of tact or patience seemed able to break it down.
 
 The young deputy sheriff's interest in Dora increased in leaps and bounds.
@@ -3109,7 +3109,7 @@ suggested themselves to Smith.
 
 Ralston looked forward eagerly to the evening meal, since it was almost
 the only time at which he could exchange a word with Dora. Breakfast was a
-hurried affair, while both she and Susie were absent from the midday
+hurried affair, while both she and Susie were absent from the mid[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
 dinner. The shy, fluttering glances which he occasionally surprised from
 her, the look of mutual appreciation which sometimes passed between them
 at a quaint bit of philosophy or naïve remark, started his pulses dancing
@@ -3143,7 +3143,7 @@ of spring, which Ralston had brought her, Smith said darkly:
 kids in Livingston and run off with a biscuit-shooter."
 
 Dora laughed aloud. The clean-cut and youthful Ralston deserting a wife
-and five [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren for a "biscuit-shooter" was not a convincing picture.
+and five [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren for a "biscuit-shooter" was not a convincing picture.
 That she did not receive his insinuation seriously but added fuel to the
 unreasoning jealousy beginning to flame in Smith's breast.
 
@@ -3167,7 +3167,7 @@ The rôle he was playing gave him no concern. Though the Indian woman's
 spells of sullenness irritated him, he conciliated her with endearing
 words, caresses, and the promise of a speedy marriage. He appeased her
 jealousy of Dora by telling her that he studied the foolish book-words
-only that he might the better work for her interests; that he was fitting
+only that he might the better [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) for her interests; that he was fitting
 himself to cope with the shrewd cattlemen with whom there were constant
 dealings, and that when they were married, the Schoolmarm should live
 elsewhere. Like others of her sex, regardless of race or color, the Indian
@@ -3199,8 +3199,8 @@ nature as he read it, and waited blindly for success.
 SPEAKING OF GRASSHOPPERS----
 
 
-It was Saturday, and, there being no school, both Susie and Dora were at
-home. Ralston was considering in which direction he should ride that day
+It was Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and, there being no school, both Susie and Dora were at
+home. Ralston was considering in which direction he should ride that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
 when Susie came to him and after saying to Smith with elaborate
 politeness, "Excuse me, Mr. Smith, for whispering, but I have something
 very private and confidential to say to Mr. Ralston," she shielded her
@@ -3234,9 +3234,9 @@ indeed.
 But Ralston, as he walked between Dora and Susie to the side-hill where
 the first grasshoppers of spring were always found, felt at peace with all
 the world--even Smith--and it was in his heart to hug the elfish
-half-breed [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) as she skipped beside him. Dora's frequent, bubbling
+half-breed [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) as she skipped beside him. Dora's frequent, bubbling
 laughter made him thrill; he longed to shout aloud like a schoolboy given
-an unexpected holiday.
+an unexpected holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
 Each time that his eyes sought Dora's, shadowed by the wide brim of her
 hat, her eyelids drooped, slowly, reluctantly, as though they fell against
@@ -3369,10 +3369,10 @@ now come soon.
 MOTHER LOVE AND SAVAGE PASSION CONFLICT
 
 
-It was Sunday, a day later, when Susie came into the living-room and
+It was Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) later, when Susie came into the living-room and
 noticed her mother sewing muskrat around the top of a moccasin. It was a
 man's moccasin. The woman had made no men's moccasins since her husband's
-[death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip). The sight chilled the girl.
+[death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). The sight chilled the girl.
 
 "Mother," she asked abruptly, "what do you let that hold-up hang around
 here for?"
@@ -3405,13 +3405,13 @@ now you are going to spoil it all!"
 
 "I get tied up to him right," defended the woman sullenly.
 
-"Oh, Mother!" wailed the [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip).
+"Oh, Mother!" wailed the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip).
 
 "We need good white man to run de ranch."
 
 "But _Smith_--do you think _he's_ good? Good! Is a rattlesnake good? Can't
 you see what he is, Mother?--you who are smarter than me in seeing through
-people? He's mean--onery to the marrow--and some day sure--_sure_--he'll
+people? He's mean--onery to the marrow--and some [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) sure--_sure_--he'll
 turn, and strike his fangs into you."
 
 "He no onery," the woman replied, in something like anger.
@@ -3465,7 +3465,7 @@ that the sun would rise each morning over there in the Bad Lands, to warm
 her when she was cold. She buried her face in her mother's lap and sobbed
 aloud.
 
-The woman had not seen Susie cry since she was a tiny [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), save when her
+The woman had not seen Susie cry since she was a tiny [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), save when her
 father and White Antelope died, and the numbed maternal instinct stirred
 in her breast. She laid her dark, ringed fingers upon Susie's hair and
 stroked it gently.
@@ -3507,7 +3507,7 @@ mentioned the scenery, and Smith had replied ironically that there was
 plenty of it and for him to help himself!
 
 But this spring was different--so different that he asked himself
-wonderingly if other springs had been like it; and to-day, as he sat in
+wonderingly if other springs had been like it; and to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), as he sat in
 the sunshine and looked about him, he saw for the first time grandeur in
 the saw-toothed, snow-covered peaks outlined against the dazzling blue of
 the western sky. For the first time he saw the awing vastness of the
@@ -3522,7 +3522,7 @@ thought so unexpected, so startling, that he blinked as if some one had
 struck him in the face. It sent a bright red rushing over him, coloring
 his neck, his ears, his white, broad forehead.
 
-He thought of her as the mother of [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren--his [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren--bearing his
+He thought of her as the mother of [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren--his [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren--bearing his
 name, miniatures of himself and of her. He never had thought of this
 before. He never had met a woman who inspired in him any such desire. He
 followed the thought further. What if he should have a permanent home--a
@@ -3568,7 +3568,7 @@ Dora laughed aloud.
 be much more than we see them here. And they are content as they are."
 
 "So was I, girl, until our trails crossed. I could ride without grub all
-day, and sing. I could sleep on a saddle-blanket like a tired pup, with
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and sing. I could sleep on a saddle-blanket like a tired pup, with
 only a rock for a wind-break and my saddle for a pillow. Now I can't sleep
 in a bed. It's horrible--this mixed up feelin'--half the time wantin' to
 holler and laugh and the other half wantin' to cry."
@@ -3589,12 +3589,12 @@ seen it, too, a-plenty.
 two: love and gold. I don't mean money, but gold--the pure stuff. They'll
 waller through snow-drifts, they'll swim rivers with the ice runnin',
 they'll crawl through canyons and over trails on their hands and knees,
-they'll starve and they'll freeze, they'll work till the blood runs from
+they'll starve and they'll freeze, they'll [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) till the blood runs from
 their blistered hands, they'll kill their horses and their pardners, for
 gold! And they'll do it for love. Yes, I've seen it a-plenty, me--Smith.
 
 "Things I've done, I've done, and they don't worry me none," he went on,
-"but lately I've thought of Dutch Joe. I worked him over for singin' a
+"but lately I've thought of Dutch Joe. I [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed him over for singin' a
 love-song, and I wisht I hadn't. He'd held up a stage, and was cached in
 my camp till things simmered down. It was lonesome, and I'd want to talk;
 but he'd sit back in the dark, away from the camp-fire, and sing to
@@ -3664,7 +3664,7 @@ me for the devil straight if you throw me! You'd better take this gun
 here, plant it on my heart, and pull the trigger. Because if I live--I'm
 talkin' straight--what I have done will be just a kid's play to what I'll
 do, if I ever cut loose for fair. Don't throw me, girl! Give me a show--if
-there ain't any one else! If there is, I'm quittin' the flat to-day."
+there ain't any one else! If there is, I'm quittin' the flat to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)."
 
 Dora was silent, panic-stricken with the responsibility which he seemed
 to have thrust upon her, almost terrified by the thought that he was
@@ -3721,7 +3721,7 @@ As their conversation daily became more forced, the estrangement more
 marked, Ralston's wretchedness increased in proportion. He brooded
 miserably over the scene he had witnessed; troubled, aside from his own
 interest in Dora, that she should be misled by a man of Smith's moral
-calibre. While he had delighted in her unworldly, [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)like belief in
+calibre. While he had delighted in her unworldly, [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)like belief in
 people and things, in this instance he deeply regretted it.
 
 Ralston understood perfectly the part which Smith desired to play in her
@@ -3831,7 +3831,7 @@ patted her neck and cried, breathing hard:
 He could have sworn the mare shared his humiliation.
 
 The saddle-leathers creaked beneath him at the leap she gave. She lay down
-to her work like a hound, running low, her neck outstretched, her tail
+to her [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) like a hound, running low, her neck outstretched, her tail
 lying out on the breeze. Game, graceful, reaching out with her slim legs
 and tiny hoofs, she ate up the distance between herself and the gray in a
 way that made even Ralston gasp. And still she gained--and gained! Her
@@ -3845,7 +3845,7 @@ that was in her, she did a little more.
 Smith knew, too, that she was gaining, though he would not turn his head
 to look. When her nose was at his horse's rump, he had it in his heart to
 turn and shoot her as she ran. She crept up and up, and both Smith and
-Ralston knew that the straining, pounding gray had done its best. The work
+Ralston knew that the straining, pounding gray had done its best. The [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)
 was too rough for its feet. There was too much thoroughbred in it for
 lava-rock and sage-brush hummocks. Blind rage consumed Smith as he felt
 the increasing effort of each stride and knew that it was going "dead"
@@ -3856,7 +3856,7 @@ little brown mare swept by, and Ralston's rope, cutting the air, dropped
 about the neck of the insignificant, white "digger" that had caused it
 all.
 
-"I guess you're ridin' the best horse to-day," said Smith, as he dropped
+"I guess you're ridin' the best horse to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)," said Smith, as he dropped
 from the saddle to retie his latigo.
 
 He gave the words a peculiar emphasis and inflection which made the other
@@ -3876,7 +3876,7 @@ in his nature showing in his lowering countenance.
 
 Dora's eyes were brilliant as they always were under excitement; and when
 Ralston dismounted she stroked Molly's nose, saying in a voice which was
-more natural than it had been for days when addressing him, "It was
+more natural than it had been for [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s when addressing him, "It was
 splendid! _She_ is splendid!" and he glowed, feeling that perhaps he was
 included a little in her praise.
 
@@ -3892,7 +3892,7 @@ away.
 He walked aimlessly about, waiting for Molly to cool a bit before he let
 her drink preparatory to starting on his tiresome ride over the range.
 Both he and the Colonel believed that the thieves would soon grow bolder,
-and his strongest hope lay in coming upon them at work. He had noted that
+and his strongest hope lay in coming upon them at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip). He had noted that
 there were no fresh hides among those which hung on the fence, and he
 sauntered down to have another look at the old ones. With his foot he
 turned over something which lay close against a fence-post, half concealed
@@ -3900,7 +3900,7 @@ in a sage-brush. Stooping, he unrolled it and shook it out; then he
 whistled softly. It was a fresh hide with the brand cut out!
 
 Ralston nodded his head in mingled satisfaction and regret. So the thief
-was working from the MacDonald ranch! Did the Indian woman know, he
+was [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing from the MacDonald ranch! Did the Indian woman know, he
 wondered. Was it possible that Susie was in ignorance? With all his heart,
 he hoped she was. He walked leisurely to the house and leaned against the
 jamb of the kitchen door.
@@ -3915,7 +3915,7 @@ preparation--subjects from which Ling's thoughts seldom wandered far. When
 the advantages of soda and sour milk over baking powder were thoroughly
 exhausted as a topic, Ralston asked casually:
 
-"Who killed your last beef, Ling? It's hard to beat."
+"Who killed your last [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip), Ling? It's hard to beat."
 
 "Yellow Bird," he replied. "Him good butcher."
 
@@ -3931,7 +3931,7 @@ remarkable skull."
 
 Tubbs, visibly flattered, smirked.
 
-"It's claimed that it's double by people what have tried to work me over.
+"It's claimed that it's double by people what have tried to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) me over.
 Onct I crawled in a winder and et up a batch of 'son-of-a-gun-in-a-sack'
 that the feller who lived there had jest made. He come in upon me suddent,
 and the way he hammered me over the head with the stove-lifter didn't
@@ -3981,7 +3981,7 @@ contribution to science," Ralston urged persuasively.
 suffer capital punishment, dispose of their bodies for anatomical
 purposes, for which they are paid in advance. As a matter of fact,
 Tubbs," declared McArthur earnestly, "my superficial examination of your
-head has so impressed me that upon the chance of some day adding it to my
+head has so impressed me that upon the chance of some [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) adding it to my
 collection I am willing to offer you a reasonable sum for it."
 
 "It's on bi-products that the money is made," declared Ralston soberly,
@@ -4168,7 +4168,7 @@ She raised her narrowing eyes to his.
 Ralston had felt that the old Colonel was growing impatient with his
 seeming inactivity, so he decided, the next morning, to ride to the Bar C
 and tell him that he believed he had a clue. It would not be necessary to
-keep Running Rabbit under close surveillance until the beef in the
+keep Running Rabbit under close surveillance until the [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip) in the
 meat-house was getting low. Then the deputy sheriff meant not to let him
 out of his sight.
 
@@ -4297,7 +4297,7 @@ eager, persuasive whisper:
 breathin'. You jump in with me on this deal and see how easy you lose that
 sull. Don't you ever have a feelin' take holt of you that you want to do
 something onery--steal something, mix with somebody? I do. I've had that
-notorious feelin' workin' on me strong for days now, and I've got to get
+notorious feelin' [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)in' on me strong for [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s now, and I've got to get
 rid of it. If you'll come in on this, we'll have the excitement and make a
 stake, too. Talk up, girl--show your sand! Be game!"
 
@@ -4346,7 +4346,7 @@ She looked at his extended hand and wrapped her own in her blanket.
 
 The reply did not satisfy Smith, but he told himself that, once she was
 committed, he could manage her, for, after all, Susie was little more than
-a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip). Smith felt uncommonly pleased with himself for his bold stroke.
+a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip). Smith felt uncommonly pleased with himself for his bold stroke.
 
 The new intimacy between Smith and Susie, the sudden cessation of
 hostilities, caused surprise on the ranch, but the Indian woman was the
@@ -4393,23 +4393,23 @@ me--Smith."
 canyon where a regiment of soldiers couldn't find a hundred head of horses
 in a year; and over there in the Bad Lands there's a spring breakin' out
 where a man dyin' of thirst would never think of lookin' for it. We're all
-right. You're a head-worker, and so am I." Smith chuckled. "We'll set some
+right. You're a head-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)er, and so am I." Smith chuckled. "We'll set some
 of these Injuns afoot, and make a clean-get-away."
 
 Smith was more than satisfied with the zest with which Susie now entered
 into the plot, and the shrewdness which she showed in planning details
 that he himself had overlooked.
 
-"You work along with me, kid, and I'll make a dead-game one out of you!"
+"You [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) along with me, kid, and I'll make a dead-game one out of you!"
 he declared with enthusiasm. "When we make a stake, we'll go to Billings
 and rip up the sod!"
 
 "I'll like that," said Susie dryly.
 
 "When the right time comes, I'll know it," Smith went on. "When I wakes up
-some mornin' with a feelin' that it's the day to get action on, I always
+some mornin' with a feelin' that it's the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to get action on, I always
 follows that feelin'--if it takes holt of me anyways strong. I has to do
-certain things on certain days. I hates a chilly day worse nor anything. I
+certain things on certain [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s. I hates a chilly [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) worse nor anything. I
 wants to hole up, and I feels mean enough to bite myself. But when the sun
 shines, it thaws me; it draws the frost out of my heart, like. I hates to
 let anybody's blood when the sun shines. I likes to lie out on a rock like
@@ -4424,13 +4424,13 @@ a lizard, and I feels kind. I'm cur'ous that way, about sun, me--Smith."
 THE SLAYER OF MASTODONS
 
 
-Dora and Susie had planned to botanize one fine Saturday morning, and
+Dora and Susie had planned to botanize one fine Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning, and
 Susie, dressed for a tramp in the hills, was playing with a pup in the
 dooryard, waiting for Dora, when she saw Smith coming toward her with the
 short, quick step which, she had learned, with him denoted mental
 activity.
 
-"This is the day for it," he said decisively. "I had that notorious
+"This is the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) for it," he said decisively. "I had that notorious
 feelin' take holt of me when I got awake. How's your heart, girl?"
 
 It had given a thump at Smith's approach, and Susie's tawny skin had paled
@@ -4438,7 +4438,7 @@ under its tan, but by way of reply she gave the suggestive Indian sign of
 strength.
 
 "Good!" he nodded. "You'll need a strong heart for the ridin' you've got
-to do to-day; but I'm not a worryin' that you can't do it, kid, for I've
+to do to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); but I'm not a worryin' that you can't do it, kid, for I've
 watched you close."
 
 "Guess I could ride a flyin' squirrel if I had to," Susie replied shortly,
@@ -4462,7 +4462,7 @@ She pouted.
 
 "I don't care, I wanted to pick flowers."
 
-Smith said mockingly, "So do I, angel [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip). I jest worships flowers!"
+Smith said mockingly, "So do I, angel [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip). I jest worships flowers!"
 
 "From pickin' flowers to stealin' horses is some of a jump."
 
@@ -4492,7 +4492,7 @@ swinging on his arm, he was for the time what he should have been always.
 He had long since made ample apology to Dora for his offense and there had
 been no further outbreak from him of which to complain.
 
-The day's work was cut out for Ralston also, when he saw Yellow Bird and
+The [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)'s [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) was cut out for Ralston also, when he saw Yellow Bird and
 another Indian ride away, each leading a pack-horse, and learned from Ling
 that they had gone to butcher. They started off over the reservation, in
 the direction in which the MacDonald cattle ranged; with the intention,
@@ -4517,7 +4517,7 @@ spot.
 
 "She'll think I was spying upon her, like some ignorant, jealous fool!" he
 told himself savagely. "Why, why, is it that I must always blunder upon
-such scenes, to make me miserable for days! Can it be--can it possibly
+such scenes, to make me miserable for [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s! Can it be--can it possibly
 be," he asked himself--"that she cares for the man; that she encourages
 him; that she has a foolish, Quixotic notion that she can raise him to her
 own level?"
@@ -4543,7 +4543,7 @@ too heavy for the possibility of a coming fight to quicken his pulse to
 any great extent. He believed that he would be rather glad than otherwise
 if they should make a stand. The thought that the tedious waiting game
 which he had played so long might be ended did not elate him. The ambition
-seemed to have gone out of him. He had little heart in his work, and small
+seemed to have gone out of him. He had little heart in his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and small
 interest in the glory resulting from success.
 
 He thought only of Dora as he lay full length on the ground, plucking
@@ -4562,9 +4562,9 @@ hundred yards of the butchers before they saw him.
 
 "Hello!" Ralston answered.
 
-"Fat cow. Fine beef," vouchsafed the Indian.
+"Fat cow. Fine [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip)," vouchsafed the Indian.
 
-"Fine beef," agreed Ralston. "Can I help you?"
+"Fine [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip)," agreed Ralston. "Can I help you?"
 
 The MacDonald brand stood out boldly on the cow's flank!
 
@@ -4576,16 +4576,16 @@ matter of meat, he had left little but the horns and hoofs. The Bar C
 cattle had been butchered with the white man's indifference to waste.
 
 Any one of the bunk-house crowd, except McArthur, Ralston believed to be
-quite capable of stealing cattle for beef purposes. But if they had been
+quite capable of stealing cattle for [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip) purposes. But if they had been
 stealing systematically, as it would appear, why had they killed MacDonald
-cattle to-day? Ralston still regarded the affair of the fresh hide as too
+cattle to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)? Ralston still regarded the affair of the fresh hide as too
 suspicious a circumstance to be overlooked, and he meant to learn which of
 the white grub-liners had been absent. He reasoned that the Indians had a
 wholesome fear of Colonel Tolman, and that it was unlikely they would
 venture upon his range for such a purpose without a white man's moral
 support.
 
-Smith had been missing frequently of late and for so long as two days at
+Smith had been missing frequently of late and for so long as two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s at
 a time, but this could not be regarded as peculiar, since the habits of
 all the grub-liners were more or less erratic. They disappeared and
 reappeared, with no explanation of their absence.
@@ -4673,9 +4673,9 @@ incredible, yet there, still in sight, was the flying band of horses, and
 Bear Chief's positiveness seemed to leave no room for doubt.
 
 "Oh, him one heap good thief," panted Bear Chief, in unwilling admiration,
-as their horses ran side by side. "He work fast. No 'fraid. Cut 'em
+as their horses ran side by side. "He [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) fast. No 'fraid. Cut 'em
 out--head 'em off--turn 'em--ride through big brush--jump de gulch--yell
-and swing de quirt, and do him all 'lone! Dat no easy work--cut out horses
+and swing de quirt, and do him all 'lone! Dat no easy [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)--cut out horses
 all 'lone. Him heap good horse-thief!"
 
 What did it mean, anyhow? Ralston asked himself the question again and
@@ -4693,7 +4693,7 @@ sundown. Ralston was still unconvinced that it was not a case of mistaken
 identity, and, hoping against hope, he asked some one loafing about while
 he and Bear Chief unsaddled if McArthur had returned.
 
-"He's been off prowlin' all day, and ain't in yet," was the answer; and
+"He's been off prowlin' all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and ain't in yet," was the answer; and
 Bear Chief grunted at this confirmation of his accusation.
 
 The Indian woman was waiting in the doorway when they came up the path.
@@ -4708,7 +4708,7 @@ Is Smith here?"
 
 "Smith no come home for supper."
 
-"There seems to have been a general exodus to-day," Ralston observed. "Are
+"There seems to have been a general exodus to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)," Ralston observed. "Are
 you feeling worried about Susie?"
 
 "I no like. Yas, I feel worry for Susie."
@@ -4726,7 +4726,7 @@ She brought the food from the kitchen herself, and padded uneasily from
 window to window while they ate.
 
 What was in the wind, Ralston asked himself, that Susie, McArthur, and
-Smith should disappear in this fashion on the same day? It was a singular
+Smith should disappear in this fashion on the same [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)? It was a singular
 coincidence. Like her mother, Ralston had no notion that Susie was
 stopping the night at any ranch or lodge below. He, too, shared the Indian
 woman's misgivings.
@@ -4754,7 +4754,7 @@ I--I've been reducin' my hips."
 straw, Susie covered her face with the crook of her elbow and cried
 hysterically.
 
-Ralston was convinced that the day had held something out of the ordinary
+Ralston was convinced that the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) had held something out of the ordinary
 for Susie. He knew that it would take an extraordinary ride so completely
 to exhaust a girl who was all but born in the saddle. But it was evident
 from her reply that she did not mean to tell where she had been or what
@@ -4769,7 +4769,7 @@ yet come straggling in, with an explanation of the whole affair. He could
 not think of any that would be satisfactory, but an underlying faith in
 the little scientist's honesty persisted.
 
-Toward morning he slept, and day was breaking when a step on the door-sill
+Toward morning he slept, and [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was breaking when a step on the door-sill
 of the bunk-house awakened him. He raised himself slightly on his elbow
 and stared at McArthur, looming large in the gray dawn, with a skull
 carried carefully in both hands.
@@ -4786,7 +4786,7 @@ behind his spectacles.
 
 "My dear sir, if I can prove to the satisfaction of scientific sceptics
 that this cranium is not pathological, I shall have bounded in a single
-day--night--bounded from comparative obscurity to the pinnacle of fame!
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)--night--bounded from comparative obscurity to the pinnacle of fame!
 Undoubtedly--beyond question--a race of giants existed in North
 America----"
 
@@ -4862,7 +4862,7 @@ to exclaim at last: "But I had no horse of my own!"
 not unknown in Connecticut," he answered with a tinge of pride.
 
 "Where are your riding-breeches? Bear Chief says you were wearing them
-yesterday. Can you produce them now?"
+yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Can you produce them now?"
 
 McArthur, with hauteur, walked to the nails where his wardrobe hung and
 fumbled among the clothing.
@@ -4880,7 +4880,7 @@ McArthur mechanically did as she bade him, and his riding-breeches dropped
 from the sack.
 
 "I hope you'll 'scuse me for makin' so free with your clothes, like," she
-said, "but I just naturally had to have them yesterday."
+said, "but I just naturally had to have them yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)."
 
 A light broke in upon Ralston.
 
@@ -4909,8 +4909,8 @@ horse travelling out of the country at the gait we was goin' then."
 She turned upon Ralston in good-natured contempt.
 
 "Goodness, but you're slow! Don't you understand? Smith's my pal; we're
-workin' together. He cooked this up--him takin' the safe and easy end of
-it himself. He sprung it on me that day I had a sull on. Don't you see his
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)in' together. He cooked this up--him takin' the safe and easy end of
+it himself. He sprung it on me that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) I had a sull on. Don't you see his
 game? He thinks if he can get me mixed up in something crooked, he can
 manage me. He's noticed, maybe, that I'm not halter-broke. So I pretended
 to fall right in with his plans, once I had promised, meanin' all the time
@@ -4984,7 +4984,7 @@ meet again when out of sight of the ranch. With varied emotions, they soon
 were following Susie's lead, and it was no easy task to keep the flying
 figure in sight.
 
-McArthur, panting, perspiring, choking his saddle-horn to [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip), wondered
+McArthur, panting, perspiring, choking his saddle-horn to [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), wondered
 if any person of his acquaintance ever had participated in such a reckless
 ride. The instructor in Dead Languages, it is true, frequently had
 thrilled his colleagues with his recital of a night spent in a sapling,
@@ -4992,7 +4992,7 @@ owing to the proximity of a she-bear, and McArthur always had mildly
 envied him the adventure, but now, he felt, if he lived to tell the tale,
 he had no further cause for envy.
 
-Bear Chief's eyes were gleaming with the fires of other days, while the
+Bear Chief's eyes were gleaming with the fires of other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, while the
 faded overalls and flannel shirt of civilization seemed to take on a look
 of savagery.
 
@@ -5050,7 +5050,7 @@ picket rope when they were not travelling. His own horse, always saddled,
 was picketed close.
 
 "I'll never make a turn like this alone again," he muttered
-discontentedly. "It's too much like work to suit me, and I ain't in shape
+discontentedly. "It's too much like [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) to suit me, and I ain't in shape
 to make a hard ride. I've got soft layin' around the ranch." He stretched
 his stiff muscles and made a wry face. Then he smiled. "I'd like to see
 that brat's face when she comes with my grub this mornin'." He looked off
@@ -5071,14 +5071,14 @@ business is ser'ous"--he looked uneasily at the stretch of desolation
 ahead of him--"but unless the Injuns lied, they's _some_.
 
 "I hope the boys are to home," he went on, "for if they are it won't take
-us long to work these brands over. When they take 'em off my hands and I
+us long to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) these brands over. When they take 'em off my hands and I
 gets my wad, I'll soak it away, me--Smith. I'll hand it in at the bank,
 and I'll say to the dude at the winder, 'Feller,' I'll say, 'me and a
 little Schoolmarm are goin' to housekeepin' after while, so just hang on
 to that till I calls.'" Smith grinned appreciatively at the picture.
 
 "His eyes will stick out till you could snare 'em with a log-chain, for I
-ain't known as a marryin' man." His face sobered. "I've got to get to work
+ain't known as a marryin' man." His face sobered. "I've got to get to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)
 and get a wad--she shot that into me straight; and she's right. I couldn't
 ask no woman like her to hang out her own wash in front of a two-roomed
 shack. I got to get the _dinero_, and between man and man, Smith, like you
@@ -5098,7 +5098,7 @@ down on his knees and took a mouthful of water from a lukewarm pool. He
 spat it upon the ground in disgust.
 
 "That's worse nor pizen," he declared with a grimace. "You bet I've got to
-strike water to-day somehow. The horses won't hardly touch this, and
+strike water to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) somehow. The horses won't hardly touch this, and
 they're all ga'nted up for the want of it. There ought to be water over
 there in some of them gulches, seems-like"--he looked anxiously at the
 expanse stretching interminably to the northeast--"and I'll have to haze
@@ -5109,18 +5109,18 @@ the saddle; and the band of foot-sore horses, the hair of their necks and
 legs stiff with sweat and dust, bore little resemblance to the spirited
 animals that Susie had driven from the reservation. It was now no effort
 to keep up with them, and Smith herded them in front of him like a flock
-of sheep. He wondered what another day, perhaps two days more, of
+of sheep. He wondered what another [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), perhaps two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s more, of
 constant travel would do, if fifty miles or so had used them up. There was
 not now the fear of capture to urge him forward, but the need of reaching
 water was an equally great incentive to haste.
 
 Smith travelled until late in the afternoon without an audible complaint
-at the intense discomforts of the day. He found no water, and he ate only
+at the intense discomforts of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). He found no water, and he ate only
 a handful of sugar as he rode. He journeyed constantly toward the
 northeast, in which direction, he thought, must be the ranch which was his
 destination. At each intervening gulch a hope arose that it might contain
 water, but always he was disappointed. Between the alkali dust and the
-heat of the midday sun, which was unusually hot for the time of year, his
+heat of the mid[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) sun, which was unusually hot for the time of year, his
 lips were cracked and his throat dry.
 
 "Ain't this hell!" he finally muttered fretfully. "And no more jump in
@@ -5137,13 +5137,13 @@ goin' to be worse before it's better. If I could only lay in a crick--roll
 in it--douse my face in it--soak my clothes in it! God! I'm dry!"
 
 He spurred his horse, but there was no response from it. It was dead on
-its feet, between the hard travel of the previous day and night and
-another day without water. He cursed the horses ahead as they lagged and
+its feet, between the hard travel of the previous [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) and night and
+another [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) without water. He cursed the horses ahead as they lagged and
 necessitated extra steps.
 
 He rode for awhile longer, until he realized that at the snail's pace they
 were moving he was making little headway. A rest would pay better in the
-long run, although there was some two hours of daylight left.
+long run, although there was some two hours of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light left.
 
 The dull-eyed horses stood with drooping heads, too thirsty and too tired
 to hunt for the straggling spears of grass and salt sage which grew
@@ -5209,7 +5209,7 @@ might disappear before he could reach it, and he ran like one frenzied
 with fear. The world was swimming around him, his heart was pounding in
 his breast, yet still he stumbled on at top speed.
 
-[Illustration: IT MEANT [DEATH](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)--BUT IT WAS WET!--IT WAS WATER!]
+[Illustration: IT MEANT [DEATH](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)--BUT IT WAS WET!--IT WAS WATER!]
 
 The cut grew deeper, and indications of moisture increased. He saw a
 growth of large sage-brush, then a clump or two of rank, saw-edged grass.
@@ -5217,7 +5217,7 @@ These things meant water! He turned a bend and there, beneath a high bank,
 was a pool crusted to the edge with alkali!
 
 Smith knew that it was strongly alkali; that it meant certain
-illness--enough of it, [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip). But it was wet!--it was water!--and he must
+illness--enough of it, [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). But it was wet!--it was water!--and he must
 drink. He fell, rather than knelt, in it. When taste came back he realized
 that it was flat and lukewarm, but he continued to gulp it down. At any
 other time it would have nauseated him, but now he drank to his capacity.
@@ -5230,7 +5230,7 @@ This was as certain as was the fact that night had come.
 scrambled to his feet.
 
 "I gotta get back to camp. This water's goin' to raise thunder when it
-begins to get in its work. I gotta get back to my blankets and lay down."
+begins to get in its [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip). I gotta get back to my blankets and lay down."
 
 Before he reached the heap of ashes which he called camp, the first
 symptoms of his coming agony began to show themselves. He felt slightly
@@ -5271,14 +5271,14 @@ desert.
 
 Yet underneath it all, when his agony was at its height, he still believed
 in himself. In a kind of subconscious arrogance, he believed that he was
-stronger than Fate, more powerful than [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip). He would not die; he would
-live because he wanted to live. [Death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) was not for him--Smith. For others,
+stronger than Fate, more powerful than [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). He would not die; he would
+live because he wanted to live. [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) was not for him--Smith. For others,
 but not for him.
 
 At last the paroxysms became less frequent and lost their violence. When
 they ceased altogether, he lay limp and half-conscious. He was content to
 remain motionless until the flies and insects of the sand roused him to
-the fact that another day had come.
+the fact that another [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) had come.
 
 He was incredibly weak, and it took all his remaining strength to throw
 his forty-pound cow-saddle upon his horse's back. His knees shook under
@@ -5300,7 +5300,7 @@ his stiff and lifeless horse without pity, but he spurred uselessly. It
 stumbled under him as he drove the spiritless band toward the hopeless
 waste ahead of him.
 
-"Unless I'm turned around, we ought to get out of this to-day," he
+"Unless I'm turned around, we ought to get out of this to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)," he
 thought. The effort of speaking aloud was too great to be made. "Unless
 I'm lost, or fall off my horse, we ought to make it sure."
 
@@ -5314,7 +5314,7 @@ as though he had been eating hasheesh. He felt as if he had ridden for a
 week, before his horse's shadow told him that noon had come. The jar of
 his horse hurt him, and it all seemed unreal at times, like a torturing
 nightmare from which he must soon awake. He rode long distances with
-closed eyes as the day wore on. The world, red and wavering, swung around
+closed eyes as the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) wore on. The world, red and wavering, swung around
 him, and he gripped his saddle-horn hard. The only real thing, the agony
 of which was too great to be mistaken for anything else, was his thirst.
 This was superlatively intense. There were moments when he had a desire to
@@ -5329,7 +5329,7 @@ kept his horse plodding onward, ever onward, through the heavy sand and
 blistering alkali dust, and always to the northeast, where somewhere there
 was relief which somehow he must reach.
 
-Mile after mile crept under his horse's lagging feet. The midday sun beat
+Mile after mile crept under his horse's lagging feet. The mid[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) sun beat
 down upon him, drying the very blood in his veins, scorching him,
 shrivelling him, and yet there seemed no end to the waterless gulches, to
 the sand, the cactuses, the stunted sage-brush. His horse was stumbling
@@ -5344,7 +5344,7 @@ He thought he saw a barbed wire fence. A barbed wire fence meant
 civilization! He swung his horse and rode toward it. The dark spots he had
 thought were posts were only sage-brush. The smarting of his eye-balls and
 eyelids aroused him to an astonishing fact: he was crying in his weakness,
-crying of disappointment like a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)! But he was astonished most that he
+crying of disappointment like a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)! But he was astonished most that he
 had tears to shed--that they had not dried up like his blood.
 
 Tears! He remembered his last tears, and they kept on sliding down his
@@ -5352,7 +5352,7 @@ cheek now as he recalled the occasion. His father had given him a colt
 back there where they slept between sheets. He had broken it himself, and
 taught it tricks. It whinnied to him when he passed the stable. The other
 boys envied him his colt, and he meant to show it at the fair. He came
-home one day and the colt was gone. His father handed him a silver dollar.
+home one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) and the colt was gone. His father handed him a silver dollar.
 He had thrown the money at his father and struck him in the face, and
 while the tears streamed from his eyes he had cursed his father with the
 oaths with which his father had so frequently cursed him; and he had kept
@@ -5406,7 +5406,7 @@ TINHORN FRANK SMELLS MONEY
 
 
 Smith did not care for money in itself; that is, he did not care for it
-enough to work for it, or to hoard it when he had it. Yet perhaps even
+enough to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) for it, or to hoard it when he had it. Yet perhaps even
 more than most persons he loved the feel of it in his fingers, the
 sensation of having it in his pocket. Smith was vain, in his way, and
 money satisfied his vanity. It gave him prestige, power, the attention he
@@ -5429,7 +5429,7 @@ their eyes sparkle.
 "It's risky, but if you can do it----" they had said.
 
 "Sure, I can do it, and I'll start as soon as it's safe after I get back
-to the ranch. I gotta get to work and make a stake--_me_," he had
+to the ranch. I gotta get to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) and make a stake--_me_," he had
 declared.
 
 They had looked at him quizzically.
@@ -5447,7 +5447,7 @@ were like that, he told himself.
 
 Ahead of Smith, on the dusty flat, was the little cow-town, looking, in
 the distance, like a scattered herd of dingy sheep. He was glad his ride
-was ended for the day. He was thirsty, hot, and a bit tired.
+was ended for the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). He was thirsty, hot, and a bit tired.
 
 Tinhorn Frank, resting the small of his back against a monument of elk and
 buffalo horns in front of his log saloon, was the first to spy Smith
@@ -5524,7 +5524,7 @@ Smith held the centre of the stage, he was the conspicuous figure, the
 magnet which drew them all. He gloried in it, revelled in his popularity;
 and the "special brand" was beginning to sizzle in his veins.
 
-"I'm feelin' lucky to-day, me--Smith!" he cried exultantly. "I has a
+"I'm feelin' lucky to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), me--Smith!" he cried exultantly. "I has a
 notorious idea that I can buck the wheel and win!"
 
 He had not meant to gamble--he had told himself that he would not; but his
@@ -5615,20 +5615,20 @@ Smith rose and kicked the chair out of his way.
 
 "Have a drink," urged Tinhorn.
 
-"Not to-day," he answered shortly.
+"Not to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)," he answered shortly.
 
 The crowd parted to let him pass. Untying his horse, he sprang into the
 saddle, and not much more than an hour from the time he had arrived he
-rode down the main street, past the bank where he was to leave his roll,
+rode down the main s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, past the bank where he was to leave his roll,
 flat broke.
 
-At the end of the street he turned in his saddle and looked behind him.
+At the end of the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t he turned in his saddle and looked behind him.
 His satellites stood in the bar-room door, loungers loafed on the
 curbstone, a woman or two drifted into the General Merchandise Store. The
 Postmaster was eying him idly through his fly-specked window, and a group
 of boys, who had been drawing pictures with their bare toes in the deep
-white dust of the street, scowled after him because his horse's feet had
-spoiled their work. His advent had left no more impression than the tiny
+white dust of the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, scowled after him because his horse's feet had
+spoiled their [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip). His advent had left no more impression than the tiny
 whirlwind in its erratic and momentary flurry. The money for which he had
 sweat blood was gone. Mechanically he jambed his hands into his empty
 pockets.
@@ -5719,7 +5719,7 @@ who first saw Smith jogging leisurely down the road on his jaded horse.
 The long roof of the MacDonald ranch, which was visible through the cool
 willows, looked good to Smith. It looked peaceful, and quiet, and
 inviting; yet Smith knew that the whole Indian police force might be there
-to greet him. He had been gone many days, and much might have happened in
+to greet him. He had been gone many [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, and much might have happened in
 the interim. It was characteristic of Smith that he did not slacken his
 horse's pace--he could squirm out somehow.
 
@@ -5817,7 +5817,7 @@ crop of hay. She had promised him the proceeds from that, if he would
 stay, but the sale of it was still months away.
 
 "If I had a stake, Prairie Flower," he said mournfully, "I'd cut out this
-crooked work and quit takin' chances. But a feller like me has got pride:
+crooked [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) and quit takin' chances. But a feller like me has got pride:
 he can't go around without two bits in his pocket, and feel like a man. If
 I had the price, I'd buy me a good bunch of cattle, get a permit, and
 range 'em on the reserve."
@@ -5876,7 +5876,7 @@ wildcat that has been poked with a stick.
 
 Smith drew an exaggerated sigh and shook his head lugubriously.
 
-"[Child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), I'm the only son of Trouble. I gets in a game and I loses every
+"[Child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), I'm the only son of Trouble. I gets in a game and I loses every
 one of our honest, hard-earned dollars. The tears has been pilin' out of
 my eyes and down my cheeks for forty miles, thinkin' how I'd have to break
 the news to you."
@@ -5885,11 +5885,11 @@ the news to you."
 was capable was in her voice. "To steal from your own pal!"
 
 "Thief?" Smith put his fingers in his ears. "Don't use that word, Susie.
-It sounds horrid, comin' from a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) you love as if she was your own
+It sounds horrid, comin' from a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) you love as if she was your own
 step-daughter."
 
 The muscles of Susie's throat contracted so it hurt her; her face drew up
-in an unbecoming grimace; she cried with a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)'s abandon, indifferent to
+in an unbecoming grimace; she cried with a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)'s abandon, indifferent to
 the fact that her tears made her ludicrously ugly.
 
 "Smith," she sobbed, "don't you ever feel sorry for anybody? Couldn't you
@@ -5904,7 +5904,7 @@ won't you? Won't you do somethin' good when you've got a chance--just this
 once, Smith? Won't you go away from here? You don't care anything at all
 for Mother, Smith, and she's all I've got!" She stretched her hands toward
 him appealing, while the hot tears wet her cheeks. She was the picture of
-[child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ish humiliation and misery.
+[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ish humiliation and misery.
 
 Smith looked at her and listened without derision or triumph. He looked at
 her in simple curiosity, as he would have looked at a suffering animal
@@ -5914,7 +5914,7 @@ Through a blur of tears, Susie read something of this in his face, and her
 hands dropped limply to her sides. Her appeal was useless.
 
 It was not that Smith did not understand her feelings. He did--perfectly.
-He knew how deep a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)'s hurt is. He had been hurt himself, and the scar
+He knew how deep a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)'s hurt is. He had been hurt himself, and the scar
 was still there. It was only that he did not care. He had lived through
 his hurt, and so would she. It was to his interest to stay, and first and
 always he considered Smith.
@@ -6180,7 +6180,7 @@ as he could think of any woman, and he wonders when the priest could come.
 And while he's studyin' it over, some white girl cuts across his trail,
 and, with the sight of her, Mary Moonbeam or Sally Star-eyes looks like a
 dirty two-spot in a clean deck." The cowpuncher's words came back to
-Smith as though they had been said only yesterday.
+Smith as though they had been said only yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
 "Why don't you say what you think?" the woman asked, uneasy under his long
 stare.
@@ -6229,7 +6229,7 @@ wagon. He had been all attention that morning, and her eyes were liquid
 with gratitude and devotion as she and Meeteetse drove away. She turned
 before they were out of sight, and her face brightened when she saw Smith
 still looking after them. She thought comfortably of the fast approaching
-day when she would be envied by the women who had married only "bloods" or
+[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) when she would be envied by the women who had married only "bloods" or
 "breeds."
 
 Smith, as it happened, was remarking contemptuously to Tubbs, as he nodded
@@ -6287,15 +6287,15 @@ in on a deal that'd be the makin' of you."
 
 A disturbing thought made Tubbs inquire anxiously:
 
-"This here chanct your speakin' of--it ain't work, is it?--real right-down
-work?"
+"This here chanct your speakin' of--it ain't [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), is it?--real right-down
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)?"
 
-"Not degradin' work, like pitchin' hay or plowin'."
+"Not degradin' [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), like pitchin' hay or plowin'."
 
-"I hates low-down work, where you gits out and sweats."
+"I hates low-down [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), where you gits out and sweats."
 
 "I see where you're right. There's no call for a man of your sand and
-_sabe_ to do day's work. Let them as hasn't neither and is afraid to take
+_sabe_ to do [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)'s [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip). Let them as hasn't neither and is afraid to take
 chances pitch hay and do plowin' for wages."
 
 Tubbs looked a little startled.
@@ -6347,10 +6347,10 @@ when you lifts it up after while the brand is drawed out."
 
 "Did you dream that, Tubbs?"
 
-"I b'leeve it'll work," declared Tubbs stoutly.
+"I b'leeve it'll [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)," declared Tubbs stoutly.
 
-"Maybe it would work in I-ó-wa," said Smith, "but I doubts if it would
-work here. Any way," he added conciliatingly, "we'll give it a try."
+"Maybe it would [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) in I-ó-wa," said Smith, "but I doubts if it would
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) here. Any way," he added conciliatingly, "we'll give it a try."
 
 "And this chanct--it's tolable safe?"
 
@@ -6443,7 +6443,7 @@ WHEN THE CLOUDS PLAYED WOLF
 
 
 The Indian woman was restless; she had been so from the time they had lost
-sight of the town, but her restlessness had increased as the daylight
+sight of the town, but her restlessness had increased as the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light
 faded and night fell.
 
 "You're goin' to bust this seat in if you don't quit jammin' around,"
@@ -6456,7 +6456,7 @@ The woman clucked at the horses, and, to the great annoyance of her
 driver, reached for the reins and slapped them on the back.
 
 "They're about played out," he growled. "Forty miles is a awful trip for
-these buzzard-heads to make in a day. We orter have put up some'eres
+these buzzard-heads to make in a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). We orter have put up some'eres
 overnight."
 
 "I could have stayed with Little Coyote's woman."
@@ -6470,7 +6470,7 @@ don't know where I'm goin' to sleep to-night."
 "Aw, sa'vis berries! I can't go sa'vis berries," growled Meeteetse.
 "They're too sweet. The only way they're fit to eat is to dry 'em and
 pound 'em up with jerked elk--then they ain't bad eatin'. I've et 'most
-ev'ry thing in my day. I've et wolf, and dog, and old mountain billy-goat,
+ev'ry thing in my [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). I've et wolf, and dog, and old mountain billy-goat,
 and bull-snakes, and grasshoppers, so you kin see I ain't finnicky, but I
 can't stummick sa'vis berries." He asked querulously: "What's ailin' of
 you?"
@@ -6516,7 +6516,7 @@ out of 'em. I don't row often, but when I does--oh, lordy! lordy! I jest
 raves and caves. I was home on a visit onct, and my old-maid aunt gits a
 notion of pickin' on me. Say, I ups and runs her all over the house with
 an axe! I'm more er less a dang'rous character when I'm on the peck. Is
-that feelin' workin off of you any?" he inquired anxiously.
+that feelin' [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)in off of you any?" he inquired anxiously.
 
 "It comes stronger," she answered, and her grip tightened on the
 flour-sack she held under her blanket.
@@ -6532,7 +6532,7 @@ feet and rustled into the brush.
 
 "You see how on aidge I am! I'll tell you," he went on garrulously--the
 sound of his own voice was always pleasant to Meeteetse: "I take more
-stock in signs and feelin's than most people, for I've seen 'em work out.
+stock in signs and feelin's than most people, for I've seen 'em [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) out.
 Down there in Hermosy there was a feller made a stake out'n a silver
 prospect, and he takes it into his head to go back to Nebrasky and hunt up
 his wife, that he'd run off and left some time prev'ous. As the date gits
@@ -6600,7 +6600,7 @@ crouching on the seat like a culprit.
 
 The ranch-house was dark when they drove into the yard, for which she was
 thankful. She left Meeteetse to unharness, and, without striking a light
-or speaking to Susie, crept between her blankets like a frightened [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip).
+or speaking to Susie, crept between her blankets like a frightened [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip).
 
 Smith, in his dreams, had heard the rumble of the wagon as it crossed the
 ford, and he awoke the next morning with a sensation of pleasurable
@@ -6678,7 +6678,7 @@ THE LOVE MEDICINE OF THE SIOUX
 
 Still breathing hard, Smith hunted Tubbs.
 
-"Tubbs, will you be ready for business, to-day?"
+"Tubbs, will you be ready for business, to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?"
 
 "The sooner, the quicker," Tubbs answered, with his vacuous wit.
 
@@ -6740,20 +6740,20 @@ and Tubbs met.
 facetiously.
 
 "You inclines right. Now, here's our play--listen. The Bar C outfit is
-workin' up in the mountains, so they won't interfere with us none, and
-about three or three and a half days' drive from here there's some fellers
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)in' up in the mountains, so they won't interfere with us none, and
+about three or three and a half [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s' drive from here there's some fellers
 what'll take 'em off our hands. We gets our wad and divvies."
 
 "What for a hand do I take?"
 
-"By rights, maybe, we ought to do our work at night, but I've rode over
-the country, and it looks safe enough to drive 'em into the gulch to-day.
+"By rights, maybe, we ought to do our [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) at night, but I've rode over
+the country, and it looks safe enough to drive 'em into the gulch to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 They isn't a human in sight, and if one shows up, I reckon you know what
 to do."
 
-"It sounds easy enough, if it works," said Tubbs dubiously.
+"It sounds easy enough, if it [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s," said Tubbs dubiously.
 
-"If it works? Feller, if you've got a yeller streak, you better quit right
+"If it [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s? Feller, if you've got a yeller streak, you better quit right
 here."
 
 "I merely means," Tubbs hastened to explain, "that it sounds so easy that
@@ -6769,7 +6769,7 @@ can, and hold 'em here till I get back. I'll go to the ranch and get a
 little grub together and get here as quick as it's safe."
 
 Smith galloped back to the ranch, to learn that Dora had ridden to the
-Agency to spend the day. He was keenly disappointed that he had missed the
+Agency to spend the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). He was keenly disappointed that he had missed the
 opportunity of saying good-by. She had chided him before for not telling
 her of his contemplated absence, and he had promised not to neglect to do
 so again; for she was in the habit of arranging the table for her
@@ -6804,7 +6804,7 @@ Smith.
 The perspiration stood out on his forehead, and he wiped it away with his
 ink-stained fingers.
 
-"Writin' is harder work nor shoein' a horse," he observed to Ling, and
+"Writin' is harder [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) nor shoein' a horse," he observed to Ling, and
 added for the Indian woman's benefit, "I'm sendin' off to get me a pair of
 them Angory saddle-pockets."
 
@@ -6812,7 +6812,7 @@ His explanation did not deceive the person for whom it was intended. With
 the intuition of a jealous woman, she knew that he was writing a letter
 which he would not have her see. She meant to know, if possible, to whom
 he was writing, and what. Although she did not raise her eyes from her
-work when he replaced the pen and ink, she did not let him out of her
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) when he replaced the pen and ink, she did not let him out of her
 sight. She believed that he had written to Dora, and she was sure of it
 when, thinking himself unobserved, he crept to Dora's open window, outside
 of the house, and dropped the letter into the top drawer of her bureau,
@@ -6856,7 +6856,7 @@ the plant which Little Coyote's woman, the Mandan, had given her. It had
 hung there a long time, and the leaves crumpled and dropped off at her
 touch. She filled a basin with water and put the plant and root to soak,
 while she searched for a sharp knife. Turning her back to the room and
-facing the corner, like a [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) in mischief, she peeled the outer bark
+facing the corner, like a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) in mischief, she peeled the outer bark
 from the root with the greatest care. The inner bark was blood-red, and
 this too she peeled away carefully, very, very carefully saving the
 smallest particles, and laid it upon a paper. When she had it all, she
@@ -6904,7 +6904,7 @@ she stirred, she remembered that she had heard an owl hoot the night
 before. It was an ill-omen, and it had sounded close. The hooting of an
 owl meant harm to some one. She wondered now if an owl feather would not
 make the medicine stronger. She set down her cup and looked carefully
-under the trees, but could find no feathers. Ah, well, it was stout enough
+under the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s, but could find no feathers. Ah, well, it was stout enough
 medicine without it!
 
 She had brought a long, keen-bladed hunting-knife into the willows, and
@@ -6953,7 +6953,7 @@ Why--unless it was a romantic and sacred keepsake?
 
 Susie rather prided herself on being in touch with all that went on, and
 now she had an uneasy feeling that she might have missed something. She
-remembered the day of their fishing trip well, and at the time had
+remembered the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of their fishing trip well, and at the time had
 thought she had scented a budding romance. Had they quarrelled, she
 wondered?
 
@@ -7043,7 +7043,7 @@ with the frilly ruffle of a petticoat before she turned around.
 
 "When did he say he was going?"
 
-"He didn't say; but to-day or to-morrow, I should think."
+"He didn't say; but to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or to-morrow, I should think."
 
 "If he cared so much because I am cool to him, he certainly would have
 asked me why I treated him so. But he didn't care enough to ask."
@@ -7148,7 +7148,7 @@ in both of hers.
 sayin' something to Susie!"
 
 With an effort of will, the woman slowly opened her dull eyes and fixed
-them upon the [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)'s face.
+them upon the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)'s face.
 
 "Yas," she breathed; "I _want_ to say something."
 
@@ -7218,7 +7218,7 @@ back, or with him in the corral or stall, formerly had been half her
 waking hours. They had no fear of each other; only deep love and mutual
 understanding.
 
-"Oh, Croppy! Croppy!" her [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ish voice quavered. "Oh, Croppy, you're all
+"Oh, Croppy! Croppy!" her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ish voice quavered. "Oh, Croppy, you're all
 I've got left!" She slipped her arms around his thick neck and hid her
 face in his mane.
 
@@ -7227,12 +7227,12 @@ alert at the sound of the familiar voice.
 
 "What _shall_ I do!" she wailed in an abandonment of grief.
 
-In her inexperience, it seemed to Susie, that with her mother's [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) all
+In her inexperience, it seemed to Susie, that with her mother's [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) all
 the world had come to an end for her. Undemonstrative as they were, and
 meagre as had been any spoken words of affection, the bond of natural love
 between them had seemed strong and unbreakable until Smith's coming. They
 had been all in all to each other in their unemotional way; and now this
-unexpected tragedy seemed to crush the [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip), because it was something
+unexpected tragedy seemed to crush the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), because it was something
 which never had entered her thoughts. It was a crisis with which she did
 not know how to cope or to bear. The world could never be blacker for her
 than it was when she clung sobbing to the little sorrel pony's thick neck
@@ -7274,7 +7274,7 @@ gone wrong?"
 
 "Only Teacher and me--no one that knew what to do. We sent Meeteetse for a
 doctor, but he hasn't come yet. He probably got drunk and forgot what he
-went for. It's been a terrible night, pardner, and a terrible day!"
+went for. It's been a terrible night, pardner, and a terrible [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)!"
 
 McArthur looked at her with troubled eyes, and once more he stroked her
 hair with his gentle, timid touch.
@@ -7305,7 +7305,7 @@ moisture in them.
 "We've got one just like it!" Susie cried, still half unable to believe
 her eyes and ears.
 
-"I was sure that day you mimicked your father when he said, 'Never forget
+"I was sure that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) you mimicked your father when he said, 'Never forget
 you are a MacDonald!' for I have heard my aunt say that a thousand times,
 and in just that way. But I wanted to be surer before I said anything to
 you, so I sent for this."
@@ -7366,7 +7366,7 @@ Colonel, and git my ca'tridge belt. I take it off of an evenin' these
 tranquil times."
 
 Ralston turned his horse and started back, so engrossed in thoughts of the
-work ahead of him that it was not until Babe overtook him that he
+[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) ahead of him that it was not until Babe overtook him that he
 remembered he had forgotten to ask Babe's business with him.
 
 "Well, I guess the old Colonel was tickled when he heard you'd spotted the
@@ -7439,13 +7439,13 @@ before."
 
 "Aw-w-w," replied Babe, in deepest sympathy.
 
-Smith had congratulated himself often during the day upon the fact that he
+Smith had congratulated himself often during the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) upon the fact that he
 could not have chosen a more propitious time for the execution of his
 plans--at least, so far as the Bar C outfit was concerned. His uneasiness
 passed as the protecting darkness fell without their having seen a single
-person the entire day.
+person the entire [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
-When the last glimmer of daylight had faded, Tubbs and Smith started on
+When the last glimmer of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light had faded, Tubbs and Smith started on
 the drive, heading the cattle direct for their destination. They were
 fatter than Smith had supposed, so they could not travel as rapidly as he
 had calculated, but he and Tubbs pushed them along as fast as they could
@@ -7526,7 +7526,7 @@ disconsolately, as he paced to and fro, or at intervals climbed wearily
 out of the creek-bottom to look and listen.
 
 Ralston and Babe had concealed themselves behind a cut-bank which in the
-rainy season was a tributary of the creek. They were waiting for daylight,
+rainy season was a tributary of the creek. They were waiting for [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light,
 and for the guard to grow sleepy and careless. With little more emotion
 than hunters waiting in a blind for the birds to go over, the two men
 examined their rifles and six-shooters. They talked in undertones,
@@ -7537,7 +7537,7 @@ have known that anything unusual was about to take place. Yet each
 realized to the fullest extent the possible dangers ahead of them. Smith,
 they knew to be resourceful, he would be desperate, and Tubbs, ignorant
 and weak of will as he was, might be frightened into a kind of frenzied
-courage. The best laid plans did not always work out according to
+courage. The best laid plans did not always [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) out according to
 schedule, and if by any chance they were discovered, and the thieves
 reached their guns, the odds were equal. But it was not their way to talk
 of danger to themselves. That there was danger was a fact, too obvious to
@@ -7582,13 +7582,13 @@ and see the cattle moving in the brush below; then a horse on picket
 snorted, and as they slid quietly down the bank they heard a sound which
 made Babe snicker.
 
-"Is that a cow chokin' to [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip)," he whispered, "or one of them cherubs
+"Is that a cow chokin' to [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)," he whispered, "or one of them cherubs
 merely sleepin'?"
 
 In sight of the prone figures, they halted.
 
 Smith, with his hat on, his head pillowed on his saddle, was rolled in an
-old army blanket; while Tubbs, from a sitting position against a tree, had
+old army blanket; while Tubbs, from a sitting position against a [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip), had
 fallen over on the ground with his knees drawn to his chin. His mouth,
 from which frightful sounds of strangulation were issuing, was wide open,
 and he showed a little of the whites of his eyes as he slumbered.
@@ -7599,7 +7599,7 @@ picture of that face to keep in the back of my watch!"
 Smith's rifle was under the edge of his blanket, and his six-shooter in
 its holster lay by his head; but Tubbs, with the carelessness of a green
 hand and the over-confidence which had succeeded his nervousness, had
-leaned his rifle against a tree and laid his six-shooter and
+leaned his rifle against a [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) and laid his six-shooter and
 cartridge-belt in a crotch.
 
 Ralston nodded to Babe, and simultaneously they raised their rifles and
@@ -7679,7 +7679,7 @@ the end of his picket-rope and stood snorting and trembling in fright, and
 finally laid his hand upon his neck and back. The fingers of one hand were
 entwined in the horse's mane, and suddenly, with a cat-like spring made
 possible only by his desperation, Smith landed on the bronco's back. With
-a yell of defiance which Ralston and Babe remembered for many a day, he
+a yell of defiance which Ralston and Babe remembered for many a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), he
 kicked the animal in the ribs, and, as it reared in fright, it pulled
 loose from the picket-stake. Smith reached for the trailing rope, and they
 were gone!
@@ -7772,7 +7772,7 @@ bought it from a drunken soldier, and he had owned it a long time. It was
 light and almost water-proof; he liked it, and he eyed Babe's action with
 disfavor.
 
-"I reckon this gent will have to spend the day in a tree," said Babe
+"I reckon this gent will have to spend the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) in a [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)," said Babe
 prosaically.
 
 "Couldn't you use no other blanket nor that?" demanded Smith.
@@ -7782,7 +7782,7 @@ It was the first time he had spoken.
 "Don't take on so," Babe replied comfortingly. "They furnish blankets
 where you're goin'."
 
-He went on with his work of throwing a hitch around Tubbs with his
+He went on with his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of throwing a hitch around Tubbs with his
 picket-rope.
 
 Ralston divided the scanty rations which Smith and Tubbs, and he and Babe,
@@ -7799,7 +7799,7 @@ intercepted before it reached the ground.
 could sitting cross-legged on the ground. "I hope you'll overlook our
 forgittin' the napkins and toothpicks."
 
-When they had finished, they slung Tubbs's body into a tree, beyond the
+When they had finished, they slung Tubbs's body into a [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip), beyond the
 reach of coyotes. The cattle they left to drift back to their range.
 Tubbs's horse was saddled for Smith, and, with Ralston holding the lead
 rope and Babe in the rear, the procession started back to the ranch.
@@ -7811,7 +7811,7 @@ proven that she was careless of her own life where he was concerned. She
 was a powerful ally. The situation was not so bad as it had seemed. He had
 been in tighter places, he told himself, and his spirits rose as he rode.
 Without the plodding cattle, they retraced their steps in half the time it
-had taken them to come, and it was not much after midday when they were
+had taken them to come, and it was not much after mid[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) when they were
 sighted from the MacDonald ranch.
 
 The Indians that Smith had missed were at the ford to meet them: Bear
@@ -7924,7 +7924,7 @@ With his hands thrust deep in his trousers pockets, Ralston leaned against
 the corner of the bunk-house, from which point of vantage he could catch a
 glimpse of the Schoolmarm's white-curtained window. He now had no feeling
 of elation over his success. Smith was a victorious captive. Ralston's
-heart ached miserably, and he wished that the day was ended and the
+heart ached miserably, and he wished that the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was ended and the
 morning come, that he might go, never to return.
 
 He too had seen the mist in Dora's eyes; and, with Smith's words, the
@@ -8001,7 +8001,7 @@ keyhole.
 
 "Many devils--Smith."
 
-Susie sat on the corner of his work-table, and there was silence while he
+Susie sat on the corner of his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)-table, and there was silence while he
 deftly mixed, rolled, and cut his dough.
 
 "Mr. Ralston intends to go away in the morning," said Susie, as the
@@ -8054,7 +8054,7 @@ walked to the cottonwood log which served as a garden-seat for all.
 
 "I wonder if it was that queer tea?"
 
-"It has been a hard day for you," Ralston replied gently.
+"It has been a hard [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) for you," Ralston replied gently.
 
 Dora was silent, and they remained so for some minutes. Ralston spoke at
 last and with an effort.
@@ -8125,7 +8125,7 @@ since been lighted, but Susie still sat on the floor, leaning her cheek
 against the blanket which covered the Indian woman. The house was quiet
 save for Ling in the kitchen--and lonely--but she had a fancy that her
 mother would like to have her there beside her; so, although she was
-cramped from sitting, and the house was close after a hot day, she refused
+cramped from sitting, and the house was close after a hot [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), she refused
 all offers to relieve her.
 
 She was glad to see McArthur when he tapped on the door.
@@ -8189,7 +8189,7 @@ had--she looks so solemn and important. I can keep her on a chain, and she
 needn't eat until we get there," Susie pleaded.
 
 Trying not to smile at the mental picture of himself arriving in the staid
-college town, with a tawny-skinned [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip) in a red, green, and black frock,
+college town, with a tawny-skinned [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) in a red, green, and black frock,
 a crop-eared cayuse, and a badger on a chain, McArthur ventured it as his
 opinion that the climate would be detrimental to Daisy May's health.
 
@@ -8227,7 +8227,7 @@ by trying to imagine what was going on inside, and in each picture Dora
 was the central figure. Now, he told himself, she was wiping the dishes
 for Ling, and teaching him English, as she often did; and when she had
 finished she would bring her portfolio into the dining-room and write home
-the exciting events of the day. He wondered what had "ailed" the Indian
+the exciting events of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). He wondered what had "ailed" the Indian
 woman, that she should die so suddenly; but it was immaterial, since she
 _was_ dead. He knew that Susie would sit by her mother; probably in the
 chair with the cushion of goose-feathers. It was his favorite chair,
@@ -8330,7 +8330,7 @@ winning their admiration, if possible; and in devising means by which to
 gain time. He knew that as soon as his absence was discovered an effort
 would be made to rescue him. He found some little comfort, too, in telling
 himself that these reservation Indians, broken in spirit by the white
-man's laws and restrictions, were not the Indians of the old days on the
+man's laws and restrictions, were not the Indians of the old [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s on the
 Big Muddy and the Yellowstone. The fear of the white man's vengeance would
 keep them from going too far. And so, as he rode, his hopes rose
 gradually; his confidence, to a degree, returned; and he even began to
@@ -8344,7 +8344,7 @@ rocks and gullies in the direction of the Bad Lands. He could see that
 they had some definite destination, for when the horses veered somewhat to
 the south, Running Rabbit motioned them northward.
 
-"He was there yesterday; Running Rabbit knows," said Bear Chief, in answer
+"He was there yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); Running Rabbit knows," said Bear Chief, in answer
 to an Indian's question; and Smith, listening, wondered where "there"
 might be, and what it was that Running Rabbit knew.
 
@@ -8442,12 +8442,12 @@ subtlety, he could get no inkling of their intentions. The suspense got on
 Smith's nerves, though he gave no outward sign. The first gray light of
 morning came, and still they waited. The east flamed.
 
-"It will be hot to-day," said Running Rabbit. "The sky is red."
+"It will be hot to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)," said Running Rabbit. "The sky is red."
 
 Then the sun showed itself, glowing like a red-hot stove-lid shoved above
 the horizon.
 
-In silence they watched the coming day.
+In silence they watched the coming [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
 
 "This limestone draws the heat," said Smith, and he laid aside his coat.
 "But it suits me. I hates to be chilly."
@@ -8517,7 +8517,7 @@ A bit of limestone fell into the crevice and bounded from one shelf of
 rock to the other. Upon each ledge a nest of rattlesnakes basked in the
 sun, and a chorus of hisses followed the fall of the stone.
 
-"They sing! Their voices are strong to-day," said Running Rabbit.
+"They sing! Their voices are strong to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)," said Running Rabbit.
 
 The Indians threw Smith upon the edge of the crevice, face downward, so
 that he could look below. With his staring, bloodshot eyes he saw them
@@ -8534,7 +8534,7 @@ the end. Smith's eyes opened before they let him drop, and his lips drew
 back from his white, slightly protruding teeth. They thought he meant to
 beg at last, and, rejoicing, waited. He looked like a coyote, a coyote
 when its ribs are crushed, its legs broken; when its eyes are blurred with
-the [death](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/death.zip) film, and its mouth drips blood. He gathered himself--he was all
+the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) film, and its mouth drips blood. He gathered himself--he was all
 but fainting--and threw back his head, looking at Bear Chief. He
 snarled--there was no tenderness in his voice when he gave the message:
 
@@ -8563,7 +8563,7 @@ with a heroine beautiful and noble, who makes a great sacrifice for love.
 FROM THE VALLEY OF THE MISSING. By Grace Miller White. Frontispiece and
 wrapper in colors by Penrhyn Stanlaws.
 
-Another story of "the storm country." Two beautiful [child](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/child.zip)ren are kidnapped
+Another story of "the storm country." Two beautiful [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren are kidnapped
 from a wealthy home and appear many years after showing the effects of a
 deep, malicious scheme behind their disappearance.
 
@@ -8572,7 +8572,7 @@ Schahelitz.
 
 A lovely princess travels incognito through the States and falls in love
 with an American man. There are ties that bind her to someone in her own
-home, and the great plot revolves round her efforts to work her way out.
+home, and the great plot revolves round her efforts to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) her way out.
 
 MAUD BAXTER. By C. C. Hotchkiss. Illustrated by Will Grefe.
 
@@ -8633,7 +8633,7 @@ Grosset & Dunlap, 526 West 26th St., New York
 THE PRODIGAL JUDGE By VAUGHAN KESTER
 
 This great novel--probably the most popular book in this country
-to-day--is as human as a story from the pen of that great master of
+to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)--is as human as a story from the pen of that great master of
 "immortal laughter and immortal tears," Charles Dickens.
 
 The Prodigal Judge is a shabby outcast, a tavern hanger-on, a genial
@@ -8672,7 +8672,7 @@ quite apart from the Bohemian set in which her nephew is a shining light.
 The way in which matters are temporarily adjusted forms the motif of the
 story.
 
-A farcical extravaganza, dramatized under the title of "Seven Days"
+A farcical extravaganza, dramatized under the title of "Seven [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s"
 
 THE FASHIONABLE ADVENTURES OF JOSHUA CRAIG. By David Graham Phillips.
 Illustrated.
@@ -8734,7 +8734,7 @@ May be had wherever books are sold. Ask for Grosset & Dunlap's list.
 A CERTAIN RICH MAN. By William Allen White.
 
 A vivid, startling portrayal of one man's financial greed, its wide
-spreading power, its action in Wall Street, and its effect on the three
+spreading power, its action in Wall S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, and its effect on the three
 women most intimately in his life. A splendid, entertaining American
 novel.
 
@@ -8748,7 +8748,7 @@ others. All humorously related and sure to hold the attention.
 NATHAN BURKE. By Mary S. Watts.
 
 The story of an ambitious, backwoods Ohio boy who rose to prominence.
-Everyday humor of American rustic life permeates the book.
+Every[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) humor of American rustic life permeates the book.
 
 THE HIGH HAND. By Jacques Futrelle. Illustrated by Will Grefe.
 
@@ -8800,14 +8800,14 @@ and exciting adventures.
 
 HER PRAIRIE KNIGHT
 
-A realistic story of the plains, describing a gay [party](https://jl.pennds.org/?input=https://jl.pennds.org/corpora/party.zip) of Easterners who
+A realistic story of the plains, describing a gay [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) of Easterners who
 exchange a cottage at Newport for the rough homeliness of a Montana
 ranch-house. The merry-hearted cowboys, the fascinating Beatrice, and the
 effusive Sir Redmond, become living, breathing personalities.
 
 THE RANGE DWELLERS
 
-Here are everyday, genuine cowboys, just as they really exist. Spirited
+Here are every[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), genuine cowboys, just as they really exist. Spirited
 action, a range feud between two families, and a Romeo and Juliet
 courtship make this a bright, jolly, entertaining story, without a dull
 page.
