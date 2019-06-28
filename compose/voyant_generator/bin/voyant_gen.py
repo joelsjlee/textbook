@@ -42,7 +42,7 @@ def voyant(keywords, text_path, corpora_path):
         writer.writeheader()
 
         for word in keywords:
-            url_template = 'https://jl.pennds.org/?input=https://jl.pennds.org/corpora/{}'
+            url_template = 'https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/{}'
             url = url_template.format(word.replace(' ', '_') + '.zip')
             writer.writerow({'keyword': word, 'url': url})
 
