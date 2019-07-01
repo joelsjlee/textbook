@@ -43,12 +43,15 @@ def format_text_name(text_name):
 # Get the text information for display
 def get_text_info_list():
     text_info_list = []
-    text_dir_names = os.listdir("../app/proxy/templates/proxy/texts")
-    for text_dir_name in text_dir_names:
-        text_info = []  # holds [{raw file name}, {formatted file name}]
-        text_info.append(text_dir_name)
-        text_info.append(format_text_name(text_dir_name))
-        text_info_list.append(text_info)
+    try:
+        text_dir_names = os.listdir("../app/proxy/templates/proxy/texts")
+        for text_dir_name in text_dir_names:
+            text_info = []  # holds [{raw file name}, {formatted file name}]
+            text_info.append(text_dir_name)
+            text_info.append(format_text_name(text_dir_name))
+            text_info_list.append(text_info)
+    except:
+        pass
     return text_info_list
 
 
