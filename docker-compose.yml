@@ -93,6 +93,8 @@ services:
 
   text_to_md:
     image: python:3
+    depends_on:
+      - voyant_gen
     volumes:
       - ./ed:/ed
       - ./text_to_md:/workdir
