@@ -39,12 +39,9 @@ COPY ./compose/django/start /start
 RUN sed -i 's/\r//' /start
 RUN chmod +x /start
 RUN chown django /start
-COPY --from=client-builder /app /app
-
-
-RUN chown -R django /app
 
 USER django
+COPY --chown=django --from=client-builder /app /app
 
 WORKDIR /app
 
