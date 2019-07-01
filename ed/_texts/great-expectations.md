@@ -84,7 +84,7 @@ by Charles Dickens
 
 
 [Project Gutenberg Editor's Note: There is also another version of
-this [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) etext98/grexp10.txt scanned from a different edition]
+this [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) etext98/grexp10.txt scanned from a different edition]
 
 
 
@@ -99,12 +99,12 @@ than Pip. So, I called myself Pip, and came to be called Pip.
 I give Pirrip as my father's family name, on the authority of his
 tombstone and my sister,--Mrs. Joe Gargery, who married the blacksmith.
 As I never saw my father or my mother, and never saw any likeness
-of either of them (for their [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s were long before the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of
+of either of them (for their days were long before the days of
 photographs), my first fancies regarding what they were like were
 unreasonably derived from their tombstones. The shape of the letters on
 my father's, gave me an odd idea that he was a square, stout, dark man,
 with curly black hair. From the character and turn of the inscription,
-“Also Georgiana Wife of the Above,” I drew a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ish conclusion that
+“Also Georgiana Wife of the Above,” I drew a childish conclusion that
 my mother was freckled and sickly. To five little stone lozenges, each
 about a foot and a half long, which were arranged in a neat row beside
 their grave, and were sacred to the memory of five little brothers of
@@ -121,7 +121,7 @@ raw afternoon towards evening. At such a time I found out for certain
 that this bleak place overgrown with nettles was the churchyard; and
 that Philip Pirrip, late of this parish, and also Georgiana wife of the
 above, were dead and buried; and that Alexander, Bartholomew, Abraham,
-Tobias, and Roger, infant [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren of the aforesaid, were also dead
+Tobias, and Roger, infant children of the aforesaid, were also dead
 and buried; and that the dark flat wilderness beyond the churchyard,
 intersected with dikes and mounds and gates, with scattered cattle
 feeding on it, was the marshes; and that the low leaden line beyond
@@ -154,7 +154,7 @@ sir.”
 “Show us where you live,” said the man. “Pint out the place!”
 
 I pointed to where our village lay, on the flat in-shore among the
-alder-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s and pollards, a mile or more from the church.
+alder-trees and pollards, a mile or more from the church.
 
 The man, after looking at me for a moment, turned me upside down, and
 emptied my pockets. There was nothing in them but a piece of bread. When
@@ -324,7 +324,7 @@ front, that was stuck full of pins and needles. She made it a powerful
 merit in herself, and a strong reproach against Joe, that she wore this
 apron so much. Though I really see no reason why she should have worn it
 at all; or why, if she did wear it at all, she should not have taken it
-off, every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of her life.
+off, every [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) of her life.
 
 Joe's forge adjoined our house, which was a wooden house, as many of the
 dwellings in our country were,--most of them, at that time. When I ran
@@ -352,7 +352,7 @@ clearing the fire between the lower bars with the poker, and looking at
 it; “she Ram-paged out, Pip.”
 
 “Has she been gone long, Joe?” I always treated him as a larger species
-of [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), and as no more than my equal.
+of [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip), and as no more than my equal.
 
 “Well,” said Joe, glancing up at the Dutch clock, “she's been on the
 Ram-page, this last spell, about five minutes, Pip. She's a coming! Get
@@ -397,7 +397,7 @@ in the avenging coals.
 “Hah!” said Mrs. Joe, restoring Tickler to his station. “Churchyard,
 indeed! You may well say churchyard, you two.” One of us, by the by, had
 not said it at all. “You'll drive me to the churchyard betwixt you, one
-of these [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, and O, a pr-r-recious pair you'd be without me!”
+of these days, and O, a pr-r-recious pair you'd be without me!”
 
 As she applied herself to set the tea-things, Joe peeped down at me
 over his leg, as if he were mentally casting me and himself up, and
@@ -495,7 +495,7 @@ dead.”
 My sister made a dive at me, and fished me up by the hair, saying
 nothing more than the awful words, “You come along and be dosed.”
 
-Some medical beast had revived Tar-water in those [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s as a fine
+Some medical beast had revived Tar-water in those days as a fine
 medicine, and Mrs. Joe always kept a supply of it in the cupboard;
 having a belief in its virtues correspondent to its nastiness. At the
 best of times, so much of this elixir was administered to me as a choice
@@ -527,7 +527,7 @@ and should think himself accredited to my heart and liver to-night,
 instead of to-morrow! If ever anybody's hair stood on end with terror,
 mine must have done so then. But, perhaps, nobody's ever did?
 
-It was Christmas Eve, and I had to stir the pudding for next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), with
+It was Christmas Eve, and I had to stir the pudding for next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), with
 a copper-stick, from seven to eight by the Dutch clock. I tried it with
 the load upon my leg (and that made me think afresh of the man with the
 load on HIS leg), and found the tendency of exercise to bring the bread
@@ -545,7 +545,7 @@ Joe?”
 Mrs. Joe, who always took explanations upon herself, said, snappishly,
 “Escaped. Escaped.” Administering the definition like Tar-water.
 
-While Mrs. Joe sat with her head bending over her needle[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), I put my
+While Mrs. Joe sat with her head bending over her needlework, I put my
 mouth into the forms of saying to Joe, “What's a convict?” Joe put his
 mouth into the forms of returning such a highly elaborate answer, that I
 could make out nothing of it but the single word “Pip.”
@@ -556,7 +556,7 @@ firing warning of another.”
 
 “Who's firing?” said I.
 
-“Drat that boy,” interposed my sister, frowning at me over her [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip),
+“Drat that boy,” interposed my sister, frowning at me over her [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip),
 “what a questioner he is. Ask no questions, and you'll be told no lies.”
 
 It was not very polite to herself, I thought, to imply that I should be
@@ -633,7 +633,7 @@ every crack in every board calling after me, “Stop thief!” and “Get up,
 Mrs. Joe!” In the pantry, which was far more abundantly supplied than
 usual, owing to the season, I was very much alarmed by a hare hanging
 up by the heels, whom I rather thought I caught, when my back was half
-turned, winking. I had no time for verification, no time for s[election](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/election.zip),
+turned, winking. I had no time for verification, no time for selection,
 no time for anything, for I had no time to spare. I stole some bread,
 some rind of cheese, about half a jar of mincemeat (which I tied up in
 my pocket-handkerchief with my last night's slice), some brandy from a
@@ -690,7 +690,7 @@ All this time, I was getting on towards the river; but however fast I
 went, I couldn't warm my feet, to which the damp cold seemed riveted, as
 the iron was riveted to the leg of the man I was running to meet. I knew
 my way to the Battery, pretty straight, for I had been down there on a
-Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) with Joe, and Joe, sitting on an old gun, had told me that when
+Sunday with Joe, and Joe, sitting on an old gun, had told me that when
 I was 'prentice to him, regularly bound, we would have such Larks there!
 However, in the confusion of the mist, I found myself at last too far to
 the right, and consequently had to try back along the river-side, on the
@@ -747,7 +747,7 @@ without biting it off.
 “It's bad about here,” I told him. “You've been lying out on the meshes,
 and they're dreadful aguish. Rheumatic too.”
 
-“I'll eat my breakfast afore they're the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) of me,” said he. “I'd do
+“I'll eat my breakfast afore they're the [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) of me,” said he. “I'd do
 that, if I was going to be strung up to that there gallows as there is
 over there, directly afterwards. I'll beat the shivers so far, I'll bet
 you.”
@@ -768,10 +768,10 @@ marsh, now gave him a start, and he said, suddenly,--
 
 “Well,” said he, “I believe you. You'd be but a fierce young hound
 indeed, if at your time of life you could help to hunt a wretched
-warmint hunted as near [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) and dunghill as this poor wretched warmint
+warmint hunted as near [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) and dunghill as this poor wretched warmint
 is!”
 
-Something clicked in his throat as if he had [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s in him like a clock,
+Something clicked in his throat as if he had works in him like a clock,
 and was going to strike. And he smeared his ragged rough sleeve over his
 eyes.
 
@@ -843,10 +843,10 @@ the soldiers, with their red coats lighted up by the torches carried
 afore, closing in round him. Hears his number called, hears himself
 challenged, hears the rattle of the muskets, hears the orders 'Make
 ready! Present! Cover him steady, men!' and is laid hands on--and
-there's nothin'! Why, if I see one pursuing [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) last night--coming up
+there's nothin'! Why, if I see one pursuing [party](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/party.zip) last night--coming up
 in order, Damn 'em, with their tramp, tramp--I see a hundred. And as to
 firing! Why, I see the mist shake with the cannon, arter it was broad
-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),--But this man”; he had said all the rest, as if he had forgotten my
+[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip),--But this man”; he had said all the rest, as if he had forgotten my
 being there; “did you notice anything in him?”
 
 “He had a badly bruised face,” said I, recalling what I hardly knew I
@@ -867,11 +867,11 @@ and he looked up at it for an instant. But he was down on the rank wet
 grass, filing at his iron like a madman, and not minding me or minding
 his own leg, which had an old chafe upon it and was bloody, but which he
 handled as roughly as if it had no more feeling in it than the file. I
-was very much afraid of him again, now that he had [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed himself into
+was very much afraid of him again, now that he had worked himself into
 this fierce hurry, and I was likewise very much afraid of keeping away
 from home any longer. I told him I must go, but he took no notice, so
 I thought the best thing I could do was to slip off. The last I saw
-of him, his head was bent over his knee and he was [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing hard at his
+of him, his head was bent over his knee and he was working hard at his
 fetter, muttering impatient imprecations at it and at his leg. The last
 I heard of him, I stopped in the mist to listen, and the file was still
 going.
@@ -885,7 +885,7 @@ going.
 I fully expected to find a Constable in the kitchen, waiting to take me
 up. But not only was there no Constable there, but no discovery had yet
 been made of the robbery. Mrs. Joe was prodigiously busy in getting the
-house ready for the festivities of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and Joe had been put upon
+house ready for the festivities of the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and Joe had been put upon
 the kitchen doorstep to keep him out of the dust-pan,--an article into
 which his destiny always led him, sooner or later, when my sister was
 vigorously reaping the floors of her establishment.
@@ -911,7 +911,7 @@ be, as to our fingers, like monumental Crusaders as to their legs.
 
 We were to have a superb dinner, consisting of a leg of pickled pork and
 greens, and a pair of roast stuffed fowls. A handsome mince-pie had
-been made yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning (which accounted for the mincemeat not
+been made yesterday morning (which accounted for the mincemeat not
 being missed), and the pudding was already on the boil. These extensive
 arrangements occasioned us to be cut off unceremoniously in respect of
 breakfast; “for I ain't,” said Mrs. Joe,--“I ain't a going to have
@@ -934,15 +934,15 @@ itself. Cleanliness is next to Godliness, and some people do the same by
 their religion.
 
 My sister, having so much to do, was going to church vicariously, that
-is to say, Joe and I were going. In his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing-clothes, Joe was a
-well-knit characteristic-looking blacksmith; in his holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) clothes,
+is to say, Joe and I were going. In his working-clothes, Joe was a
+well-knit characteristic-looking blacksmith; in his holiday clothes,
 he was more like a scarecrow in good circumstances, than anything else.
 Nothing that he wore then fitted him or seemed to belong to him; and
 everything that he wore then grazed him. On the present festive occasion
 he emerged from his room, when the blithe bells were going, the picture
-of misery, in a full suit of Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) penitentials. As to me, I think my
+of misery, in a full suit of Sunday penitentials. As to me, I think my
 sister must have had some general idea that I was a young offender whom
-an Accoucheur Policeman had taken up (on my birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)) and delivered over
+an Accoucheur Policeman had taken up (on my birthday) and delivered over
 to her, to be dealt with according to the outraged majesty of the law.
 I was always treated as if I had insisted on being born in opposition
 to the dictates of reason, religion, and morality, and against the
@@ -962,7 +962,7 @@ idea that the time when the banns were read and when the clergyman said,
 “Ye are now to declare it!” would be the time for me to rise and propose
 a private conference in the vestry. I am far from being sure that I
 might not have astonished our small congregation by resorting to this
-extreme measure, but for its being Christmas [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) and no Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
+extreme measure, but for its being Christmas [Day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) and no Sunday.
 
 Mr. Wopsle, the clerk at church, was to dine with us; and Mr. Hubble
 the wheelwright and Mrs. Hubble; and Uncle Pumblechook (Joe's uncle,
@@ -998,16 +998,16 @@ all but choked, and had that moment come to, “I have brought you as the
 compliments of the season--I have brought you, Mum, a bottle of sherry
 wine--and I have brought you, Mum, a bottle of port wine.”
 
-Every Christmas [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) he presented himself, as a profound novelty, with
+Every Christmas [Day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) he presented himself, as a profound novelty, with
 exactly the same words, and carrying the two bottles like dumb-bells.
-Every Christmas [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Mrs. Joe replied, as she now replied, “O, Un--cle
-Pum-ble--chook! This is kind!” Every Christmas [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), he retorted, as
+Every Christmas [Day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), Mrs. Joe replied, as she now replied, “O, Un--cle
+Pum-ble--chook! This is kind!” Every Christmas [Day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), he retorted, as
 he now retorted, “It's no more than your merits. And now are you all
 bobbish, and how's Sixpennorth of halfpence?” meaning me.
 
 We dined on these occasions in the kitchen, and adjourned, for the nuts
 and oranges and apples to the parlor; which was a change very like
-Joe's change from his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing-clothes to his Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) dress. My sister was
+Joe's change from his working-clothes to his Sunday dress. My sister was
 uncommonly lively on the present occasion, and indeed was generally more
 gracious in the society of Mrs. Hubble than in other company. I remember
 Mrs. Hubble as a little curly sharp-edged person in sky-blue, who held a
@@ -1015,7 +1015,7 @@ conventionally juvenile position, because she had married Mr. Hubble,--I
 don't know at what remote period,--when she was much younger than he. I
 remember Mr Hubble as a tough, high-shouldered, stooping old man, of a
 sawdusty fragrance, with his legs extraordinarily wide apart: so that in
-my short [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s I always saw some miles of open country between them when
+my short days I always saw some miles of open country between them when
 I met him coming up the lane.
 
 Among this good company I should have felt myself, even if I hadn't
@@ -1053,14 +1053,14 @@ Joe's station and influence were something feebler (if possible) when
 there was company than when there was none. But he always aided and
 comforted me when he could, in some way of his own, and he always did so
 at dinner-time by giving me gravy, if there were any. There being plenty
-of gravy to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Joe spooned into my plate, at this point, about half a
+of gravy to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), Joe spooned into my plate, at this point, about half a
 pint.
 
 A little later on in the dinner, Mr. Wopsle reviewed the sermon with
 some severity, and intimated--in the usual hypothetical case of the
 Church being “thrown open”--what kind of sermon he would have given
 them. After favoring them with some heads of that discourse, he remarked
-that he considered the subject of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)'s homily, ill chosen; which
+that he considered the subject of the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)'s homily, ill chosen; which
 was the less excusable, he added, when there were so many subjects
 “going about.”
 
@@ -1094,7 +1094,7 @@ detestable in a pig is more detestable in a boy.”
 “Besides,” said Mr. Pumblechook, turning sharp on me, “think what you've
 got to be grateful for. If you'd been born a Squeaker--”
 
-“He was, if ever a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) was,” said my sister, most emphatically.
+“He was, if ever a [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) was,” said my sister, most emphatically.
 
 Joe gave me some more gravy.
 
@@ -1171,7 +1171,7 @@ surveying the company all round as if they had disagreed with him, sank
 down into his chair with the one significant gasp, “Tar!”
 
 I had filled up the bottle from the tar-water jug. I knew he would be
-worse by and by. I moved the table, like a Medium of the present [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), by
+worse by and by. I moved the table, like a Medium of the present [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), by
 the vigor of my unseen hold upon it.
 
 “Tar!” cried my sister, in amazement. “Why, how ever could Tar come
@@ -1189,7 +1189,7 @@ By degrees, I became calm enough to release my grasp and partake of
 pudding. Mr. Pumblechook partook of pudding. All partook of pudding.
 The course terminated, and Mr. Pumblechook had begun to beam under the
 genial influence of gin and water. I began to think I should get over
-the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), when my sister said to Joe, “Clean plates,--cold.”
+the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), when my sister said to Joe, “Clean plates,--cold.”
 
 I clutched the leg of the table again immediately, and pressed it to my
 bosom as if it had been the companion of my youth and friend of my soul.
@@ -1220,7 +1220,7 @@ could bear no more, and that I must run away. I released the leg of the
 table, and ran for my life.
 
 But I ran no farther than the house door, for there I ran head-foremost
-into a [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) of soldiers with their muskets, one of whom held out a pair
+into a [party](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/party.zip) of soldiers with their muskets, one of whom held out a pair
 of handcuffs to me, saying, “Here you are, look sharp, come on!”
 
 
@@ -1230,7 +1230,7 @@ of handcuffs to me, saying, “Here you are, look sharp, come on!”
 ## Chapter V
 
 The apparition of a file of soldiers ringing down the but-ends of their
-loaded muskets on our door-step, caused the dinner-[party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) to rise
+loaded muskets on our door-step, caused the dinner-[party](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/party.zip) to rise
 from table in confusion, and caused Mrs. Joe re-entering the kitchen
 empty-handed, to stop short and stare, in her wondering lament of
 “Gracious goodness gracious me, what's gone--with the--pie!”
@@ -1386,7 +1386,7 @@ to me, “I'd give a shilling if they had cut and run, Pip.”
 
 We were joined by no stragglers from the village, for the weather was
 cold and threatening, the way dreary, the footing bad, darkness coming
-on, and the people had good fires in-doors and were keeping the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). A
+on, and the people had good fires in-doors and were keeping the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). A
 few faces hurried to glowing windows and looked after us, but none came
 out. We passed the finger-post, and held straight on to the churchyard.
 There we were stopped a few minutes by a signal from the sergeant's
@@ -1425,7 +1425,7 @@ start, when I thought I heard the file still going; but it was only a
 sheep-bell. The sheep stopped in their eating and looked timidly at
 us; and the cattle, their heads turned from the wind and sleet, stared
 angrily as if they held us responsible for both annoyances; but, except
-these things, and the shudder of the dying [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) in every blade of grass,
+these things, and the shudder of the dying [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) in every blade of grass,
 there was no break in the bleak stillness of the marshes.
 
 The soldiers were moving on in the direction of the old Battery, and we
@@ -1503,7 +1503,7 @@ Bear--bear witness.”
 
 “Lookee here!” said my convict to the sergeant. “Single-handed I got
 clear of the prison-ship; I made a dash and I done it. I could ha' got
-clear of these [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)-cold flats likewise--look at my leg: you won't find
+clear of these [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip)-cold flats likewise--look at my leg: you won't find
 much iron on it--if I hadn't made the discovery that he was here. Let
 him go free? Let him profit by the means as I found out? Let him make a
 tool of me afresh and again? Once more? No, no, no. If I had died at
@@ -1520,7 +1520,7 @@ he'll die a liar. Look at his face; ain't it written there? Let him turn
 those eyes of his on me. I defy him to do it.”
 
 The other, with an effort at a scornful smile, which could not, however,
-collect the nervous [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing of his mouth into any set expression, looked
+collect the nervous working of his mouth into any set expression, looked
 at the soldiers, and looked about at the marshes and at the sky, but
 certainly did not look at the speaker.
 
@@ -1528,7 +1528,7 @@ certainly did not look at the speaker.
 Do you see those grovelling and wandering eyes? That's how he looked
 when we were tried together. He never looked at me.”
 
-The other, always [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing and [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing his dry lips and turning his eyes
+The other, always working and working his dry lips and turning his eyes
 restlessly about him far and near, did at last turn them for a moment on
 the speaker, with the words, “You are not much to look at,” and with
 a half-taunting glance at the bound hands. At that point, my convict
@@ -1549,7 +1549,7 @@ been waiting for him to see me that I might try to assure him of my
 innocence. It was not at all expressed to me that he even comprehended
 my intention, for he gave me a look that I did not understand, and it
 all passed in a moment. But if he had looked at me for an hour or for
-a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), I could not have remembered his face ever afterwards, as having
+a [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), I could not have remembered his face ever afterwards, as having
 been more attentive.
 
 The soldier with the basket soon got a light, and lighted three or four
@@ -1568,7 +1568,7 @@ Don't straggle, my man. Close up here.”
 The two were kept apart, and each walked surrounded by a separate guard.
 I had hold of Joe's hand now, and Joe carried one of the torches. Mr.
 Wopsle had been for going back, but Joe was resolved to see it out, so
-we went on with the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). There was a reasonably good path now, mostly
+we went on with the [party](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/party.zip). There was a reasonably good path now, mostly
 on the edge of the river, with a divergence here and there where a dike
 came, with a miniature windmill on it and a muddy sluice-gate. When
 I looked round, I could see the other lights coming in after us. The
@@ -1633,7 +1633,7 @@ Than I'm sorry to say, I've eat your pie.”
 
 “God knows you're welcome to it,--so far as it was ever mine,” returned
 Joe, with a saving remembrance of Mrs. Joe. “We don't know what you have
-done, but we wouldn't have you starved to [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) for it, poor miserable
+done, but we wouldn't have you starved to [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) for it, poor miserable
 fellow-creatur.--Would us, Pip?”
 
 The something that I had noticed before, clicked in the man's throat
@@ -1664,7 +1664,7 @@ it had some dregs of good at the bottom of it.
 
 I do not recall that I felt any tenderness of conscience in reference
 to Mrs. Joe, when the fear of being found out was lifted off me. But
-I loved Joe,--perhaps for no better reason in those early [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s than
+I loved Joe,--perhaps for no better reason in those early days than
 because the dear fellow let me love him,--and, as to him, my inner self
 was not so easily composed. It was much upon my mind (particularly when
 I first saw him looking about for his file) that I ought to tell Joe the
@@ -1675,8 +1675,8 @@ staring drearily at my forever lost companion and friend, tied up my
 tongue. I morbidly represented to myself that if Joe knew it, I never
 afterwards could see him at the fireside feeling his fair whisker,
 without thinking that he was meditating on it. That, if Joe knew it, I
-never afterwards could see him glance, however casually, at yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)'s
-meat or pudding when it came on to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)'s table, without thinking that he
+never afterwards could see him glance, however casually, at yesterday's
+meat or pudding when it came on to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)'s table, without thinking that he
 was debating whether I had been in the pantry. That, if Joe knew it, and
 at any subsequent period of our joint domestic life remarked that his
 beer was flat or thick, the conviction that he suspected tar in it,
@@ -1739,7 +1739,7 @@ had been referred to as “Below,” I have no doubt I should have formed
 the worst opinions of that member of the family. Neither were my notions
 of the theological positions to which my Catechism bound me, at
 all accurate; for, I have a lively remembrance that I supposed my
-declaration that I was to “walk in the same all the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of my life,”
+declaration that I was to “walk in the same all the days of my life,”
 laid me under an obligation always to go through the village from our
 house in one particular direction, and never to vary it by turning down
 by the wheelwright's or up by the mill.
@@ -1780,13 +1780,13 @@ she had, or what the price of anything in it was; but there was a little
 greasy memorandum-book kept in a drawer, which served as a Catalogue
 of Prices, and by this oracle Biddy arranged all the shop transactions.
 Biddy was Mr. Wopsle's great-aunt's granddaughter; I confess myself
-quite unequal to the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing out of the problem, what relation she was
+quite unequal to the working out of the problem, what relation she was
 to Mr. Wopsle. She was an orphan like myself; like me, too, had been
 brought up by hand. She was most noticeable, I thought, in respect of
 her extremities; for, her hair always wanted brushing, her hands always
 wanted washing, and her shoes always wanted mending and pulling up at
-heel. This description must be received with a week-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) limitation. On
-Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, she went to church elaborated.
+heel. This description must be received with a week-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) limitation. On
+Sundays, she went to church elaborated.
 
 Much of my unassisted self, and more by the help of Biddy than of Mr.
 Wopsle's great-aunt, I struggled through the alphabet as if it had been
@@ -1822,7 +1822,7 @@ a misgiving that the writing was rather hilly.
 a O, Pip, and a J-O, Joe.”
 
 I had never heard Joe read aloud to any greater extent than this
-monosyllable, and I had observed at church last Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), when I
+monosyllable, and I had observed at church last Sunday, when I
 accidentally held our Prayer-Book upside down, that it seemed to suit
 his convenience quite as well as if it had been all right. Wishing to
 embrace the present occasion of finding out whether in teaching Joe, I
@@ -1875,8 +1875,8 @@ anwil.--You're a listening and understanding, Pip?”
 “Yes, Joe.”
 
 “'Consequence, my mother and me we ran away from my father several
-times; and then my mother she'd go out to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and she'd say, “Joe,”
-she'd say, “now, please God, you shall have some schooling, [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip),” and
+times; and then my mother she'd go out to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), and she'd say, “Joe,”
+she'd say, “now, please God, you shall have some schooling, [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip),” and
 she'd put me to school. But my father were that good in his hart that
 he couldn't abear to be without us. So, he'd come with a most tremenjous
 crowd and make such a row at the doors of the houses where we was, that
@@ -1899,9 +1899,9 @@ pot won't bile, don't you know?”
 
 I saw that, and said so.
 
-“'Consequence, my father didn't make objections to my going to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip); so
-I went to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) at my present calling, which were his too, if he
-would have followed it, and I [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed tolerable hard, I assure you, Pip.
+“'Consequence, my father didn't make objections to my going to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip); so
+I went to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) at my present calling, which were his too, if he
+would have followed it, and I worked tolerable hard, I assure you, Pip.
 In time I were able to keep him, and I kep him till he went off in a
 purple leptic fit. And it were my intentions to have had put upon his
 tombstone that, Whatsume'er the failings on his part, Remember reader he
@@ -1958,7 +1958,7 @@ Not exactly relishing this, I said, “Never mind me, Joe.”
 “But I did mind you, Pip,” he returned with tender simplicity. “When
 I offered to your sister to keep company, and to be asked in church at
 such times as she was willing and ready to come to the forge, I said to
-her, 'And bring the poor little [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip). God bless the poor little [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip),'
+her, 'And bring the poor little [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip). God bless the poor little [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip),'
 I said to your sister, 'there's room for him at the forge!'”
 
 I broke out crying and begging pardon, and hugged Joe round the neck:
@@ -2021,7 +2021,7 @@ stopped me by arguing circularly, and answering with a fixed look,
 and got back to his whisker. “And last of all, Pip,--and this I want to
 say very serious to you, old chap,--I see so much in my poor mother,
 of a woman drudging and slaving and breaking her honest hart and never
-getting no peace in her mortal [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, that I'm dead afeerd of going wrong
+getting no peace in her mortal days, that I'm dead afeerd of going wrong
 in the way of not doing what's right by a woman, and I'd fur rather
 of the two go wrong the t'other way, and be a little ill-conwenienced
 myself. I wish it was only me that got put out, Pip; I wish there warn't
@@ -2036,14 +2036,14 @@ a new sensation of feeling conscious that I was looking up to Joe in my
 heart.
 
 “However,” said Joe, rising to replenish the fire; “here's the
-Dutch-clock a [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing himself up to being equal to strike Eight of 'em,
+Dutch-clock a working himself up to being equal to strike Eight of 'em,
 and she's not come home yet! I hope Uncle Pumblechook's mare mayn't have
 set a forefoot on a piece o' ice, and gone down.”
 
-Mrs. Joe made occasional trips with Uncle Pumblechook on market-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s,
+Mrs. Joe made occasional trips with Uncle Pumblechook on market-days,
 to assist him in buying such household stuffs and goods as required a
 woman's judgment; Uncle Pumblechook being a bachelor and reposing no
-confidences in his domestic servant. This was market-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and Mrs. Joe
+confidences in his domestic servant. This was market-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and Mrs. Joe
 was out on one of these expeditions.
 
 Joe made the fire and swept the hearth, and then we went to the door to
@@ -2051,7 +2051,7 @@ listen for the chaise-cart. It was a dry cold night, and the wind blew
 keenly, and the frost was white and hard. A man would die to-night of
 lying out on the marshes, I thought. And then I looked at the stars, and
 considered how awful it would be for a man to turn his face up to them
-as he froze to [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), and see no help or pity in all the glittering
+as he froze to [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip), and see no help or pity in all the glittering
 multitude.
 
 “Here comes the mare,” said Joe, “ringing like a peal of bells!”
@@ -2098,7 +2098,7 @@ Havisham a he. And I doubt if even you'll go so far as that.”
 
 “She wants this boy to go and play there. And of course he's going. And
 he had better play there,” said my sister, shaking her head at me as an
-encouragement to be extremely light and sportive, “or I'll [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) him.”
+encouragement to be extremely light and sportive, “or I'll [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) him.”
 
 I had heard of Miss Havisham up town,--everybody for miles round had
 heard of Miss Havisham up town,--as an immensely rich and grim lady who
@@ -2174,13 +2174,13 @@ on earth I was expected to play at.
 ---
 ## Chapter VIII
 
-Mr. Pumblechook's premises in the High S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t of the market town,
+Mr. Pumblechook's premises in the High Street of the market town,
 were of a peppercorny and farinaceous character, as the premises of a
 cornchandler and seedsman should be. It appeared to me that he must be a
 very happy man indeed, to have so many little drawers in his shop; and
 I wondered when I peeped into one or two on the lower tiers, and saw the
 tied-up brown paper packets inside, whether the flower-seeds and bulbs
-ever wanted of a fine [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to break out of those jails, and bloom.
+ever wanted of a fine [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) to break out of those jails, and bloom.
 
 It was in the early morning after my arrival that I entertained this
 speculation. On the previous night, I had been sent straight to bed in
@@ -2193,14 +2193,14 @@ corduroys, so much in the nature of seeds, and a general air and flavor
 about the seeds, so much in the nature of corduroys, that I hardly knew
 which was which. The same opportunity served me for noticing that Mr.
 Pumblechook appeared to conduct his business by looking across the
-s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t at the saddler, who appeared to transact his business by keeping
+street at the saddler, who appeared to transact his business by keeping
 his eye on the coachmaker, who appeared to get on in life by putting his
 hands in his pockets and contemplating the baker, who in his turn folded
 his arms and stared at the grocer, who stood at his door and yawned at
 the chemist. The watchmaker, always poring over a little desk with
 a magnifying-glass at his eye, and always inspected by a group of
 smock-frocks poring over him through the glass of his shop-window,
-seemed to be about the only person in the High S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t whose trade
+seemed to be about the only person in the High Street whose trade
 engaged his attention.
 
 Mr. Pumblechook and I breakfasted at eight o'clock in the parlor behind
@@ -2300,7 +2300,7 @@ Hebrew, or all three--or all one to me--for enough.”
 
 “Yes,” she replied; “but it meant more than it said. It meant, when it
 was given, that whoever had this house could want nothing else. They
-must have been easily satisfied in those [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, I should think. But don't
+must have been easily satisfied in those days, I should think. But don't
 loiter, boy.”
 
 Though she called me “boy” so often, and with a carelessness that was
@@ -2325,7 +2325,7 @@ scornfully walked away, and--what was worse--took the candle with her.
 This was very uncomfortable, and I was half afraid. However, the only
 thing to be done being to knock at the door, I knocked, and was told
 from within to enter. I entered, therefore, and found myself in a pretty
-large room, well lighted with wax candles. No glimpse of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light was to
+large room, well lighted with wax candles. No glimpse of daylight was to
 be seen in it. It was a dressing-room, as I supposed from the furniture,
 though much of it was of forms and uses then quite unknown to me. But
 prominent in it was a draped table with a gilded looking-glass, and that
@@ -2358,10 +2358,10 @@ like the flowers, and had no brightness left but the brightness of her
 sunken eyes. I saw that the dress had been put upon the rounded figure
 of a young woman, and that the figure upon which it now hung loose had
 shrunk to skin and bone. Once, I had been taken to see some ghastly
-wax[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) at the Fair, representing I know not what impossible personage
+waxwork at the Fair, representing I know not what impossible personage
 lying in state. Once, I had been taken to one of our old marsh churches
 to see a skeleton in the ashes of a rich dress that had been dug out of
-a vault under the church pavement. Now, wax[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) and skeleton seemed to
+a vault under the church pavement. Now, waxwork and skeleton seemed to
 have dark eyes that moved and looked at me. I should have cried out, if
 I could.
 
@@ -2413,7 +2413,7 @@ world more difficult to be done under the circumstances.
 that I want to see some play. There, there!” with an impatient movement
 of the fingers of her right hand; “play, play, play!”
 
-For a moment, with the fear of my sister's [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing me before my eyes, I
+For a moment, with the fear of my sister's working me before my eyes, I
 had a desperate idea of starting round the room in the assumed character
 of Mr. Pumblechook's chaise-cart. But I felt myself so unequal to the
 performance that I gave it up, and stood looking at Miss Havisham in
@@ -2449,7 +2449,7 @@ along the dark passage like a star.
 
 Miss Havisham beckoned her to come close, and took up a jewel from the
 table, and tried its effect upon her fair young bosom and against her
-pretty brown hair. “Your own, one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), my dear, and you will use it
+pretty brown hair. “Your own, one [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), my dear, and you will use it
 well. Let me see you play cards with this boy.”
 
 “With this boy? Why, he is a common laboring boy!”
@@ -2481,7 +2481,7 @@ trimmings on her bridal dress, looking like earthy paper. I knew nothing
 then of the discoveries that are occasionally made of bodies buried in
 ancient times, which fall to powder in the moment of being distinctly
 seen; but, I have often thought since, that she must have looked as if
-the admission of the natural light of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) would have struck her to dust.
+the admission of the natural light of [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) would have struck her to dust.
 
 “He calls the knaves Jacks, this boy!” said Estella with disdain, before
 our first game was out. “And what coarse hands he has! And what thick
@@ -2540,12 +2540,12 @@ despised them for having been won of me.
 
 “When shall I have you here again?” said Miss Havisham. “Let me think.”
 
-I was beginning to remind her that to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), when she
+I was beginning to remind her that to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) was Wednesday, when she
 checked me with her former impatient movement of the fingers of her
 right hand.
 
-“There, there! I know nothing of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of the week; I know nothing of
-weeks of the year. Come again after six [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s. You hear?”
+“There, there! I know nothing of days of the week; I know nothing of
+weeks of the year. Come again after six days. You hear?”
 
 “Yes, ma'am.”
 
@@ -2555,7 +2555,7 @@ and look about him while he eats. Go, Pip.”
 I followed the candle down, as I had followed the candle up, and she
 stood it in the place where we had found it. Until she opened the
 side entrance, I had fancied, without thinking about it, that it must
-necessarily be night-time. The rush of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light quite confounded me,
+necessarily be night-time. The rush of the daylight quite confounded me,
 and made me feel as if I had been in the candlelight of the strange room
 many hours.
 
@@ -2589,9 +2589,9 @@ bitter were my feelings, and so sharp was the smart without a name, that
 needed counteraction.
 
 My sister's bringing up had made me sensitive. In the little world in
-which [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren have their existence whosoever brings them up, there is
+which children have their existence whosoever brings them up, there is
 nothing so finely perceived and so finely felt as injustice. It may be
-only small injustice that the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) can be exposed to; but the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)
+only small injustice that the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) can be exposed to; but the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip)
 is small, and its world is small, and its rocking-horse stands as many
 hands high, according to scale, as a big-boned Irish hunter. Within
 myself, I had sustained, from my babyhood, a perpetual conflict with
@@ -2618,7 +2618,7 @@ in the dove-cot, no horses in the stable, no pigs in the sty, no malt in
 the storehouse, no smells of grains and beer in the copper or the vat.
 All the uses and scents of the brewery might have evaporated with its
 last reek of smoke. In a by-yard, there was a wilderness of empty casks,
-which had a certain sour remembrance of better [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s lingering about
+which had a certain sour remembrance of better days lingering about
 them; but it was too sour to be accepted as a sample of the beer that
 was gone,--and in this respect I remember those recluses as being like
 most others.
@@ -2677,7 +2677,7 @@ you are near crying again now.”
 
 She laughed contemptuously, pushed me out, and locked the gate upon me.
 I went straight to Mr. Pumblechook's, and was immensely relieved to find
-him not at home. So, leaving word with the shopman on what [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) I was
+him not at home. So, leaving word with the shopman on what [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) I was
 wanted at Miss Havisham's again, I set off on the four-mile walk to
 our forge; pondering, as I went along, on all I had seen, and deeply
 revolving that I was a common laboring-boy; that my hands were coarse;
@@ -2748,7 +2748,7 @@ done for me, “Now! How much is forty-three pence?” To which I replied,
 after a long interval of reflection, “I don't know.” And I was so
 aggravated that I almost doubt if I did know.
 
-Mr. Pumblechook [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed his head like a screw to screw it out of me,
+Mr. Pumblechook worked his head like a screw to screw it out of me,
 and said, “Is forty-three pence seven and sixpence three fardens, for
 instance?”
 
@@ -2773,7 +2773,7 @@ We are beginning to hold our own, I think, Mum?”)
 “I am sure, uncle,” returned Mrs. Joe, “I wish you had him always; you
 know so well how to deal with him.”
 
-“Now, boy! What was she a doing of, when you went in to[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?” asked Mr.
+“Now, boy! What was she a doing of, when you went in [today](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/today.zip)?” asked Mr.
 Pumblechook.
 
 “She was sitting,” I answered, “in a black velvet coach.”
@@ -2810,7 +2810,7 @@ harnessing.
 
 “I'll tell you, Mum,” said Mr. Pumblechook. “My opinion is, it's a
 sedan-chair. She's flighty, you know,--very flighty,--quite flighty
-enough to pass her [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s in a sedan-chair.”
+enough to pass her days in a sedan-chair.”
 
 “Did you ever see her in it, uncle?” asked Mrs. Joe.
 
@@ -2837,7 +2837,7 @@ at the coach-window. And then we all waved our swords and hurrahed.”
 “Swords!” repeated my sister. “Where did you get swords from?”
 
 “Out of a cupboard,” said I. “And I saw pistols in it,--and jam,--and
-pills. And there was no [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light in the room, but it was all lighted up
+pills. And there was no daylight in the room, but it was all lighted up
 with candles.”
 
 “That's true, Mum,” said Mr. Pumblechook, with a grave nod. “That's the
@@ -2852,7 +2852,7 @@ there was a balloon in the yard, and should have hazarded the statement
 but for my invention being divided between that phenomenon and a bear
 in the brewery. They were so much occupied, however, in discussing the
 marvels I had already presented for their consideration, that I escaped.
-The subject still held them when Joe came in from his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) to have a cup
+The subject still held them when Joe came in from his [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) to have a cup
 of tea. To whom my sister, more for the relief of her own mind than for
 the gratification of his, related my pretended experiences.
 
@@ -2869,7 +2869,7 @@ the corn and seed trade, for instance. Joe fell into the deepest
 disgrace with both, for offering the bright suggestion that I might only
 be presented with one of the dogs who had fought for the veal-cutlets.
 “If a fool's head can't express better opinions than that,” said my
-sister, “and you have got any [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) to do, you had better go and do it.”
+sister, “and you have got any [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) to do, you had better go and do it.”
 So he went.
 
 After Mr. Pumblechook had driven off, and when my sister was washing up,
@@ -2930,7 +2930,7 @@ metaphysics, and by that means vanquished it.
 
 “There's one thing you may be sure of, Pip,” said Joe, after some
 rumination, “namely, that lies is lies. Howsever they come, they didn't
-ought to come, and they come from the father of lies, and [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) round to
+ought to come, and they come from the father of lies, and [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) round to
 the same. Don't you tell no more of 'em, Pip. That ain't the way to get
 out of being common, old chap. And as to being common, I don't make
 it out at all clear. You are oncommon in some things. You're oncommon
@@ -2950,7 +2950,7 @@ scholar afore you can be a oncommon one, I should hope! The king upon
 his throne, with his crown upon his ed, can't sit and write his acts
 of Parliament in print, without having begun, when he were a unpromoted
 Prince, with the alphabet.--Ah!” added Joe, with a shake of the head
-that was full of meaning, “and begun at A too, and [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed his way to Z.
+that was full of meaning, “and begun at A too, and worked his way to Z.
 And I know what that is to do, though I can't say I've exactly done it.”
 
 There was some hope in this piece of wisdom, and it rather encouraged
@@ -2990,14 +2990,14 @@ Miss Havisham and Estella never sat in a kitchen, but were far above the
 level of such common doings. I fell asleep recalling what I “used to
 do” when I was at Miss Havisham's; as though I had been there weeks or
 months, instead of hours; and as though it were quite an old subject of
-remembrance, instead of one that had arisen only that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
+remembrance, instead of one that had arisen only that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).
 
-That was a memorable [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to me, for it made great changes in me. But it
-is the same with any life. Imagine one selected [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) struck out of it,
+That was a memorable [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) to me, for it made great changes in me. But it
+is the same with any life. Imagine one selected [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) struck out of it,
 and think how different its course would have been. Pause you who read
 this, and think for a moment of the long chain of iron or gold,
 of thorns or flowers, that would never have bound you, but for the
-formation of the first link on one memorable [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
+formation of the first link on one memorable [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).
 
 
 
@@ -3071,7 +3071,7 @@ had grown more than I had. But there was a quantity of chalk about our
 country, and perhaps the people neglected no opportunity of turning it
 to account.
 
-It being Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night, I found the landlord looking rather grimly
+It being Saturday night, I found the landlord looking rather grimly
 at these records; but as my business was with Joe and not with him, I
 merely wished him good evening, and passed into the common room at the
 end of the passage, where there was a bright large kitchen fire,
@@ -3108,7 +3108,7 @@ drink, Mr. Gargery? At my expense? To top up with?”
 drinking at anybody's expense but my own.”
 
 “Habit? No,” returned the stranger, “but once and away, and on a
-Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night too. Come! Put a name to it, Mr. Gargery.”
+Saturday night too. Come! Put a name to it, Mr. Gargery.”
 
 “I wouldn't wish to be stiff company,” said Joe. “Rum.”
 
@@ -3222,8 +3222,8 @@ settle, taking very little notice of me, and talking principally about
 turnips.
 
 There was a delicious sense of cleaning-up and making a quiet pause
-before going on in life afresh, in our village on Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) nights, which
-stimulated Joe to dare to stay out half an hour longer on Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s
+before going on in life afresh, in our village on Saturday nights, which
+stimulated Joe to dare to stay out half an hour longer on Saturdays
 than at other times. The half-hour and the rum and water running out
 together, Joe got up to go, and took me by the hand.
 
@@ -3269,7 +3269,7 @@ Joe, had left word at the Three Jolly Bargemen concerning the notes.
 Then my sister sealed them up in a piece of paper, and put them under
 some dried rose-leaves in an ornamental teapot on the top of a press in
 the state parlor. There they remained, a nightmare to me, many and many
-a night and [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
+a night and [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).
 
 I had sadly broken sleep when I got to bed, through thinking of the
 strange man taking aim at me with his invisible gun, and of the guiltily
@@ -3277,7 +3277,7 @@ coarse and common thing it was, to be on secret terms of conspiracy with
 convicts,--a feature in my low career that I had previously forgotten.
 I was haunted by the file too. A dread possessed me that when I least
 expected it, the file would reappear. I coaxed myself to sleep by
-thinking of Miss Havisham's, next Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); and in my sleep I saw
+thinking of Miss Havisham's, next Wednesday; and in my sleep I saw
 the file coming at me out of a door, without seeing who held it, and I
 screamed myself awake.
 
@@ -3292,13 +3292,13 @@ ring at the gate brought out Estella. She locked it after admitting
 me, as she had done before, and again preceded me into the dark passage
 where her candle stood. She took no notice of me until she had the
 candle in her hand, when she looked over her shoulder, superciliously
-saying, “You are to come this way to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),” and took me to quite another
+saying, “You are to come this way to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip),” and took me to quite another
 part of the house.
 
 The passage was a long one, and seemed to pervade the whole square
 basement of the Manor House. We traversed but one side of the square,
 however, and at the end of it she stopped, and put her candle down and
-opened a door. Here, the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light reappeared, and I found myself in
+opened a door. Here, the daylight reappeared, and I found myself in
 a small paved courtyard, the opposite side of which was formed by a
 detached dwelling-house, that looked as if it had once belonged to the
 manager or head clerk of the extinct brewery. There was a clock in the
@@ -3313,11 +3313,11 @@ crossed to it, and stood “there,” in a very uncomfortable state of mind,
 looking out.
 
 It opened to the ground, and looked into a most miserable corner of the
-neglected garden, upon a rank ruin of cabbage-stalks, and one box-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)
+neglected garden, upon a rank ruin of cabbage-stalks, and one box-[tree](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/tree.zip)
 that had been clipped round long ago, like a pudding, and had a new
 growth at the top of it, out of shape and of a different color, as if
 that part of the pudding had stuck to the saucepan and got burnt. This
-was my homely thought, as I contemplated the box-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip). There had been
+was my homely thought, as I contemplated the box-[tree](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/tree.zip). There had been
 some light snow, overnight, and it lay nowhere else to my knowledge;
 but, it had not quite melted from the cold shadow of this bit of garden,
 and the wind caught it up in little eddies and threw it at the window,
@@ -3326,7 +3326,7 @@ as if it pelted me for coming there.
 I divined that my coming had stopped conversation in the room, and that
 its other occupants were looking at me. I could see nothing of the room
 except the shining of the fire in the window-glass, but I stiffened in
-all my joints with the consciousness that I was under close [inspection](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/inspection.zip).
+all my joints with the consciousness that I was under close [inspection](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/inspection.zip).
 
 There were three ladies in the room and one gentleman. Before I had been
 standing at the window five minutes, they somehow conveyed to me that
@@ -3362,7 +3362,7 @@ emphatically, “Very true!”
 “Poor soul!” Camilla presently went on (I knew they had all been looking
 at me in the mean time), “he is so very strange! Would anyone believe
 that when Tom's wife died, he actually could not be induced to see the
-importance of the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren's having the deepest of trimmings to their
+importance of the children's having the deepest of trimmings to their
 mourning? 'Good Lord!' says he, 'Camilla, what can it signify so long
 as the poor bereaved little things are in black?' So like Matthew! The
 idea!”
@@ -3381,7 +3381,7 @@ went out in a pouring rain and bought the things.”
 
 “He paid for them, did he not?” asked Estella.
 
-“It's not the question, my dear [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), who paid for them,” returned
+“It's not the question, my dear [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip), who paid for them,” returned
 Camilla. “I bought them. And I shall often think of that with peace,
 when I wake up in the night.”
 
@@ -3472,10 +3472,10 @@ she and everything else were just as I had left them. Estella left me
 standing near the door, and I stood there until Miss Havisham cast her
 eyes upon me from the dressing-table.
 
-“So!” she said, without being startled or surprised: “the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s have worn
+“So!” she said, without being startled or surprised: “the days have worn
 away, have they?”
 
-“Yes, ma'am. To-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) is--”
+“Yes, ma'am. To-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) is--”
 
 “There, there, there!” with the impatient movement of her fingers. “I
 don't want to know. Are you ready to play?”
@@ -3487,7 +3487,7 @@ I was obliged to answer in some confusion, “I don't think I am, ma'am.”
 “Yes, ma'am; I could do that, if I was wanted.”
 
 “Since this house strikes you old and grave, boy,” said Miss Havisham,
-impatiently, “and you are unwilling to play, are you willing to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)?”
+impatiently, “and you are unwilling to play, are you willing to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip)?”
 
 I could answer this inquiry with a better heart than I had been able to
 find for the other question, and I said I was quite willing.
@@ -3496,7 +3496,7 @@ find for the other question, and I said I was quite willing.
 me with her withered hand, “and wait there till I come.”
 
 I crossed the staircase landing, and entered the room she indicated.
-From that room, too, the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light was completely excluded, and it had an
+From that room, too, the daylight was completely excluded, and it had an
 airless smell that was oppressive. A fire had been lately kindled in
 the damp old-fashioned grate, and it was more disposed to go out than
 to burn up, and the reluctant smoke which hung in the room seemed colder
@@ -3530,7 +3530,7 @@ she looked like the Witch of the place.
 will be laid when I am dead. They shall come and look at me here.”
 
 With some vague misgiving that she might get upon the table then and
-there and die at once, the complete realization of the ghastly wax[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)
+there and die at once, the complete realization of the ghastly waxwork
 at the Fair, I shrank under her touch.
 
 “What do you think that is?” she asked me, again pointing with her
@@ -3544,7 +3544,7 @@ She looked all round the room in a glaring manner, and then said,
 leaning on me while her hand twitched my shoulder, “Come, come, come!
 Walk me, walk me!”
 
-I made out from this, that the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) I had to do, was to walk Miss
+I made out from this, that the [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) I had to do, was to walk Miss
 Havisham round and round the room. Accordingly, I started at once, and
 she leaned upon my shoulder, and we went away at a pace that might have
 been an imitation (founded on my first impulse under that roof) of Mr.
@@ -3552,7 +3552,7 @@ Pumblechook's chaise-cart.
 
 She was not physically strong, and after a little time said, “Slower!”
 Still, we went at an impatient fitful speed, and as we went, she
-twitched the hand upon my shoulder, and [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed her mouth, and led me to
+twitched the hand upon my shoulder, and worked her mouth, and led me to
 believe that we were going fast because her thoughts went fast. After a
 while she said, “Call Estella!” so I went out on the landing and
 roared that name as I had done on the previous occasion. When her light
@@ -3652,7 +3652,7 @@ thank you, my love?”
 Camilla, “I have remained in that state, hours and hours, and Raymond
 is a witness of the extent to which I have choked, and what the total
 inefficacy of ginger has been, and I have been heard at the piano-forte
-tuner's across the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, where the poor mistaken [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren have even
+tuner's across the street, where the poor mistaken children have even
 supposed it to be pigeons cooing at a distance,--and now to be told--”
 Here Camilla put her hand to her throat, and began to be quite chemical
 as to the formation of new combinations there.
@@ -3696,17 +3696,17 @@ with her hand on my shoulder, but more and more slowly. At last she
 stopped before the fire, and said, after muttering and looking at it
 some seconds,--
 
-“This is my birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Pip.”
+“This is my birthday, Pip.”
 
 I was going to wish her many happy returns, when she lifted her stick.
 
 “I don't suffer it to be spoken of. I don't suffer those who were here
-just now, or any one to speak of it. They come here on the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), but they
+just now, or any one to speak of it. They come here on the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), but they
 dare not refer to it.”
 
 Of course I made no further effort to refer to it.
 
-“On this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of the year, long before you were born, this heap of
+“On this [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) of the year, long before you were born, this heap of
 decay,” stabbing with her crutched stick at the pile of cobwebs on the
 table, but not touching it, “was brought here. It and I have worn away
 together. The mice have gnawed at it, and sharper teeth than teeth of
@@ -3720,7 +3720,7 @@ to crumble under a touch.
 “When the ruin is complete,” said she, with a ghastly look, “and when
 they lay me dead, in my bride's dress on the bride's table,--which shall
 be done, and which will be the finished curse upon him,--so much the
-better if it is done on this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)!”
+better if it is done on this [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)!”
 
 She stood looking at the table as if she stood looking at her own figure
 lying there. I remained quiet. Estella returned, and she too remained
@@ -3739,7 +3739,7 @@ hair.
 
 Estella, for her part, likewise treated me as before, except that she
 did not condescend to speak. When we had played some half-dozen games,
-a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was appointed for my return, and I was taken down into the yard
+a [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) was appointed for my return, and I was taken down into the yard
 to be fed in the former dog-like manner. There, too, I was again left to
 wander about as I liked.
 
@@ -3873,7 +3873,7 @@ through a great deal to kiss her cheek. But I felt that the kiss was
 given to the coarse common boy as a piece of money might have been, and
 that it was worth nothing.
 
-What with the birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) visitors, and what with the cards, and what with
+What with the birthday visitors, and what with the cards, and what with
 the fight, my stay had lasted so long, that when I neared home the light
 on the spit of sand off the point on the marshes was gleaming against
 a black night-sky, and Joe's furnace was flinging a path of fire across
@@ -3894,7 +3894,7 @@ avenge it. Without having any definite idea of the penalties I had
 incurred, it was clear to me that village boys could not go stalking
 about the country, ravaging the houses of gentlefolks and pitching into
 the studious youth of England, without laying themselves open to severe
-punishment. For some [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, I even kept close at home, and looked out at
+punishment. For some days, I even kept close at home, and looked out at
 the kitchen door with the greatest caution and trepidation before going
 on an errand, lest the officers of the County Jail should pounce upon
 me. The pale young gentleman's nose had stained my trousers, and I tried
@@ -3904,7 +3904,7 @@ imagination into a thousand tangles, as I devised incredible ways of
 accounting for that damnatory circumstance when I should be haled before
 the Judges.
 
-When the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) came round for my return to the scene of the deed of
+When the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) came round for my return to the scene of the deed of
 violence, my terrors reached their height. Whether myrmidons of Justice,
 specially sent down from London, would be lying in ambush behind the
 gate;--whether Miss Havisham, preferring to take personal vengeance for
@@ -3930,14 +3930,14 @@ covered them with garden-mould from the eye of man.
 On the broad landing between Miss Havisham's own room and that other
 room in which the long table was laid out, I saw a garden-chair,--a
 light chair on wheels, that you pushed from behind. It had been placed
-there since my last visit, and I entered, that same [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), on a regular
+there since my last visit, and I entered, that same [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), on a regular
 occupation of pushing Miss Havisham in this chair (when she was tired of
 walking with her hand upon my shoulder) round her own room, and across
 the landing, and round the other room. Over and over and over again,
 we would make these journeys, and sometimes they would last as long as
 three hours at a stretch. I insensibly fall into a general mention of
 these journeys as numerous, because it was at once settled that I should
-return every alternate [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) at noon for these purposes, and because I am
+return every alternate [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) at noon for these purposes, and because I am
 now going to sum up a period of at least eight or ten months.
 
 As we began to be more used to one another, Miss Havisham talked more
@@ -3972,7 +3972,7 @@ iron, and was a mere lyrical excuse for the introduction of Old Clem's
 respected name. Thus, you were to hammer boys round--Old Clem! With a
 thump and a sound--Old Clem! Beat it out, beat it out--Old Clem! With a
 clink for the stout--Old Clem! Blow the fire, blow the fire--Old
-Clem! Roaring dryer, soaring higher--Old Clem! One [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) soon after the
+Clem! Roaring dryer, soaring higher--Old Clem! One [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) soon after the
 appearance of the chair, Miss Havisham suddenly saying to me, with the
 impatient movement of her fingers, “There, there, there! Sing!” I was
 surprised into crooning this ditty as I pushed her over the floor. It
@@ -4043,7 +4043,7 @@ you! You get along to bed; you've given trouble enough for one night, I
 hope!” As if I had besought them as a favor to bother my life out.
 
 We went on in this way for a long time, and it seemed likely that we
-should continue to go on in this way for a long time, when one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) Miss
+should continue to go on in this way for a long time, when one [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) Miss
 Havisham stopped short as she and I were walking, she leaning on my
 shoulder; and said with some displeasure,--
 
@@ -4054,7 +4054,7 @@ this might be occasioned by circumstances over which I had no control.
 
 She said no more at the time; but she presently stopped and looked at me
 again; and presently again; and after that, looked frowning and moody.
-On the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of my attendance, when our usual exercise was over, and
+On the next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) of my attendance, when our usual exercise was over, and
 I had landed her at her dressing-table, she stayed me with a movement of
 her impatient fingers:--
 
@@ -4101,11 +4101,11 @@ better speculation.
 ---
 ## Chapter XIII
 
-It was a trial to my feelings, on the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) but one, to see
-Joe arraying himself in his Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) clothes to accompany me to Miss
+It was a trial to my feelings, on the next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) but one, to see
+Joe arraying himself in his Sunday clothes to accompany me to Miss
 Havisham's. However, as he thought his court-suit necessary to the
 occasion, it was not for me to tell him that he looked far better in his
-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing-dress; the rather, because I knew he made himself so dreadfully
+working-dress; the rather, because I knew he made himself so dreadfully
 uncomfortable, entirely on my account, and that it was for me he pulled
 up his shirt-collar so very high behind, that it made the hair on the
 crown of his head stand up like a tuft of feathers.
@@ -4113,16 +4113,16 @@ crown of his head stand up like a tuft of feathers.
 At breakfast-time my sister declared her intention of going to town with
 us, and being left at Uncle Pumblechook's and called for “when we had
 done with our fine ladies”--a way of putting the case, from which Joe
-appeared inclined to augur the worst. The forge was shut up for the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),
+appeared inclined to augur the worst. The forge was shut up for the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip),
 and Joe inscribed in chalk upon the door (as it was his custom to do on
-the very rare occasions when he was not at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)) the monosyllable
+the very rare occasions when he was not at [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip)) the monosyllable
 HOUT, accompanied by a sketch of an arrow supposed to be flying in the
 direction he had taken.
 
 We walked to town, my sister leading the way in a very large beaver
 bonnet, and carrying a basket like the Great Seal of England in plaited
 Straw, a pair of pattens, a spare shawl, and an umbrella, though it
-was a fine bright [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). I am not quite clear whether these articles were
+was a fine bright [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). I am not quite clear whether these articles were
 carried penitentially or ostentatiously; but I rather think they were
 displayed as articles of property,--much as Cleopatra or any other
 sovereign lady on the Rampage might exhibit her wealth in a pageant or
@@ -4247,7 +4247,7 @@ I know that when he did get out he was steadily proceeding upstairs
 instead of coming down, and was deaf to all remonstrances until I went
 after him and laid hold of him. In another minute we were outside the
 gate, and it was locked, and Estella was gone. When we stood in the
-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light alone again, Joe backed up against a wall, and said to me,
+daylight alone again, Joe backed up against a wall, and said to me,
 “Astonishing!” And there he remained so long saying, “Astonishing” at
 intervals, so often, that I began to think his senses were never coming
 back. At length he prolonged his remark into “Pip, I do assure you this
@@ -4387,7 +4387,7 @@ her but we must have a dinner out of that windfall at the Blue Boar, and
 that Pumblechook must go over in his chaise-cart, and bring the Hubbles
 and Mr. Wopsle.
 
-It was agreed to be done; and a most melancholy [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) I passed. For,
+It was agreed to be done; and a most melancholy [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) I passed. For,
 it inscrutably appeared to stand to reason, in the minds of the whole
 company, that I was an excrescence on the entertainment. And to make it
 worse, they all asked me from time to time,--in short, whenever they
@@ -4460,11 +4460,11 @@ life lay stretched out straight before me through the newly entered road
 of apprenticeship to Joe.
 
 I remember that at a later period of my “time,” I used to stand about
-the churchyard on Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) evenings when night was falling, comparing my
+the churchyard on Sunday evenings when night was falling, comparing my
 own perspective with the windy marsh view, and making out some likeness
 between them by thinking how flat and low both were, and how on both
 there came an unknown way and a dark mist and then the sea. I was quite
-as dejected on the first [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of my apprenticeship as in that
+as dejected on the first working-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) of my apprenticeship as in that
 after-time; but I am glad to know that I never breathed a murmur to Joe
 while my indentures lasted. It is about the only thing I am glad to know
 of myself in that connection.
@@ -4474,7 +4474,7 @@ proceed to add was Joe's. It was not because I was faithful, but because
 Joe was faithful, that I never ran away and went for a soldier or
 a sailor. It was not because I had a strong sense of the virtue of
 industry, but because Joe had a strong sense of the virtue of industry,
-that I [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed with tolerable zeal against the grain. It is not possible
+that I worked with tolerable zeal against the grain. It is not possible
 to know how far the influence of any amiable honest-hearted duty-doing
 man flies out into the world; but it is very possible to know how it has
 touched one's self in going by, and I know right well that any good that
@@ -4486,7 +4486,7 @@ I dreaded was, that in some unlucky hour I, being at my grimiest and
 commonest, should lift up my eyes and see Estella looking in at one
 of the wooden windows of the forge. I was haunted by the fear that she
 would, sooner or later, find me out, with a black face and hands, doing
-the coarsest part of my [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and would exult over me and despise me.
+the coarsest part of my [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), and would exult over me and despise me.
 Often after dark, when I was pulling the bellows for Joe, and we were
 singing Old Clem, and when the thought how we used to sing it at Miss
 Havisham's would seem to show me Estella's face in the fire, with her
@@ -4537,14 +4537,14 @@ society and less open to Estella's reproach.
 The old Battery out on the marshes was our place of study, and a broken
 slate and a short piece of slate-pencil were our educational implements:
 to which Joe always added a pipe of tobacco. I never knew Joe to
-remember anything from one Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to another, or to acquire, under my
+remember anything from one Sunday to another, or to acquire, under my
 tuition, any piece of information whatever. Yet he would smoke his pipe
 at the Battery with a far more sagacious air than anywhere else,--even
 with a learned air,--as if he considered himself to be advancing
 immensely. Dear fellow, I hope he did.
 
 It was pleasant and quiet, out there with the sails on the river passing
-beyond the earth[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and sometimes, when the tide was low, looking
+beyond the earthwork, and sometimes, when the tide was low, looking
 as if they belonged to sunken ships that were still sailing on at the
 bottom of the water. Whenever I watched the vessels standing out to sea
 with their white sails spread, I somehow thought of Miss Havisham and
@@ -4553,9 +4553,9 @@ or sail or green hillside or water-line, it was just the same.--Miss
 Havisham and Estella and the strange house and the strange life appeared
 to have something to do with everything that was picturesque.
 
-One Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) when Joe, greatly enjoying his pipe, had so plumed himself on
-being “most awful dull,” that I had given him up for the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), I lay on
-the earth[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) for some time with my chin on my hand, descrying traces of
+One Sunday when Joe, greatly enjoying his pipe, had so plumed himself on
+being “most awful dull,” that I had given him up for the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), I lay on
+the earthwork for some time with my chin on my hand, descrying traces of
 Miss Havisham and Estella all over the prospect, in the sky and in the
 water, until at last I resolved to mention a thought concerning them
 that had been much in my head.
@@ -4601,7 +4601,7 @@ probable.
 
 “Yes, old chap.”
 
-“Here am I, getting on in the first year of my time, and, since the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+“Here am I, getting on in the first year of my time, and, since the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)
 of my being bound, I have never thanked Miss Havisham, or asked after
 her, or shown that I remember her.”
 
@@ -4625,7 +4625,7 @@ like--”
 pressed it, “if I was yourself, Pip, I wouldn't. No, I would not. For
 what's a door-chain when she's got one always up? And shark-headers is
 open to misrepresentations. And if it was a toasting-fork, you'd go into
-brass and do yourself no credit. And the oncommonest [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)man can't show
+brass and do yourself no credit. And the oncommonest workman can't show
 himself oncommon in a gridiron,--for a gridiron IS a gridiron,” said
 Joe, steadfastly impressing it upon me, as if he were endeavouring to
 rouse me from a fixed delusion, “and you may haim at what you like, but
@@ -4639,7 +4639,7 @@ go on in that way. I never thought of making Miss Havisham any present.”
 along; “and what I say to you is, you are right, Pip.”
 
 “Yes, Joe; but what I wanted to say, was, that as we are rather slack
-just now, if you would give me a half-holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to-morrow, I think I would
+just now, if you would give me a half-holiday to-morrow, I think I would
 go uptown and make a call on Miss Est--Havisham.”
 
 “Which her name,” said Joe, gravely, “ain't Estavisham, Pip, unless she
@@ -4662,14 +4662,14 @@ believe him to have been the prey of no delusion in this particular, but
 wilfully to have imposed that name upon the village as an affront to its
 understanding. He was a broadshouldered loose-limbed swarthy fellow of
 great strength, never in a hurry, and always slouching. He never even
-seemed to come to his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) on purpose, but would slouch in as if by mere
+seemed to come to his [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) on purpose, but would slouch in as if by mere
 accident; and when he went to the Jolly Bargemen to eat his dinner, or
 went away at night, he would slouch out, like Cain or the Wandering Jew,
 as if he had no idea where he was going and no intention of ever
 coming back. He lodged at a sluice-keeper's out on the marshes, and on
-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s would come slouching from his hermitage, with his hands in
+working-days would come slouching from his hermitage, with his hands in
 his pockets and his dinner loosely tied in a bundle round his neck
-and dangling on his back. On Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s he mostly lay all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) on the
+and dangling on his back. On Sundays he mostly lay all [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) on the
 sluice-gates, or stood against ricks and barns. He always slouched,
 locomotively, with his eyes on the ground; and, when accosted or
 otherwise required to raise them, he looked up in a half-resentful,
@@ -4687,17 +4687,17 @@ anything, openly importing hostility; I only noticed that he always beat
 his sparks in my direction, and that whenever I sang Old Clem, he came
 in out of time.
 
-Dolge Orlick was at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) and present, next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), when I reminded Joe of
-my half-holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). He said nothing at the moment, for he and Joe had just
+Dolge Orlick was at [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) and present, next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), when I reminded Joe of
+my half-holiday. He said nothing at the moment, for he and Joe had just
 got a piece of hot iron between them, and I was at the bellows; but by
 and by he said, leaning on his hammer,--
 
 “Now, master! Sure you're not a going to favor only one of us. If Young
-Pip has a half-holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), do as much for Old Orlick.” I suppose he was
+Pip has a half-holiday, do as much for Old Orlick.” I suppose he was
 about five-and-twenty, but he usually spoke of himself as an ancient
 person.
 
-“Why, what'll you do with a half-holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), if you get it?” said Joe.
+“Why, what'll you do with a half-holiday, if you get it?” said Joe.
 
 “What'll I do with it! What'll he do with it? I'll do as much with it as
 him,” said Orlick.
@@ -4726,14 +4726,14 @@ again leaned on his hammer,--
 
 “Ah! I am all right,” said gruff Old Orlick.
 
-“Then, as in general you stick to your [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) as well as most men,” said
-Joe, “let it be a half-holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) for all.”
+“Then, as in general you stick to your [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) as well as most men,” said
+Joe, “let it be a half-holiday for all.”
 
 My sister had been standing silent in the yard, within hearing,--she was
 a most unscrupulous spy and listener,--and she instantly looked in at
 one of the windows.
 
-“Like you, you fool!” said she to Joe, “giving holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s to great idle
+“Like you, you fool!” said she to Joe, “giving holidays to great idle
 hulkers like that. You are a rich man, upon my life, to waste wages in
 that way. I wish I was his master!”
 
@@ -4743,7 +4743,7 @@ ill-favored grin.
 (“Let her alone,” said Joe.)
 
 “I'd be a match for all noodles and all rogues,” returned my sister,
-beginning to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) herself into a mighty rage. “And I couldn't be a
+beginning to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) herself into a mighty rage. “And I couldn't be a
 match for the noodles, without being a match for your master, who's the
 dunder-headed king of the noodles. And I couldn't be a match for the
 rogues, without being a match for you, who are the blackest-looking and
@@ -4795,7 +4795,7 @@ carried into the house and laid down, and who was recommended to revive,
 and would do nothing but struggle and clench her hands in Joe's hair.
 Then, came that singular calm and silence which succeed all uproars; and
 then, with the vague sensation which I have always connected with such
-a lull,--namely, that it was Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and somebody was dead,--I went upstairs
+a lull,--namely, that it was Sunday, and somebody was dead,--I went upstairs
 to dress myself.
 
 When I came down again, I found Joe and Orlick sweeping up, without any
@@ -4832,7 +4832,7 @@ You'll get nothing.”
 very well in my apprenticeship, and am always much obliged to you.”
 
 “There, there!” with the old restless fingers. “Come now and then; come
-on your birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).--Ay!” she cried suddenly, turning herself and her
+on your birthday.--Ay!” she cried suddenly, turning herself and her
 chair towards me, “You are looking round for Estella? Hey?”
 
 I had been looking round,--in fact, for Estella,--and I stammered that I
@@ -4849,7 +4849,7 @@ the gate was closed upon me by Sarah of the walnut-shell countenance, I
 felt more than ever dissatisfied with my home and with my trade and with
 everything; and that was all I took by that motion.
 
-As I was loitering along the High S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, looking in disconsolately at
+As I was loitering along the High Street, looking in disconsolately at
 the shop windows, and thinking what I would buy if I were a gentleman,
 who should come out of the bookshop but Mr. Wopsle. Mr. Wopsle had in
 his hand the affecting tragedy of George Barnwell, in which he had that
@@ -4861,7 +4861,7 @@ and insisted on my accompanying him to the Pumblechookian parlor. As I
 knew it would be miserable at home, and as the nights were dark and the
 way was dreary, and almost any companionship on the road was better
 than none, I made no great resistance; consequently, we turned into
-Pumblechook's just as the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t and the shops were lighting up.
+Pumblechook's just as the street and the shops were lighting up.
 
 As I never assisted at any other representation of George Barnwell, I
 don't know how long it may usually take; but I know very well that it
@@ -4909,7 +4909,7 @@ have been indulging, Mr. Orlick, in an intellectual evening.”
 
 Old Orlick growled, as if he had nothing to say about that, and we all
 went on together. I asked him presently whether he had been spending his
-half-holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) up and down town?
+half-holiday up and down town?
 
 “Yes,” said he, “all of it. I come in behind yourself. I didn't see you,
 but I must have been pretty close behind you. By the by, the guns is
@@ -5034,8 +5034,8 @@ round.
 It was horrible to think that I had provided the weapon, however
 undesignedly, but I could hardly think otherwise. I suffered unspeakable
 trouble while I considered and reconsidered whether I should at last
-dissolve that spell of my [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)hood and tell Joe all the story. For
-months afterwards, I every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) settled the question finally in the
+dissolve that spell of my childhood and tell Joe all the story. For
+months afterwards, I every [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) settled the question finally in the
 negative, and reopened and reargued it next morning. The contention
 came, after all, to this;--the secret was such an old one now, had so
 grown into me and become a part of myself, that I could not tear it
@@ -5049,8 +5049,8 @@ done?--and resolved to make a full disclosure if I should see any
 such new occasion as a new chance of helping in the discovery of the
 assailant.
 
-The Constables and the Bow S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t men from London--for, this happened in
-the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of the extinct red-waistcoated police--were about the house for
+The Constables and the Bow Street men from London--for, this happened in
+the days of the extinct red-waistcoated police--were about the house for
 a week or two, and did pretty much what I have heard and read of like
 authorities doing in other such cases. They took up several obviously
 wrong people, and they ran their heads very hard against wrong ideas,
@@ -5143,7 +5143,7 @@ given something to drink. She watched his countenance as if she were
 particularly wishful to be assured that he took kindly to his reception,
 she showed every possible desire to conciliate him, and there was an air
 of humble propitiation in all she did, such as I have seen pervade the
-bearing of a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) towards a hard master. After that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) rarely
+bearing of a [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) towards a hard master. After that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), a [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) rarely
 passed without her drawing the hammer on her slate, and without Orlick's
 slouching in and standing doggedly before her, as if he knew no more
 than I did what to make of it.
@@ -5156,12 +5156,12 @@ than I did what to make of it.
 
 I now fell into a regular routine of apprenticeship life, which was
 varied beyond the limits of the village and the marshes, by no more
-remarkable circumstance than the arrival of my birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) and my paying
+remarkable circumstance than the arrival of my birthday and my paying
 another visit to Miss Havisham. I found Miss Sarah Pocket still on duty
 at the gate; I found Miss Havisham just as I had left her, and she spoke
 of Estella in the very same way, if not in the very same words. The
 interview lasted but a few minutes, and she gave me a guinea when I was
-going, and told me to come again on my next birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). I may mention at
+going, and told me to come again on my next birthday. I may mention at
 once that this became an annual custom. I tried to decline taking the
 guinea on the first occasion, but with no better effect than causing her
 to ask me very angrily, if I expected more? Then, and after that, I took
@@ -5171,7 +5171,7 @@ So unchanging was the dull old house, the yellow light in the darkened
 room, the faded spectre in the chair by the dressing-table glass, that
 I felt as if the stopping of the clocks had stopped Time in that
 mysterious place, and, while I and everything else outside it grew
-older, it stood still. [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light never entered the house as to my
+older, it stood still. Daylight never entered the house as to my
 thoughts and remembrances of it, any more than as to the actual fact. It
 bewildered me, and under its influence I continued at heart to hate my
 trade and to be ashamed of home.
@@ -5188,7 +5188,7 @@ were very pretty and very good.
 It came of my lifting up my own eyes from a task I was poring
 at--writing some passages from a book, to improve myself in two ways at
 once by a sort of stratagem--and seeing Biddy observant of what I was
-about. I laid down my pen, and Biddy stopped in her needle[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) without
+about. I laid down my pen, and Biddy stopped in her needlework without
 laying it down.
 
 “Biddy,” said I, “how do you manage it? Either I am very stupid, or you
@@ -5201,7 +5201,7 @@ mean that, though that made what I did mean more surprising.
 
 “How do you manage, Biddy,” said I, “to learn everything that I learn,
 and always to keep up with me?” I was beginning to be rather vain of
-my knowledge, for I spent my birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) guineas on it, and set aside the
+my knowledge, for I spent my birthday guineas on it, and set aside the
 greater part of my pocket-money for similar investment; though I have no
 doubt, now, that the little I knew was extremely dear at the price.
 
@@ -5217,7 +5217,7 @@ Pursuing my idea as I leaned back in my wooden chair, and looked at
 Biddy sewing away with her head on one side, I began to think her rather
 an extraordinary girl. For I called to mind now, that she was equally
 accomplished in the terms of our trade, and the names of our different
-sorts of [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and our various tools. In short, whatever I knew, Biddy
+sorts of [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), and our various tools. In short, whatever I knew, Biddy
 knew. Theoretically, she was already as good a blacksmith as I, or
 better.
 
@@ -5234,7 +5234,7 @@ your first teacher though; wasn't I?” said she, as she sewed.
 your head?”
 
 What could have put it in my head but the glistening of a tear as it
-dropped on her [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)? I sat silent, recalling what a drudge she had been
+dropped on her [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip)? I sat silent, recalling what a drudge she had been
 until Mr. Wopsle's great-aunt successfully overcame that bad habit of
 living, so highly desirable to be got rid of by some people. I recalled
 the hopeless circumstances by which she had been surrounded in the
@@ -5259,10 +5259,10 @@ making her more comfortable; “that's sadly true!”
 
 “Well!” said I, “we must talk together a little more, as we used to do.
 And I must consult you a little more, as I used to do. Let us have a
-quiet walk on the marshes next Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Biddy, and a long chat.”
+quiet walk on the marshes next Sunday, Biddy, and a long chat.”
 
 My sister was never left alone now; but Joe more than readily undertook
-the care of her on that Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) afternoon, and Biddy and I went out
+the care of her on that Sunday afternoon, and Biddy and I went out
 together. It was summer-time, and lovely weather. When we had passed the
 village and the church and the churchyard, and were out on the marshes
 and began to see the sails of the ships as they sailed on, I began to
@@ -5311,7 +5311,7 @@ little, I know it would have been much better for me. You and I and Joe
 would have wanted nothing then, and Joe and I would perhaps have gone
 partners when I was out of my time, and I might even have grown up to
 keep company with you, and we might have sat on this very bank on a fine
-Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), quite different people. I should have been good enough for you;
+Sunday, quite different people. I should have been good enough for you;
 shouldn't I, Biddy?”
 
 Biddy sighed as she looked at the ships sailing on, and returned for
@@ -5350,7 +5350,7 @@ think--but you know best--she was not worth gaining over.”
 Exactly what I myself had thought, many times. Exactly what was
 perfectly manifest to me at the moment. But how could I, a poor dazed
 village lad, avoid that wonderful inconsistency into which the best and
-wisest of men fall every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?
+wisest of men fall every [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)?
 
 “It may be all quite true,” said I to Biddy, “but I admire her
 dreadfully.”
@@ -5363,7 +5363,7 @@ had lifted it up by my hair, and knocked it against the pebbles as a
 punishment for belonging to such an idiot.
 
 Biddy was the wisest of girls, and she tried to reason no more with me.
-She put her hand, which was a comfortable hand though roughened by [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip),
+She put her hand, which was a comfortable hand though roughened by [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip),
 upon my hands, one after another, and gently took them out of my hair.
 Then she softly patted my shoulder in a soothing way, while with my face
 upon my sleeve I cried a little,--exactly as I had done in the brewery
@@ -5401,7 +5401,7 @@ wholesomely situated, after all, in these circumstances, than playing
 beggar my neighbor by candle-light in the room with the stopped clocks,
 and being despised by Estella. I thought it would be very good for me if
 I could get her out of my head, with all the rest of those remembrances
-and fancies, and could go to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) determined to relish what I had to do,
+and fancies, and could go to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) determined to relish what I had to do,
 and stick to it, and make the best of it. I asked myself the question
 whether I did not surely know that if Estella were beside me at that
 moment instead of Biddy, she would make me miserable? I was obliged to
@@ -5409,7 +5409,7 @@ admit that I did know it for a certainty, and I said to myself, “Pip,
 what a fool you are!”
 
 We talked a good deal as we walked, and all that Biddy said seemed
-right. Biddy was never insulting, or capricious, or Biddy to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) and
+right. Biddy was never insulting, or capricious, or Biddy to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) and
 somebody else to-morrow; she would have derived only pain, and no
 pleasure, from giving me pain; she would far rather have wounded her own
 breast than mine. How could it be, then, that I did not like her much
@@ -5497,13 +5497,13 @@ had reason to know thereafter.
 And now, because my mind was not confused enough before, I complicated
 its confusion fifty thousand-fold, by having states and seasons when I
 was clear that Biddy was immeasurably better than Estella, and that the
-plain honest [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing life to which I was born had nothing in it to
+plain honest working life to which I was born had nothing in it to
 be ashamed of, but offered me sufficient means of self-respect
 and happiness. At those times, I would decide conclusively that my
 disaffection to dear old Joe and the forge was gone, and that I was
 growing up in a fair way to be partners with Joe and to keep company
 with Biddy,--when all in a moment some confounding remembrance of the
-Havisham [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s would fall upon me like a destructive missile, and scatter
+Havisham days would fall upon me like a destructive missile, and scatter
 my wits again. Scattered wits take a long time picking up; and often
 before I had got them well together, they would be dispersed in all
 directions by one stray thought, that perhaps after all Miss Havisham
@@ -5520,7 +5520,7 @@ to a premature end, as I proceed to relate.
 ## Chapter XVIII
 
 It was in the fourth year of my apprenticeship to Joe, and it was a
-Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night. There was a group assembled round the fire at the Three
+Saturday night. There was a group assembled round the fire at the Three
 Jolly Bargemen, attentive to Mr. Wopsle as he read the newspaper aloud.
 Of that group I was one.
 
@@ -5607,7 +5607,7 @@ instructed him altogether to reserve his defence?”
 
 “Never mind what you read just now, sir; I don't ask you what you read
 just now. You may read the Lord's Prayer backwards, if you like,--and,
-perhaps, have done it before to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Turn to the paper. No, no, no my
+perhaps, have done it before to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). Turn to the paper. No, no, no my
 friend; not to the top of the column; you know better than that; to
 the bottom, to the bottom.” (We all began to think Mr. Wopsle full of
 subterfuge.) “Well? Have you found it?”
@@ -5865,7 +5865,7 @@ I said (glancing at Joe, who stood looking on, motionless), that I
 supposed I could come directly.
 
 “First,” said Mr. Jaggers, “you should have some new clothes to come in,
-and they should not be [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing-clothes. Say this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) week. You'll want
+and they should not be working-clothes. Say this [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) week. You'll want
 some money. Shall I leave you twenty guineas?”
 
 He produced a long purse, with the greatest coolness, and counted them
@@ -5894,14 +5894,14 @@ often thought him since, like the steam-hammer that can crush a man or
 pat an egg-shell, in his combination of strength with gentleness. “Pip
 is that hearty welcome,” said Joe, “to go free with his services, to
 honor and fortun', as no words can tell him. But if you think as Money
-can make compensation to me for the loss of the little [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)--what come
+can make compensation to me for the loss of the little [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip)--what come
 to the forge--and ever the best of friends!--”
 
 O dear good Joe, whom I was so ready to leave and so unthankful to, I
 see you again, with your muscular blacksmith's arm before your eyes,
 and your broad chest heaving, and your voice dying away. O dear good
 faithful tender Joe, I feel the loving tremble of your hand upon my arm,
-as solemnly this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) as if it had been the rustle of an angel's wing!
+as solemnly this [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) as if it had been the rustle of an angel's wing!
 
 But I encouraged Joe at the time. I was lost in the mazes of my future
 fortunes, and could not retrace the by-paths we had trodden together. I
@@ -5918,7 +5918,7 @@ in his hand the purse he had ceased to swing:--
 measures with me. If you mean to take a present that I have it in charge
 to make you, speak out, and you shall have it. If on the contrary you
 mean to say--” Here, to his great amazement, he was stopped by Joe's
-suddenly [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing round him with every demonstration of a fell pugilistic
+suddenly working round him with every demonstration of a fell pugilistic
 purpose.
 
 “Which I meantersay,” cried Joe, “that if you come into my place
@@ -5935,7 +5935,7 @@ any inclination to come in again, he there delivered his valedictory
 remarks. They were these.
 
 “Well, Mr. Pip, I think the sooner you leave here--as you are to be a
-gentleman--the better. Let it stand for this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) week, and you shall
+gentleman--the better. Let it stand for this [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) week, and you shall
 receive my printed address in the meantime. You can take a hackney-coach
 at the stage-coach office in London, and come straight to me.
 Understand, that I express no opinion, one way or other, on the trust
@@ -5969,7 +5969,7 @@ burning coals. I too sat down before the fire and gazed at the coals,
 and nothing was said for a long time.
 
 My sister was in her cushioned chair in her corner, and Biddy sat at her
-needle-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) before the fire, and Joe sat next Biddy, and I sat next Joe
+needle-[work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) before the fire, and Joe sat next Biddy, and I sat next Joe
 in the corner opposite my sister. The more I looked into the glowing
 coals, the more incapable I became of looking at Joe; the longer the
 silence lasted, the more unable I felt to speak.
@@ -5985,7 +5985,7 @@ off somewhere, “which I left it to yourself, Pip.”
 “Pip's a gentleman of fortun' then,” said Joe, “and God bless him in
 it!”
 
-Biddy dropped her [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and looked at me. Joe held his knees and looked
+Biddy dropped her [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), and looked at me. Joe held his knees and looked
 at me. I looked at both of them. After a pause, they both heartily
 congratulated me; but there was a certain touch of sadness in their
 congratulations that I rather resented.
@@ -5995,7 +5995,7 @@ grave obligation I considered my friends under, to know nothing and say
 nothing about the maker of my fortune. It would all come out in good
 time, I observed, and in the meanwhile nothing was to be said, save
 that I had come into great expectations from a mysterious patron. Biddy
-nodded her head thoughtfully at the fire as she took up her [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) again,
+nodded her head thoughtfully at the fire as she took up her [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) again,
 and said she would be very particular; and Joe, still detaining his
 knees, said, “Ay, ay, I'll be ekervally partickler, Pip;” and then they
 congratulated me again, and went on to express so much wonder at the
@@ -6005,7 +6005,7 @@ Infinite pains were then taken by Biddy to convey to my sister some idea
 of what had happened. To the best of my belief, those efforts entirely
 failed. She laughed and nodded her head a great many times, and even
 repeated after Biddy, the words “Pip” and “Property.” But I doubt if
-they had more meaning in them than an [election](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/election.zip) cry, and I cannot suggest
+they had more meaning in them than an [election](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/election.zip) cry, and I cannot suggest
 a darker picture of her state of mind.
 
 I never could have believed it without experience, but as Joe and
@@ -6028,8 +6028,8 @@ air the room. The very stars to which I then raised my eyes, I am afraid
 I took to be but poor and humble stars for glittering on the rustic
 objects among which I had passed my life.
 
-“Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night,” said I, when we sat at our supper of bread and cheese
-and beer. “Five more [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, and then the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)! They'll soon
+“Saturday night,” said I, when we sat at our supper of bread and cheese
+and beer. “Five more days, and then the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) before the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)! They'll soon
 go.”
 
 “Yes, Pip,” observed Joe, whose voice sounded hollow in his beer-mug.
@@ -6037,7 +6037,7 @@ go.”
 
 “Soon, soon go,” said Biddy.
 
-“I have been thinking, Joe, that when I go down town on Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and
+“I have been thinking, Joe, that when I go down town on Monday, and
 order my new clothes, I shall tell the tailor that I'll come and put
 them on there, or that I'll have them sent to Mr. Pumblechook's. It
 would be very disagreeable to be stared at by all the people here.”
@@ -6075,7 +6075,7 @@ the same moment I fell into much the same confused division of mind
 between it and the better rooms to which I was going, as I had been in
 so often between the forge and Miss Havisham's, and Biddy and Estella.
 
-The sun had been shining brightly all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) on the roof of my attic, and
+The sun had been shining brightly all [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) on the roof of my attic, and
 the room was warm. As I put the window open and stood looking out, I saw
 Joe come slowly forth at the dark door, below, and take a turn or two
 in the air; and then I saw Biddy come, and bring him a pipe and light
@@ -6105,8 +6105,8 @@ bed now, and I never slept the old sound sleep in it any more.
 
 Morning made a considerable difference in my general prospect of Life,
 and brightened it so much that it scarcely seemed the same. What lay
-heaviest on my mind was, the consideration that six [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s intervened
-between me and the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of departure; for I could not divest myself of
+heaviest on my mind was, the consideration that six days intervened
+between me and the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) of departure; for I could not divest myself of
 a misgiving that something might happen to London in the meanwhile, and
 that, when I got there, it would be either greatly deteriorated or clean
 gone.
@@ -6122,16 +6122,16 @@ and the kingdom of Heaven, if he had known all.
 After our early dinner, I strolled out alone, purposing to finish off
 the marshes at once, and get them done with. As I passed the church, I
 felt (as I had felt during service in the morning) a sublime compassion
-for the poor creatures who were destined to go there, Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after
-Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), all their lives through, and to lie obscurely at last among the
+for the poor creatures who were destined to go there, Sunday after
+Sunday, all their lives through, and to lie obscurely at last among the
 low green mounds. I promised myself that I would do something for them
-one of these [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, and formed a plan in outline for bestowing a
-dinner of roast-[beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip) and plum-pudding, a pint of ale, and a gallon of
+one of these days, and formed a plan in outline for bestowing a
+dinner of roast-[beef](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/beef.zip) and plum-pudding, a pint of ale, and a gallon of
 condescension, upon everybody in the village.
 
 If I had often thought before, with something allied to shame, of my
 companionship with the fugitive whom I had once seen limping among those
-graves, what were my thoughts on this Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), when the place recalled
+graves, what were my thoughts on this Sunday, when the place recalled
 the wretch, ragged and shivering, with his felon iron and badge! My
 comfort was, that it happened a long time ago, and that he had doubtless
 been transported a long way off, and that he was dead to me, and might
@@ -6141,8 +6141,8 @@ No more low, wet grounds, no more dikes and sluices, no more of these
 grazing cattle,--though they seemed, in their dull manner, to wear a
 more respectful air now, and to face round, in order that they
 might stare as long as possible at the possessor of such great
-expectations,--farewell, monotonous acquaintances of my [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)hood,
-henceforth I was for London and greatness; not for smith's [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) in
+expectations,--farewell, monotonous acquaintances of my childhood,
+henceforth I was for London and greatness; not for smith's [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) in
 general, and for you! I made my exultant way to the old Battery, and,
 lying down there to consider the question whether Miss Havisham intended
 me for Estella, fell asleep.
@@ -6180,7 +6180,7 @@ when we had our lessons here; isn't it?”
 
 “Well, I don't know,” returned Joe. “I'm so awful dull. I'm only master
 of my own trade. It were always a pity as I was so awful dull; but it's
-no more of a pity now, than it was--this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) twelvemonth--don't you
+no more of a pity now, than it was--this [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) twelvemonth--don't you
 see?”
 
 What I had meant was, that when I came into my property and was able to
@@ -6328,7 +6328,7 @@ Mr. Trabb never removed his stern eye from the boy until he had
 deposited number four on the counter and was at a safe distance again.
 Then he commanded him to bring number five, and number eight. “And let
 me have none of your tricks here,” said Mr. Trabb, “or you shall repent
-it, you young scoundrel, the longest [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) you have to live.”
+it, you young scoundrel, the longest [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) you have to live.”
 
 Mr. Trabb then bent over number four, and in a sort of deferential
 confidence recommended it to me as a light article for summer wear, an
@@ -6348,9 +6348,9 @@ calculated me in the parlor, as if I were an estate and he the finest
 species of surveyor, and gave himself such a world of trouble that
 I felt that no suit of clothes could possibly remunerate him for his
 pains. When he had at last done and had appointed to send the articles
-to Mr. Pumblechook's on the Thurs[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) evening, he said, with his hand
+to Mr. Pumblechook's on the Thursday evening, he said, with his hand
 upon the parlor lock, “I know, sir, that London gentlemen cannot be
-expected to patronize local [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), as a rule; but if you would give me a
+expected to patronize local [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), as a rule; but if you would give me a
 turn now and then in the quality of a townsman, I should greatly esteem
 it. Good morning, sir, much obliged.--Door!”
 
@@ -6362,11 +6362,11 @@ was, that it had morally laid upon his back Trabb's boy.
 After this memorable event, I went to the hatter's, and the bootmaker's,
 and the hosier's, and felt rather like Mother Hubbard's dog whose outfit
 required the services of so many trades. I also went to the coach-office
-and took my place for seven o'clock on Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning. It was
+and took my place for seven o'clock on Saturday morning. It was
 not necessary to explain everywhere that I had come into a handsome
 property; but whenever I said anything to that effect, it followed that
 the officiating tradesman ceased to have his attention diverted through
-the window by the High S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, and concentrated his mind upon me. When
+the window by the High Street, and concentrated his mind upon me. When
 I had ordered everything I wanted, I directed my steps towards
 Pumblechook's, and, as I approached that gentleman's place of business,
 I saw him standing at his door.
@@ -6504,7 +6504,7 @@ sunshine, and found that I had slumberously got to the turnpike without
 having taken any account of the road.
 
 There, I was roused by Mr. Pumblechook's hailing me. He was a long way
-down the sunny s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, and was making expressive gestures for me to
+down the sunny street, and was making expressive gestures for me to
 stop. I stopped, and he came up breathless.
 
 “No, my dear friend,” said he, when he had recovered wind for speech.
@@ -6523,7 +6523,7 @@ I possessed was adapted to my new station. But I began packing that same
 afternoon, and wildly packed up things that I knew I should want next
 morning, in a fiction that there was not a moment to be lost.
 
-So, Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and Thurs[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), passed; and on Fri[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning I
+So, Tuesday, Wednesday, and Thursday, passed; and on Friday morning I
 went to Mr. Pumblechook's, to put on my new clothes and pay my visit to
 Miss Havisham. Mr. Pumblechook's own room was given up to me to dress
 in, and was decorated with clean towels expressly for the event. My
@@ -6538,7 +6538,7 @@ was not at home. I had not told him exactly when I meant to leave, and
 was not likely to shake hands with him again before departing. This was
 all as it should be, and I went out in my new array, fearfully ashamed
 of having to pass the shopman, and suspicious after all that I was at a
-personal disadvantage, something like Joe's in his Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) suit.
+personal disadvantage, something like Joe's in his Sunday suit.
 
 I went circuitously to Miss Havisham's by all the back ways, and rang
 at the bell constrainedly, on account of the stiff long fingers of my
@@ -6618,7 +6618,7 @@ clothes, made them into a bundle, and went back home in my older dress,
 carrying it--to speak the truth--much more at my ease too, though I had
 the bundle to carry.
 
-And now, those six [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s which were to have run out so slowly, had
+And now, those six days which were to have run out so slowly, had
 run out fast and were gone, and to-morrow looked me in the face more
 steadily than I could look at it. As the six evenings had dwindled
 away, to five, to four, to three, to two, I had become more and more
@@ -6641,7 +6641,7 @@ in the morning. I did not.
 All night there were coaches in my broken sleep, going to wrong places
 instead of to London, and having in the traces, now dogs, now cats, now
 pigs, now men,--never horses. Fantastic failures of journeys occupied
-me until the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) dawned and the birds were singing. Then, I got up and
+me until the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) dawned and the birds were singing. Then, I got up and
 partly dressed, and sat at the window to take a last look out, and in
 taking it fell asleep.
 
@@ -6668,7 +6668,7 @@ crying huskily “Hooroar!” and Biddy put her apron to her face.
 I walked away at a good pace, thinking it was easier to go than I had
 supposed it would be, and reflecting that it would never have done to
 have had an old shoe thrown after the coach, in sight of all the High
-S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t. I whistled and made nothing of going. But the village was very
+Street. I whistled and made nothing of going. But the village was very
 peaceful and quiet, and the light mists were solemnly rising, as if to
 show me the world, and I had been so innocent and little there, and all
 beyond was so unknown and great, that in a moment with a strong heave
@@ -6703,9 +6703,9 @@ This is the end of the first stage of Pip's expectations.
 ## Chapter XX
 
 The journey from our town to the metropolis was a journey of about five
-hours. It was a little past mid[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) when the four-horse stage-coach by
+hours. It was a little past midday when the four-horse stage-coach by
 which I was a passenger, got into the ravel of traffic frayed out about
-the Cross Keys, Wood S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, Cheapside, London.
+the Cross Keys, Wood Street, Cheapside, London.
 
 We Britons had at that time particularly settled that it was treasonable
 to doubt our having and our being the best of everything: otherwise,
@@ -6720,7 +6720,7 @@ as many capes to his greasy great-coat as he was years old, packed me
 up in his coach and hemmed me in with a folding and jingling barrier of
 steps, as if he were going to take me fifty miles. His getting on his
 box, which I remember to have been decorated with an old weather-stained
-pea-green hammercloth moth-eaten into rags, was quite a [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of time.
+pea-green hammercloth moth-eaten into rags, was quite a [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) of time.
 It was a wonderful equipage, with six great coronets outside, and ragged
 things behind for I don't know how many footmen to hold on by, and
 a harrow below them, to prevent amateur footmen from yielding to the
@@ -6730,7 +6730,7 @@ I had scarcely had time to enjoy the coach and to think how like a
 straw-yard it was, and yet how like a rag-shop, and to wonder why
 the horses' nose-bags were kept inside, when I observed the coachman
 beginning to get down, as if we were going to stop presently. And stop
-we presently did, in a gloomy s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, at certain offices with an open
+we presently did, in a gloomy street, at certain offices with an open
 door, whereon was painted MR. JAGGERS.
 
 “How much?” I asked the coachman.
@@ -6796,7 +6796,7 @@ there. I wondered whether the two swollen faces were of Mr. Jaggers's
 family, and, if he were so unfortunate as to have had a pair of such
 ill-looking relations, why he stuck them on that dusty perch for the
 blacks and flies to settle on, instead of giving them a place at home.
-Of course I had no experience of a London summer [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and my spirits may
+Of course I had no experience of a London summer [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and my spirits may
 have been oppressed by the hot exhausted air, and by the dust and grit
 that lay thick on everything. But I sat wondering and waiting in Mr.
 Jaggers's close room, until I really could not bear the two casts on the
@@ -6806,7 +6806,7 @@ When I told the clerk that I would take a turn in the air while I
 waited, he advised me to go round the corner and I should come into
 Smithfield. So I came into Smithfield; and the shameful place, being all
 asmear with filth and fat and blood and foam, seemed to stick to me. So,
-I rubbed it off with all possible speed by turning into a s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t where
+I rubbed it off with all possible speed by turning into a street where
 I saw the great black dome of Saint Paul's bulging at me from behind a
 grim stone building which a bystander said was Newgate Prison. Following
 the wall of the jail, I found the roadway covered with straw to deaden
@@ -6818,14 +6818,14 @@ While I looked about me here, an exceedingly dirty and partially drunk
 minister of justice asked me if I would like to step in and hear a
 trial or so: informing me that he could give me a front place for half a
 crown, whence I should command a full view of the Lord Chief Justice in
-his wig and robes,--mentioning that awful personage like wax[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and
+his wig and robes,--mentioning that awful personage like waxwork, and
 presently offering him at the reduced price of eighteen-pence. As I
 declined the proposal on the plea of an appointment, he was so good as
 to take me into a yard and show me where the gallows was kept, and also
 where people were publicly whipped, and then he showed me the Debtors'
 Door, out of which culprits came to be hanged; heightening the interest
 of that dreadful portal by giving me to understand that “four on 'em”
-would come out at that door the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after to-morrow at eight in the
+would come out at that door the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) after to-morrow at eight in the
 morning, to be killed in a row. This was horrible, and gave me a
 sickening idea of London; the more so as the Lord Chief Justice's
 proprietor wore (from his hat down to his boots and up again to his
@@ -7022,7 +7022,7 @@ standing, from a sandwich-box and a pocket-flask of sherry (he seemed to
 bully his very sandwich as he ate it), informed me what arrangements he
 had made for me. I was to go to “Barnard's Inn,” to young Mr. Pocket's
 rooms, where a bed had been sent in for my accommodation; I was to
-remain with young Mr. Pocket until Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); on Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) I was to go with
+remain with young Mr. Pocket until Monday; on Monday I was to go with
 him to his father's house on a visit, that I might try how I liked it.
 Also, I was told what my allowance was to be,--it was a very liberal
 one,--and had handed to me from one of my guardian's drawers, the cards
@@ -7041,7 +7041,7 @@ pleased.
 
 I then found that Wemmick was the clerk in the next room. Another clerk
 was rung down from upstairs to take his place while he was out, and I
-accompanied him into the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, after shaking hands with my guardian.
+accompanied him into the street, after shaking hands with my guardian.
 We found a new set of people lingering outside, but Wemmick made a way
 among them by saying coolly yet decisively, “I tell you it's no use; he
 won't have a word to say to one of you;” and we soon got clear of them,
@@ -7054,7 +7054,7 @@ and went on side by side.
 ## Chapter XXI
 
 Casting my eyes on Mr. Wemmick as we went along, to see what he was
-like in the light of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), I found him to be a dry man, rather short in
+like in the light of [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), I found him to be a dry man, rather short in
 stature, with a square wooden face, whose expression seemed to have been
 imperfectly chipped out with a dull-edged chisel. There were some marks
 in it that might have been dimples, if the material had been softer and
@@ -7099,7 +7099,7 @@ it.”
 say.”
 
 He wore his hat on the back of his head, and looked straight before him:
-walking in a self-contained way as if there were nothing in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts
+walking in a self-contained way as if there were nothing in the streets
 to claim his attention. His mouth was such a post-office of a mouth
 that he had a mechanical appearance of smiling. We had got to the top of
 Holborn Hill before I knew that it was merely a mechanical appearance,
@@ -7132,7 +7132,7 @@ Tom-cats.
 
 We entered this haven through a wicket-gate, and were disgorged by an
 introductory passage into a melancholy little square that looked to me
-like a flat burying-ground. I thought it had the most dismal [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s in
+like a flat burying-ground. I thought it had the most dismal trees in
 it, and the most dismal sparrows, and the most dismal cats, and the most
 dismal houses (in number half a dozen or so), that I had ever seen. I
 thought the windows of the sets of chambers into which those houses were
@@ -7156,7 +7156,7 @@ that I looked in dismay at Mr. Wemmick. “Ah!” said he, mistaking me;
 
 He led me into a corner and conducted me up a flight of stairs,--which
 appeared to me to be slowly collapsing into sawdust, so that one of
-those [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s the upper lodgers would look out at their doors and find
+those days the upper lodgers would look out at their doors and find
 themselves without the means of coming down,--to a set of chambers on
 the top floor. MR. POCKET, JUN., was painted on the door, and there was
 a label on the letter-box, “Return shortly.”
@@ -7167,9 +7167,9 @@ don't want me any more?”
 “No, thank you,” said I.
 
 “As I keep the cash,” Mr. Wemmick observed, “we shall most likely meet
-pretty often. Good [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
+pretty often. Good [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).”
 
-“Good [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
+“Good [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).”
 
 I put out my hand, and Mr. Wemmick at first looked at it as if he
 thought I wanted something. Then he looked at me, and said, correcting
@@ -7181,7 +7181,7 @@ I was rather confused, thinking it must be out of the London fashion,
 but said yes.
 
 “I have got so out of it!” said Mr. Wemmick,--“except at last. Very
-glad, I'm sure, to make your acquaintance. Good [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)!”
+glad, I'm sure, to make your acquaintance. Good [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)!”
 
 When we had shaken hands and he was gone, I opened the staircase window
 and had nearly beheaded myself, for, the lines had rotted away, and it
@@ -7204,7 +7204,7 @@ breath.
 “Mr. Pocket?” said I.
 
 “Dear me!” he exclaimed. “I am extremely sorry; but I knew there was a
-coach from your part of the country at mid[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and I thought you would
+coach from your part of the country at midday, and I thought you would
 come by that one. The fact is, I have been out on your account,--not
 that that is any excuse,--for I thought, coming from the country, you
 might like a little fruit after dinner, and I went to Covent Garden
@@ -7226,7 +7226,7 @@ of my head, and as if this must be a dream.
 
 “Pray come in,” said Mr. Pocket, Junior. “Allow me to lead the way. I am
 rather bare here, but I hope you'll be able to make out tolerably well
-till Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). My father thought you would get on more agreeably through
+till Monday. My father thought you would get on more agreeably through
 to-morrow with me than with him, and might like to take a walk about
 London. I am sure I shall be very happy to show London to you. As to our
 table, you won't find that bad, I hope, for it will be supplied from our
@@ -7320,7 +7320,7 @@ Miss Havisham to wreak revenge on all the male sex.”
 
 “Dear me! It's quite a story, and shall be saved till dinner-time. And
 now let me take the liberty of asking you a question. How did you come
-there, that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?”
+there, that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)?”
 
 I told him, and he was attentive until I had finished, and then burst
 out laughing again, and asked me if I was sore afterwards? I didn't
@@ -7336,7 +7336,7 @@ her confidence when nobody else has?”
 
 This was bringing me (I felt) towards dangerous ground. I answered with
 a constraint I made no attempt to disguise, that I had seen Mr. Jaggers
-in Miss Havisham's house on the very [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of our combat, but never at any
+in Miss Havisham's house on the very [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) of our combat, but never at any
 other time, and that I believed he had no recollection of having ever
 seen me there.
 
@@ -7360,9 +7360,9 @@ He was still a pale young gentleman, and had a certain conquered languor
 about him in the midst of his spirits and briskness, that did not seem
 indicative of natural strength. He had not a handsome face, but it was
 better than handsome: being extremely amiable and cheerful. His figure
-was a little ungainly, as in the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s when my knuckles had taken such
+was a little ungainly, as in the days when my knuckles had taken such
 liberties with it, but it looked as if it would always be light and
-young. Whether Mr. Trabb's local [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) would have sat more gracefully on
+young. Whether Mr. Trabb's local [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) would have sat more gracefully on
 him than on me, may be a question; but I am conscious that he carried
 off his rather old clothes much better than I carried off my new suit.
 
@@ -7403,7 +7403,7 @@ music by Handel, called the Harmonious Blacksmith.”
 because the dinner is of your providing.”
 
 This I would not hear of, so he took the top, and I faced him. It was a
-nice little dinner,--seemed to me then a very Lord [Mayor](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/mayor.zip)'s Feast,--and
+nice little dinner,--seemed to me then a very Lord [Mayor](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/mayor.zip)'s Feast,--and
 it acquired additional relish from being eaten under those independent
 circumstances, with no old people by, and with London all around us.
 This again was heightened by a certain gypsy character that set the
@@ -7436,12 +7436,12 @@ He offered these friendly suggestions in such a lively way, that we both
 laughed and I scarcely blushed.
 
 “Now,” he pursued, “concerning Miss Havisham. Miss Havisham, you must
-know, was a spoilt [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip). Her mother died when she was a baby, and her
+know, was a spoilt [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip). Her mother died when she was a baby, and her
 father denied her nothing. Her father was a country gentleman down in
 your part of the world, and was a brewer. I don't know why it should
 be a crack thing to be a brewer; but it is indisputable that while you
 cannot possibly be genteel and bake, you may be as genteel as never was
-and brew. You see it every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
+and brew. You see it every [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).”
 
 “Yet a gentleman may not keep a public-house; may he?” said I.
 
@@ -7449,9 +7449,9 @@ and brew. You see it every [day](https://jsl-voyant.pennds.org/?input=https://js
 gentleman. Well! Mr. Havisham was very rich and very proud. So was his
 daughter.”
 
-“Miss Havisham was an only [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)?” I hazarded.
+“Miss Havisham was an only [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip)?” I hazarded.
 
-“Stop a moment, I am coming to that. No, she was not an only [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip);
+“Stop a moment, I am coming to that. No, she was not an only [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip);
 she had a half-brother. Her father privately married again--his cook, I
 rather think.”
 
@@ -7523,9 +7523,9 @@ was so inveterate against her?
 intended husband, with being disappointed in the hope of fawning upon
 her for his own advancement, and, if he were to go to her now, it would
 look true--even to him--and even to her. To return to the man and make
-an end of him. The marriage [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was fixed, the wedding dresses were
+an end of him. The marriage [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) was fixed, the wedding dresses were
 bought, the wedding tour was planned out, the wedding guests were
-invited. The [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) came, but not the bridegroom. He wrote her a letter--”
+invited. The [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) came, but not the bridegroom. He wrote her a letter--”
 
 “Which she received,” I struck in, “when she was dressing for her
 marriage? At twenty minutes to nine?”
@@ -7535,7 +7535,7 @@ afterwards stopped all the clocks. What was in it, further than that
 it most heartlessly broke the marriage off, I can't tell you, because I
 don't know. When she recovered from a bad illness that she had, she
 laid the whole place waste, as you have seen it, and she has never since
-looked upon the light of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
+looked upon the light of [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).”
 
 “Is that all the story?” I asked, after considering it.
 
@@ -7672,29 +7672,29 @@ Yet, having already made his fortune in his own mind, he was so
 unassuming with it that I felt quite grateful to him for not being
 puffed up. It was a pleasant addition to his naturally pleasant ways,
 and we got on famously. In the evening we went out for a walk in the
-s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts, and went half-price to the Theatre; and next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) we went to
+streets, and went half-price to the Theatre; and next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) we went to
 church at Westminster Abbey, and in the afternoon we walked in the
 Parks; and I wondered who shod all the horses there, and wished Joe did.
 
-On a moderate computation, it was many months, that Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), since I had
+On a moderate computation, it was many months, that Sunday, since I had
 left Joe and Biddy. The space interposed between myself and them partook
 of that expansion, and our marshes were any distance off. That I could
 have been at our old church in my old church-going clothes, on the very
-last Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) that ever was, seemed a combination of impossibilities,
-geographical and social, solar and lunar. Yet in the London s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts so
+last Sunday that ever was, seemed a combination of impossibilities,
+geographical and social, solar and lunar. Yet in the London streets so
 crowded with people and so brilliantly lighted in the dusk of evening,
 there were depressing hints of reproaches for that I had put the poor
 old kitchen at home so far away; and in the dead of night, the footsteps
 of some incapable impostor of a porter mooning about Barnard's Inn,
 under pretence of watching it, fell hollow on my heart.
 
-On the Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning at a quarter before nine, Herbert went to
+On the Monday morning at a quarter before nine, Herbert went to
 the counting-house to report himself,--to look about him, too, I
 suppose,--and I bore him company. He was to come away in an hour or
 two to attend me to Hammersmith, and I was to wait about for him. It
 appeared to me that the eggs from which young Insurers were hatched were
 incubated in dust and heat, like the eggs of ostriches, judging from the
-places to which those incipient giants repaired on a Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning. Nor
+places to which those incipient giants repaired on a Monday morning. Nor
 did the counting-house where Herbert assisted, show in my eyes as at
 all a good Observatory; being a back second floor up a yard, of a grimy
 presence in all particulars, and with a look into another back second
@@ -7713,20 +7713,20 @@ went back to Barnard's Inn and got my little portmanteau, and then took
 coach for Hammersmith. We arrived there at two or three o'clock in
 the afternoon, and had very little way to walk to Mr. Pocket's house.
 Lifting the latch of a gate, we passed direct into a little garden
-overlooking the river, where Mr. Pocket's [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren were playing
+overlooking the river, where Mr. Pocket's children were playing
 about. And unless I deceive myself on a point where my interests or
 prepossessions are certainly not concerned, I saw that Mr. and Mrs.
-Pocket's [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren were not growing up or being brought up, but were
+Pocket's children were not growing up or being brought up, but were
 tumbling up.
 
-Mrs. Pocket was sitting on a garden chair under a [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip), reading, with
+Mrs. Pocket was sitting on a garden chair under a [tree](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/tree.zip), reading, with
 her legs upon another garden chair; and Mrs. Pocket's two nurse-maids
-were looking about them while the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren played. “Mamma,” said
+were looking about them while the children played. “Mamma,” said
 Herbert, “this is young Mr. Pip.” Upon which Mrs. Pocket received me
 with an appearance of amiable dignity.
 
 “Master Alick and Miss Jane,” cried one of the nurses to two of the
-[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, “if you go a bouncing up against them bushes you'll fall over
+children, “if you go a bouncing up against them bushes you'll fall over
 into the river and be drownded, and what'll your pa say then?”
 
 At the same time this nurse picked up Mrs. Pocket's handkerchief, and
@@ -7757,13 +7757,13 @@ of air, wailing dolefully.
 surprising. “Make haste up, Millers.”
 
 Millers, who was the other nurse, retired into the house, and by degrees
-the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)'s wailing was hushed and stopped, as if it were a young
+the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip)'s wailing was hushed and stopped, as if it were a young
 ventriloquist with something in its mouth. Mrs. Pocket read all the
 time, and I was curious to know what the book could be.
 
 We were waiting, I supposed, for Mr. Pocket to come out to us; at any
 rate we waited there, and so I had an opportunity of observing the
-remarkable family phenomenon that whenever any of the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren strayed
+remarkable family phenomenon that whenever any of the children strayed
 near Mrs. Pocket in their play, they always tripped themselves up and
 tumbled over her,--always very much to her momentary astonishment, and
 their own more enduring lamentation. I was at a loss to account for
@@ -7786,13 +7786,13 @@ under your skirts like that, who's to help tumbling? Here! Take the
 baby, Mum, and give me your book.”
 
 Mrs. Pocket acted on the advice, and inexpertly danced the infant a
-little in her lap, while the other [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren played about it. This had
+little in her lap, while the other children played about it. This had
 lasted but a very short time, when Mrs. Pocket issued summary orders
 that they were all to be taken into the house for a nap. Thus I made the
 second discovery on that first occasion, that the nurture of the little
 Pockets consisted of alternately tumbling up and lying down.
 
-Under these circumstances, when Flopson and Millers had got the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren
+Under these circumstances, when Flopson and Millers had got the children
 into the house, like a little flock of sheep, and Mr. Pocket came out
 of it to make my acquaintance, I was not much surprised to find that Mr.
 Pocket was a gentleman with a rather perplexed expression of face, and
@@ -7889,7 +7889,7 @@ early in life, he had impaired his prospects and taken up the calling
 of a Grinder. After grinding a number of dull blades,--of whom it was
 remarkable that their fathers, when influential, were always going to
 help him to preferment, but always forgot to do it when the blades had
-left the Grindstone,--he had wearied of that poor [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) and had come to
+left the Grindstone,--he had wearied of that poor [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) and had come to
 London. Here, after gradually failing in loftier hopes, he had “read”
 with divers who had lacked opportunities or neglected them, and had
 refurbished divers others for special occasions, and had turned his
@@ -7901,7 +7901,7 @@ Mr. and Mrs. Pocket had a toady neighbor; a widow lady of that highly
 sympathetic nature that she agreed with everybody, blessed everybody,
 and shed smiles and tears on everybody, according to circumstances. This
 lady's name was Mrs. Coiler, and I had the honor of taking her down to
-dinner on the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of my installation. She gave me to understand on the
+dinner on the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) of my installation. She gave me to understand on the
 stairs, that it was a blow to dear Mrs. Pocket that dear Mr. Pocket
 should be under the necessity of receiving gentlemen to read with him.
 That did not extend to me, she told me in a gush of love and confidence
@@ -7940,7 +7940,7 @@ as a woman and a sister. No one but themselves and Mrs. Coiler the toady
 neighbor showed any interest in this part of the conversation, and it
 appeared to me that it was painful to Herbert; but it promised to last
 a long time, when the page came in with the announcement of a domestic
-affliction. It was, in effect, that the cook had mislaid the [beef](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/beef.zip). To my
+affliction. It was, in effect, that the cook had mislaid the [beef](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/beef.zip). To my
 unutterable amazement, I now, for the first time, saw Mr. Pocket
 relieve his mind by going through a performance that struck me as very
 extraordinary, but which made no impression on anybody else, and
@@ -7960,13 +7960,13 @@ when she made an occasional bounce upon Startop (who said very little to
 her), or upon Drummle (who said less), I rather envied them for being on
 the opposite side of the table.
 
-After dinner the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren were introduced, and Mrs. Coiler made admiring
+After dinner the children were introduced, and Mrs. Coiler made admiring
 comments on their eyes, noses, and legs,--a sagacious way of improving
 their minds. There were four little girls, and two little boys, besides
 the baby who might have been either, and the baby's next successor who
 was as yet neither. They were brought in by Flopson and Millers, much as
 though those two non-commissioned officers had been recruiting somewhere
-for [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren and had enlisted these, while Mrs. Pocket looked at the
+for children and had enlisted these, while Mrs. Pocket looked at the
 young Nobles that ought to have been as if she rather thought she had
 had the pleasure of inspecting them before, but didn't quite know what
 to make of them.
@@ -7984,7 +7984,7 @@ and dance to baby, do!”
 One of the little girls, a mere mite who seemed to have prematurely
 taken upon herself some charge of the others, stepped out of her place
 by me, and danced to and from the baby until it left off crying, and
-laughed. Then, all the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren laughed, and Mr. Pocket (who in the
+laughed. Then, all the children laughed, and Mr. Pocket (who in the
 meantime had twice endeavored to lift himself up by the hair) laughed,
 and we all laughed and were glad.
 
@@ -8006,7 +8006,7 @@ left her place, and with many small artifices coaxed the dangerous
 weapon away. Mrs. Pocket finishing her orange at about the same time,
 and not approving of this, said to Jane,--
 
-“You naughty [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), how dare you? Go and sit down this instant!”
+“You naughty [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip), how dare you? Go and sit down this instant!”
 
 “Mamma dear,” lisped the little girl, “baby ood have put hith eyeth
 out.”
@@ -8056,7 +8056,7 @@ face, and was carried out in the highest state of mutiny. And it gained
 its point after all, for I saw it through the window within a few
 minutes, being nursed by little Jane.
 
-It happened that the other five [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren were left behind at the
+It happened that the other five children were left behind at the
 dinner-table, through Flopson's having some private engagement, and
 their not being anybody else's business. I thus became aware of the
 mutual relations between them and Mr. Pocket, which were exemplified in
@@ -8137,7 +8137,7 @@ bed and leave him.
 ---
 ## Chapter XXIV
 
-After two or three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, when I had established myself in my room and
+After two or three days, when I had established myself in my room and
 had gone backwards and forwards to London several times, and had ordered
 all I wanted of my tradesmen, Mr. Pocket and I had a long talk together.
 He knew more of my intended career than I knew myself, for he referred
@@ -8162,7 +8162,7 @@ him as having anything ludicrous about him--or anything but what was
 serious, honest, and good--in his tutor communication with me.
 
 When these points were settled, and so far carried out as that I had
-begun to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) in earnest, it occurred to me that if I could retain my
+begun to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) in earnest, it occurred to me that if I could retain my
 bedroom in Barnard's Inn, my life would be agreeably varied, while my
 manners would be none the worse for Herbert's society. Mr. Pocket did
 not object to this arrangement, but urged that before any step could
@@ -8275,7 +8275,7 @@ me anything I pleased,--and who was in an excessive white-perspiration,
 as if he had been trying his art on himself. In a back room, a
 high-shouldered man with a face-ache tied up in dirty flannel, who was
 dressed in old black clothes that bore the appearance of having been
-waxed, was stooping over his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of making fair copies of the notes of
+waxed, was stooping over his [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) of making fair copies of the notes of
 the other two gentlemen, for Mr. Jaggers's own use.
 
 This was all the establishment. When we went downstairs again, Wemmick
@@ -8323,7 +8323,7 @@ Wemmick was again apostrophizing), “and you said you could write Greek.
 Yah, Bounceable! What a liar you were! I never met such a liar as you!”
 Before putting his late friend on his shelf again, Wemmick touched the
 largest of his mourning rings and said, “Sent out to buy it for me, only
-the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before.”
+the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) before.”
 
 While he was putting up the other cast and coming down from the chair,
 the thought crossed my mind that all his personal jewelry was derived
@@ -8388,7 +8388,7 @@ the whole place in a mill; I only know that when I stole out on tiptoe,
 he was not on the side of the bench; for, he was making the legs of the
 old gentleman who presided, quite convulsive under the table, by his
 denunciations of his conduct as the representative of British law and
-justice in that chair that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
+justice in that chair that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).
 
 
 
@@ -8465,14 +8465,14 @@ putting the key of his safe down his back as the clock struck.
 “Certainly,” said I, “if you approve.”
 
 “Very much,” was Wemmick's reply, “for I have had my legs under the desk
-all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and shall be glad to stretch them. Now, I'll tell you what I
+all [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and shall be glad to stretch them. Now, I'll tell you what I
 have got for supper, Mr. Pip. I have got a stewed steak,--which is
 of home preparation,--and a cold roast fowl,--which is from the
 cook's-shop. I think it's tender, because the master of the shop was a
-Juryman in some cases of ours the other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and we let him down easy.
+Juryman in some cases of ours the other [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and we let him down easy.
 I reminded him of it when I bought the fowl, and I said, “Pick us out
 a good one, old Briton, because if we had chosen to keep you in the box
-another [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two, we could easily have done it.” He said to that,
+another [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) or two, we could easily have done it.” He said to that,
 “Let me make you a present of the best fowl in the shop.” I let him, of
 course. As far as it goes, it's property and portable. You don't object
 to an aged parent, I hope?”
@@ -8535,7 +8535,7 @@ watch-chain. That's real enough.”
 “Massive?” repeated Wemmick. “I think so. And his watch is a gold
 repeater, and worth a hundred pound if it's worth a penny. Mr. Pip,
 there are about seven hundred thieves in this town who know all about
-that watch; there's not a man, a woman, or a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), among them, who
+that watch; there's not a man, a woman, or a [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip), among them, who
 wouldn't identify the smallest link in that chain, and drop it as if it
 was red hot, if inveigled into touching it.”
 
@@ -8556,7 +8556,7 @@ I highly commended it, I think it was the smallest house I ever saw;
 with the queerest gothic windows (by far the greater part of them sham),
 and a gothic door almost too small to get in at.
 
-“That's a real flagstaff, you see,” said Wemmick, “and on Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s I
+“That's a real flagstaff, you see,” said Wemmick, “and on Sundays I
 run up a real flag. Then look here. After I have crossed this bridge, I
 hoist it up--so--and cut off the communication.”
 
@@ -8570,7 +8570,7 @@ fires. There he is, you see! And when you hear him go, I think you'll
 say he's a Stinger.”
 
 The piece of ordnance referred to, was mounted in a separate fortress,
-constructed of lattice-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip). It was protected from the weather by an
+constructed of lattice-[work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip). It was protected from the weather by an
 ingenious little tarpaulin contrivance in the nature of an umbrella.
 
 “Then, at the back,” said Wemmick, “out of sight, so as not to impede
@@ -8619,7 +8619,7 @@ him, if you please, like winking!”
 
 “This is a fine place of my son's, sir,” cried the old man, while I
 nodded as hard as I possibly could. “This is a pretty pleasure-ground,
-sir. This spot and these beautiful [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)s upon it ought to be kept
+sir. This spot and these beautiful works upon it ought to be kept
 together by the Nation, after my son's time, for the people's
 enjoyment.”
 
@@ -8683,7 +8683,7 @@ a brazen bijou over the fireplace designed for the suspension of a
 roasting-jack.
 
 There was a neat little girl in attendance, who looked after the Aged in
-the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). When she had laid the supper-cloth, the bridge was lowered to
+the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). When she had laid the supper-cloth, the bridge was lowered to
 give her means of egress, and she withdrew for the night. The supper was
 excellent; and though the Castle was rather subject to dry-rot insomuch
 that it tasted like a bad nut, and though the pig might have been
@@ -8727,7 +8727,7 @@ smelt of the scented soap like a perfumer's shop. It had an unusually
 large jack-towel on a roller inside the door, and he would wash his
 hands, and wipe them and dry them all over this towel, whenever he came
 in from a police court or dismissed a client from his room. When I and
-my friends repaired to him at six o'clock next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), he seemed to have
+my friends repaired to him at six o'clock next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), he seemed to have
 been engaged on a case of a darker complexion than usual, for we found
 him with his head butted into this closet, not only washing his hands,
 but laving his face and gargling his throat. And even when he had
@@ -8736,16 +8736,16 @@ penknife and scraped the case out of his nails before he put his coat
 on.
 
 There were some people slinking about as usual when we passed out into
-the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, who were evidently anxious to speak with him; but there was
+the street, who were evidently anxious to speak with him; but there was
 something so conclusive in the halo of scented soap which encircled
-his presence, that they gave it up for that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). As we walked along
+his presence, that they gave it up for that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). As we walked along
 westward, he was recognized ever and again by some face in the crowd of
-the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts, and whenever that happened he talked louder to me; but
+the streets, and whenever that happened he talked louder to me; but
 he never otherwise recognized anybody, or took notice that anybody
 recognized him.
 
-He conducted us to Gerrard S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, Soho, to a house on the south side of
-that s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t. Rather a stately house of its kind, but dolefully in want
+He conducted us to Gerrard Street, Soho, to a house on the south side of
+that street. Rather a stately house of its kind, but dolefully in want
 of painting, and with dirty windows. He took out his key and opened the
 door, and we all went into a stone hall, bare, gloomy, and little used.
 So, up a dark brown staircase into a series of three dark brown rooms on
@@ -8768,7 +8768,7 @@ and good, like his watch-chain. It had an official look, however, and
 there was nothing merely ornamental to be seen. In a corner was a little
 table of papers with a shaded lamp: so that he seemed to bring the
 office home with him in that respect too, and to wheel it out of an
-evening and fall to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip).
+evening and fall to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip).
 
 As he had scarcely seen my three companions until now,--for he and I had
 walked together,--he stood on the hearth-rug, after ringing the bell,
@@ -8966,11 +8966,11 @@ purpose.
 hauling out his gold repeater by its massive chain, “I am exceedingly
 sorry to announce that it's half past nine.”
 
-On this hint we all rose to depart. Before we got to the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t door,
+On this hint we all rose to depart. Before we got to the street door,
 Startop was cheerily calling Drummle “old boy,” as if nothing had
 happened. But the old boy was so far from responding, that he would not
 even walk to Hammersmith on the same side of the way; so Herbert and I,
-who remained in town, saw them going down the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t on opposite sides;
+who remained in town, saw them going down the street on opposite sides;
 Startop leading, and Drummle lagging behind in the shadow of the houses,
 much as he was wont to follow in his boat.
 
@@ -9019,11 +9019,11 @@ went home to the family hole.
 “I write this by request of Mr. Gargery, for to let you know that he
 is going to London in company with Mr. Wopsle and would be glad if
 agreeable to be allowed to see you. He would call at Barnard's Hotel
-Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning at nine o'clock, when if not agreeable please leave
+Tuesday morning at nine o'clock, when if not agreeable please leave
 word. Your poor sister is much the same as when you left. We talk of you
 in the kitchen every night, and wonder what you are saying and doing. If
 now considered in the light of a liberty, excuse it for the love of
-poor old [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s. No more, dear Mr. Pip, from your ever obliged, and
+poor old days. No more, dear Mr. Pip, from your ever obliged, and
 affectionate servant,
 
 “BIDDY.”
@@ -9034,8 +9034,8 @@ even though a gentleman, for you had ever a good heart, and he is a
 worthy, worthy man. I have read him all, excepting only the last little
 sentence, and he wishes me most particular to write again what larks.”
 
-I received this letter by the post on Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning, and therefore its
-appointment was for next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Let me confess exactly with what feelings
+I received this letter by the post on Monday morning, and therefore its
+appointment was for next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). Let me confess exactly with what feelings
 I looked forward to Joe's coming.
 
 Not with pleasure, though I was bound to him by so many ties; no;
@@ -9056,14 +9056,14 @@ vastly different from what I had found them, and I enjoyed the honor
 of occupying a few prominent pages in the books of a neighboring
 upholsterer. I had got on so fast of late, that I had even started a boy
 in boots,--top boots,--in bondage and slavery to whom I might have been
-said to pass my [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s. For, after I had made the monster (out of the
+said to pass my days. For, after I had made the monster (out of the
 refuse of my washerwoman's family), and had clothed him with a blue
 coat, canary waistcoat, white cravat, creamy breeches, and the boots
 already mentioned, I had to find him a little to do and a great deal
 to eat; and with both of those horrible requirements he haunted my
 existence.
 
-This avenging phantom was ordered to be on duty at eight on Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+This avenging phantom was ordered to be on duty at eight on Tuesday
 morning in the hall, (it was two feet square, as charged for
 floorcloth,) and Herbert suggested certain things for breakfast that he
 thought Joe would like. While I felt sincerely obliged to him for being
@@ -9071,7 +9071,7 @@ so interested and considerate, I had an odd half-provoked sense of
 suspicion upon me, that if Joe had been coming to see him, he wouldn't
 have been quite so brisk about it.
 
-However, I came into town on the Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night to be ready for Joe, and
+However, I came into town on the Monday night to be ready for Joe, and
 I got up early in the morning, and caused the sitting-room and
 breakfast-table to assume their most splendid appearance. Unfortunately
 the morning was drizzly, and an angel could not have concealed the fact
@@ -9096,7 +9096,7 @@ mat, but at last he came in.
 “Pip, how AIR you, Pip?”
 
 With his good honest face all glowing and shining, and his hat put
-down on the floor between us, he caught both my hands and [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed them
+down on the floor between us, he caught both my hands and worked them
 straight up and down, as if I had been the last-patented Pump.
 
 “I am glad to see you, Joe. Give me your hat.”
@@ -9142,7 +9142,7 @@ has lately occasioned so great a sensation in local dramatic circles.”
 
 “Why,” said Joe, “yes, there certainly were a peck of orange-peel.
 Partickler when he see the ghost. Though I put it to yourself, sir,
-whether it were calc'lated to keep a man up to his [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) with a good
+whether it were calc'lated to keep a man up to his [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) with a good
 hart, to be continiwally cutting in betwixt him and the Ghost with
 “Amen!” A man may have had a misfortun' and been in the Church,” said
 Joe, lowering his voice to an argumentative and feeling tone, “but
@@ -9195,9 +9195,9 @@ soon.
 
 “When did you come to town, Mr. Gargery?”
 
-“Were it yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) afternoon?” said Joe, after coughing behind his hand,
+“Were it yesterday afternoon?” said Joe, after coughing behind his hand,
 as if he had had time to catch the whooping-cough since he came. “No
-it were not. Yes it were. Yes. It were yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) afternoon” (with an
+it were not. Yes it were. Yes. It were yesterday afternoon” (with an
 appearance of mingled wisdom, relief, and strict impartiality).
 
 “Have you seen anything of London yet?”
@@ -9223,7 +9223,7 @@ As to his shirt-collar, and his coat-collar, they were perplexing to
 reflect upon,--insoluble mysteries both. Why should a man scrape himself
 to that extent, before he could consider himself full dressed? Why
 should he suppose it necessary to be purified by suffering for
-his holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) clothes? Then he fell into such unaccountable fits of
+his holiday clothes? Then he fell into such unaccountable fits of
 meditation, with his fork midway between his plate and his mouth; had
 his eyes attracted in such strange directions; was afflicted with such
 remarkable coughs; sat so far from the table, and dropped so much
@@ -9268,7 +9268,7 @@ by yourself.”
 his head, “though it signify little now, sir. Well, Pip; this same
 identical, which his manners is given to blusterous, come to me at
 the Bargemen (wot a pipe and a pint of beer do give refreshment to the
-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ingman, sir, and do not over stimilate), and his word were, 'Joseph,
+workingman, sir, and do not over stimilate), and his word were, 'Joseph,
 Miss Havisham she wish to speak to you.'”
 
 “Miss Havisham, Joe?”
@@ -9278,7 +9278,7 @@ rolled his eyes at the ceiling.
 
 “Yes, Joe? Go on, please.”
 
-“Next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), sir,” said Joe, looking at me as if I were a long way off,
+“Next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), sir,” said Joe, looking at me as if I were a long way off,
 “having cleaned myself, I go and I see Miss A.”
 
 “Miss A., Joe? Miss Havisham?”
@@ -9297,7 +9297,7 @@ errand, I should have given him more encouragement.
 
 “Biddy,” pursued Joe, “when I got home and asked her fur to write the
 message to you, a little hung back. Biddy says, 'I know he will be very
-glad to have it by word of mouth, it is holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) time, you want to see
+glad to have it by word of mouth, it is holiday time, you want to see
 him, go!' I have now concluded, sir,” said Joe, rising from his chair,
 “and, Pip, I wish you ever well and ever prospering to a greater and a
 greater height.”
@@ -9317,7 +9317,7 @@ me his hand.
 together, as I may say, and one man's a blacksmith, and one's a
 whitesmith, and one's a goldsmith, and one's a coppersmith. Diwisions
 among such must come, and must be met as they come. If there's been
-any fault at all to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), it's mine. You and me is not two figures to
+any fault at all to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), it's mine. You and me is not two figures to
 be together in London; nor yet anywheres else but what is private, and
 beknown, and understood among friends. It ain't that I am proud, but
 that I want to be right, as you shall never see me no more in these
@@ -9327,7 +9327,7 @@ you think of me in my forge dress, with my hammer in my hand, or even
 my pipe. You won't find half so much fault in me if, supposing as you
 should ever wish to see me, you come and put your head in at the forge
 window and see Joe the blacksmith, there, at the old anvil, in the old
-burnt apron, sticking to the old [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip). I'm awful dull, but I hope I've
+burnt apron, sticking to the old [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip). I'm awful dull, but I hope I've
 beat out something nigh the rights of this at last. And so GOD bless
 you, dear old Pip, old chap, GOD bless you!”
 
@@ -9336,7 +9336,7 @@ in him. The fashion of his dress could no more come in its way when he
 spoke these words than it could come in its way in Heaven. He touched me
 gently on the forehead, and went out. As soon as I could recover
 myself sufficiently, I hurried out after him and looked for him in the
-neighboring s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts; but he was gone.
+neighboring streets; but he was gone.
 
 
 
@@ -9344,7 +9344,7 @@ neighboring s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.penn
 ---
 ## Chapter XXVIII
 
-It was clear that I must repair to our town next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and in the first
+It was clear that I must repair to our town next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and in the first
 flow of my repentance, it was equally clear that I must stay at Joe's.
 But, when I had secured my box-place by to-morrow's coach, and had been
 down to Mr. Pocket's and back, I was not by any means convinced on the
@@ -9369,7 +9369,7 @@ imagine him casually produced in the tailor's shop, and confounding
 the disrespectful senses of Trabb's boy. On the other hand, Trabb's boy
 might worm himself into his intimacy and tell him things; or, reckless
 and desperate wretch as I knew he could be, might hoot him in the High
-S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t. My patroness, too, might hear of him, and not approve. On the
+Street. My patroness, too, might hear of him, and not approve. On the
 whole, I resolved to leave the Avenger behind.
 
 It was the afternoon coach by which I had taken my place, and, as winter
@@ -9414,7 +9414,7 @@ both convict and free, to have had allotted to him the smaller suit of
 clothes. His arms and legs were like great pincushions of those shapes,
 and his attire disguised him absurdly; but I knew his half-closed eye
 at one glance. There stood the man whom I had seen on the settle at the
-Three Jolly Bargemen on a Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night, and who had brought me down
+Three Jolly Bargemen on a Saturday night, and who had brought me down
 with his invisible gun!
 
 It was easy to make sure that as yet he knew me no more than if he had
@@ -9422,7 +9422,7 @@ never seen me in his life. He looked across at me, and his eye appraised
 my watch-chain, and then he incidentally spat and said something to the
 other convict, and they laughed and slued themselves round with a clink
 of their coupling manacle, and looked at something else. The great
-numbers on their backs, as if they were s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t doors; their coarse mangy
+numbers on their backs, as if they were street doors; their coarse mangy
 ungainly outer surface, as if they were lower animals; their ironed
 legs, apologetically garlanded with pocket-handkerchiefs; and the way
 in which all present looked at them and kept from them; made them (as
@@ -9516,14 +9516,14 @@ nothing of you?”
 “Not a ha'porth. Different gangs and different ships. He was tried again
 for prison breaking, and got made a Lifer.”
 
-“And was that--Honor!--the only time you [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed out, in this part of the
+“And was that--Honor!--the only time you worked out, in this part of the
 country?”
 
 “The only time.”
 
 “What might have been your opinion of the place?”
 
-“A most beastly place. Mudbank, mist, swamp, and [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip); [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), swamp,
+“A most beastly place. Mudbank, mist, swamp, and [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip); [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), swamp,
 mist, and mudbank.”
 
 They both execrated the place in very strong language, and gradually
@@ -9554,7 +9554,7 @@ undefined and vague, but there was great fear upon me. As I walked on to
 the hotel, I felt that a dread, much exceeding the mere apprehension of
 a painful or disagreeable recognition, made me tremble. I am confident
 that it took no distinctness of shape, and that it was the revival for a
-few minutes of the terror of [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)hood.
+few minutes of the terror of childhood.
 
 The coffee-room at the Blue Boar was empty, and I had not only ordered
 my dinner there, but had sat down to it, before the waiter knew me. As
@@ -9564,7 +9564,7 @@ if he should send Boots for Mr. Pumblechook?
 “No,” said I, “certainly not.”
 
 The waiter (it was he who had brought up the Great Remonstrance from the
-Commercials, on the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) when I was bound) appeared surprised, and
+Commercials, on the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) when I was bound) appeared surprised, and
 took the earliest opportunity of putting a dirty old copy of a local
 newspaper so directly in my way, that I took it up and read this
 paragraph:--
@@ -9576,7 +9576,7 @@ not universally acknowledged townsman TOOBY, the poet of our columns!)
 that the youth's earliest patron, companion, and friend, was a highly
 respected individual not entirely unconnected with the corn and seed
 trade, and whose eminently convenient and commodious business premises
-are situate within a hundred miles of the High S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t. It is not wholly
+are situate within a hundred miles of the High Street. It is not wholly
 irrespective of our personal feelings that we record HIM as the Mentor
 of our young Telemachus, for it is good to know that our town produced
 the founder of the latter's fortunes. Does the thought-contracted brow
@@ -9585,7 +9585,7 @@ fortunes? We believe that Quintin Matsys was the BLACKSMITH of Antwerp.
 VERB. SAP.
 
 I entertain a conviction, based upon large experience, that if in the
-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of my prosperity I had gone to the North Pole, I should have met
+days of my prosperity I had gone to the North Pole, I should have met
 somebody there, wandering Esquimaux or civilized man, who would have
 told me that Pumblechook was my earliest patron and the founder of my
 fortunes.
@@ -9669,7 +9669,7 @@ round him with an air of injury. “Now, do it look like it?”
 
 I asked him how long he had left Gargery's forge?
 
-“One [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) is so like another here,” he replied, “that I don't know
+“One [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) is so like another here,” he replied, “that I don't know
 without casting it up. However, I come here some time since you left.”
 
 “I could have told you that, Orlick.”
@@ -9680,7 +9680,7 @@ By this time we had come to the house, where I found his room to be one
 just within the side-door, with a little window in it looking on the
 courtyard. In its small proportions, it was not unlike the kind of place
 usually assigned to a gate-porter in Paris. Certain keys were hanging on
-the wall, to which he now added the gate key; and his patch[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)-covered
+the wall, to which he now added the gate key; and his patchwork-covered
 bed was in a little inner division or recess. The whole had a slovenly,
 confined, and sleepy look, like a cage for a human dormouse; while he,
 looming dark and heavy in the shadow of a corner by the window, looked
@@ -9807,7 +9807,7 @@ window of the forge, and flit away. In a word, it was impossible for me
 to separate her, in the past or in the present, from the innermost life
 of my life.
 
-It was settled that I should stay there all the rest of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and
+It was settled that I should stay there all the rest of the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and
 return to the hotel at night, and to London to-morrow. When we had
 conversed for a while, Miss Havisham sent us two out to walk in the
 neglected garden: on our coming in by and by, she said, I should wheel
@@ -9820,7 +9820,7 @@ quite composed and most decidedly not worshipping the hem of mine. As we
 drew near to the place of encounter, she stopped and said,--
 
 “I must have been a singular little creature to hide and see that fight
-that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); but I did, and I enjoyed it very much.”
+that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip); but I did, and I enjoyed it very much.”
 
 “You rewarded me very much.”
 
@@ -9864,7 +9864,7 @@ so set apart for her and assigned to her.
 The garden was too overgrown and rank for walking in with ease, and
 after we had made the round of it twice or thrice, we came out again
 into the brewery yard. I showed her to a nicety where I had seen her
-walking on the casks, that first old [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and she said, with a cold and
+walking on the casks, that first old [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and she said, with a cold and
 careless look in that direction, “Did I?” I reminded her where she had
 come out of the house and given me my meat and drink, and she said, “I
 don't remember.” “Not remember that you made me cry?” said I. “No,” said
@@ -9889,8 +9889,8 @@ What was it that was borne in upon my mind when she stood still and
 looked attentively at me? Anything that I had seen in Miss Havisham? No.
 In some of her looks and gestures there was that tinge of resemblance
 to Miss Havisham which may often be noticed to have been acquired by
-[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, from grown person with whom they have been much associated and
-secluded, and which, when [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)hood is passed, will produce a remarkable
+children, from grown person with whom they have been much associated and
+secluded, and which, when childhood is passed, will produce a remarkable
 occasional likeness of expression between faces that are otherwise quite
 different. And yet I could not trace this to Miss Havisham. I looked
 again, and though she was still looking at me, the suggestion was gone.
@@ -9905,7 +9905,7 @@ have never had any such thing.”
 
 In another moment we were in the brewery, so long disused, and she
 pointed to the high gallery where I had seen her going out on that same
-first [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and told me she remembered to have been up there, and to have
+first [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and told me she remembered to have been up there, and to have
 seen me standing scared below. As my eyes followed her white hand, again
 the same dim suggestion that I could not possibly grasp crossed me. My
 involuntary start occasioned her to lay her hand upon my arm. Instantly
@@ -9922,7 +9922,7 @@ it off.
 soon be expecting you at your old post, though I think that might be
 laid aside now, with other old belongings. Let us make one more round
 of the garden, and then go in. Come! You shall not shed tears for my
-cruelty to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); you shall be my Page, and give me your shoulder.”
+cruelty to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip); you shall be my Page, and give me your shoulder.”
 
 Her handsome dress had trailed upon the ground. She held it in one hand
 now, and with the other lightly touched my shoulder as we walked. We
@@ -9985,7 +9985,7 @@ Love her!”
 
 She said the word often enough, and there could be no doubt that she
 meant to say it; but if the often repeated word had been hate instead of
-love--despair--revenge--dire [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)--it could not have sounded from her
+love--despair--revenge--dire [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip)--it could not have sounded from her
 lips more like a curse.
 
 “I'll tell you,” said she, in the same hurried passionate whisper, “what
@@ -10146,7 +10146,7 @@ mute and sleeping now?
 
 Ah me! I thought those were high and great emotions. But I never thought
 there was anything low and small in my keeping away from Joe, because
-I knew she would be contemptuous of him. It was but a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) gone, and Joe
+I knew she would be contemptuous of him. It was but a [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) gone, and Joe
 had brought the tears into my eyes; they had soon dried, God forgive me!
 soon dried.
 
@@ -10172,7 +10172,7 @@ difficult to deal with. “Oh no he won't,” said my guardian, making his
 pocket-handkerchief-point, with perfect confidence; “I should like to
 see him argue the question with me.”
 
-As we were going back together to London by the mid[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) coach, and as I
+As we were going back together to London by the midday coach, and as I
 breakfasted under such terrors of Pumblechook that I could scarcely hold
 my cup, this gave me an opportunity of saying that I wanted a walk, and
 that I would go on along the London road while Mr. Jaggers was occupied,
@@ -10180,20 +10180,20 @@ if he would let the coachman know that I would get into my place when
 overtaken. I was thus enabled to fly from the Blue Boar immediately
 after breakfast. By then making a loop of about a couple of miles into
 the open country at the back of Pumblechook's premises, I got round into
-the High S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t again, a little beyond that pitfall, and felt myself in
+the High Street again, a little beyond that pitfall, and felt myself in
 comparative security.
 
 It was interesting to be in the quiet old town once more, and it was not
 disagreeable to be here and there suddenly recognized and stared after.
 One or two of the tradespeople even darted out of their shops and went
-a little way down the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t before me, that they might turn, as if they
+a little way down the street before me, that they might turn, as if they
 had forgotten something, and pass me face to face,--on which occasions I
 don't know whether they or I made the worse pretence; they of not doing
 it, or I of not seeing it. Still my position was a distinguished one,
 and I was not at all dissatisfied with it, until Fate threw me in the
 way of that unlimited miscreant, Trabb's boy.
 
-Casting my eyes along the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t at a certain point of my progress, I
+Casting my eyes along the street at a certain point of my progress, I
 beheld Trabb's boy approaching, lashing himself with an empty blue bag.
 Deeming that a serene and unconscious contemplation of him would best
 beseem me, and would be most likely to quell his evil mind, I advanced
@@ -10218,11 +10218,11 @@ more afflicted, and with uplifted hands as if beseeching for mercy. His
 sufferings were hailed with the greatest joy by a knot of spectators,
 and I felt utterly confounded.
 
-I had not got as much further down the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t as the post-office, when I
+I had not got as much further down the street as the post-office, when I
 again beheld Trabb's boy shooting round by a back way. This time, he was
 entirely changed. He wore the blue bag in the manner of my great-coat,
 and was strutting along the pavement towards me on the opposite side of
-the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, attended by a company of delighted young friends to whom he
+the street, attended by a company of delighted young friends to whom he
 from time to time exclaimed, with a wave of his hand, “Don't know yah!”
 Words cannot state the amount of aggravation and injury wreaked upon
 me by Trabb's boy, when passing abreast of me, he pulled up his
@@ -10237,12 +10237,12 @@ speak, ejected by it into the open country.
 
 But unless I had taken the life of Trabb's boy on that occasion, I
 really do not even now see what I could have done save endure. To
-have struggled with him in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, or to have exacted any lower
+have struggled with him in the street, or to have exacted any lower
 recompense from him than his heart's best blood, would have been
 futile and degrading. Moreover, he was a boy whom no man could hurt; an
 invulnerable and dodging serpent who, when chased into a corner, flew
 out again between his captor's legs, scornfully yelping. I wrote,
-however, to Mr. Trabb by next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)'s post, to say that Mr. Pip must
+however, to Mr. Trabb by next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)'s post, to say that Mr. Pip must
 decline to deal further with one who could so far forget what he owed to
 the best interests of society, as to employ a boy who excited Loathing
 in every respectable mind.
@@ -10296,13 +10296,13 @@ way, “Exactly. Well?”
 “Told me! You have never told me when you have got your hair cut, but I
 have had senses to perceive it. You have always adored her, ever since
 I have known you. You brought your adoration and your portmanteau here
-together. Told me! Why, you have always told me all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) long. When you
+together. Told me! Why, you have always told me all [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) long. When you
 told me your own story, you told me plainly that you began adoring her
 the first time you saw her, when you were very young indeed.”
 
 “Very well, then,” said I, to whom this was a new and not unwelcome
 light, “I have never left off adoring her. And she has come back, a most
-beautiful and most elegant creature. And I saw her yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). And if I
+beautiful and most elegant creature. And I saw her yesterday. And if I
 adored her before, I now doubly adore her.”
 
 “Lucky for you then, Handel,” said Herbert, “that you are picked out for
@@ -10319,7 +10319,7 @@ something more to say?”
 
 “I am ashamed to say it,” I returned, “and yet it's no worse to say it
 than to think it. You call me a lucky fellow. Of course, I am. I was a
-blacksmith's boy but yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); I am--what shall I say I am--to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?”
+blacksmith's boy but yesterday; I am--what shall I say I am--to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)?”
 
 “Say a good fellow, if you want a phrase,” returned Herbert, smiling,
 and clapping his hand on the back of mine--“a good fellow, with
@@ -10330,7 +10330,7 @@ I stopped for a moment to consider whether there really was this mixture
 in my character. On the whole, I by no means recognized the analysis,
 but thought it not worth disputing.
 
-“When I ask what I am to call myself to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Herbert,” I went on, “I
+“When I ask what I am to call myself to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), Herbert,” I went on, “I
 suggest what I have in my thoughts. You say I am lucky. I know I have
 done nothing to raise myself in life, and that Fortune alone has raised
 me; that is being very lucky. And yet, when I think of Estella--”
@@ -10344,7 +10344,7 @@ ground, as you did just now, I may still say that on the constancy of
 one person (naming no person) all my expectations depend. And at the
 best, how indefinite and unsatisfactory, only to know so vaguely what
 they are!” In saying this, I relieved my mind of what had always been
-there, more or less, though no doubt most since yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
+there, more or less, though no doubt most since yesterday.
 
 “Now, Handel,” Herbert replied, in his gay, hopeful way, “it seems to me
 that in the despondency of the tender passion, we are looking into our
@@ -10440,12 +10440,12 @@ in its housekeeping.”
 “There is always plenty, Herbert,” said I, to say something encouraging.
 
 “O yes! and so the dustman says, I believe, with the strongest approval,
-and so does the marine-store shop in the back s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t. Gravely, Handel,
+and so does the marine-store shop in the back street. Gravely, Handel,
 for the subject is grave enough, you know how it is as well as I do. I
 suppose there was a time once when my father had not given matters up;
 but if ever there was, the time is gone. May I ask you if you have ever
 had an opportunity of remarking, down in your part of the country,
-that the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren of not exactly suitable marriages are always most
+that the children of not exactly suitable marriages are always most
 particularly anxious to be married?”
 
 This was such a singular question, that I asked him in return, “Is it
@@ -10595,7 +10595,7 @@ of a primeval forest, with a kind of small ecclesiastical wash-house
 on one side, and a turnpike gate on the other. Mr. Wopsle in a
 comprehensive black cloak, being descried entering at the turnpike,
 the gravedigger was admonished in a friendly way, “Look out! Here's the
-undertaker a coming, to see how you're a getting on with your [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)!”
+undertaker a coming, to see how you're a getting on with your [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip)!”
 I believe it is well known in a constitutional country that Mr. Wopsle
 could not possibly have returned the skull, after moralizing over it,
 without dusting his fingers on a white napkin taken from his breast;
@@ -10616,7 +10616,7 @@ and yet I had a latent impression that there was something decidedly
 fine in Mr. Wopsle's elocution,--not for old associations' sake, I am
 afraid, but because it was very slow, very dreary, very uphill and
 downhill, and very unlike any way in which any man in any natural
-circumstances of life or [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) ever expressed himself about anything.
+circumstances of life or [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) ever expressed himself about anything.
 When the tragedy was over, and he had been called for and hooted, I said
 to Herbert, “Let us go at once, or perhaps we shall meet him.”
 
@@ -10752,13 +10752,13 @@ twenty words of it.
 ---
 ## Chapter XXXII
 
-One [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) when I was busy with my books and Mr. Pocket, I received a note
+One [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) when I was busy with my books and Mr. Pocket, I received a note
 by the post, the mere outside of which threw me into a great flutter;
 for, though I had never seen the handwriting in which it was addressed,
 I divined whose hand it was. It had no set beginning, as Dear Mr. Pip,
 or Dear Pip, or Dear Sir, or Dear Anything, but ran thus:--
 
-“I am to come to London the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after to-morrow by the mid[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) coach. I
+“I am to come to London the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) after to-morrow by the midday coach. I
 believe it was settled you should meet me? At all events Miss Havisham
 has that impression, and I write in obedience to it. She sends you her
 regard.
@@ -10768,9 +10768,9 @@ regard.
 If there had been time, I should probably have ordered several suits
 of clothes for this occasion; but as there was not, I was fain to be
 content with those I had. My appetite vanished instantly, and I knew
-no peace or rest until the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) arrived. Not that its arrival brought
+no peace or rest until the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) arrived. Not that its arrival brought
 me either; for, then I was worse than ever, and began haunting the
-coach-office in Wood S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, Cheapside, before the coach had left the
+coach-office in Wood Street, Cheapside, before the coach had left the
 Blue Boar in our town. For all that I knew this perfectly well, I still
 felt as if it were not safe to let the coach-office be out of my sight
 longer than five minutes at a time; and in this condition of unreason I
@@ -10784,7 +10784,7 @@ I explained that I was waiting to meet somebody who was coming up by
 coach, and I inquired after the Castle and the Aged.
 
 “Both flourishing thankye,” said Wemmick, “and particularly the Aged.
-He's in wonderful feather. He'll be eighty-two next birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). I have
+He's in wonderful feather. He'll be eighty-two next birthday. I have
 a notion of firing eighty-two times, if the neighborhood shouldn't
 complain, and that cannon of mine should prove equal to the pressure.
 However, this is not London talk. Where do you think I am going to?”
@@ -10888,7 +10888,7 @@ I said, “Indeed?” and the man's eyes looked at me, and then looked over
 my head, and then looked all round me, and then he drew his hand across
 his lips and laughed.
 
-“I think I shall be out of this on Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), sir,” he said to Wemmick.
+“I think I shall be out of this on Monday, sir,” he said to Wemmick.
 
 “Perhaps,” returned my friend, “but there's no knowing.”
 
@@ -10910,8 +10910,8 @@ yours to bring me a pair, if you've no further use for 'em?”
 
 “All right,” said Wemmick, “they shall be taken care of. Good afternoon,
 Colonel. Good-bye!” They shook hands again, and as we walked away Wemmick
-said to me, “A Coiner, a very good [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)man. The Recorder's report is
-made to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and he is sure to be executed on Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Still you see, as
+said to me, “A Coiner, a very good workman. The Recorder's report is
+made to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and he is sure to be executed on Monday. Still you see, as
 far as it goes, a pair of pigeons are portable property all the same.”
 With that, he looked back, and nodded at this dead plant, and then cast
 his eyes about him in walking out of the yard, as if he were considering
@@ -10949,8 +10949,8 @@ way, “you're dumb as one of your own keys when you have to do with my
 principal, you know you are. Let us out, you old fox, or I'll get him to
 bring an action against you for false imprisonment.”
 
-The turnkey laughed, and gave us good [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and stood laughing at us over
-the spikes of the wicket when we descended the steps into the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t.
+The turnkey laughed, and gave us good [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and stood laughing at us over
+the spikes of the wicket when we descended the steps into the street.
 
 “Mind you, Mr. Pip,” said Wemmick, gravely in my ear, as he took my arm
 to be more confidential; “I don't know that Mr. Jaggers does a better
@@ -10967,10 +10967,10 @@ first time, that I had had some other guardian of minor abilities.
 
 Mr. Wemmick and I parted at the office in Little Britain, where
 suppliants for Mr. Jaggers's notice were lingering about as usual, and I
-returned to my watch in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t of the coach-office, with some three
+returned to my watch in the street of the coach-office, with some three
 hours on hand. I consumed the whole time in thinking how strange it
 was that I should be encompassed by all this taint of prison and crime;
-that, in my [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)hood out on our lonely marshes on a winter evening, I
+that, in my childhood out on our lonely marshes on a winter evening, I
 should have first encountered it; that, it should have reappeared on two
 occasions, starting out like a stain that was faded but not gone; that,
 it should in this new way pervade my fortune and advancement. While my
@@ -10978,7 +10978,7 @@ mind was thus engaged, I thought of the beautiful young Estella, proud
 and refined, coming towards me, and I thought with absolute abhorrence
 of the contrast between the jail and her. I wished that Wemmick had not
 met me, or that I had not yielded to him and gone with him, so that,
-of all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s in the year on this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), I might not have had Newgate in
+of all days in the year on this [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), I might not have had Newgate in
 my breath and on my clothes. I beat the prison dust off my feet as I
 sauntered to and fro, and I shook it out of my dress, and I exhaled
 its air from my lungs. So contaminated did I feel, remembering who was
@@ -11112,7 +11112,7 @@ brought up in that strange house from a mere baby. I was. You had not
 your little wits sharpened by their intriguing against you, suppressed
 and defenceless, under the mask of sympathy and pity and what not that
 is soft and soothing. I had. You did not gradually open your round
-[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ish eyes wider and wider to the discovery of that impostor of a
+childish eyes wider and wider to the discovery of that impostor of a
 woman who calculates her stores of peace of mind for when she wakes up
 in the night. I did.”
 
@@ -11172,7 +11172,7 @@ The bill paid, and the waiter remembered, and the ostler not forgotten,
 and the chambermaid taken into consideration,--in a word, the whole
 house bribed into a state of contempt and animosity, and Estella's purse
 much lightened,--we got into our post-coach and drove away. Turning into
-Cheapside and rattling up Newgate S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, we were soon under the walls
+Cheapside and rattling up Newgate Street, we were soon under the walls
 of which I was so ashamed.
 
 “What place is that?” Estella asked me.
@@ -11209,7 +11209,7 @@ well.”
 
 I should have been chary of discussing my guardian too freely even with
 her; but I should have gone on with the subject so far as to describe
-the dinner in Gerrard S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, if we had not then come into a sudden
+the dinner in Gerrard Street, if we had not then come into a sudden
 glare of gas. It seemed, while it lasted, to be all alight and alive
 with that inexplicable feeling I had had before; and when we were out of
 it, I was as much dazed for a few moments as if I had been in lightning.
@@ -11256,7 +11256,7 @@ did so purposely, and knew that I should treasure it up.
 We came to Richmond all too soon, and our destination there was a house
 by the green,--a staid old house, where hoops and powder and patches,
 embroidered coats, rolled stockings, ruffles and swords, had had their
-court [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s many a time. Some ancient [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s before the house were still
+court days many a time. Some ancient trees before the house were still
 cut into fashions as formal and unnatural as the hoops and wigs and
 stiff skirts; but their own allotted places in the great procession of
 the dead were not far off, and they would soon drop into them and go the
@@ -11274,12 +11274,12 @@ with her, but always miserable.
 
 I got into the carriage to be taken back to Hammersmith, and I got in
 with a bad heart-ache, and I got out with a worse heart-ache. At our
-own door, I found little Jane Pocket coming home from a little [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip)
+own door, I found little Jane Pocket coming home from a little [party](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/party.zip)
 escorted by her little lover; and I envied her little lover, in spite of
 his being subject to Flopson.
 
 Mr. Pocket was out lecturing; for, he was a most delightful lecturer on
-domestic economy, and his treatises on the management of [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren and
+domestic economy, and his treatises on the management of children and
 servants were considered the very best text-books on those themes. But
 Mrs. Pocket was at home, and was in a little difficulty, on account of
 the baby's having been accommodated with a needle-case to keep him quiet
@@ -11330,13 +11330,13 @@ arts they practised; because such littlenesses were their natural
 bent, and would have been evoked by anybody else, if I had left them
 slumbering. But Herbert's was a very different case, and it often caused
 me a twinge to think that I had done him evil service in crowding his
-sparely furnished chambers with incongruous upholstery [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and placing
+sparely furnished chambers with incongruous upholstery [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), and placing
 the Canary-breasted Avenger at his disposal.
 
 So now, as an infallible way of making little ease great ease, I began
 to contract a quantity of debt. I could hardly begin but Herbert
 must begin too, so he soon followed. At Startop's suggestion, we put
-ourselves down for [election](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/election.zip) into a club called The Finches of the Grove:
+ourselves down for [election](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/election.zip) into a club called The Finches of the Grove:
 the object of which institution I have never divined, if it were not
 that the members should dine expensively once a fortnight, to quarrel
 among themselves as much as possible after dinner, and to cause six
@@ -11350,7 +11350,7 @@ The Finches spent their money foolishly (the Hotel we dined at was
 in Covent Garden), and the first Finch I saw when I had the honor of
 joining the Grove was Bentley Drummle, at that time floundering about
 town in a cab of his own, and doing a great deal of damage to the posts
-at the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t corners. Occasionally, he shot himself out of his equipage
+at the street corners. Occasionally, he shot himself out of his equipage
 headforemost over the apron; and I saw him on one occasion deliver
 himself at the door of the Grove in this unintentional way--like coals.
 But here I anticipate a little, for I was not a Finch, and could not be,
@@ -11362,7 +11362,7 @@ no such proposal to him. So he got into difficulties in every direction,
 and continued to look about him. When we gradually fell into keeping
 late hours and late company, I noticed that he looked about him with a
 desponding eye at breakfast-time; that he began to look about him more
-hopefully about mid-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); that he drooped when he came into dinner;
+hopefully about mid-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip); that he drooped when he came into dinner;
 that he seemed to descry Capital in the distance, rather clearly, after
 dinner; that he all but realized Capital towards midnight; and that at
 about two o'clock in the morning, he became so deeply despondent again
@@ -11473,7 +11473,7 @@ them out of countenance.”
 “So I would, Handel, only they are staring me out of countenance.”
 
 However, my determined manner would have its effect, and Herbert would
-fall to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) again. After a time he would give up once more, on the plea
+fall to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) again. After a time he would give up once more, on the plea
 that he had not got Cobbs's bill, or Lobbs's, or Nobbs's, as the case
 might be.
 
@@ -11521,9 +11521,9 @@ allusion to its heavy black seal and border.
 
 The letter was signed Trabb & Co., and its contents were simply, that
 I was an honored sir, and that they begged to inform me that Mrs. J.
-Gargery had departed this life on Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) last at twenty minutes past six
+Gargery had departed this life on Monday last at twenty minutes past six
 in the evening, and that my attendance was requested at the interment on
-Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) next at three o'clock in the afternoon.
+Monday next at three o'clock in the afternoon.
 
 
 
@@ -11533,13 +11533,13 @@ Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corp
 
 It was the first time that a grave had opened in my road of life, and
 the gap it made in the smooth ground was wonderful. The figure of my
-sister in her chair by the kitchen fire, haunted me night and [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). That
+sister in her chair by the kitchen fire, haunted me night and [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). That
 the place could possibly be, without her, was something my mind seemed
 unable to compass; and whereas she had seldom or never been in my
 thoughts of late, I had now the strangest ideas that she was coming
-towards me in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, or that she would presently knock at the door.
+towards me in the street, or that she would presently knock at the door.
 In my rooms too, with which she had never been at all associated, there
-was at once the blankness of [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) and a perpetual suggestion of the
+was at once the blankness of [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) and a perpetual suggestion of the
 sound of her voice or the turn of her face or figure, as if she were
 still alive and had been often there.
 
@@ -11552,7 +11552,7 @@ so much; and I felt that on sufficient proof I could have revengefully
 pursued Orlick, or any one else, to the last extremity.
 
 Having written to Joe, to offer him consolation, and to assure him
-that I would come to the funeral, I passed the intermediate [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s in
+that I would come to the funeral, I passed the intermediate days in
 the curious state of mind I have glanced at. I went down early in the
 morning, and alighted at the Blue Boar in good time to walk over to the
 forge.
@@ -11561,7 +11561,7 @@ It was fine summer weather again, and, as I walked along, the times
 when I was a little helpless creature, and my sister did not spare me,
 vividly returned. But they returned with a gentle tone upon them that
 softened even the edge of Tickler. For now, the very breath of the beans
-and clover whispered to my heart that the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) must come when it would
+and clover whispered to my heart that the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) must come when it would
 be well for my memory that others walking in the sunshine should be
 softened as they thought of me.
 
@@ -11573,7 +11573,7 @@ to anybody,--were posted at the front door; and in one of them I
 recognized a postboy discharged from the Boar for turning a young couple
 into a sawpit on their bridal morning, in consequence of intoxication
 rendering it necessary for him to ride his horse clasped round the neck
-with both arms. All the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren of the village, and most of the women,
+with both arms. All the children of the village, and most of the women,
 were admiring these sable warders and the closed windows of the house
 and forge; and as I came up, one of the two warders (the postboy)
 knocked at the door,--implying that I was far too much exhausted by
@@ -11652,7 +11652,7 @@ ships on the river growing out of it; and we went into the churchyard,
 close to the graves of my unknown parents, Philip Pirrip, late of this
 parish, and Also Georgiana, Wife of the Above. And there, my sister was
 laid quietly in the earth, while the larks sang high above it, and the
-light wind strewed it with beautiful shadows of clouds and [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s.
+light wind strewed it with beautiful shadows of clouds and trees.
 
 Of the conduct of the worldly minded Pumblechook while this was doing,
 I desire to say no more than it was all addressed to me; and that even
@@ -11663,7 +11663,7 @@ reservation of the case of a young gentleman who came unexpectedly into
 large property. When we got back, he had the hardihood to tell me that
 he wished my sister could have known I had done her so much honor, and
 to hint that she would have considered it reasonably purchased at the
-price of her [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). After that, he drank all the rest of the sherry,
+price of her [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip). After that, he drank all the rest of the sherry,
 and Mr. Hubble drank the port, and the two talked (which I have since
 observed to be customary in such cases) as if they were of quite another
 race from the deceased, and were notoriously immortal. Finally, he went
@@ -11681,7 +11681,7 @@ restraint upon us. But after dinner, when I made him take his pipe,
 and when I had loitered with him about the forge, and when we sat down
 together on the great block of stone outside it, we got on better. I
 noticed that after the funeral Joe changed his clothes so far, as to
-make a compromise between his Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) dress and [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing dress; in which
+make a compromise between his Sunday dress and working dress; in which
 the dear fellow looked natural, and like the Man he was.
 
 He was very much pleased by my asking if I might sleep in my own little
@@ -11732,11 +11732,11 @@ It was not so much a reproach as an irresistible thinking aloud. Well!
 I thought I would give up that point too. So, I walked a little further
 with Biddy, looking silently at her downcast eyes.
 
-“I have not heard the particulars of my sister's [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), Biddy.”
+“I have not heard the particulars of my sister's [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip), Biddy.”
 
 “They are very slight, poor thing. She had been in one of her bad
 states--though they had got better of late, rather than worse--for four
-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, when she came out of it in the evening, just at tea-time, and said
+days, when she came out of it in the evening, just at tea-time, and said
 quite plainly, 'Joe.' As she had never said any word for a long while, I
 ran and fetched in Mr. Gargery from the forge. She made signs to me that
 she wanted him to sit down close to her, and wanted me to put her arms
@@ -11755,11 +11755,11 @@ coming out, were blurred in my own sight.
 
 “Do you know what is become of Orlick?”
 
-“I should think from the color of his clothes that he is [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing in the
+“I should think from the color of his clothes that he is working in the
 quarries.”
 
 “Of course you have seen him then?--Why are you looking at that dark
-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip) in the lane?”
+[tree](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/tree.zip) in the lane?”
 
 “I saw him there, on the night she died.”
 
@@ -11821,13 +11821,13 @@ more, if you please, Biddy. This shocks me very much.”
 For which cogent reason I kept Biddy at a distance during supper, and
 when I went up to my own old little room, took as stately a leave of her
 as I could, in my murmuring soul, deem reconcilable with the churchyard
-and the event of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). As often as I was restless in the night, and
+and the event of the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). As often as I was restless in the night, and
 that was every quarter of an hour, I reflected what an unkindness, what
 an injury, what an injustice, Biddy had done me.
 
 Early in the morning I was to go. Early in the morning I was out, and
 looking in, unseen, at one of the wooden windows of the forge. There
-I stood, for minutes, looking at Joe, already at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) with a glow of
+I stood, for minutes, looking at Joe, already at [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) with a glow of
 health and strength upon his face that made it show as if the bright sun
 of the life in store for him were shining on it.
 
@@ -11862,14 +11862,14 @@ do so before I knew where I was.
 Herbert himself had come of age eight months before me. As he had
 nothing else than his majority to come into, the event did not make a
 profound sensation in Barnard's Inn. But we had looked forward to
-my one-and-twentieth birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), with a crowd of speculations and
+my one-and-twentieth birthday, with a crowd of speculations and
 anticipations, for we had both considered that my guardian could hardly
 help saying something definite on that occasion.
 
 I had taken care to have it well understood in Little Britain when my
-birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was. On the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) before it, I received an official note from
+birthday was. On the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) before it, I received an official note from
 Wemmick, informing me that Mr. Jaggers would be glad if I would call
-upon him at five in the afternoon of the auspicious [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). This convinced
+upon him at five in the afternoon of the auspicious [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). This convinced
 us that something great was to happen, and threw me into an unusual
 flutter when I repaired to my guardian's office, a model of punctuality.
 
@@ -11880,7 +11880,7 @@ it, and motioned me with a nod into my guardian's room. It was November,
 and my guardian was standing before his fire leaning his back against
 the chimney-piece, with his hands under his coattails.
 
-“Well, Pip,” said he, “I must call you Mr. Pip to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Congratulations,
+“Well, Pip,” said he, “I must call you Mr. Pip to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). Congratulations,
 Mr. Pip.”
 
 We shook hands,--he was always a remarkably short shaker,--and I thanked
@@ -11923,7 +11923,7 @@ questions, sir; but I remember your prohibition.”
 
 “Ask one,” said Mr. Jaggers.
 
-“Is my benefactor to be made known to me to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?”
+“Is my benefactor to be made known to me to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)?”
 
 “No. Ask another.”
 
@@ -11968,7 +11968,7 @@ And a very handsome sum of money too, I think. You consider it so?”
 
 “You consider it, undoubtedly, a handsome sum of money. Now, that
 handsome sum of money, Pip, is your own. It is a present to you on this
-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), in earnest of your expectations. And at the rate of that handsome
+[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), in earnest of your expectations. And at the rate of that handsome
 sum of money per annum, and at no higher rate, you are to live until the
 donor of the whole appears. That is to say, you will now take your money
 affairs entirely into your own hands, and you will draw from Wemmick
@@ -12143,13 +12143,13 @@ personal capacity.”
 We had held this conversation in a low voice, well knowing my guardian's
 ears to be the sharpest of the sharp. As he now appeared in his doorway,
 towelling his hands, Wemmick got on his great-coat and stood by to snuff
-out the candles. We all three went into the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t together, and from
+out the candles. We all three went into the street together, and from
 the door-step Wemmick turned his way, and Mr. Jaggers and I turned ours.
 
 I could not help wishing more than once that evening, that Mr. Jaggers
-had had an Aged in Gerrard S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, or a Stinger, or a Something, or
+had had an Aged in Gerrard Street, or a Stinger, or a Something, or
 a Somebody, to unbend his brows a little. It was an uncomfortable
-consideration on a twenty-first birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), that coming of age at all
+consideration on a twenty-first birthday, that coming of age at all
 seemed hardly worth while in such a guarded and suspicious world as he
 made of it. He was a thousand times better informed and cleverer than
 Wemmick, and yet I would a thousand times rather have had Wemmick to
@@ -12164,8 +12164,8 @@ details of it, he felt so dejected and guilty.
 ---
 ## Chapter XXXVII
 
-Deeming Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) the best [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) for taking Mr. Wemmick's Walworth
-sentiments, I devoted the next ensuing Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) afternoon to a pilgrimage
+Deeming Sunday the best [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) for taking Mr. Wemmick's Walworth
+sentiments, I devoted the next ensuing Sunday afternoon to a pilgrimage
 to the Castle. On arriving before the battlements, I found the Union
 Jack flying and the drawbridge up; but undeterred by this show of
 defiance and resistance, I rang at the gate, and was admitted in a most
@@ -12224,7 +12224,7 @@ drawbridge.
 
 It was worth any money to see Wemmick waving a salute to me from the
 other side of the moat, when we might have shaken hands across it with
-the greatest ease. The Aged was so delighted to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) the drawbridge,
+the greatest ease. The Aged was so delighted to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) the drawbridge,
 that I made no offer to assist him, but stood quiet until Wemmick had
 come across, and had presented me to Miss Skiffins; a lady by whom he
 was accompanied.
@@ -12244,7 +12244,7 @@ the other side of the chimney, and disappeared. Presently another click
 came, and another little door tumbled open with “Miss Skiffins” on it;
 then Miss Skiffins shut up and John tumbled open; then Miss Skiffins
 and John both tumbled open together, and finally shut up together. On
-Wemmick's return from [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing these mechanical appliances, I expressed
+Wemmick's return from working these mechanical appliances, I expressed
 the great admiration with which I regarded them, and he said, “Well, you
 know, they're both pleasant and useful to the Aged. And by George, sir,
 it's a thing worth mentioning, that of all the people who come to
@@ -12300,7 +12300,7 @@ devilish good of you.”
 “You are right,” he returned. “You hit the nail on the head. Mr. Pip,
 I'll put on my considering-cap, and I think all you want to do may be
 done by degrees. Skiffins (that's her brother) is an accountant and
-agent. I'll look him up and go to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) for you.”
+agent. I'll look him up and go to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) for you.”
 
 “I thank you ten thousand times.”
 
@@ -12326,7 +12326,7 @@ the tranquillity of the Castle, but the occasional tumbling open of
 John and Miss Skiffins: which little doors were a prey to some spasmodic
 infirmity that made me sympathetically uncomfortable until I got used
 to it. I inferred from the methodical nature of Miss Skiffins's
-arrangements that she made tea there every Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night; and I rather
+arrangements that she made tea there every Sunday night; and I rather
 suspected that a classic brooch she wore, representing the profile of an
 undesirable female with a very straight nose and a very new moon, was a
 piece of portable property that had been given her by Wemmick.
@@ -12336,7 +12336,7 @@ delightful to see how warm and greasy we all got after it. The Aged
 especially, might have passed for some clean old chief of a savage
 tribe, just oiled. After a short pause of repose, Miss Skiffins--in the
 absence of the little servant who, it seemed, retired to the bosom of
-her family on Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) afternoons--washed up the tea-things, in a trifling
+her family on Sunday afternoons--washed up the tea-things, in a trifling
 lady-like amateur manner that compromised none of us. Then, she put on
 her gloves again, and we drew round the fire, and Wemmick said, “Now,
 Aged Parent, tip us the paper.”
@@ -12423,10 +12423,10 @@ face with which he came home one afternoon, and told me, as a mighty
 piece of news, of his having fallen in with one Clarriker (the young
 merchant's name), and of Clarriker's having shown an extraordinary
 inclination towards him, and of his belief that the opening had come at
-last. [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) as his hopes grew stronger and his face brighter, he
+last. [Day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) by [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) as his hopes grew stronger and his face brighter, he
 must have thought me a more and more affectionate friend, for I had the
 greatest difficulty in restraining my tears of triumph when I saw him so
-happy. At length, the thing being done, and he having that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) entered
+happy. At length, the thing being done, and he having that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) entered
 Clarriker's House, and he having talked to me for a whole evening in a
 flush of pleasure and success, I did really cry in good earnest when
 I went to bed, to think that my expectations had done some good to
@@ -12445,7 +12445,7 @@ much to give to the theme that so long filled my heart.
 
 If that staid old house near the Green at Richmond should ever come to
 be haunted when I am dead, it will be haunted, surely, by my ghost. O
-the many, many nights and [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s through which the unquiet spirit within
+the many, many nights and days through which the unquiet spirit within
 me haunted that house when Estella lived there! Let my body be where it
 would, my spirit was always wandering, wandering, wandering, about that
 house.
@@ -12482,11 +12482,11 @@ without that.
 
 I saw her often at Richmond, I heard of her often in town, and I used
 often to take her and the Brandleys on the water; there were picnics,
-fête [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, plays, operas, concerts, parties, all sorts of pleasures,
+fête days, plays, operas, concerts, parties, all sorts of pleasures,
 through which I pursued her,--and they were all miseries to me. I never
 had one hour's happiness in her society, and yet my mind all round the
 four-and-twenty hours was harping on the happiness of having her with me
-unto [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip).
+unto [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip).
 
 Throughout this part of our intercourse,--and it lasted, as will
 presently be seen, for what I then thought a long time,--she habitually
@@ -12523,7 +12523,7 @@ chilled me.
 After looking at the twilight without, for a little while, she went on
 to say:--
 
-“The time has come round when Miss Havisham wishes to have me for a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+“The time has come round when Miss Havisham wishes to have me for a [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)
 at Satis. You are to take me there, and bring me back, if you will. She
 would rather I did not travel alone, and objects to receiving my maid,
 for she has a sensitive horror of being talked of by such people. Can
@@ -12531,14 +12531,14 @@ you take me?”
 
 “Can I take you, Estella!”
 
-“You can then? The [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after to-morrow, if you please. You are to pay
+“You can then? The [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) after to-morrow, if you please. You are to pay
 all charges out of my purse, You hear the condition of your going?”
 
 “And must obey,” said I.
 
 This was all the preparation I received for that visit, or for others
 like it; Miss Havisham never wrote to me, nor had I ever so much as seen
-her handwriting. We went down on the next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) but one, and we found her
+her handwriting. We went down on the next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) but one, and we found her
 in the room where I had first beheld her, and it is needless to add that
 there was no change in Satis House.
 
@@ -12636,7 +12636,7 @@ her so hard and thankless, on the hearth where she was reared! Where I
 took her into this wretched breast when it was first bleeding from its
 stabs, and where I have lavished years of tenderness upon her!”
 
-“At least I was no [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip) to the compact,” said Estella, “for if I could
+“At least I was no [party](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/party.zip) to the compact,” said Estella, “for if I could
 walk and speak, when it was made, it was as much as I could do. But what
 would you have? You have been very good to me, and I owe everything to
 you. What would you have?”
@@ -12707,9 +12707,9 @@ yes, yes, she would call it so!”
 of calm wonder, “that I almost understand how this comes about. If you
 had brought up your adopted daughter wholly in the dark confinement of
 these rooms, and had never let her know that there was such a thing as
-the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light by which she had never once seen your face,--if you had
+the daylight by which she had never once seen your face,--if you had
 done that, and then, for a purpose had wanted her to understand the
-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light and know all about it, you would have been disappointed and
+daylight and know all about it, you would have been disappointed and
 angry?”
 
 Miss Havisham, with her head in her hands, sat making a low moaning, and
@@ -12717,10 +12717,10 @@ swaying herself on her chair, but gave no answer.
 
 “Or,” said Estella,--“which is a nearer case,--if you had taught her,
 from the dawn of her intelligence, with your utmost energy and might,
-that there was such a thing as [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light, but that it was made to be her
+that there was such a thing as daylight, but that it was made to be her
 enemy and destroyer, and she must always turn against it, for it had
 blighted you and would else blight her;--if you had done this, and then,
-for a purpose, had wanted her to take naturally to the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light and she
+for a purpose, had wanted her to take naturally to the daylight and she
 could not do it, you would have been disappointed and angry?”
 
 Miss Havisham sat listening (or it seemed so, for I could not see her
@@ -12767,12 +12767,12 @@ of the staircase, I felt the mildewed air of the feast-chamber, without
 seeing her open the door, and I heard her walking there, and so across
 into her own room, and so across again into that, never ceasing the low
 cry. After a time, I tried in the dark both to get out, and to go back,
-but I could do neither until some streaks of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) strayed in and showed
+but I could do neither until some streaks of [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) strayed in and showed
 me where to lay my hands. During the whole interval, whenever I went to
 the bottom of the staircase, I heard her footstep, saw her light pass
 above, and heard her ceaseless low cry.
 
-Before we left next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), there was no revival of the difference between
+Before we left next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), there was no revival of the difference between
 her and Estella, nor was it ever revived on any similar occasion; and
 there were four similar occasions, to the best of my remembrance. Nor,
 did Miss Havisham's manner towards Estella in anywise change, except
@@ -12787,7 +12787,7 @@ good feeling was being promoted in the usual manner by nobody's agreeing
 with anybody else, the presiding Finch called the Grove to order,
 forasmuch as Mr. Drummle had not yet toasted a lady; which, according
 to the solemn constitution of the society, it was the brute's turn to
-do that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). I thought I saw him leer in an ugly way at me while the
+do that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). I thought I saw him leer in an ugly way at me while the
 decanters were going round, but as there was no love lost between us,
 that might easily be. What was my indignant surprise when he called upon
 the company to pledge him to “Estella!”
@@ -12833,9 +12833,9 @@ they were to be found. However, it was decided at last (the Grove being
 a Court of Honor) that if Mr. Drummle would bring never so slight
 a certificate from the lady, importing that he had the honor of her
 acquaintance, Mr. Pip must express his regret, as a gentleman and a
-Finch, for “having been betrayed into a warmth which.” Next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was
+Finch, for “having been betrayed into a warmth which.” Next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) was
 appointed for the production (lest our honor should take cold from
-delay), and next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) Drummle appeared with a polite little avowal in
+delay), and next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) Drummle appeared with a polite little avowal in
 Estella's hand, that she had had the honor of dancing with him several
 times. This left me no course but to regret that I had been “betrayed
 into a warmth which,” and on the whole to repudiate, as untenable, the
@@ -12857,7 +12857,7 @@ distress.
 It was easy for me to find out, and I did soon find out, that Drummle
 had begun to follow her closely, and that she allowed him to do it. A
 little while, and he was always in pursuit of her, and he and I crossed
-one another every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). He held on, in a dull persistent way, and Estella
+one another every [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). He held on, in a dull persistent way, and Estella
 held him on; now with encouragement, now with discouragement, now almost
 flattering him, now openly despising him, now knowing him very well, now
 scarcely remembering who he was.
@@ -12971,7 +12971,7 @@ And now that I have given the one chapter to the theme that so filled my
 heart, and so often made it ache and ache again, I pass on unhindered,
 to the event that had impended over me longer yet; the event that had
 begun to be prepared for, before I knew that the world held Estella,
-and in the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s when her baby intelligence was receiving its first
+and in the days when her baby intelligence was receiving its first
 distortions from Miss Havisham's wasting hands.
 
 In the Eastern story, the heavy slab that was to fall on the bed of
@@ -12983,7 +12983,7 @@ the great iron ring. All being made ready with much labor, and the hour
 come, the sultan was aroused in the dead of the night, and the sharpened
 axe that was to sever the rope from the great iron ring was put into his
 hand, and he struck with it, and the rope parted and rushed away, and
-the ceiling fell. So, in my case; all the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), near and afar, that
+the ceiling fell. So, in my case; all the [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), near and afar, that
 tended to the end, had been accomplished; and in an instant the blow was
 struck, and the roof of my stronghold dropped upon me.
 
@@ -12995,7 +12995,7 @@ struck, and the roof of my stronghold dropped upon me.
 
 I was three-and-twenty years of age. Not another word had I heard to
 enlighten me on the subject of my expectations, and my twenty-third
-birth[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was a week gone. We had left Barnard's Inn more than a year,
+birthday was a week gone. We had left Barnard's Inn more than a year,
 and lived in the Temple. Our chambers were in Garden-court, down by the
 river.
 
@@ -13003,7 +13003,7 @@ Mr. Pocket and I had for some time parted company as to our original
 relations, though we continued on the best terms. Notwithstanding my
 inability to settle to anything,--which I hope arose out of the restless
 and incomplete tenure on which I held my means,--I had a taste for
-reading, and read regularly so many hours a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). That matter of
+reading, and read regularly so many hours a [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). That matter of
 Herbert's was still progressing, and everything with me was as I have
 brought it down to the close of the last preceding chapter.
 
@@ -13013,14 +13013,14 @@ that to-morrow or next week would clear my way, and long disappointed, I
 sadly missed the cheerful face and ready response of my friend.
 
 It was wretched weather; stormy and wet, stormy and wet; and mud, mud,
-mud, deep in all the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts. [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), a vast heavy veil had been
+mud, deep in all the streets. [Day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) after [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), a vast heavy veil had been
 driving over London from the East, and it drove still, as if in the East
 there were an Eternity of cloud and wind. So furious had been the gusts,
 that high buildings in town had had the lead stripped off their roofs;
-and in the country, [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s had been torn up, and sails of windmills
+and in the country, trees had been torn up, and sails of windmills
 carried away; and gloomy accounts had come in from the coast, of
-shipwreck and [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). Violent blasts of rain had accompanied these rages
-of wind, and the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) just closed as I sat down to read had been the
+shipwreck and [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip). Violent blasts of rain had accompanied these rages
+of wind, and the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) just closed as I sat down to read had been the
 worst of all.
 
 Alterations have been made in that part of the Temple since that time,
@@ -13152,7 +13152,7 @@ At a change in his manner as if he were even going to embrace me, I laid
 a hand upon his breast and put him away.
 
 “Stay!” said I. “Keep off! If you are grateful to me for what I did when
-I was a little [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), I hope you have shown your gratitude by mending
+I was a little [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip), I hope you have shown your gratitude by mending
 your way of life. If you have come here to thank me, it was not
 necessary. Still, however you have found me out, there must be something
 good in the feeling that has brought you here, and I will not repulse
@@ -13297,7 +13297,7 @@ shuddered at, very near to mine.
 done it! I swore that time, sure as ever I earned a guinea, that guinea
 should go to you. I swore arterwards, sure as ever I spec'lated and got
 rich, you should get rich. I lived rough, that you should live smooth;
-I [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed hard, that you should be above [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip). What odds, dear boy? Do I
+I worked hard, that you should be above [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip). What odds, dear boy? Do I
 tell it, fur you to feel a obligation? Not a bit. I tell it, fur you to
 know as that there hunted dunghill dog wot you kep life in, got his head
 so high that he could make a gentleman,--and, Pip, you're him!”
@@ -13384,7 +13384,7 @@ ignorant common fellow now, for all he's lucky,' what do I say? I says
 to myself, 'If I ain't a gentleman, nor yet ain't got no learning, I'm
 the owner of such. All on you owns stock and land; which on you owns a
 brought-up London gentleman?' This way I kep myself a going. And this
-way I held steady afore my mind that I would for certain come one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+way I held steady afore my mind that I would for certain come one [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)
 and see my boy, and make myself known to him, on his own ground.”
 
 He laid his hand on my shoulder. I shuddered at the thought that for
@@ -13422,11 +13422,11 @@ necessary.”
 
 “How do you mean? Caution?”
 
-“By G----, it's [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)!”
+“By G----, it's [Death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip)!”
 
-“What's [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip)?”
+“What's [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip)?”
 
-“I was sent for life. It's [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) to come back. There's been overmuch
+“I was sent for life. It's [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) to come back. There's been overmuch
 coming back of late years, and I should of a certainty be hanged if
 took.”
 
@@ -13480,14 +13480,14 @@ In every rage of wind and rush of rain, I heard pursuers. Twice, I could
 have sworn there was a knocking and whispering at the outer door. With
 these fears upon me, I began either to imagine or recall that I had had
 mysterious warnings of this man's approach. That, for weeks gone by, I
-had passed faces in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts which I had thought like his. That these
+had passed faces in the streets which I had thought like his. That these
 likenesses had grown more numerous, as he, coming over the sea, had
 drawn nearer. That his wicked spirit had somehow sent these messengers
 to mine, and that now on this stormy night he was as good as his word,
 and with me.
 
 Crowding up with these reflections came the reflection that I had seen
-him with my [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ish eyes to be a desperately violent man; that I had
+him with my childish eyes to be a desperately violent man; that I had
 heard that other convict reiterate that he had tried to murder him; that
 I had seen him down in the ditch tearing and fighting like a wild
 beast. Out of such remembrances I brought into the light of the fire a
@@ -13582,7 +13582,7 @@ way when he took this way.”
 
 “What sort of person?”
 
-The watchman had not particularly noticed; he should say a [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing
+The watchman had not particularly noticed; he should say a working
 person; to the best of his belief, he had a dust-colored kind of clothes
 on, under a dark coat. The watchman made more light of the matter than I
 did, and naturally; not having my reason for attaching weight to it.
@@ -13600,10 +13600,10 @@ few hours had made me.
 I lighted my fire, which burnt with a raw pale flare at that time of the
 morning, and fell into a doze before it. I seemed to have been dozing a
 whole night when the clocks struck six. As there was full an hour and
-a half between me and [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light, I dozed again; now, waking up uneasily,
+a half between me and daylight, I dozed again; now, waking up uneasily,
 with prolix conversations about nothing, in my ears; now, making thunder
 of the wind in the chimney; at length, falling off into a profound sleep
-from which the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light woke me with a start.
+from which the daylight woke me with a start.
 
 All this time I had never been able to consider my own situation, nor
 could I do so yet. I had not the power to attend to it. I was greatly
@@ -13613,7 +13613,7 @@ elephant. When I opened the shutters and looked out at the wet wild
 morning, all of a leaden hue; when I walked from room to room; when I
 sat down again shivering, before the fire, waiting for my laundress to
 appear; I thought how miserable I was, but hardly knew why, or how long
-I had been so, or on what [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of the week I made the reflection, or even
+I had been so, or on what [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) of the week I made the reflection, or even
 who I was that made it.
 
 At last, the old woman and the niece came in,--the latter with a head
@@ -13626,7 +13626,7 @@ or sleep-waking, I found myself sitting by the fire again, waiting
 for--Him--to come to breakfast.
 
 By and by, his door opened and he came out. I could not bring myself to
-bear the sight of him, and I thought he had a worse look by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light.
+bear the sight of him, and I thought he had a worse look by daylight.
 
 “I do not even know,” said I, speaking low as he took his seat at the
 table, “by what name to call you. I have given out that you are my
@@ -13690,7 +13690,7 @@ He nodded. “First knowed Mr. Jaggers that way. Jaggers was for me.”
 
 It was on my lips to ask him what he was tried for, but he took up
 a knife, gave it a flourish, and with the words, “And what I done is
-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed out and paid for!” fell to at his breakfast.
+worked out and paid for!” fell to at his breakfast.
 
 He ate in a ravenous way that was very disagreeable, and all his actions
 were uncouth, noisy, and greedy. Some of his teeth had failed him since
@@ -13728,7 +13728,7 @@ chained to, and how heavily, became intelligible to me, as I heard his
 hoarse voice, and sat looking up at his furrowed bald head with its iron
 gray hair at the sides.
 
-“I mustn't see my gentleman a footing it in the mire of the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts;
+“I mustn't see my gentleman a footing it in the mire of the streets;
 there mustn't be no mud on his boots. My gentleman must have horses,
 Pip! Horses to ride, and horses to drive, and horses for his servant
 to ride and drive as well. Shall colonists have their horses (and blood
@@ -13778,7 +13778,7 @@ not fur to be low. Now, go on, dear boy. You was a saying--”
 agen, the danger ain't so much to signify. There's Jaggers, and there's
 Wemmick, and there's you. Who else is there to inform?”
 
-“Is there no chance person who might identify you in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t?” said
+“Is there no chance person who might identify you in the street?” said
 ---
 ## I.
 
@@ -13803,16 +13803,16 @@ others has done afore, others can do agen. As to the where and how of
 living, dear boy, give me your own opinions on it.”
 
 “You take it smoothly now,” said I, “but you were very serious last
-night, when you swore it was [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip).”
+night, when you swore it was [Death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip).”
 
-“And so I swear it is [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip),” said he, putting his pipe back in his
-mouth, “and [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) by the rope, in the open s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t not fur from this, and
+“And so I swear it is [Death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip),” said he, putting his pipe back in his
+mouth, “and [Death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) by the rope, in the open street not fur from this, and
 it's serious that you should fully understand it to be so. What then,
 when that's once done? Here I am. To go back now 'ud be as bad as to
 stand ground--worse. Besides, Pip, I'm here, because I've meant it by
 you, years and years. As to what I dare, I'm a old bird now, as has
 dared all manner of traps since first he was fledged, and I'm not afeerd
-to perch upon a scarecrow. If there's [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) hid inside of it, there is,
+to perch upon a scarecrow. If there's [Death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) hid inside of it, there is,
 and let him come out, and I'll face him, and then I'll believe in him
 and not afore. And now let me have a look at my gentleman agen.”
 
@@ -13821,7 +13821,7 @@ admiring proprietorship: smoking with great complacency all the while.
 
 It appeared to me that I could do no better than secure him some
 quiet lodging hard by, of which he might take possession when Herbert
-returned: whom I expected in two or three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s. That the secret must
+returned: whom I expected in two or three days. That the secret must
 be confided to Herbert as a matter of unavoidable necessity, even if I
 could have put the immense relief I should derive from sharing it with
 him out of the question, was plain to me. But it was by no means so
@@ -13860,7 +13860,7 @@ get out to further them until two or three in the afternoon. He was to
 remain shut up in the chambers while I was gone, and was on no account
 to open the door.
 
-There being to my knowledge a respectable lodging-house in Essex S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t,
+There being to my knowledge a respectable lodging-house in Essex Street,
 the back of which looked into the Temple, and was almost within hail of
 my windows, I first of all repaired to that house, and was so fortunate
 as to secure the second floor for my uncle, Mr. Provis. I then went from
@@ -13961,12 +13961,12 @@ explanation of Magwitch--in New South Wales?”
 
 “It came through Provis,” I replied.
 
-“Good [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Pip,” said Mr. Jaggers, offering his hand; “glad to have
+“Good [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), Pip,” said Mr. Jaggers, offering his hand; “glad to have
 seen you. In writing by post to Magwitch--in New South Wales--or in
 communicating with him through Provis, have the goodness to mention that
 the particulars and vouchers of our long account shall be sent to you,
 together with the balance; for there is still a balance remaining. Good
-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Pip!”
+[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), Pip!”
 
 We shook hands, and he looked hard at me as long as he could see me. I
 turned at the door, and he was still looking hard at me, while the two
@@ -13978,7 +13978,7 @@ nothing for me. I went straight back to the Temple, where I found
 the terrible Provis drinking rum and water and smoking negro-head, in
 safety.
 
-Next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) the clothes I had ordered all came home, and he put them on.
+Next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) the clothes I had ordered all came home, and he put them on.
 Whatever he put on, became him less (it dismally seemed to me) than what
 he had worn before. To my thinking, there was something in him that made
 it hopeless to attempt to disguise him. The more I dressed him and the
@@ -14001,7 +14001,7 @@ pannikins,--of chopping a wedge off his bread, and soaking up with it
 the last fragments of gravy round and round his plate, as if to make the
 most of an allowance, and then drying his finger-ends on it, and then
 swallowing it,--in these ways and a thousand other small nameless
-instances arising every minute in the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), there was Prisoner, Felon,
+instances arising every minute in the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), there was Prisoner, Felon,
 Bondsman, plain as plain could be.
 
 It had been his own idea to wear that touch of powder, and I had
@@ -14046,7 +14046,7 @@ from him with a stronger repulsion, the more he admired me and the
 fonder he was of me.
 
 This is written of, I am sensible, as if it had lasted a year. It lasted
-about five [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s. Expecting Herbert all the time, I dared not go out,
+about five days. Expecting Herbert all the time, I dared not go out,
 except when I took Provis for an airing after dark. At length, one
 evening when dinner was over and I had dropped into a slumber quite
 worn out,--for my nights had been agitated and my rest broken by fearful
@@ -14120,7 +14120,7 @@ Herbert said, “Certainly,” but looked as if there were no specific
 consolation in this, and remained perplexed and dismayed. We were
 anxious for the time when he would go to his lodging and leave us
 together, but he was evidently jealous of leaving us together, and sat
-late. It was midnight before I took him round to Essex S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, and
+late. It was midnight before I took him round to Essex Street, and
 saw him safely in at his own dark door. When it closed upon him, I
 experienced the first moment of relief I had known since the night of
 his arrival.
@@ -14131,7 +14131,7 @@ bringing him back; and I looked about me now. Difficult as it is in a
 large city to avoid the suspicion of being watched, when the mind is
 conscious of danger in that regard, I could not persuade myself that any
 of the people within sight cared about my movements. The few who were
-passing passed on their several ways, and the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t was empty when I
+passing passed on their several ways, and the street was empty when I
 turned back into the Temple. Nobody had come out at the gate with us,
 nobody went in at the gate with me. As I crossed by the fountain, I saw
 his lighted back windows looking bright and quiet, and, when I stood for
@@ -14193,10 +14193,10 @@ warm grip of my hand, pretended not to know it.
 
 “Anyhow, my dear Handel,” said he presently, “soldiering won't do. If
 you were to renounce this patronage and these favors, I suppose you
-would do so with some faint hope of one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) repaying what you have
+would do so with some faint hope of one [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) repaying what you have
 already had. Not very strong, that hope, if you went soldiering!
 Besides, it's absurd. You would be infinitely better in Clarriker's
-house, small as it is. I am [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing up towards a partnership, you know.”
+house, small as it is. I am working up towards a partnership, you know.”
 
 Poor fellow! He little suspected with whose money.
 
@@ -14224,13 +14224,13 @@ danger of his doing it. That is his power over you as long as he remains
 in England, and that would be his reckless course if you forsook him.”
 
 I was so struck by the horror of this idea, which had weighed upon
-me from the first, and the [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing out of which would make me regard
+me from the first, and the working out of which would make me regard
 myself, in some sort, as his murderer, that I could not rest in my
 chair, but began pacing to and fro. I said to Herbert, meanwhile, that
 even if Provis were recognized and taken, in spite of himself, I should
 be wretched as the cause, however innocently. Yes; even though I was so
 wretched in having him at large and near me, and even though I would
-far rather have [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed at the forge all the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of my life than I would
+far rather have worked at the forge all the days of my life than I would
 ever have come to this!
 
 But there was no staving off the question, What was to be done?
@@ -14241,7 +14241,7 @@ to go.”
 
 “But get him where I will, could I prevent his coming back?”
 
-“My good Handel, is it not obvious that with Newgate in the next s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t,
+“My good Handel, is it not obvious that with Newgate in the next street,
 there must be far greater hazard in your breaking your mind to him and
 making him reckless, here, than elsewhere? If a pretext to get him away
 could be made out of that other convict, or out of anything else in his
@@ -14251,8 +14251,8 @@ life, now.”
 out, as if they contained the desperation of the case. “I know nothing
 of his life. It has almost made me mad to sit here of a night and see
 him before me, so bound up with my fortunes and misfortunes, and yet so
-unknown to me, except as the miserable wretch who terrified me two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s
-in my [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)hood!”
+unknown to me, except as the miserable wretch who terrified me two days
+in my childhood!”
 
 Herbert got up, and linked his arm in mine, and we slowly walked to and
 fro together, studying the carpet.
@@ -14319,7 +14319,7 @@ all.”
 
 “I understand it to do so.”
 
-“And look'ee here! Wotever I done is [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed out and paid for,” he
+“And look'ee here! Wotever I done is worked out and paid for,” he
 insisted again.
 
 “So be it.”
@@ -14376,9 +14376,9 @@ the Devil was I to do? I must put something into my stomach, mustn't
 I?--Howsomever, I'm a getting low, and I know what's due. Dear boy and
 Pip's comrade, don't you be afeerd of me being low.
 
-“Tramping, begging, thieving, [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing sometimes when I could,--though
+“Tramping, begging, thieving, working sometimes when I could,--though
 that warn't as often as you may think, till you put the question whether
-you would ha' been over-ready to give me [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) yourselves,--a bit of a
+you would ha' been over-ready to give me [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) yourselves,--a bit of a
 poacher, a bit of a laborer, a bit of a wagoner, a bit of a haymaker,
 a bit of a hawker, a bit of most things that don't pay and lead to
 trouble, I got to be a man. A deserting soldier in a Traveller's Rest,
@@ -14429,7 +14429,7 @@ was to go pardners? Compeyson's business was the swindling, handwriting
 forging, stolen bank-note passing, and such-like. All sorts of traps as
 Compeyson could set with his head, and keep his own legs out of and get
 the profits from and let another man in for, was Compeyson's business.
-He'd no more heart than a iron file, he was as cold as [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), and he had
+He'd no more heart than a iron file, he was as cold as [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip), and he had
 the head of the Devil afore mentioned.
 
 “There was another in with Compeyson, as was called Arthur,--not as
@@ -14447,7 +14447,7 @@ was partick'ler--for where 'ud be the good on it, dear boy and comrade?
 So I begun wi' Compeyson, and a poor tool I was in his hands. Arthur
 lived at the top of Compeyson's house (over nigh Brentford it was), and
 Compeyson kept a careful account agen him for board and lodging, in case
-he should ever get better to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) it out. But Arthur soon settled the
+he should ever get better to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) it out. But Arthur soon settled the
 account. The second or third time as ever I see him, he come a tearing
 down into Compeyson's parlor late at night, in only a flannel gown, with
 his hair all in a sweat, and he says to Compeyson's wife, 'Sally, she
@@ -14501,7 +14501,7 @@ on.
 “Not to go into the things that Compeyson planned, and I done--which 'ud
 take a week--I'll simply say to you, dear boy, and Pip's comrade, that
 that man got me into such nets as made me his black slave. I was always
-in debt to him, always under his thumb, always a [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing, always a
+in debt to him, always under his thumb, always a working, always a
 getting into danger. He was younger than me, but he'd got craft, and
 he'd got learning, and he overmatched me five hundred times told and
 no mercy. My Missis as I had the hard time wi'--Stop though! I ain't
@@ -14535,7 +14535,7 @@ the prosecution opened and the evidence was put short, aforehand, I
 noticed how heavy it all bore on me, and how light on him. When the
 evidence was giv in the box, I noticed how it was always me that had
 come for'ard, and could be swore to, how it was always me that the money
-had been paid to, how it was always me that had seemed to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) the thing
+had been paid to, how it was always me that had seemed to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) the thing
 and get the profit. But when the defence come on, then I see the plan
 plainer; for, says the counsellor for Compeyson, 'My lord and gentlemen,
 here you has afore you, side by side, two persons as your eyes can
@@ -14566,7 +14566,7 @@ sorry for, because he might a done so well, and ain't it me as the Judge
 perceives to be a old offender of wiolent passion, likely to come to
 worse?”
 
-He had [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed himself into a state of great excitement, but he checked
+He had worked himself into a state of great excitement, but he checked
 it, took two or three short breaths, swallowed as often, and stretching
 out his hand towards me said, in a reassuring manner, “I ain't a going
 to be low, dear boy!”
@@ -14651,8 +14651,8 @@ informer was scarcely to be imagined.
 Never had I breathed, and never would I breathe--or so I resolved--a
 word of Estella to Provis. But, I said to Herbert that, before I could
 go abroad, I must see both Estella and Miss Havisham. This was when we
-were left alone on the night of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) when Provis told us his story. I
-resolved to go out to Richmond next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and I went.
+were left alone on the night of the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) when Provis told us his story. I
+resolved to go out to Richmond next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and I went.
 
 On my presenting myself at Mrs. Brandley's, Estella's maid was called to
 tell that Estella had gone into the country. Where? To Satis House, as
@@ -14671,10 +14671,10 @@ consider separately what it would be best to say; whether we should
 devise any pretence of being afraid that he was under suspicious
 observation; or whether I, who had never yet been abroad, should propose
 an expedition. We both knew that I had but to propose anything, and he
-would consent. We agreed that his remaining many [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s in his present
+would consent. We agreed that his remaining many days in his present
 hazard was not to be thought of.
 
-Next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) I had the meanness to feign that I was under a binding promise
+Next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) I had the meanness to feign that I was under a binding promise
 to go down to Joe; but I was capable of almost any meanness towards Joe
 or his name. Provis was to be strictly careful while I was gone, and
 Herbert was to take the charge of him that I had taken. I was to be
@@ -14686,7 +14686,7 @@ pretence,--as, to make purchases, or the like.
 
 Having thus cleared the way for my expedition to Miss Havisham's, I set
 off by the early morning coach before it was yet light, and was out
-on the open country road when the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) came creeping on, halting and
+on the open country road when the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) came creeping on, halting and
 whimpering and shivering, and wrapped in patches of cloud and rags of
 mist, like a beggar. When we drove up to the Blue Boar after a drizzly
 ride, whom should I see come out under the gateway, toothpick in hand,
@@ -14768,7 +14768,7 @@ smithies--and that. Waiter!”
 
 “Brought round to the door, sir.”
 
-“I say. Look here, you sir. The lady won't ride to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); the weather
+“I say. Look here, you sir. The lady won't ride to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip); the weather
 won't do.”
 
 “Very good, sir.”
@@ -14832,7 +14832,7 @@ temper. Haven't you lost enough without that?”
 The waiter reappeared.
 
 “Look here, you sir. You quite understand that the young lady don't ride
-to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and that I dine at the young lady's?”
+to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and that I dine at the young lady's?”
 
 “Quite so, sir!”
 
@@ -14855,7 +14855,7 @@ his blundering brutal manner, and sidling and backing away. I thought
 he was gone, when he came back, calling for a light for the cigar in his
 mouth, which he had forgotten. A man in a dust-colored dress appeared
 with what was wanted,--I could not have said from where: whether from
-the inn yard, or the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, or where not,--and as Drummle leaned down
+the inn yard, or the street, or where not,--and as Drummle leaned down
 from the saddle and lighted his cigar and laughed, with a jerk of his
 head towards the coffee-room windows, the slouching shoulders and ragged
 hair of this man whose back was towards me reminded me of Orlick.
@@ -14887,20 +14887,20 @@ then going on, I fancied that I read in the action of her fingers, as
 plainly as if she had told me in the dumb alphabet, that she perceived I
 had discovered my real benefactor.
 
-“Miss Havisham,” said I, “I went to Richmond yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), to speak to
+“Miss Havisham,” said I, “I went to Richmond yesterday, to speak to
 Estella; and finding that some wind had blown her here, I followed.”
 
 Miss Havisham motioning to me for the third or fourth time to sit down,
 I took the chair by the dressing-table, which I had often seen her
 occupy. With all that ruin at my feet and about me, it seemed a natural
-place for me, that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
+place for me, that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).
 
 “What I had to say to Estella, Miss Havisham, I will say before you,
 presently--in a few moments. It will not surprise you, it will not
 displease you. I am as unhappy as you can ever have meant me to be.”
 
 Miss Havisham continued to look steadily at me. I could see in the
-action of Estella's fingers as they [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed that she attended to what I
+action of Estella's fingers as they worked that she attended to what I
 said; but she did not look up.
 
 “I have found out who my patron is. It is not a fortunate discovery,
@@ -15021,7 +15021,7 @@ trembling voice, “you know I love you. You know that I have loved you
 long and dearly.”
 
 She raised her eyes to my face, on being thus addressed, and her fingers
-plied their [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), and she looked at me with an unmoved countenance. I
+plied their [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), and she looked at me with an unmoved countenance. I
 saw that Miss Havisham glanced from me to her, and from her to me.
 
 “I should have said this sooner, but for my long mistake. It induced me
@@ -15076,7 +15076,7 @@ pursuing you?”
 of utter contempt.
 
 “That you encourage him, and ride out with him, and that he dines with
-you this very [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?”
+you this very [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)?”
 
 She seemed a little surprised that I should know it, but again replied,
 “Quite true.”
@@ -15090,7 +15090,7 @@ mean what I say?”
 “You would never marry him, Estella?”
 
 She looked towards Miss Havisham, and considered for a moment with her
-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) in her hands. Then she said, “Why not tell you the truth? I am
+[work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) in her hands. Then she said, “Why not tell you the truth? I am
 going to be married to him.”
 
 I dropped my face into my hands, but was able to control myself better
@@ -15149,7 +15149,7 @@ have been in every line I have ever read since I first came here, the
 rough common boy whose poor heart you wounded even then. You have been
 in every prospect I have ever seen since,--on the river, on the sails of
 the ships, on the marshes, in the clouds, in the light, in the darkness,
-in the wind, in the woods, in the sea, in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts. You have been
+in the wind, in the woods, in the sea, in the streets. You have been
 the embodiment of every graceful fancy that my mind has ever become
 acquainted with. The stones of which the strongest London buildings
 are made are not more real, or more impossible to be displaced by your
@@ -15171,7 +15171,7 @@ still covering her heart, seemed all resolved into a ghastly stare of
 pity and remorse.
 
 All done, all gone! So much was done and gone, that when I went out at
-the gate, the light of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) seemed of a darker color than when I went
+the gate, the light of the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) seemed of a darker color than when I went
 in. For a while, I hid myself among some lanes and by-paths, and then
 struck off to walk all the way to London. For, I had by that time come
 to myself so far as to consider that I could not go back to the inn and
@@ -15180,7 +15180,7 @@ be spoken to; that I could do nothing half so good for myself as tire
 myself out.
 
 It was past midnight when I crossed London Bridge. Pursuing the narrow
-intricacies of the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts which at that time tended westward near the
+intricacies of the streets which at that time tended westward near the
 Middlesex shore of the river, my readiest access to the Temple was
 close by the river-side, through Whitefriars. I was not expected till
 to-morrow; but I had my keys, and, if Herbert were gone to bed, could
@@ -15210,7 +15210,7 @@ his light, and read inside, in Wemmick's writing,--
 ## Chapter XLV
 
 Turning from the Temple gate as soon as I had read the warning, I made
-the best of my way to Fleet S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, and there got a late hackney chariot
+the best of my way to Fleet Street, and there got a late hackney chariot
 and drove to the Hummums in Covent Garden. In those times a bed was
 always to be got there at any hour of the night, and the chamberlain,
 letting me in at his ready wicket, lighted the candle next in order on
@@ -15223,14 +15223,14 @@ washing-stand in quite a Divinely Righteous manner.
 
 As I had asked for a night-light, the chamberlain had brought me in,
 before he left me, the good old constitutional rushlight of those
-virtuous [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s--an object like the ghost of a walking-cane, which
+virtuous days--an object like the ghost of a walking-cane, which
 instantly broke its back if it were touched, which nothing could ever be
 lighted at, and which was placed in solitary confinement at the bottom
 of a high tin tower, perforated with round holes that made a staringly
 wide-awake pattern on the walls. When I had got into bed, and lay there
 footsore, weary, and wretched, I found that I could no more close my own
 eyes than I could close the eyes of this foolish Argus. And thus, in the
-gloom and [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) of the night, we stared at one another.
+gloom and [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) of the night, we stared at one another.
 
 What a doleful night! How anxious, how dismal, how long! There was an
 inhospitable smell in the room, of cold soot and hot dust; and, as I
@@ -15262,7 +15262,7 @@ all this time, why I was not to go home, and what had happened at home,
 and when I should go home, and whether Provis was safe at home, were
 questions occupying my mind so busily, that one might have supposed
 there could be no more room in it for any other theme. Even when I
-thought of Estella, and how we had parted that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) forever, and when
+thought of Estella, and how we had parted that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) forever, and when
 I recalled all the circumstances of our parting, and all her looks and
 tones, and the action of her fingers while she knitted,--even then I
 was pursuing, here and there and everywhere, the caution, Don't go home.
@@ -15297,7 +15297,7 @@ at each of the Temple gates, on the chance. Which gate did you come to?”
 
 I told him.
 
-“I'll go round to the others in the course of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) and destroy the
+“I'll go round to the others in the course of the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) and destroy the
 notes,” said Wemmick; “it's a good rule never to leave documentary
 evidence if you can help it, because you don't know when it may be put
 in. I'm going to take a liberty with you. Would you mind toasting this
@@ -15305,7 +15305,7 @@ sausage for the Aged P.?”
 
 I said I should be delighted to do it.
 
-“Then you can go about your [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), Mary Anne,” said Wemmick to the little
+“Then you can go about your [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), Mary Anne,” said Wemmick to the little
 servant; “which leaves us to ourselves, don't you see, Mr. Pip?” he
 added, winking, as she disappeared.
 
@@ -15315,19 +15315,19 @@ buttered the crumb of the Aged's roll.
 
 “Now, Mr. Pip, you know,” said Wemmick, “you and I understand one
 another. We are in our private and personal capacities, and we have been
-engaged in a confidential transaction before to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Official sentiments
+engaged in a confidential transaction before to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). Official sentiments
 are one thing. We are extra official.”
 
 I cordially assented. I was so very nervous, that I had already lighted
 the Aged's sausage like a torch, and been obliged to blow it out.
 
-“I accidentally heard, yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning,” said Wemmick, “being in a
+“I accidentally heard, yesterday morning,” said Wemmick, “being in a
 certain place where I once took you,--even between you and me, it's as
 well not to mention names when avoidable--”
 
 “Much better not,” said I. “I understand you.”
 
-“I heard there by chance, yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning,” said Wemmick, “that
+“I heard there by chance, yesterday morning,” said Wemmick, “that
 a certain person not altogether of uncolonial pursuits, and not
 unpossessed of portable property,--I don't know who it may really
 be,--we won't name this person--”
@@ -15338,7 +15338,7 @@ be,--we won't name this person--”
 many people go, not always in gratification of their own inclinations,
 and not quite irrespective of the government expense--”
 
-In watching his face, I made quite a fire[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of the Aged's sausage,
+In watching his face, I made quite a firework of the Aged's sausage,
 and greatly discomposed both my own attention and Wemmick's; for which I
 apologized.
 
@@ -15452,7 +15452,7 @@ seems, by a very respectable widow who has a furnished upper floor to
 let, Mr. Herbert put it to me, what did I think of that as a temporary
 tenement for Tom, Jack, or Richard? Now, I thought very well of it, for
 three reasons I'll give you. That is to say: Firstly. It's altogether
-out of all your beats, and is well away from the usual heap of s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts
+out of all your beats, and is well away from the usual heap of streets
 great and small. Secondly. Without going near it yourself, you could
 always hear of the safety of Tom, Jack, or Richard, through Mr. Herbert.
 Thirdly. After a while and when it might be prudent, if you should want
@@ -15497,7 +15497,7 @@ forbore to try.
 “Time's up,” said Wemmick, “and I must be off. If you had nothing more
 pressing to do than to keep here till dark, that's what I should advise.
 You look very much worried, and it would do you good to have a perfectly
-quiet [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) with the Aged,--he'll be up presently,--and a little bit
+quiet [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) with the Aged,--he'll be up presently,--and a little bit
 of--you remember the pig?”
 
 “Of course,” said I.
@@ -15509,7 +15509,7 @@ acquaintance sake. Good-bye, Aged Parent!” in a cheery shout.
 “All right, John; all right, my boy!” piped the old man from within.
 
 I soon fell asleep before Wemmick's fire, and the Aged and I enjoyed one
-another's society by falling asleep before it more or less all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
+another's society by falling asleep before it more or less all [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).
 We had loin of pork for dinner, and greens grown on the estate; and
 I nodded at the Aged with a good intention whenever I failed to do it
 drowsily. When it was quite dark, I left the Aged preparing the fire for
@@ -15542,7 +15542,7 @@ several times falling short of my destination and as often overshooting
 it, I came unexpectedly round a corner, upon Mill Pond Bank. It was a
 fresh kind of place, all circumstances considered, where the wind from
 the river had room to turn itself round; and there were two or three
-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s in it, and there was the stump of a ruined windmill, and there
+trees in it, and there was the stump of a ruined windmill, and there
 was the Old Green Copper Rope-walk,--whose long and narrow vista I could
 trace in the moonlight, along a series of wooden frames set in the
 ground, that looked like superannuated haymaking-rakes which had grown
@@ -15559,7 +15559,7 @@ familiar face established quite at home in that very unfamiliar room
 and region; and I found myself looking at him, much as I looked at
 the corner-cupboard with the glass and china, the shells upon the
 chimney-piece, and the colored engravings on the wall, representing the
-[death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) of Captain Cook, a ship-launch, and his Majesty King George the
+[death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) of Captain Cook, a ship-launch, and his Majesty King George the
 Third in a state coachman's wig, leather-breeches, and top-boots, on the
 terrace at Windsor.
 
@@ -15678,7 +15678,7 @@ Lord. Lying on the flat of his back like a drifting old dead flounder,
 here's your old Bill Barley, bless your eyes. Ahoy! Bless you.”
 
 In this strain of consolation, Herbert informed me the invisible Barley
-would commune with himself by the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) and night together; Often, while
+would commune with himself by the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) and night together; Often, while
 it was light, having, at the same time, one eye at a telescope which was
 fitted on his bed for the convenience of sweeping the river.
 
@@ -15689,7 +15689,7 @@ feel none that was worth mentioning; but it struck me that he was
 softened,--indefinably, for I could not have said how, and could never
 afterwards recall how when I tried, but certainly.
 
-The opportunity that the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)'s rest had given me for reflection had
+The opportunity that the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)'s rest had given me for reflection had
 resulted in my fully determining to say nothing to him respecting
 Compeyson. For anything I knew, his animosity towards the man
 might otherwise lead to his seeking him out and rushing on his own
@@ -15767,7 +15767,7 @@ He also explained that the utmost known of Mr. Campbell there was,
 that he (Herbert) had Mr. Campbell consigned to him, and felt a strong
 personal interest in his being well cared for, and living a secluded
 life. So, when we went into the parlor where Mrs. Whimple and Clara were
-seated at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), I said nothing of my own interest in Mr. Campbell, but
+seated at [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), I said nothing of my own interest in Mr. Campbell, but
 kept it to myself.
 
 When I had taken leave of the pretty, gentle, dark-eyed girl, and of the
@@ -15789,14 +15789,14 @@ fatigued,--made the same report. Opening one of the windows after that,
 he looked out into the moonlight, and told me that the pavement was as
 solemnly empty as the pavement of any cathedral at that same hour.
 
-Next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) I set myself to get the boat. It was soon done, and the boat
+Next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) I set myself to get the boat. It was soon done, and the boat
 was brought round to the Temple stairs, and lay where I could reach
 her within a minute or two. Then, I began to go out as for training and
 practice: sometimes alone, sometimes with Herbert. I was often out in
 cold, rain, and sleet, but nobody took much note of me after I had been
 out a few times. At first, I kept above Blackfriars Bridge; but as the
 hours of the tide changed, I took towards London Bridge. It was Old
-London Bridge in those [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, and at certain states of the tide there
+London Bridge in those days, and at certain states of the tide there
 was a race and fall of water there which gave it a bad reputation. But I
 knew well enough how to 'shoot' the bridge after seeing it done, and so
 began to row about among the shipping in the Pool, and down to Erith.
@@ -15870,7 +15870,7 @@ that I have now to tell of.
 
 One afternoon, late in the month of February, I came ashore at the wharf
 at dusk. I had pulled down as far as Greenwich with the ebb tide, and
-had turned with the tide. It had been a fine bright [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), but had become
+had turned with the tide. It had been a fine bright [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), but had become
 foggy as the sun dropped, and I had had to feel my way back among the
 shipping, pretty carefully. Both in going and returning, I had seen the
 signal in his window, All well.
@@ -15891,7 +15891,7 @@ outrageous hat all over bells.
 I dined at what Herbert and I used to call a geographical chop-house,
 where there were maps of the world in porter-pot rims on every half-yard
 of the tablecloths, and charts of gravy on every one of the knives,--to
-this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) there is scarcely a single chop-house within the Lord [Mayor](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/mayor.zip)'s
+this [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) there is scarcely a single chop-house within the Lord [Mayor](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/mayor.zip)'s
 dominions which is not geographical,--and wore out the time in dozing
 over crumbs, staring at gas, and baking in a hot blast of dinners. By
 and by, I roused myself, and went to the play.
@@ -15941,7 +15941,7 @@ of his daughter's heart, by purposely falling upon the object, in a
 flour-sack, out of the first-floor window,--summoned a sententious
 Enchanter; and he, coming up from the antipodes rather unsteadily, after
 an apparently violent journey, proved to be Mr. Wopsle in a high-crowned
-hat, with a necromantic [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) in one volume under his arm. The business
+hat, with a necromantic [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) in one volume under his arm. The business
 of this enchanter on earth being principally to be talked at, sung at,
 butted at, danced at, and flashed at with fires of various colors,
 he had a good deal of time on his hands. And I observed, with great
@@ -15957,7 +15957,7 @@ of it when I came out of the theatre an hour afterwards, and found him
 waiting for me near the door.
 
 “How do you do?” said I, shaking hands with him as we turned down the
-s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t together. “I saw that you saw me.”
+street together. “I saw that you saw me.”
 
 “Saw you, Mr. Pip!” he returned. “Yes, of course I saw you. But who else
 was there?”
@@ -15998,8 +15998,8 @@ could hardly believe it myself, if you told me.”
 
 “Indeed?” said I.
 
-“No, indeed. Mr. Pip, you remember in old times a certain Christmas [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),
-when you were quite a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), and I dined at Gargery's, and some soldiers
+“No, indeed. Mr. Pip, you remember in old times a certain Christmas [Day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip),
+when you were quite a [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip), and I dined at Gargery's, and some soldiers
 came to the door to get a pair of handcuffs mended?”
 
 “I remember it very well.”
@@ -16117,7 +16117,7 @@ I was going to excuse myself, when he added, “Wemmick's coming.” So
 I changed my excuse into an acceptance,--the few words I had uttered,
 serving for the beginning of either,--and we went along Cheapside
 and slanted off to Little Britain, while the lights were springing up
-brilliantly in the shop windows, and the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t lamp-lighters, scarcely
+brilliantly in the shop windows, and the street lamp-lighters, scarcely
 finding ground enough to plant their ladders on in the midst of the
 afternoon's bustle, were skipping up and down and running in and out,
 opening more red eyes in the gathering fog than my rushlight tower at
@@ -16125,14 +16125,14 @@ the Hummums had opened white eyes in the ghostly wall.
 
 At the office in Little Britain there was the usual letter-writing,
 hand-washing, candle-snuffing, and safe-locking, that closed the
-business of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). As I stood idle by Mr. Jaggers's fire, its rising
+business of the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). As I stood idle by Mr. Jaggers's fire, its rising
 and falling flame made the two casts on the shelf look as if they were
 playing a diabolical game at bo-peep with me; while the pair of coarse,
 fat office candles that dimly lighted Mr. Jaggers as he wrote in a
 corner were decorated with dirty winding-sheets, as if in remembrance of
 a host of hanged clients.
 
-We went to Gerrard S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t, all three together, in a hackney-coach: And,
+We went to Gerrard Street, all three together, in a hackney-coach: And,
 as soon as we got there, dinner was served. Although I should not have
 thought of making, in that place, the most distant reference by so much
 as a look to Wemmick's Walworth sentiments, yet I should have had no
@@ -16184,7 +16184,7 @@ seriously think that he is scoundrel enough for that, Mr. Jaggers?”
 “I didn't say so, Pip. I am putting a case. If he should turn to and
 beat her, he may possibly get the strength on his side; if it should be
 a question of intellect, he certainly will not. It would be chance
-[work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) to give an opinion how a fellow of that sort will turn out in such
+[work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) to give an opinion how a fellow of that sort will turn out in such
 circumstances, because it's a toss-up between two results.”
 
 “May I ask what they are?”
@@ -16201,7 +16201,7 @@ of choicer wine from his dumb-waiter, and filling for each of us and
 for himself, “and may the question of supremacy be settled to the lady's
 satisfaction! To the satisfaction of the lady and the gentleman,
 it never will be. Now, Molly, Molly, Molly, Molly, how slow you are
-to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)!”
+to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)!”
 
 She was at his elbow when he addressed her, putting a dish upon the
 table. As she withdrew her hands from it, she fell back a step or two,
@@ -16231,7 +16231,7 @@ deserted brewery. I thought how the same feeling had come back when I
 saw a face looking at me, and a hand waving to me from a stage-coach
 window; and how it had come back again and had flashed about me like
 lightning, when I had passed in a carriage--not alone--through a sudden
-glare of light in a dark s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t. I thought how one link of association
+glare of light in a dark street. I thought how one link of association
 had helped that identification in the theatre, and how such a link,
 wanting before, had been riveted for me now, when I had passed by a
 chance swift from Estella's name to the fingers with their knitting
@@ -16260,7 +16260,7 @@ twin all the time, and only externally like the Wemmick of Walworth.
 We took our leave early, and left together. Even when we were groping
 among Mr. Jaggers's stock of boots for our hats, I felt that the right
 twin was on his way back; and we had not gone half a dozen yards down
-Gerrard S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t in the Walworth direction, before I found that I was
+Gerrard Street in the Walworth direction, before I found that I was
 walking arm in arm with the right twin, and that the wrong twin had
 evaporated into the evening air.
 
@@ -16276,7 +16276,7 @@ what is said between you and me goes no further.”
 I asked him if he had ever seen Miss Havisham's adopted daughter, Mrs.
 Bentley Drummle. He said no. To avoid being too abrupt, I then spoke
 of the Aged and of Miss Skiffins. He looked rather sly when I mentioned
-Miss Skiffins, and stopped in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t to blow his nose, with a roll
+Miss Skiffins, and stopped in the street to blow his nose, with a roll
 of the head, and a flourish not quite free from latent boastfulness.
 
 “Wemmick,” said I, “do you remember telling me, before I first went to
@@ -16311,16 +16311,16 @@ was up, as you may suppose.”
 “But she was acquitted.”
 
 “Mr. Jaggers was for her,” pursued Wemmick, with a look full of meaning,
-“and [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed the case in a way quite astonishing. It was a desperate
-case, and it was comparatively early [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s with him then, and he [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed
+“and worked the case in a way quite astonishing. It was a desperate
+case, and it was comparatively early days with him then, and he worked
 it to general admiration; in fact, it may almost be said to have made
-him. He [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed it himself at the police-office, [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) after [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) for many
-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s, contending against even a committal; and at the trial where he
-couldn't [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) it himself, sat under counsel, and--every one knew--put
+him. He worked it himself at the police-office, [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) after [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) for many
+days, contending against even a committal; and at the trial where he
+couldn't [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) it himself, sat under counsel, and--every one knew--put
 in all the salt and pepper. The murdered person was a woman,--a woman a
 good ten years older, very much larger, and very much stronger. It was
 a case of jealousy. They both led tramping lives, and this woman in
-Gerrard S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t here had been married very young, over the broomstick (as
+Gerrard Street here had been married very young, over the broomstick (as
 we say), to a tramping man, and was a perfect fury in point of jealousy.
 The murdered woman,--more a match for the man, certainly, in point of
 years--was found dead in a barn near Hounslow Heath. There had been a
@@ -16332,8 +16332,8 @@ principally rested his case. You may be sure,” said Wemmick, touching me
 on the sleeve, “that he never dwelt upon the strength of her hands then,
 though he sometimes does now.”
 
-I had told Wemmick of his showing us her wrists, that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of the dinner
-[party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip).
+I had told Wemmick of his showing us her wrists, that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) of the dinner
+[party](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/party.zip).
 
 “Well, sir!” Wemmick went on; “it happened--happened, don't you
 see?--that this woman was so very artfully dressed from the time of
@@ -16351,15 +16351,15 @@ through, and to have little shreds of her dress and little spots of
 blood upon them here and there. But the boldest point he made was this:
 it was attempted to be set up, in proof of her jealousy, that she was
 under strong suspicion of having, at about the time of the murder,
-frantically destroyed her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) by this man--some three years old--to
-revenge herself upon him. Mr. Jaggers [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed that in this way: “We say
+frantically destroyed her [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) by this man--some three years old--to
+revenge herself upon him. Mr. Jaggers worked that in this way: “We say
 these are not marks of finger-nails, but marks of brambles, and we show
 you the brambles. You say they are marks of finger-nails, and you set
-up the hypothesis that she destroyed her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip). You must accept all
+up the hypothesis that she destroyed her [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip). You must accept all
 consequences of that hypothesis. For anything we know, she may have
-destroyed her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), and the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) in clinging to her may have scratched
+destroyed her [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip), and the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) in clinging to her may have scratched
 her hands. What then? You are not trying her for the murder of her
-[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip); why don't you? As to this case, if you will have scratches,
+[child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip); why don't you? As to this case, if you will have scratches,
 we say that, for anything we know, you may have accounted for them,
 assuming for the sake of argument that you have not invented them?” “To
 sum up, sir,” said Wemmick, “Mr. Jaggers was altogether too many for the
@@ -16372,7 +16372,7 @@ immediately after her acquittal, tamed as she is now. She has since been
 taught one thing and another in the way of her duties, but she was tamed
 from the beginning.”
 
-“Do you remember the sex of the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)?”
+“Do you remember the sex of the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip)?”
 
 “Said to have been a girl.”
 
@@ -16392,20 +16392,20 @@ my thoughts, though with no relief from the old.
 Putting Miss Havisham's note in my pocket, that it might serve as
 my credentials for so soon reappearing at Satis House, in case her
 waywardness should lead her to express any surprise at seeing me, I went
-down again by the coach next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). But I alighted at the Halfway House,
+down again by the coach next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). But I alighted at the Halfway House,
 and breakfasted there, and walked the rest of the distance; for I sought
 to get into the town quietly by the unfrequented ways, and to leave it
 in the same manner.
 
-The best light of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was gone when I passed along the quiet echoing
-courts behind the High S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t. The nooks of ruin where the old monks had
+The best light of the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) was gone when I passed along the quiet echoing
+courts behind the High Street. The nooks of ruin where the old monks had
 once had their refectories and gardens, and where the strong walls were
 now pressed into the service of humble sheds and stables, were almost
 as silent as the old monks in their graves. The cathedral chimes had at
 once a sadder and a more remote sound to me, as I hurried on avoiding
 observation, than they had ever had before; so, the swell of the old
 organ was borne to my ears like funeral music; and the rooks, as they
-hovered about the gray tower and swung in the bare high [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s of the
+hovered about the gray tower and swung in the bare high trees of the
 priory garden, seemed to call to me that the place was changed, and that
 Estella was gone out of it for ever.
 
@@ -16427,7 +16427,7 @@ progress of time, I too had come to be a part of the wrecked fortunes of
 that house, her eyes rested on me. She stared, and said in a low voice,
 “Is it real?”
 
-“It is I, Pip. Mr. Jaggers gave me your note yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and I have lost
+“It is I, Pip. Mr. Jaggers gave me your note yesterday, and I have lost
 no time.”
 
 “Thank you. Thank you.”
@@ -16520,7 +16520,7 @@ her neck.
 
 “You are still on friendly terms with Mr. Jaggers?”
 
-“Quite. I dined with him yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).”
+“Quite. I dined with him yesterday.”
 
 “This is an authority to him to pay you that money, to lay out at your
 irresponsible discretion for your friend. I keep no money here; but if
@@ -16575,10 +16575,10 @@ her white hair, and returned to this cry over and over again. “What have
 I done!”
 
 I knew not how to answer, or how to comfort her. That she had done a
-grievous thing in taking an impressionable [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) to mould into the form
+grievous thing in taking an impressionable [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) to mould into the form
 that her wild resentment, spurned affection, and wounded pride found
 vengeance in, I knew full well. But that, in shutting out the light
-of [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), she had shut out infinitely more; that, in seclusion, she had
+of [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), she had shut out infinitely more; that, in seclusion, she had
 secluded herself from a thousand natural and healing influences; that,
 her mind, brooding solitary, had grown diseased, as all minds do and
 must and will that reverse the appointed order of their Maker, I knew
@@ -16589,7 +16589,7 @@ master mania, like the vanity of penitence, the vanity of remorse, the
 vanity of unworthiness, and other monstrous vanities that have been
 curses in this world?
 
-“Until you spoke to her the other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and until I saw in you a
+“Until you spoke to her the other [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and until I saw in you a
 looking-glass that showed me what I once felt myself, I did not know
 what I had done. What have I done! What have I done!” And so again,
 twenty, fifty times over, What had she done!
@@ -16632,7 +16632,7 @@ She was seated on the ground, with her arms on the ragged chair, and
 her head leaning on them. She looked full at me when I said this, and
 replied, “Go on.”
 
-“Whose [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) was Estella?”
+“Whose [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) was Estella?”
 
 She shook her head.
 
@@ -16652,7 +16652,7 @@ clocks keep here), when I told him that I wanted a little girl to rear
 and love, and save from my fate. I had first seen him when I sent
 for him to lay this place waste for me; having read of him in the
 newspapers, before I and the world parted. He told me that he would
-look about him for such an orphan [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip). One night he brought her here
+look about him for such an orphan [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip). One night he brought her here
 asleep, and I called her Estella.”
 
 “Might I ask her age then?”
@@ -16686,7 +16686,7 @@ Taking the brewery on my way back, I raised the rusty latch of a little
 door at the garden end of it, and walked through. I was going out at the
 opposite door,--not easy to open now, for the damp wood had started and
 swelled, and the hinges were yielding, and the threshold was encumbered
-with a growth of fungus,--when I turned my head to look back. A [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ish
+with a growth of fungus,--when I turned my head to look back. A childish
 association revived with wonderful force in the moment of the slight
 action, and I fancied that I saw Miss Havisham hanging to the beam. So
 strong was the impression, that I stood under the beam shuddering from
@@ -16743,7 +16743,7 @@ mainly in the nervous shock. By the surgeon's directions, her bed was
 carried into that room and laid upon the great table, which happened to
 be well suited to the dressing of her injuries. When I saw her again, an
 hour afterwards, she lay, indeed, where I had seen her strike her stick,
-and had heard her say that she would lie one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
+and had heard her say that she would lie one [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).
 
 Though every vestige of her dress was burnt, as they told me, she
 still had something of her old ghastly bridal appearance; for, they had
@@ -16755,7 +16755,7 @@ I found, on questioning the servants, that Estella was in Paris, and I
 got a promise from the surgeon that he would write to her by the
 next post. Miss Havisham's family I took upon myself; intending to
 communicate with Mr. Matthew Pocket only, and leave him to do as he
-liked about informing the rest. This I did next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), through Herbert, as
+liked about informing the rest. This I did next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), through Herbert, as
 soon as I returned to town.
 
 There was a stage, that evening, when she spoke collectedly of what had
@@ -16794,7 +16794,7 @@ cloak, loose over my shoulders and fastened at the neck. My hair had
 been caught by the fire, but not my head or face.
 
 When Herbert had been down to Hammersmith and seen his father, he came
-back to me at our chambers, and devoted the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to attending on me. He
+back to me at our chambers, and devoted the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) to attending on me. He
 was the kindest of nurses, and at stated times took off the bandages,
 and steeped them in the cooling liquid that was kept ready, and put them
 on again, with a patient tenderness that I was deeply grateful for.
@@ -16815,7 +16815,7 @@ a question of so many hours, not of so many weeks.
 
 My first question when I saw Herbert had been of course, whether all
 was well down the river? As he replied in the affirmative, with perfect
-confidence and cheerfulness, we did not resume the subject until the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+confidence and cheerfulness, we did not resume the subject until the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)
 was wearing away. But then, as Herbert changed the bandages, more by
 the light of the fire than by the outer light, he went back to it
 spontaneously.
@@ -16832,7 +16832,7 @@ pegging must be nearly over.”
 
 “And then you will be married, Herbert?”
 
-“How can I take care of the dear [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) otherwise?--Lay your arm out upon
+“How can I take care of the dear [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) otherwise?--Lay your arm out upon
 the back of the sofa, my dear boy, and I'll sit down here, and get the
 bandage off so gradually that you shall not know when it comes. I was
 speaking of Provis. Do you know, Handel, he improves?”
@@ -16884,11 +16884,11 @@ certainly not doubtful, for the victim was found throttled.”
 
 “It is impossible to be gentler, Herbert. Yes? What else?”
 
-“This acquitted young woman and Provis had a little [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip); a little
-[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) of whom Provis was exceedingly fond. On the evening of the very
+“This acquitted young woman and Provis had a little [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip); a little
+[child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) of whom Provis was exceedingly fond. On the evening of the very
 night when the object of her jealousy was strangled as I tell you, the
 young woman presented herself before Provis for one moment, and swore
-that she would destroy the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) (which was in her possession), and he
+that she would destroy the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) (which was in her possession), and he
 should never see it again; then she vanished.--There's the worst arm
 comfortably in the sling once more, and now there remains but the right
 hand, which is a far easier job. I can do it better by this light
@@ -16908,17 +16908,17 @@ have no other information.”
 
 “No, to be sure.”
 
-“Now, whether,” pursued Herbert, “he had used the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)'s mother ill, or
-whether he had used the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)'s mother well, Provis doesn't say; but she
+“Now, whether,” pursued Herbert, “he had used the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip)'s mother ill, or
+whether he had used the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip)'s mother well, Provis doesn't say; but she
 had shared some four or five years of the wretched life he described
 to us at this fireside, and he seems to have felt pity for her, and
 forbearance towards her. Therefore, fearing he should be called upon to
-depose about this destroyed [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), and so be the cause of her [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), he
-hid himself (much as he grieved for the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)), kept himself dark, as he
+depose about this destroyed [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip), and so be the cause of her [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip), he
+hid himself (much as he grieved for the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip)), kept himself dark, as he
 says, out of the way and out of the trial, and was only vaguely talked
 of as a certain man called Abel, out of whom the jealousy arose. After
-the acquittal she disappeared, and thus he lost the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) and the
-[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)'s mother.”
+the acquittal she disappeared, and thus he lost the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) and the
+[child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip)'s mother.”
 
 “I want to ask--”
 
@@ -16926,7 +16926,7 @@ the acquittal she disappeared, and thus he lost the [child](https://jsl-voyant.p
 the worst of scoundrels among many scoundrels, knowing of his keeping
 out of the way at that time and of his reasons for doing so, of course
 afterwards held the knowledge over his head as a means of keeping him
-poorer and [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing him harder. It was clear last night that this barbed
+poorer and working him harder. It was clear last night that this barbed
 the point of Provis's animosity.”
 
 “I want to know,” said I, “and particularly, Herbert, whether he told
@@ -16985,14 +16985,14 @@ whose preservation I was so much concerned some rays of the romantic
 interest that had so long surrounded me. Perhaps the latter possibility
 may be the nearer to the truth.
 
-Any way, I could scarcely be withheld from going out to Gerrard S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t
+Any way, I could scarcely be withheld from going out to Gerrard Street
 that night. Herbert's representations that, if I did, I should probably
 be laid up and stricken useless, when our fugitive's safety would depend
 upon me, alone restrained my impatience. On the understanding, again
 and again reiterated, that, come what would, I was to go to Mr. Jaggers
 to-morrow, I at length submitted to keep quiet, and to have my hurts
 looked after, and to stay at home. Early next morning we went out
-together, and at the corner of Giltspur S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t by Smithfield, I left
+together, and at the corner of Giltspur Street by Smithfield, I left
 Herbert to go his way into the City, and took my way to Little Britain.
 
 There were periodical occasions when Mr. Jaggers and Wemmick went over
@@ -17051,12 +17051,12 @@ then straightening himself. “Hah! I don't think I should have done so,
 if I had been Miss Havisham. But she ought to know her own business
 best.”
 
-“I know more of the history of Miss Havisham's adopted [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) than Miss
+“I know more of the history of Miss Havisham's adopted [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) than Miss
 Havisham herself does, sir. I know her mother.”
 
 Mr. Jaggers looked at me inquiringly, and repeated “Mother?”
 
-“I have seen her mother within these three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s.”
+“I have seen her mother within these three days.”
 
 “Yes?” said Mr. Jaggers.
 
@@ -17159,8 +17159,8 @@ distrustful that the other was taking him in.
 
 “Since it don't interfere with business,” returned Wemmick, “let it be
 so. Now, I look at you, sir, I shouldn't wonder if you might be planning
-and contriving to have a pleasant home of your own one of these [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s,
-when you're tired of all this [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip).”
+and contriving to have a pleasant home of your own one of these days,
+when you're tired of all this [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip).”
 
 Mr. Jaggers nodded his head retrospectively two or three times, and
 actually drew a sigh. “Pip,” said he, “we won't talk about 'poor
@@ -17172,37 +17172,37 @@ He waited for me to declare that I quite understood that he expressly
 said that he admitted nothing.
 
 “Now, Pip,” said Mr. Jaggers, “put this case. Put the case that a
-woman, under such circumstances as you have mentioned, held her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)
+woman, under such circumstances as you have mentioned, held her [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip)
 concealed, and was obliged to communicate the fact to her legal adviser,
 on his representing to her that he must know, with an eye to the
-latitude of his defence, how the fact stood about that [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip). Put the
-case that, at the same time he held a trust to find a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) for an
+latitude of his defence, how the fact stood about that [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip). Put the
+case that, at the same time he held a trust to find a [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) for an
 eccentric rich lady to adopt and bring up.”
 
 “I follow you, sir.”
 
 “Put the case that he lived in an atmosphere of evil, and that all he
-saw of [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren was their being generated in great numbers for certain
-destruction. Put the case that he often saw [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren solemnly tried at
+saw of children was their being generated in great numbers for certain
+destruction. Put the case that he often saw children solemnly tried at
 a criminal bar, where they were held up to be seen; put the case that
 he habitually knew of their being imprisoned, whipped, transported,
 neglected, cast out, qualified in all ways for the hangman, and growing
-up to be hanged. Put the case that pretty nigh all the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren he saw
+up to be hanged. Put the case that pretty nigh all the children he saw
 in his daily business life he had reason to look upon as so much
 spawn, to develop into the fish that were to come to his net,--to be
 prosecuted, defended, forsworn, made orphans, bedevilled somehow.”
 
 “I follow you, sir.”
 
-“Put the case, Pip, that here was one pretty little [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) out of the
+“Put the case, Pip, that here was one pretty little [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) out of the
 heap who could be saved; whom the father believed dead, and dared make
 no stir about; as to whom, over the mother, the legal adviser had this
 power: “I know what you did, and how you did it. You came so and so, you
 did such and such things to divert suspicion. I have tracked you through
-it all, and I tell it you all. Part with the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), unless it should
+it all, and I tell it you all. Part with the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip), unless it should
 be necessary to produce it to clear you, and then it shall be produced.
-Give the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) into my hands, and I will do my best to bring you off. If
-you are saved, your [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) is saved too; if you are lost, your [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) is
+Give the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) into my hands, and I will do my best to bring you off. If
+you are saved, your [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) is saved too; if you are lost, your [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) is
 still saved.” Put the case that this was done, and that the woman was
 cleared.”
 
@@ -17212,7 +17212,7 @@ cleared.”
 
 “That you make no admissions.” And Wemmick repeated, “No admissions.”
 
-“Put the case, Pip, that passion and the terror of [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) had a little
+“Put the case, Pip, that passion and the terror of [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) had a little
 shaken the woman's intellects, and that when she was set at liberty,
 she was scared out of the ways of the world, and went to him to be
 sheltered. Put the case that he took her in, and that he kept down the
@@ -17222,7 +17222,7 @@ the imaginary case?”
 
 “Quite.”
 
-“Put the case that the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) grew up, and was married for money. That
+“Put the case that the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) grew up, and was married for money. That
 the mother was still living. That the father was still living. That the
 mother and father, unknown to one another, were dwelling within so many
 miles, furlongs, yards if you like, of one another. That the secret was
@@ -17253,7 +17253,7 @@ lips with his forefinger. I did the same. Mr. Jaggers did the same.
 “Now, Wemmick,” said the latter then, resuming his usual manner, “what
 item was it you were at when Mr. Pip came in?”
 
-Standing by for a little, while they were at [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), I observed that the
+Standing by for a little, while they were at [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), I observed that the
 odd looks they had cast at one another were repeated several times: with
 this difference now, that each of them seemed suspicious, not to say
 conscious, of having shown himself in a weak and unprofessional light to
@@ -17265,7 +17265,7 @@ got on very well indeed together.
 
 But they were both happily relieved by the opportune appearance of Mike,
 the client with the fur cap and the habit of wiping his nose on his
-sleeve, whom I had seen on the very first [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of my appearance within
+sleeve, whom I had seen on the very first [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) of my appearance within
 those walls. This individual, who, either in his own person or in that
 of some member of his family, seemed to be always in trouble (which in
 that place meant Newgate), called to announce that his eldest daughter
@@ -17295,7 +17295,7 @@ out.”
 
 So, the unfortunate Mike very humbly withdrew, and Mr. Jaggers and
 Wemmick appeared to have re-established their good understanding, and
-went to [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) again with an air of refreshment upon them as if they had
+went to [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) again with an air of refreshment upon them as if they had
 just had lunch.
 
 
@@ -17336,11 +17336,11 @@ no bad symptoms, took, in the natural course, so long to heal that I
 was still unable to get a coat on. My right arm was tolerably restored;
 disfigured, but fairly serviceable.
 
-On a Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning, when Herbert and I were at breakfast, I received
+On a Monday morning, when Herbert and I were at breakfast, I received
 the following letter from Wemmick by the post.
 
 “Walworth. Burn this as soon as read. Early in the week, or say
-Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), you might do what you know of, if you felt disposed to try
+Wednesday, you might do what you know of, if you felt disposed to try
 it. Now burn.”
 
 When I had shown this to Herbert and had put it in the fire--but not
@@ -17393,10 +17393,10 @@ Those two should pull a pair of oars, we settled, and I would steer; our
 charge would be sitter, and keep quiet; as speed was not our object, we
 should make way enough. We arranged that Herbert should not come home to
 dinner before going to Mill Pond Bank that evening; that he should
-not go there at all to-morrow evening, Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); that he should prepare
-Provis to come down to some stairs hard by the house, on Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), when
+not go there at all to-morrow evening, Tuesday; that he should prepare
+Provis to come down to some stairs hard by the house, on Wednesday, when
 he saw us approach, and not sooner; that all the arrangements with
-him should be concluded that Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night; and that he should be
+him should be concluded that Monday night; and that he should be
 communicated with no more in any way, until we took him on board.
 
 These precautions well understood by both of us, I went home.
@@ -17436,7 +17436,7 @@ be so soon going away, I knew not for how long, I had decided to hurry
 down and back, to ascertain for myself how Miss Havisham was faring.
 I had then barely time to get my great-coat, lock up the chambers,
 and make for the coach-office by the short by-ways. If I had taken a
-hackney-chariot and gone by the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts, I should have missed my aim;
+hackney-chariot and gone by the streets, I should have missed my aim;
 going as I did, I caught the coach just as it came out of the yard. I
 was the only inside passenger, jolting away knee-deep in straw, when I
 came to myself.
@@ -17555,8 +17555,8 @@ seemed to have the whole flats to myself.
 
 It was another half-hour before I drew near to the kiln. The lime was
 burning with a sluggish stifling smell, but the fires were made up and
-left, and no [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)men were visible. Hard by was a small stone-quarry. It
-lay directly in my way, and had been [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), as I saw by the
+left, and no workmen were visible. Hard by was a small stone-quarry. It
+lay directly in my way, and had been worked that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), as I saw by the
 tools and barrows that were lying about.
 
 Coming up again to the marsh level out of this excavation,--for the rude
@@ -17596,7 +17596,7 @@ sometimes a strong man's breast, was set against my mouth to deaden
 my cries, and with a hot breath always close to me, I struggled
 ineffectually in the dark, while I was fastened tight to the wall. “And
 now,” said the suppressed voice with another oath, “call out again, and
-I'll make short [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) of you!”
+I'll make short [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) of you!”
 
 Faint and sick with the pain of my injured arm, bewildered by the
 surprise, and yet conscious how easily this threat could be put in
@@ -17691,7 +17691,7 @@ a going to have your life!”
 He leaned forward staring at me, slowly unclenched his hand and drew it
 across his mouth as if his mouth watered for me, and sat down again.
 
-“You was always in Old Orlick's way since ever you was a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip). You goes
+“You was always in Old Orlick's way since ever you was a [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip). You goes
 out of his way this present night. He'll have no more on you. You're
 dead.”
 
@@ -17704,16 +17704,16 @@ your body in the kiln,--I'd carry two such to it, on my Shoulders,--and,
 let people suppose what they may of you, they shall never know nothing.”
 
 My mind, with inconceivable rapidity followed out all the consequences
-of such a [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). Estella's father would believe I had deserted him,
+of such a [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip). Estella's father would believe I had deserted him,
 would be taken, would die accusing me; even Herbert would doubt me,
 when he compared the letter I had left for him with the fact that I had
 called at Miss Havisham's gate for only a moment; Joe and Biddy would
 never know how sorry I had been that night, none would ever know what
 I had suffered, how true I had meant to be, what an agony I had passed
-through. The [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) close before me was terrible, but far more terrible
-than [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) was the dread of being misremembered after [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip). And
+through. The [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) close before me was terrible, but far more terrible
+than [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) was the dread of being misremembered after [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip). And
 so quick were my thoughts, that I saw myself despised by unborn
-generations,--Estella's [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren, and their [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren,--while the
+generations,--Estella's children, and their children,--while the
 wretch's words were yet on his lips.
 
 “Now, wolf,” said he, “afore I kill you like any other beast,--which is
@@ -17735,7 +17735,7 @@ would have done it.
 
 He had been drinking, and his eyes were red and bloodshot. Around his
 neck was slung a tin bottle, as I had often seen his meat and drink
-slung about him in other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s. He brought the bottle to his lips, and
+slung about him in other days. He brought the bottle to his lips, and
 took a fiery drink from it; and I smelt the strong spirits that I saw
 flash into his face.
 
@@ -17743,7 +17743,7 @@ flash into his face.
 you somethink. It was you as did for your shrew sister.”
 
 Again my mind, with its former inconceivable rapidity, had exhausted the
-whole subject of the attack upon my sister, her illness, and her [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip),
+whole subject of the attack upon my sister, her illness, and her [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip),
 before his slow and hesitating speech had formed these words.
 
 “It was you, villain,” said I.
@@ -17759,13 +17759,13 @@ Now you pays for it. You done it; now you pays for it.”
 
 He drank again, and became more ferocious. I saw by his tilting of
 the bottle that there was no great quantity left in it. I distinctly
-understood that he was [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ing himself up with its contents to make an
+understood that he was working himself up with its contents to make an
 end of me. I knew that every drop it held was a drop of my life. I knew
 that when I was changed into a part of the vapor that had crept towards
 me but a little while before, like my own warning ghost, he would do
 as he had done in my sister's case,--make all haste to the town, and
 be seen slouching about there drinking at the alehouses. My rapid mind
-pursued him to the town, made a picture of the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t with him in it,
+pursued him to the town, made a picture of the street with him in it,
 and contrasted its lights and life with the lonely marsh and the white
 vapor creeping over it, into which I should have dissolved.
 
@@ -17812,7 +17812,7 @@ out to sea!
 “You with a uncle too! Why, I know'd you at Gargery's when you was so
 small a wolf that I could have took your weazen betwixt this finger and
 thumb and chucked you away dead (as I'd thoughts o' doing, odd times,
-when I see you loitering amongst the pollards on a Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)), and you
+when I see you loitering amongst the pollards on a Sunday), and you
 hadn't found no uncles then. No, not you! But when Old Orlick come for
 to hear that your uncle Provis had most like wore the leg-iron wot Old
 Orlick had picked up, filed asunder, on these meshes ever so many year
@@ -17823,7 +17823,7 @@ that--hey?”
 In his savage taunting, he flared the candle so close at me that I
 turned my face aside to save it from the flame.
 
-“Ah!” he cried, laughing, after doing it again, “the burnt [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) dreads
+“Ah!” he cried, laughing, after doing it again, “the burnt [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) dreads
 the fire! Old Orlick knowed you was burnt, Old Orlick knowed you was
 smuggling your uncle Provis away, Old Orlick's a match for you and
 know'd you'd come to-night! Now I'll tell you something more, wolf, and
@@ -17899,14 +17899,14 @@ calm.”
 The allusion made me spring up; though I dropped again from the pain
 in my arm. “The time has not gone by, Herbert, has it? What night is
 to-night? How long have I been here?” For, I had a strange and
-strong misgiving that I had been lying there a long time--a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) and a
-night,--two [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and nights,--more.
+strong misgiving that I had been lying there a long time--a [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) and a
+night,--two days and nights,--more.
 
-“The time has not gone by. It is still Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) night.”
+“The time has not gone by. It is still Monday night.”
 
 “Thank God!”
 
-“And you have all to-morrow, Tues[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), to rest in,” said Herbert. “But
+“And you have all to-morrow, Tuesday, to rest in,” said Herbert. “But
 you can't help groaning, my dear Handel. What hurt have you got? Can you
 stand?”
 
@@ -17930,7 +17930,7 @@ Entreating Herbert to tell me how he had come to my rescue,--which at
 first he had flatly refused to do, but had insisted on my remaining
 quiet,--I learnt that I had in my hurry dropped the letter, open, in our
 chambers, where he, coming home to bring with him Startop whom he had
-met in the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t on his way to me, found it, very soon after I
+met in the street on his way to me, found it, very soon after I
 was gone. Its tone made him uneasy, and the more so because of the
 inconsistency between it and the hasty letter I had left for him. His
 uneasiness increasing instead of subsiding, after a quarter of an
@@ -17977,13 +17977,13 @@ we parted, I presented him with two guineas (which seemed to meet his
 views), and told him that I was sorry ever to have had an ill opinion of
 him (which made no impression on him at all).
 
-Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) being so close upon us, we determined to go back to London
+Wednesday being so close upon us, we determined to go back to London
 that night, three in the post-chaise; the rather, as we should then be
 clear away before the night's adventure began to be talked of. Herbert
 got a large bottle of stuff for my arm; and by dint of having this stuff
 dropped over it all the night through, I was just able to bear its pain
-on the journey. It was [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)light when we reached the Temple, and I went
-at once to bed, and lay in bed all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
+on the journey. It was daylight when we reached the Temple, and I went
+at once to bed, and lay in bed all [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).
 
 My terror, as I lay there, of falling ill, and being unfitted for
 to-morrow, was so besetting, that I wonder it did not disable me of
@@ -17993,13 +17993,13 @@ me that to-morrow was. So anxiously looked forward to, charged with such
 consequences, its results so impenetrably hidden, though so near.
 
 No precaution could have been more obvious than our refraining
-from communication with him that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); yet this again increased my
+from communication with him that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip); yet this again increased my
 restlessness. I started at every footstep and every sound, believing
 that he was discovered and taken, and this was the messenger to tell
 me so. I persuaded myself that I knew he was taken; that there was
 something more upon my mind than a fear or a presentiment; that the fact
-had occurred, and I had a mysterious knowledge of it. As the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s wore
-on, and no ill news came, as the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) closed in and darkness fell,
+had occurred, and I had a mysterious knowledge of it. As the days wore
+on, and no ill news came, as the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) closed in and darkness fell,
 my overshadowing dread of being disabled by illness before to-morrow
 morning altogether mastered me. My burning arm throbbed, and my burning
 head throbbed, and I fancied I was beginning to wander. I counted up to
@@ -18008,16 +18008,16 @@ in prose and verse. It happened sometimes that in the mere escape of a
 fatigued mind, I dozed for some moments or forgot; then I would say to
 myself with a start, “Now it has come, and I am turning delirious!”
 
-They kept me very quiet all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and kept my arm constantly dressed, and
+They kept me very quiet all [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and kept my arm constantly dressed, and
 gave me cooling drinks. Whenever I fell asleep, I awoke with the notion
 I had had in the sluice-house, that a long time had elapsed and the
 opportunity to save him was gone. About midnight I got out of bed
 and went to Herbert, with the conviction that I had been asleep for
-four-and-twenty hours, and that Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was past. It was the last
+four-and-twenty hours, and that Wednesday was past. It was the last
 self-exhausting effort of my fretfulness, for after that I slept
 soundly.
 
-Wednes[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning was dawning when I looked out of window. The winking
+Wednesday morning was dawning when I looked out of window. The winking
 lights upon the bridges were already pale, the coming sun was like a
 marsh of fire on the horizon. The river, still dark and mysterious, was
 spanned by bridges that were turning coldly gray, with here and there
@@ -18043,7 +18043,7 @@ us, and stand ready, you over there at Mill Pond Bank!”
 ---
 ## Chapter LIV
 
-It was one of those March [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s when the sun shines hot and the wind
+It was one of those March days when the sun shines hot and the wind
 blows cold: when it is summer in the light, and winter in the shade.
 We had our pea-coats with us, and I took a bag. Of all my worldly
 possessions I took no more than the few necessaries that filled the
@@ -18069,7 +18069,7 @@ broad and solitary, where the water-side inhabitants are very few, and
 where lone public-houses are scattered here and there, of which we could
 choose one for a resting-place. There, we meant to lie by all night.
 The steamer for Hamburg and the steamer for Rotterdam would start from
-London at about nine on Thurs[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning. We should know at what time
+London at about nine on Thursday morning. We should know at what time
 to expect them, according to where we were, and would hail the first;
 so that, if by any accident we were not taken abroad, we should have
 another chance. We knew the distinguishing marks of each vessel.
@@ -18081,7 +18081,7 @@ movement on the river, and the moving river itself,--the road that ran
 with us, seeming to sympathize with us, animate us, and encourage us
 on,--freshened me with new hope. I felt mortified to be of so little use
 in the boat; but, there were few better oarsmen than my two friends, and
-they rowed with a steady stroke that was to last all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
+they rowed with a steady stroke that was to last all [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).
 
 At that time, the steam-traffic on the Thames was far below its present
 extent, and watermen's boats were far more numerous. Of barges, sailing
@@ -18090,7 +18090,7 @@ but of steam-ships, great and small, not a tithe or a twentieth part
 so many. Early as it was, there were plenty of scullers going here and
 there that morning, and plenty of barges dropping down with the tide;
 the navigation of the river between bridges, in an open boat, was a much
-easier and commoner matter in those [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s than it is in these; and we
+easier and commoner matter in those days than it is in these; and we
 went ahead among many skiffs and wherries briskly.
 
 Old London Bridge was soon passed, and old Billingsgate Market with its
@@ -18155,7 +18155,7 @@ notion of meeting danger half way. When it came upon him, he confronted
 it, but it must come before he troubled himself.
 
 “If you knowed, dear boy,” he said to me, “what it is to sit here
-alonger my dear boy and have my smoke, arter having been [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+alonger my dear boy and have my smoke, arter having been [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) by [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)
 betwixt four walls, you'd envy me. But you don't know what it is.”
 
 “I think I know the delights of freedom,” I answered.
@@ -18199,7 +18199,7 @@ holding up his dripping hand.
 “But for your face I should think you were a little despondent,” said I.
 
 “Not a bit on it, dear boy! It comes of flowing on so quiet, and of that
-there rippling at the boat's head making a sort of a Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) tune. Maybe
+there rippling at the boat's head making a sort of a Sunday tune. Maybe
 I'm a growing a trifle old besides.”
 
 He put his pipe back in his mouth with an undisturbed expression of
@@ -18210,7 +18210,7 @@ into the boat, and he was stepping out, I hinted that I thought he would
 be safest where he was, and he said. “Do you, dear boy?” and quietly sat
 down again.
 
-The air felt cold upon the river, but it was a bright [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and the
+The air felt cold upon the river, but it was a bright [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and the
 sunshine was very cheering. The tide ran strong, I took care to lose
 none of it, and our steady stroke carried us on thoroughly well. By
 imperceptible degrees, as the tide ran out, we lost more and more of the
@@ -18237,14 +18237,14 @@ floating buoys upon it turned and turned, and everything else seemed
 stranded and still. For now the last of the fleet of ships was round
 the last low point we had headed; and the last green barge, straw-laden,
 with a brown sail, had followed; and some ballast-lighters, shaped like
-a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)'s first rude imitation of a boat, lay low in the mud; and a
+a [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip)'s first rude imitation of a boat, lay low in the mud; and a
 little squat shoal-lighthouse on open piles stood crippled in the mud
 on stilts and crutches; and slimy stakes stuck out of the mud, and slimy
 stones stuck out of the mud, and red landmarks and tidemarks stuck
 out of the mud, and an old landing-stage and an old roofless building
 slipped into the mud, and all about us was stagnation and mud.
 
-We pushed off again, and made what way we could. It was much harder [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)
+We pushed off again, and made what way we could. It was much harder [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip)
 now, but Herbert and Startop persevered, and rowed and rowed and rowed
 until the sun went down. By that time the river had lifted us a little,
 so that we could see above the bank. There was the red sun, on the low
@@ -18273,7 +18273,7 @@ creek, and we were all suspicious of such places, and eyed them
 nervously. Sometimes, “What was that ripple?” one of us would say in a
 low voice. Or another, “Is that a boat yonder?” And afterwards we would
 fall into a dead silence, and I would sit impatiently thinking with what
-an unusual amount of noise the oars [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed in the thowels.
+an unusual amount of noise the oars worked in the thowels.
 
 At length we descried a light and a roof, and presently afterwards ran
 alongside a little causeway made of stones that had been picked up hard
@@ -18300,7 +18300,7 @@ notwithstanding, for a more solitary place we could not have found.
 While we were comforting ourselves by the fire after our meal, the
 Jack--who was sitting in a corner, and who had a bloated pair of shoes
 on, which he had exhibited while we were eating our eggs and bacon, as
-interesting relics that he had taken a few [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s ago from the feet of
+interesting relics that he had taken a few days ago from the feet of
 a drowned seaman washed ashore--asked me if we had seen a four-oared
 galley going up with the tide? When I told him No, he said she must have
 gone down then, and yet she “took up too,” when she left there.
@@ -18389,7 +18389,7 @@ of the Nore.
 
 My first impulse was to call up Herbert, and show him the two men going
 away. But reflecting, before I got into his room, which was at the back
-of the house and adjoined mine, that he and Startop had had a harder [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+of the house and adjoined mine, that he and Startop had had a harder [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)
 than I, and were fatigued, I forbore. Going back to my window, I could
 see the two men moving over the marsh. In that light, however, I soon
 lost them, and, feeling very cold, lay down to think of the matter, and
@@ -18397,7 +18397,7 @@ fell asleep again.
 
 We were up early. As we walked to and fro, all four together, before
 breakfast, I deemed it right to recount what I had seen. Again our
-charge was the least anxious of the [party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip). It was very likely that the
+charge was the least anxious of the [party](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/party.zip). It was very likely that the
 men belonged to the Custom House, he said quietly, and that they had no
 thought of us. I tried to persuade myself that it was so,--as, indeed,
 it might easily be. However, I proposed that he and I should walk away
@@ -18561,10 +18561,10 @@ people enough who were able and willing to identify him, I could not
 doubt. That he would be leniently treated, I could not hope. He who had
 been presented in the worst light at his trial, who had since broken
 prison and had been tried again, who had returned from transportation
-under a life sentence, and who had occasioned the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) of the man who
+under a life sentence, and who had occasioned the [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) of the man who
 was the cause of his arrest.
 
-As we returned towards the setting sun we had yester[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) left behind us,
+As we returned towards the setting sun we had yesterday left behind us,
 and as the stream of our hopes seemed all running back, I told him how
 grieved I was to think that he had come home for my sake.
 
@@ -18597,7 +18597,7 @@ his hopes of enriching me had perished.
 ---
 ## Chapter LV
 
-He was taken to the Police Court next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and would have been
+He was taken to the Police Court next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and would have been
 immediately committed for trial, but that it was necessary to send down
 for an old officer of the prison-ship from which he had once escaped, to
 speak to his identity. Nobody doubted it; but Compeyson, who had meant
@@ -18626,7 +18626,7 @@ be sickened with the hopeless task of attempting to establish one.
 There appeared to be reason for supposing that the drowned informer
 had hoped for a reward out of this forfeiture, and had obtained some
 accurate knowledge of Magwitch's affairs. When his body was found, many
-miles from the scene of his [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), and so horribly disfigured that he
+miles from the scene of his [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip), and so horribly disfigured that he
 was only recognizable by the contents of his pockets, notes were still
 legible, folded in a case he carried. Among these were the name of a
 banking-house in New South Wales, where a sum of money was, and the
@@ -18636,7 +18636,7 @@ Jaggers, of the possessions he supposed I should inherit. His ignorance,
 poor fellow, at last served him; he never mistrusted but that my
 inheritance was quite safe, with Mr. Jaggers's aid.
 
-After three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s' delay, during which the crown prosecution stood over
+After three days' delay, during which the crown prosecution stood over
 for the production of the witness from the prison-ship, the witness
 came, and completed the easy case. He was committed to take his trial at
 the next Sessions, which would come on in a month.
@@ -18659,7 +18659,7 @@ my need is no greater now than at another time.”
 
 “I have not leisure to think of that,” said I. “You know that I am
 always with him to the full extent of the time allowed, and that I
-should be with him all [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) long, if I could. And when I come away from
+should be with him all [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) long, if I could. And when I come away from
 him, you know that my thoughts are with him.”
 
 The dreadful condition to which he was brought, was so appalling to both
@@ -18730,7 +18730,7 @@ comes of no family, my dear Handel, and never looked into the red book,
 and hasn't a notion about her grandpapa. What a fortune for the son of
 my mother!”
 
-On the Satur[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) in that same week, I took my leave of Herbert,--full
+On the Saturday in that same week, I took my leave of Herbert,--full
 of bright hope, but sad and sorry to leave me,--as he sat on one of the
 seaport mail coaches. I went into a coffee-house to write a little note
 to Clara, telling her he had gone off, sending his love to her over and
@@ -18777,12 +18777,12 @@ of grog before walking to Walworth. He accepted the invitation. While he
 was drinking his moderate allowance, he said, with nothing to lead up to
 it, and after having appeared rather fidgety,--
 
-“What do you think of my meaning to take a holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) on Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Mr. Pip?”
+“What do you think of my meaning to take a holiday on Monday, Mr. Pip?”
 
 “Why, I suppose you have not done such a thing these twelve months.”
 
 “These twelve years, more likely,” said Wemmick. “Yes. I'm going to take
-a holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). More than that; I'm going to take a walk. More than that; I'm
+a holiday. More than that; I'm going to take a walk. More than that; I'm
 going to ask you to take a walk with me.”
 
 I was about to excuse myself, as being but a bad companion just then,
@@ -18798,9 +18798,9 @@ He had done so much for me at various times, that this was very little
 to do for him. I said I could manage it,--would manage it,--and he was
 so very much pleased by my acquiescence, that I was pleased too. At his
 particular request, I appointed to call for him at the Castle at half
-past eight on Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) morning, and so we parted for the time.
+past eight on Monday morning, and so we parted for the time.
 
-Punctual to my appointment, I rang at the Castle gate on the Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+Punctual to my appointment, I rang at the Castle gate on the Monday
 morning, and was received by Wemmick himself, who struck me as looking
 tighter than usual, and having a sleeker hat on. Within, there were two
 glasses of rum and milk prepared, and two biscuits. The Aged must have
@@ -18868,7 +18868,7 @@ bridegroom cried out in his accustomed voice, “Now Aged P. you know; who
 giveth?” To which the Aged replied with great briskness, before saying
 that he gave, “All right, John, all right, my boy!” And the clergyman
 came to so gloomy a pause upon it, that I had doubts for the moment
-whether we should get completely married that [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip).
+whether we should get completely married that [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip).
 
 It was completely done, however, and when we were going out of church
 Wemmick took the cover off the font, and put his white gloves in it, and
@@ -18876,7 +18876,7 @@ put the cover on again. Mrs. Wemmick, more heedful of the future, put
 her white gloves in her pocket and assumed her green. “Now, Mr. Pip,”
 said Wemmick, triumphantly shouldering the fishing-rod as we came
 out, “let me ask you whether anybody would suppose this to be a
-wedding-[party](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/party.zip)!”
+wedding-[party](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/party.zip)!”
 
 Breakfast had been ordered at a pleasant little tavern, a mile or so
 away upon the rising ground beyond the green; and there was a bagatelle
@@ -18901,7 +18901,7 @@ altogether a Walworth sentiment, please.”
 
 “I understand. Not to be mentioned in Little Britain,” said I.
 
-Wemmick nodded. “After what you let out the other [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), Mr. Jaggers
+Wemmick nodded. “After what you let out the other [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), Mr. Jaggers
 may as well not know of it. He might think my brain was softening, or
 something of the kind.”
 
@@ -18921,16 +18921,16 @@ first duty of my life to say to him, and read to him, what I knew he
 ought to hear.
 
 Being far too ill to remain in the common prison, he was removed, after
-the first [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or so, into the infirmary. This gave me opportunities
+the first [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) or so, into the infirmary. This gave me opportunities
 of being with him that I could not otherwise have had. And but for
 his illness he would have been put in irons, for he was regarded as a
 determined prison-breaker, and I know not what else.
 
-Although I saw him every [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), it was for only a short time; hence, the
+Although I saw him every [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), it was for only a short time; hence, the
 regularly recurring spaces of our separation were long enough to record
 on his face any slight changes that occurred in his physical state. I
 do not recollect that I once saw any change in it for the better; he
-wasted, and became slowly weaker and worse, [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), from the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+wasted, and became slowly weaker and worse, [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) by [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), from the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)
 when the prison door closed upon him.
 
 The kind of submission or resignation that he showed was that of a man
@@ -18944,7 +18944,7 @@ It happened on two or three occasions in my presence, that his desperate
 reputation was alluded to by one or other of the people in attendance on
 him. A smile crossed his face then, and he turned his eyes on me with
 a trustful look, as if he were confident that I had seen some small
-redeeming touch in him, even so long ago as when I was a little [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip).
+redeeming touch in him, even so long ago as when I was a little [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip).
 As to all the rest, he was humble and contrite, and I never knew him
 complain.
 
@@ -18963,8 +18963,8 @@ he had returned, and was there in presence of the Judge and Jury. It was
 impossible to try him for that, and do otherwise than find him guilty.
 
 At that time, it was the custom (as I learnt from my terrible experience
-of that Sessions) to devote a concluding [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) to the passing of
-Sentences, and to make a finishing effect with the Sentence of [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip).
+of that Sessions) to devote a concluding [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) to the passing of
+Sentences, and to make a finishing effect with the Sentence of [Death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip).
 But for the indelible picture that my remembrance now holds before me,
 I could scarcely believe, even as I write these words, that I saw
 two-and-thirty men and women put before the Judge to receive that
@@ -18997,9 +18997,9 @@ come back to the country where he was proscribed. Being here presently
 denounced, he had for a time succeeded in evading the officers of
 Justice, but being at length seized while in the act of flight, he had
 resisted them, and had--he best knew whether by express design, or in
-the blindness of his hardihood--caused the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) of his denouncer, to
+the blindness of his hardihood--caused the [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) of his denouncer, to
 whom his whole career was known. The appointed punishment for his return
-to the land that had cast him out, being [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip), and his case being this
+to the land that had cast him out, being [Death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip), and his case being this
 aggravated case, he must prepare himself to Die.
 
 The sun was striking in at the great windows of the court, through the
@@ -19009,7 +19009,7 @@ and perhaps reminding some among the audience how both were passing on,
 with absolute equality, to the greater Judgment that knoweth all things,
 and cannot err. Rising for a moment, a distinct speck of face in this
 way of light, the prisoner said, “My Lord, I have received my sentence
-of [Death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) from the Almighty, but I bow to yours,” and sat down again.
+of [Death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) from the Almighty, but I bow to yours,” and sat down again.
 There was some hushing, and the Judge went on with what he had to say
 to the rest. Then they were all formally doomed, and some of them were
 supported out, and some of them sauntered out with a haggard look of
@@ -19028,14 +19028,14 @@ forth my knowledge of him, and how it was that he had come back for my
 sake. I wrote it as fervently and pathetically as I could; and when I
 had finished it and sent it in, I wrote out other petitions to such men
 in authority as I hoped were the most merciful, and drew up one to the
-Crown itself. For several [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s and nights after he was sentenced I took
+Crown itself. For several days and nights after he was sentenced I took
 no rest except when I fell asleep in my chair, but was wholly absorbed
 in these appeals. And after I had sent them in, I could not keep away
 from the places where they were, but felt as if they were more
 hopeful and less desperate when I was near them. In this unreasonable
-restlessness and pain of mind I would roam the s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts of an evening,
+restlessness and pain of mind I would roam the streets of an evening,
 wandering by those offices and houses where I had left the petitions. To
-the present hour, the weary western s[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)ts of London on a cold, dusty
+the present hour, the weary western streets of London on a cold, dusty
 spring night, with their ranges of stern, shut-up mansions, and their
 long rows of lamps, are melancholy to me from this association.
 
@@ -19051,14 +19051,14 @@ room, and some other prisoners who attended on them as sick nurses,
 (malefactors, but not incapable of kindness, God be thanked!) always
 joined in the same report.
 
-As the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s went on, I noticed more and more that he would lie placidly
+As the days went on, I noticed more and more that he would lie placidly
 looking at the white ceiling, with an absence of light in his face
 until some word of mine brightened it for an instant, and then it would
 subside again. Sometimes he was almost or quite unable to speak, then
 he would answer me with slight pressures on my hand, and I grew to
 understand his meaning very well.
 
-The number of the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s had risen to ten, when I saw a greater change
+The number of the days had risen to ten, when I saw a greater change
 in him than I had seen yet. His eyes were turned towards the door, and
 lighted up as I entered.
 
@@ -19085,7 +19085,7 @@ He lay on his back, breathing with great difficulty. Do what he would,
 and love me though he did, the light left his face ever and again, and a
 film came over the placid look at the white ceiling.
 
-“Are you in much pain to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)?”
+“Are you in much pain to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)?”
 
 “I don't complain of none, dear boy.”
 
@@ -19109,7 +19109,7 @@ say?”
 
 A gentle pressure on my hand.
 
-“You had a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) once, whom you loved and lost.”
+“You had a [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) once, whom you loved and lost.”
 
 A stronger pressure on my hand.
 
@@ -19145,7 +19145,7 @@ enabled me to put off illness, but not to put it away; I knew that it
 was coming on me now, and I knew very little else, and was even careless
 as to that.
 
-For a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two, I lay on the sofa, or on the floor,--anywhere,
+For a [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) or two, I lay on the sofa, or on the floor,--anywhere,
 according as I happened to sink down,--with a heavy head and aching
 limbs, and no purpose, and no power. Then there came, one night which
 appeared of great duration, and which teemed with anxiety and horror;
@@ -19220,13 +19220,13 @@ After I had turned the worst point of my illness, I began to notice that
 while all its other features changed, this one consistent feature did
 not change. Whoever came about me, still settled down into Joe. I opened
 my eyes in the night, and I saw, in the great chair at the bedside, Joe.
-I opened my eyes in the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and, sitting on the window-seat, smoking
+I opened my eyes in the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and, sitting on the window-seat, smoking
 his pipe in the shaded open window, still I saw Joe. I asked for cooling
 drink, and the dear hand that gave it me was Joe's. I sank back on
 my pillow after drinking, and the face that looked so hopefully and
 tenderly upon me was the face of Joe.
 
-At last, one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), I took courage, and said, “Is it Joe?”
+At last, one [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), I took courage, and said, “Is it Joe?”
 
 And the dear old home-voice answered, “Which it air, old chap.”
 
@@ -19287,9 +19287,9 @@ it made me, in my weak state, cry again with pleasure to see the
 pride with which he set about his letter. My bedstead, divested of its
 curtains, had been removed, with me upon it, into the sitting-room, as
 the airiest and largest, and the carpet had been taken away, and
-the room kept always fresh and wholesome night and [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). At my own
+the room kept always fresh and wholesome night and [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). At my own
 writing-table, pushed into a corner and cumbered with little bottles,
-Joe now sat down to his great [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), first choosing a pen from the
+Joe now sat down to his great [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), first choosing a pen from the
 pen-tray as if it were a chest of large tools, and tucking up his
 sleeves as if he were going to wield a crow-bar or sledgehammer. It was
 necessary for Joe to hold on heavily to the table with his left elbow,
@@ -19299,7 +19299,7 @@ have been six feet long, while at every upstroke I could hear his pen
 spluttering extensively. He had a curious idea that the inkstand was
 on the side of him where it was not, and constantly dipped his pen into
 space, and seemed quite satisfied with the result. Occasionally, he was
-tripped up by some ort[hog](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/hog.zip)raphical stumbling-block; but on the whole
+tripped up by some orthographical stumbling-block; but on the whole
 he got on very well indeed; and when he had signed his name, and had
 removed a finishing blot from the paper to the crown of his head with
 his two forefingers, he got up and hovered about the table, trying the
@@ -19307,7 +19307,7 @@ effect of his performance from various points of view, as it lay there,
 with unbounded satisfaction.
 
 Not to make Joe uneasy by talking too much, even if I had been able to
-talk much, I deferred asking him about Miss Havisham until next [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). He
+talk much, I deferred asking him about Miss Havisham until next [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). He
 shook his head when I then asked him if she had recovered.
 
 “Is she dead, Joe?”
@@ -19330,7 +19330,7 @@ come at everything by degrees.
 
 “Well, old chap,” said Joe, “it do appear that she had settled the most
 of it, which I meantersay tied it up, on Miss Estella. But she had
-wrote out a little coddleshell in her own hand a [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) or two afore the
+wrote out a little coddleshell in her own hand a [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) or two afore the
 accident, leaving a cool four thousand to Mr. Matthew Pocket. And why,
 do you suppose, above all things, Pip, she left that cool four thousand
 unto him? 'Because of Pip's account of him, the said Matthew.' I am told
@@ -19360,7 +19360,7 @@ spirits when she wake up in the night.”
 The accuracy of these recitals was sufficiently obvious to me, to give
 me great confidence in Joe's information. “And now,” said Joe, “you
 ain't that strong yet, old chap, that you can take in more nor one
-additional shovelful to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip). Old Orlick he's been a bustin' open a
+additional shovelful to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip). Old Orlick he's been a bustin' open a
 dwelling-ouse.”
 
 “Whose?” said I.
@@ -19384,11 +19384,11 @@ to gain strength, but I did slowly and surely become less weak, and Joe
 stayed with me, and I fancied I was little Pip again.
 
 For the tenderness of Joe was so beautifully proportioned to my need,
-that I was like a [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) in his hands. He would sit and talk to me in the
+that I was like a [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) in his hands. He would sit and talk to me in the
 old confidence, and with the old simplicity, and in the old unassertive
 protecting way, so that I would half believe that all my life since the
-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of the old kitchen was one of the mental troubles of the fever that
-was gone. He did everything for me except the household [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip), for which
+days of the old kitchen was one of the mental troubles of the fever that
+was gone. He did everything for me except the household [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip), for which
 he had engaged a very decent woman, after paying off the laundress on
 his first arrival. “Which I do assure you, Pip,” he would often say, in
 explanation of that liberty; “I found her a tapping the spare bed, like
@@ -19398,22 +19398,22 @@ laying on it, and was then a carrying away the coals gradiwally in
 the soup-tureen and wegetable-dishes, and the wine and spirits in your
 Wellington boots.”
 
-We looked forward to the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) when I should go out for a ride, as we had
-once looked forward to the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) of my apprenticeship. And when the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+We looked forward to the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) when I should go out for a ride, as we had
+once looked forward to the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) of my apprenticeship. And when the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)
 came, and an open carriage was got into the Lane, Joe wrapped me up,
 took me in his arms, carried me down to it, and put me in, as if I were
 still the small helpless creature to whom he had so abundantly given of
 the wealth of his great nature.
 
 And Joe got in beside me, and we drove away together into the country,
-where the rich summer growth was already on the [tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s and on the grass,
-and sweet summer scents filled all the air. The [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) happened to be
-Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and when I looked on the loveliness around me, and thought
+where the rich summer growth was already on the trees and on the grass,
+and sweet summer scents filled all the air. The [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) happened to be
+Sunday, and when I looked on the loveliness around me, and thought
 how it had grown and changed, and how the little wild-flowers had been
-forming, and the voices of the birds had been strengthening, by [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) and
+forming, and the voices of the birds had been strengthening, by [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) and
 by night, under the sun and under the stars, while poor I lay burning
 and tossing on my bed, the mere remembrance of having burned and tossed
-there came like a check upon my peace. But when I heard the Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+there came like a check upon my peace. But when I heard the Sunday
 bells, and looked around a little more upon the outspread beauty, I felt
 that I was not nearly thankful enough,--that I was too weak yet to be
 even that,--and I laid my head on Joe's shoulder, as I had laid it long
@@ -19427,7 +19427,7 @@ eyes still; just as simply faithful, and as simply right.
 
 When we got back again, and he lifted me out, and carried me--so
 easily!--across the court and up the stairs, I thought of that eventful
-Christmas [Day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) when he had carried me over the marshes. We had not yet
+Christmas [Day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) when he had carried me over the marshes. We had not yet
 made any allusion to my change of fortune, nor did I know how much of
 my late history he was acquainted with. I was so doubtful of myself now,
 and put so much trust in him, that I could not satisfy myself whether I
@@ -19486,7 +19486,7 @@ she dropped into me too, if I put myself in opposition to her, but that
 she dropped into you always heavier for it. I noticed that. It ain't a
 grab at a man's whisker, not yet a shake or two of a man (to which your
 sister was quite welcome), that 'ud put a man off from getting a little
-[child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) out of punishment. But when that little [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) is dropped into
+[child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) out of punishment. But when that little [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) is dropped into
 heavier for that grab of whisker or shaking, then that man naterally up
 and says to himself, 'Where is the good as you are a doing? I grant you
 I see the 'arm,' says the man, 'but I don't see the good. I call upon
@@ -19501,7 +19501,7 @@ you, sir, therefore, to pint out the good.'”
 “Well, old chap,” said Joe, “then abide by your words. If he's always
 right (which in general he's more likely wrong), he's right when he says
 this: Supposing ever you kep any little matter to yourself, when you
-was a little [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), you kep it mostly because you know'd as J. Gargery's
+was a little [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip), you kep it mostly because you know'd as J. Gargery's
 power to part you and Tickler in sunders were not fully equal to his
 inclinations. Theerfore, think no more of it as betwixt two sech, and do
 not let us pass remarks upon onnecessary subjects. Biddy giv' herself a
@@ -19563,7 +19563,7 @@ must not suffer him to do it.
 
 It was a thoughtful evening with both of us. But, before we went to
 bed, I had resolved that I would wait over to-morrow,--to-morrow being
-Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip),--and would begin my new course with the new week. On Mon[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+Sunday,--and would begin my new course with the new week. On Monday
 morning I would speak to Joe about this change, I would lay aside this
 last vestige of reserve, I would tell him what I had in my thoughts
 (that Secondly, not yet arrived at), and why I had not decided to go
@@ -19571,7 +19571,7 @@ out to Herbert, and then the change would be conquered for ever. As I
 cleared, Joe cleared, and it seemed as though he had sympathetically
 arrived at a resolution too.
 
-We had a quiet [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) on the Sun[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and we rode out into the country, and
+We had a quiet [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) on the Sunday, and we rode out into the country, and
 then walked in the fields.
 
 “I feel thankful that I have been ill, Joe,” I said.
@@ -19583,7 +19583,7 @@ then walked in the fields.
 “Likeways for myself, sir,” Joe returned.
 
 “We have had a time together, Joe, that I can never forget. There were
-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s once, I know, that I did for a while forget; but I never shall
+days once, I know, that I did for a while forget; but I never shall
 forget these.”
 
 “Pip,” said Joe, appearing a little hurried and troubled, “there has
@@ -19605,7 +19605,7 @@ said, in what I thought a husky voice, “Good night!”
 When I got up in the morning, refreshed and stronger yet, I was full of
 my resolution to tell Joe all, without delay. I would tell him before
 breakfast. I would dress at once and go to his room and surprise him;
-for, it was the first [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) I had been up early. I went to his room, and
+for, it was the first [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) I had been up early. I went to his room, and
 he was not there. Not only was he not there, but his box was gone.
 
 I hurried then to the breakfast-table, and on it found a letter. These
@@ -19636,10 +19636,10 @@ liked me very well, when my errant heart, even while it strayed away
 from you, was quieter and better with you than it ever has been since.
 If you can like me only half as well once more, if you can take me with
 all my faults and disappointments on my head, if you can receive me like
-a forgiven [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip) (and indeed I am as sorry, Biddy, and have as much need
+a forgiven [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip) (and indeed I am as sorry, Biddy, and have as much need
 of a hushing voice and a soothing hand), I hope I am a little worthier
 of you that I was,--not much, but a little. And, Biddy, it shall rest
-with you to say whether I shall [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) at the forge with Joe, or whether I
+with you to say whether I shall [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) at the forge with Joe, or whether I
 shall try for any different occupation down in this country, or whether
 we shall go away to a distant place where an opportunity awaits me which
 I set aside, when it was offered, until I knew your answer. And now,
@@ -19647,7 +19647,7 @@ dear Biddy, if you can tell me that you will go through the world with
 me, you will surely make it a better world for me, and me a better man
 for it, and I will try hard to make it a better world for you.”
 
-Such was my purpose. After three [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s more of recovery, I went down to
+Such was my purpose. After three days more of recovery, I went down to
 the old place to put it in execution. And how I sped in it is all I have
 left to tell.
 
@@ -19747,7 +19747,7 @@ when I take such an interest in your breakfast, as to wish your frame,
 exhausted by the debilitating effects of prodigygality, to be stimilated
 by the 'olesome nourishment of your forefathers. And yet,” said
 Pumblechook, turning to the landlord and waiter, and pointing me out at
-arm's length, “this is him as I ever sported with in his [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s of happy
+arm's length, “this is him as I ever sported with in his days of happy
 infancy! Tell me not it cannot be; I tell you this is him!”
 
 A low murmur from the two replied. The waiter appeared to be
@@ -19777,7 +19777,7 @@ which his father's name was Potkins if I do not deceive myself.”
 “You do not, sir,” said William.
 
 “In their presence,” pursued Pumblechook, “I will tell you, young
-man, what to say to Joseph. Says you, “Joseph, I have this [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) seen
+man, what to say to Joseph. Says you, “Joseph, I have this [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) seen
 my earliest benefactor and the founder of my fortun's. I will name no
 names, Joseph, but so they are pleased to call him up town, and I have
 seen that man.”
@@ -19821,7 +19821,7 @@ do it, benevolent to do it, and that I would do it again.”
 With those words the Impostor shook them both by the hand, with an air,
 and left the house; leaving me much more astonished than delighted by
 the virtues of that same indefinite “it.” I was not long after him in
-leaving the house too, and when I went down the High S[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)t I saw him
+leaving the house too, and when I went down the High Street I saw him
 holding forth (no doubt to the same effect) at his shop door to a select
 group, who honored me with very unfavorable glances as I passed on the
 opposite side of the way.
@@ -19846,8 +19846,8 @@ had lasted many years.
 
 The schoolhouse where Biddy was mistress I had never seen; but, the
 little roundabout lane by which I entered the village, for quietness'
-sake, took me past it. I was disappointed to find that the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) was a
-holi[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip); no [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren were there, and Biddy's house was closed. Some
+sake, took me past it. I was disappointed to find that the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) was a
+holiday; no children were there, and Biddy's house was closed. Some
 hopeful notion of seeing her, busily engaged in her daily duties, before
 she saw me, had been in my mind and was defeated.
 
@@ -19855,7 +19855,7 @@ But the forge was a very short distance off, and I went towards it under
 the sweet green limes, listening for the clink of Joe's hammer. Long
 after I ought to have heard it, and long after I had fancied I heard it
 and found it but a fancy, all was still. The limes were there, and the
-white thorns were there, and the chestnut-[tree](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/tree.zip)s were there, and their
+white thorns were there, and the chestnut-trees were there, and their
 leaves rustled harmoniously when I stopped to listen; but, the clink of
 Joe's hammer was not in the midsummer wind.
 
@@ -19883,7 +19883,7 @@ looked so worn and white.
 
 I looked at both of them, from one to the other, and then--
 
-“It's my wedding-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)!” cried Biddy, in a burst of happiness, “and I am
+“It's my wedding-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)!” cried Biddy, in a burst of happiness, “and I am
 married to Joe!”
 
 They had taken me into the kitchen, and I had laid my head down on
@@ -19892,7 +19892,7 @@ restoring touch was on my shoulder. “Which he warn't strong enough, my
 dear, fur to be surprised,” said Joe. And Biddy said, “I ought to
 have thought of it, dear Joe, but I was too happy.” They were both so
 overjoyed to see me, so proud to see me, so touched by my coming to
-them, so delighted that I should have come by accident to make their [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)
+them, so delighted that I should have come by accident to make their [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip)
 complete!
 
 My first thought was one of great thankfulness that I had never breathed
@@ -19912,11 +19912,11 @@ make you as happy as even you deserve to be, you dear, good, noble Joe!”
 Joe looked at me with a quivering lip, and fairly put his sleeve before
 his eyes.
 
-“And Joe and Biddy both, as you have been to church to-[day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip), and are in
+“And Joe and Biddy both, as you have been to church to-[day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip), and are in
 charity and love with all mankind, receive my humble thanks for all you
 have done for me, and all I have so ill repaid! And when I say that I am
 going away within the hour, for I am soon going abroad, and that I shall
-never rest until I have [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed for the money with which you have kept me
+never rest until I have worked for the money with which you have kept me
 out of prison, and have sent it to you, don't think, dear Joe and Biddy,
 that if I could repay it a thousand times over, I suppose I could cancel
 a farthing of the debt I owe you, or that I would do so if I could!”
@@ -19924,12 +19924,12 @@ a farthing of the debt I owe you, or that I would do so if I could!”
 They were both melted by these words, and both entreated me to say no
 more.
 
-“But I must say more. Dear Joe, I hope you will have [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)ren to love,
+“But I must say more. Dear Joe, I hope you will have children to love,
 and that some little fellow will sit in this chimney-corner of a winter
 night, who may remind you of another little fellow gone out of it for
 ever. Don't tell him, Joe, that I was thankless; don't tell him, Biddy,
 that I was ungenerous and unjust; only tell him that I honored you both,
-because you were both so good and true, and that, as your [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), I said
+because you were both so good and true, and that, as your [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip), I said
 it would be natural to him to grow up a much better man than I did.”
 
 “I ain't a going,” said Joe, from behind his sleeve, “to tell him
@@ -19973,10 +19973,10 @@ told it, and Herbert was as much moved as amazed, and the dear fellow
 and I were not the worse friends for the long concealment. I must not
 leave it to be supposed that we were ever a great House, or that we made
 mints of money. We were not in a grand way of business, but we had a
-good name, and [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip)ed for our profits, and did very well. We owed so
+good name, and worked for our profits, and did very well. We owed so
 much to Herbert's ever cheerful industry and readiness, that I often
 wondered how I had conceived that old idea of his inaptitude, until I
-was one [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) enlightened by the reflection, that perhaps the inaptitude
+was one [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) enlightened by the reflection, that perhaps the inaptitude
 had never been in him at all, but had been in me.
 
 
@@ -19996,7 +19996,7 @@ with Joe's leg, and sitting on my own little stool looking at the fire,
 was--I again!
 
 “We giv' him the name of Pip for your sake, dear old chap,” said Joe,
-delighted, when I took another stool by the [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip)'s side (but I did not
+delighted, when I took another stool by the [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip)'s side (but I did not
 rumple his hair), “and we hoped he might grow a little bit like you, and
 we think he do.”
 
@@ -20008,7 +20008,7 @@ memory of Philip Pirrip, late of this Parish, and Also Georgiana, Wife
 of the Above.
 
 “Biddy,” said I, when I talked with her after dinner, as her little girl
-lay sleeping in her lap, “you must give Pip to me one of these [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip)s; or
+lay sleeping in her lap, “you must give Pip to me one of these days; or
 lend him, at all events.”
 
 “No, no,” said Biddy, gently. “You must marry.”
@@ -20017,7 +20017,7 @@ lend him, at all events.”
 settled down in their home, that it's not at all likely. I am already
 quite an old bachelor.”
 
-Biddy looked down at her [child](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/child.zip), and put its little hand to her lips, and
+Biddy looked down at her [child](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/child.zip), and put its little hand to her lips, and
 then put the good matronly hand with which she had touched it into mine.
 There was something in the action, and in the light pressure of Biddy's
 wedding-ring, that had a very pretty eloquence in it.
@@ -20040,7 +20040,7 @@ Yes, even so. For Estella's sake.
 I had heard of her as leading a most unhappy life, and as being
 separated from her husband, who had used her with great cruelty, and who
 had become quite renowned as a compound of pride, avarice, brutality,
-and meanness. And I had heard of the [death](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/death.zip) of her husband, from an
+and meanness. And I had heard of the [death](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/death.zip) of her husband, from an
 accident consequent on his ill-treatment of a horse. This release had
 befallen her some two years before; for anything I knew, she was married
 again.
@@ -20048,7 +20048,7 @@ again.
 The early dinner hour at Joe's, left me abundance of time, without
 hurrying my talk with Biddy, to walk over to the old spot before dark.
 But, what with loitering on the way to look at old objects and to think
-of old times, the [day](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/day.zip) had quite declined when I came to the place.
+of old times, the [day](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/day.zip) had quite declined when I came to the place.
 
 There was no house now, no brewery, no building whatever left, but the
 wall of the old garden. The cleared space had been enclosed with a rough
@@ -20122,7 +20122,7 @@ live abroad still?”
 
 “And do well, I am sure?”
 
-“I [work](https://jsl-voyant.pennds.org/?input=https://jsl-voyant.pennds.org/corpora/work.zip) pretty hard for a sufficient living, and therefore--yes, I do
+“I [work](https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/work.zip) pretty hard for a sufficient living, and therefore--yes, I do
 well.”
 
 “I have often thought of you,” said Estella.
