@@ -1,12 +1,9 @@
-from django.http import HttpResponseRedirect, HttpResponse
-from django.shortcuts import get_object_or_404, render
-from django.template import Context, Template, loader
-from django.urls import reverse
-from django.views import generic
-from django.utils import timezone
 from django.contrib.auth.decorators import login_required
+from django.http import Http404, HttpResponse
+from django.shortcuts import render
+from django.template import Context, Template, loader
+from titlecase import titlecase
 import os.path
-from django.http import Http404
 
 # Create your views here.
 @login_required
@@ -28,6 +25,31 @@ def proxy(request, static_path):
             return render(request, template_path)
     else:
         raise Http404("no static site matches the given query.")
+
+
+# view for home
+def home(request):
+    path = "pages/home.html"
+    return render(request, path, {'text_info_list': get_text_info_list()})
+
+
+# Format the text file name
+def format_text_name(text_name):
+    text_name = text_name.replace("_", " ")
+    text_name = text_name.replace("-", " ")
+    return titlecase(text_name)
+
+
+# Get the text information for display
+def get_text_info_list():
+    text_info_list = []
+    text_dir_names = os.listdir("../app/proxy/templates/proxy/texts")
+    for text_dir_name in text_dir_names:
+        text_info = []  # holds [{raw file name}, {formatted file name}]
+        text_info.append(text_dir_name)
+        text_info.append(format_text_name(text_dir_name))
+        text_info_list.append(text_info)
+    return text_info_list
 
 
 # Get header and body of string HTML page
