@@ -1,8 +1,8 @@
-# Static Site Proxy
+# Text Book
 
 [![N|Solid](https://avatars3.githubusercontent.com/u/20544498?s=200&v=4)](https://github.com/upenndigitalscholarship/)
 
-Static Site Proxy allows you to have a Django user authentication wall around your static site!
+
 
 ### Installation
 
