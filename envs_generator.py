@@ -51,7 +51,6 @@ def generate_django_env_file(hostname):
     f = open(".envs/.production/.django", "w")
     f.write(django_file)
     f.close()
-    print(django_file)
 
 
 # generate .postgres file in .envs/.production directory
@@ -65,12 +64,9 @@ def genereate_postgres_env_file():
     postgres_file += generate_password(32, False) + "\n"
     postgres_file += "POSTGRES_PASSWORD="
     postgres_file += generate_password(64, True) + "\n"
-    '''
     f = open(".envs/.production/.postgres", "w")
     f.write(postgres_file)
     f.close()
-    '''
-    print(postgres_file)
     return
 
 
@@ -122,7 +118,6 @@ def update_traefik_toml(hostname, voyant_hostname, traefik_toml_path):
     lines = f.readlines()
     f.close()
     new_traefik_toml = get_new_traefik_toml(lines, hostname, voyant_hostname)
-    print(new_traefik_toml)
     f = open(traefik_toml_path, "w")
     f.write(new_traefik_toml)
     f.close()
