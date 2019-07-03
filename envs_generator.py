@@ -173,14 +173,10 @@ def main():
     voyant_gen_py_path = "compose/voyant_generator/bin/voyant_gen.py"
     traefik_toml_path = "compose/traefik/traefik.toml"
     hostname, voyant_hostname = get_hostnames()
-    '''
     update_voyant_gen(voyant_hostname, voyant_gen_py_path)
     update_traefik_toml(hostname, voyant_hostname, traefik_toml_path)
     generate_django_env_file(hostname)
     genereate_postgres_env_file()
-    '''
-    pw = generate_password(64, True)
-    print(pw)
 
 
 if __name__ == "__main__":
