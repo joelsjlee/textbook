@@ -9,12 +9,12 @@ volumes:
 services:
 
   voyant_gen:
-    build:
-      context: .
-      dockerfile: ./compose/voyant_generator/Dockerfile
+    image: python:3
     volumes:
       - ./corpora:/corpora
       - ./context:/input
+      - ./voyant_gen:/workdir
+    command: python -u workdir/voyant_gen.py /input/keywords.txt /input/corpus/ /corpora/
 
   voyant:
     build:
