@@ -518,6 +518,7 @@ def monitor_csv_directory(text_dir, csv_dir, md_dir, text_timestamps, csv_timest
     voyant_file_info = os.stat(csv_path)
     # update all text files
     if csv_timestamp != voyant_file_info.st_mtime:
+        csv_timestamp = voyant_file_info.st_mtime
         with os.scandir(text_dir) as it:
             for entry in it:
                 if entry.name.endswith(".txt"):
