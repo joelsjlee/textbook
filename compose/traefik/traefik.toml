@@ -41,14 +41,6 @@ OnHostRule = true
     [backends.django.servers.server1]
       url = "http://django:5000"
 
-#[providers]
-#  [providers.file]
-
-#[http.middlewares]
-#  [http.middlewares.test.StripPrefix]
-#    prefixes = ["/voyant/"]
-
-
 [frontends]
   [frontends.voyant]
     backend = "voyant"
