@@ -45,12 +45,12 @@ And then refresh the page. From here, you should be able to sign up, and then si
 The project input is a .txt file for the full text of the book, a .txt file containing all the keywords, and a directory containing all the .txt articles.
 
 * Make sure that the title of the book .txt should be separated by underscores. For example, "The Jungle" by Upton Sinclair should be saved as `"the_jungle.txt"`.
-    * Put this file in the `textbook/text_to_md/texts` directory. This directory can support multiple book.txt files!
+    * Put this file in the `input/texts/` directory. This directory can support multiple book.txt files!
 
 * The keywords should be a .txt file that has each keyword separated by a line break, and should be named `keywords.txt`.
 
-    * Put this file in the `textbook/context` folder
-* The articles should all be .txt files and should be in `textbook/context/corpus`
+    * Put this file in the `input/keywords/` folder
+* The articles should all be .txt files and should be in `input/articles`
 
 Once you have inputted these files, then you should be able to refresh the server after waiting a few minutes, and you should see the text appear on the homepage. Clicking on that link will bring you to the Jekyll page of the full text, with your keywords highlighted and linked to the Voyant server, which analyzes your corpus of articles.
 
