@@ -9,12 +9,12 @@ volumes:
 services:
 
   voyant_gen:
-    build:
-      context: .
-      dockerfile: ./compose/voyant_generator/Dockerfile
+    image: python:3
     volumes:
       - ./corpora:/corpora
-      - ./context:/input
+      - ./input:/input
+      - ./voyant_gen:/workdir
+    command: python -u workdir/voyant_gen.py /input/keywords/keywords.txt /input/articles/ /corpora/
 
   voyant:
     build:
@@ -102,5 +102,6 @@ services:
       - ./ed:/ed
       - ./text_to_md:/workdir
       - ./corpora:/workdir/csvs
-    command: python workdir/text2md.py workdir/texts workdir/csvs ed/_texts
+      - ./input:/input
+    command: python workdir/text2md.py input/texts workdir/csvs ed/_texts
 

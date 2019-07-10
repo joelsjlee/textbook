@@ -1,45 +1,67 @@
-# Static Site Proxy
+# Text Book
 
 [![N|Solid](https://avatars3.githubusercontent.com/u/20544498?s=200&v=4)](https://github.com/upenndigitalscholarship/)
 
-Static Site Proxy allows you to have a Django user authentication wall around your static site!
+This tool allows you to analyze news articles within the context of a book, using Jekyll, Django, Docker, and Voyant Tools.
 
 ### Installation
 
-You must have Docker, Python and Django installed for this to run. Clone this github repo, and add your static html files into the folder named `static_pages`.
-
-Now open a terminal or Git Bash and run
+Clone the repo into your local folder:
 
 ```
-docker-compose -f local.yml build
+git clone https://github.com/joelslee/textbook
 ```
 
-This should build the stack and it will take awhile to complete. After completion, run this next command to put up the server:
+This project was built through Docker, and there are some additional configuration settings that must be set by the user.
+
+First, `cd` and `nano` into `textbook/compose/traefik/traefik.toml` and change the `main` url under `[[acme.domains]]` to your desired url. Under `[frontends]`, change the rules under `[frontends.voyant.routes.dr1], [frontends.nginx.routes.corpora], [frontends.django.routes.dr1]` to your desired urls.
+
+Second, `cd` and `nano` into `textbook/voyant_gen/voyant_gen.py` and on line 56 change the `url_template` to your desired url.
+
+Now, run:
 
 ```
-docker-compose -f local.yml up
+sudo docker-compose build
 ```
-
-If you have an older version of Windows and user Docker Toolbox, your site will be viewable at [http://192.168.99.100:3000](http://192.168.99.100:3000). If you're running the newest version of Docker, it might be up at [http://localhost:3000](http://localhost:3000).
-
-Now, if you add the file name of your desired html webpage that you added into `static pages`, into the browser, like for exmaple http://192.168.99.100:3000/index.html you will be faced with a login page.
-
-To create a superuser to login to the page, open up the terminal and cd into the `static_site_proxy` directory and type in
+And when that finishes building, run
 
 ```
-docker-compose -f local.yml run --rm django python manage.py createsuperuser
+sudo docker-compose up
 ```
 
-If you are running on windows and get an error saying:
+### Running and Additional Configuration
+
+
+After running the docker-compose up command, you should be able to go to your desired url and will see the django user login page.
+
+If the login page gives a 500 error, open up a new terminal and put in the command:
 
 ```
-Superuser creation skipped due to not running in a TTY. You can run manage.py createsuperuser in your project to create one manually.
+sudo docker-compose run --rm django python manage.py migrate
 ```
 
-you can fix this by adding `winpty` to the front of the command, giving:
+And then refresh the page. From here, you should be able to sign up, and then sign in. Once signing in successfully, the home page should show the texts. If this is a new project, then there should be no text links to click. 
 
-```
-winpty docker-compose -f local.yml run --rm django python manage.py createsuperuser
-```
+The project input is a .txt file for the full text of the book, a .txt file containing all the keywords, and a directory containing all the .txt articles.
 
-This will prompt you to create a username, email, and password. After you do this, go to [http://192.168.99.100:3000/admin](http://192.168.99.100:3000/admin) and login. Now click on `Email Addresses` and click on the email address you provided and check off `verified` and `primary`. Hit save and now navigate back to the webpage you previously tried to see. You should be given the same login page, and you can now login with those credentials and you should be redirected to your webpage.
+* Make sure that the title of the book .txt should be separated by underscores. For example, "The Jungle" by Upton Sinclair should be saved as `"the_jungle.txt"`.
+    * Put this file in the `input/texts/` directory. This directory can support multiple book.txt files!
+
+* The keywords should be a .txt file that has each keyword separated by a line break, and should be named `keywords.txt`.
+
+    * Put this file in the `input/keywords/` folder
+* The articles should all be .txt files and should be in `input/articles`
+
+Once you have inputted these files, then you should be able to refresh the server after waiting a few minutes, and you should see the text appear on the homepage. Clicking on that link will bring you to the Jekyll page of the full text, with your keywords highlighted and linked to the Voyant server, which analyzes your corpus of articles.
+
+
+
+
+
+
+
+
+
+
+
+

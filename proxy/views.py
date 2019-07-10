@@ -3,6 +3,7 @@ from django.http import Http404, HttpResponse
 from django.shortcuts import render
 from django.template import Context, Template, loader
 from titlecase import titlecase
+from django.core.management import call_command
 import os.path
 
 # Create your views here.
@@ -20,7 +21,11 @@ def proxy(request, static_path):
             html_page = header + body
             template = Template(html_page)
             context = Context()
-            return HttpResponse(template.render(context))
+            try:
+                return HttpResponse(template.render(context))
+            except ValueError:
+                call_command('collectstatic', verbosity=0, interactive=False)
+                return HttpResponse(template.render(context))
         else:
             return render(request, template_path)
     else:
