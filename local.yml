@@ -5,13 +5,35 @@ volumes:
   local_postgres_data_backups: {}
 
 services:
+  voyant_gen:
+    image: python:3
+    volumes:
+      - ./corpora:/corpora
+      - ./input:/input
+      - ./voyant_gen:/workdir
+    command: python -u workdir/voyant_gen.py /input/keywords/keywords.txt /input/articles/ /corpora/
+
+  voyant:
+    build:
+      context: .
+      dockerfile: ./compose/voyant/Dockerfile
+    image: voyant_app
+    depends_on:
+      - voyant_gen
+    working_dir: /var/www/voyant
+    command: java -jar VoyantServer.jar --headless=true
+    ports:
+      - "8443:8443"
+
   django:
     build:
       context: .
       dockerfile: ./compose/local/django/Dockerfile
     image: static_page_proxy_local_django
     depends_on:
+      - redis
       - postgres
+      - jekyll_builder
     volumes:
       - .:/app
       - ./static_pages:/app/proxy/templates/proxy
@@ -26,13 +48,25 @@ services:
   postgres:
     build:
       context: .
-      dockerfile: ./compose/production/postgres/Dockerfile
+      dockerfile: ./compose/postgres/Dockerfile
     image: static_page_proxy_production_postgres
     volumes:
       - local_postgres_data:/var/lib/postgresql/data
       - local_postgres_data_backups:/backups
     env_file:
       - ./.envs/.local/.postgres
+
+  redis:
+    image: redis:5.0
+  awscli:
+    build:
+      context: .
+      dockerfile: ./compose/aws/Dockerfile
+    env_file:
+      - ./.envs/.production/.django
+    volumes:
+      - local_postgres_data_backups:/backups
+
 
   node:
     build:
@@ -53,6 +87,8 @@ services:
 
   jekyll_builder:
     image: jekyll/jekyll:latest
+    depends_on:
+      - text_to_md
     volumes:
       - ./ed:/srv/jekyll
       - ./static_pages:/destination
@@ -60,7 +96,11 @@ services:
 
   text_to_md:
     image: python:3
+    depends_on:
+      - voyant_gen
     volumes:
       - ./ed:/ed
       - ./text_to_md:/workdir
-    command: python workdir/text2md.py workdir/texts workdir/csvs ed/_texts
+      - ./corpora:/workdir/csvs
+      - ./input:/input
+    command: python workdir/text2md.py input/texts workdir/csvs ed/_texts
