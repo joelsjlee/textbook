@@ -9,7 +9,7 @@ const pjson = require('./package.json')
 // Plugins
 const autoprefixer = require('autoprefixer')
 const browserSync = require('browser-sync').create()
-
+const browserSyncVoyant = require('browser-sync').create()
 const cssnano = require ('cssnano')
 const imagemin = require('gulp-imagemin')
 const pixrem = require('pixrem')
@@ -27,7 +27,7 @@ function pathsConfig(appName) {
   const vendorsRoot = 'node_modules'
 
   return {
-    
+
     app: this.app,
     templates: `${this.app}/templates`,
     css: `${this.app}/static/css`,
@@ -58,7 +58,7 @@ function styles() {
   return src(`${paths.sass}/project.scss`)
     .pipe(sass({
       includePaths: [
-        
+
         paths.sass
       ]
     }).on('error', sass.logError))
@@ -115,12 +115,46 @@ function initBrowserSync() {
             }
           ]
         },
+        ui: {
+          port: 3001
+        },
         // https://www.browsersync.io/docs/options/#option-open
         // Disable as it doesn't work from inside a container
+        port: 3000,
         open: false
       }
+    ),
+    browserSyncVoyant.init(
+      [
+      `${paths.css}/*.css`,
+      `${paths.js}/*.js`,
+      `${paths.templates}/*.html`
+    ], {
+      // https://www.browsersync.io/docs/options/#option-proxy
+      proxy:  {
+        target: 'voyant:8888',
+        proxyReq: [
+          function(proxyReq, req) {
+            // Assign proxy "host" header same as current request at Browsersync server
+            proxyReq.setHeader('Host', req.headers.host)
+          }
+        ]
+      },
+      ui: {
+        port: 4001
+      },
+      port: 4000,
+      // https://www.browsersync.io/docs/options/#option-open
+      // Disable as it doesn't work from inside a container
+      open: false,
+      serveStatic: [{
+        route: "/corpora",
+        dir: "./corpora"  
+      }]
+    }
     )
 }
+
 
 // Watch
 function watchPaths() {
@@ -133,7 +167,7 @@ function watchPaths() {
 const generateAssets = parallel(
   styles,
   scripts,
-  
+
   imgCompression
 )
 

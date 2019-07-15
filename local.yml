@@ -5,6 +5,7 @@ volumes:
   local_postgres_data_backups: {}
 
 services:
+
   voyant_gen:
     image: python:3
     volumes:
@@ -16,14 +17,12 @@ services:
   voyant:
     build:
       context: .
-      dockerfile: ./compose/voyant/Dockerfile
+      dockerfile: ./compose/local/voyant/Dockerfile
     image: voyant_app
     depends_on:
       - voyant_gen
     working_dir: /var/www/voyant
     command: java -jar VoyantServer.jar --headless=true
-    ports:
-      - "8443:8443"
 
   django:
     build:
@@ -41,8 +40,6 @@ services:
     env_file:
       - ./.envs/.local/.django
       - ./.envs/.local/.postgres
-    ports:
-      - "8000:8000"
     command: /start
 
   postgres:
@@ -75,6 +72,7 @@ services:
     image: static_page_proxy_local_node
     depends_on:
       - django
+      - voyant
     volumes:
       - .:/app
       # http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html
@@ -82,8 +80,10 @@ services:
     command: npm run dev
     ports:
       - "3000:3000"
+      - "4000:4000"
       # Expose browsersync UI: https://www.browsersync.io/docs/options/#option-ui
       - "3001:3001"
+      - "4001:4001"
 
   jekyll_builder:
     image: jekyll/jekyll:latest
