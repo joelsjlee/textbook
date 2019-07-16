@@ -165,7 +165,7 @@ def get_hostnames():
 
 
 def main():
-    voyant_gen_py_path = "compose/voyant_generator/bin/voyant_gen.py"
+    voyant_gen_py_path = "voyant_gen/voyant_gen.py"
     traefik_toml_path = "compose/traefik/traefik.toml"
     hostname, voyant_hostname = get_hostnames()
     update_voyant_gen(voyant_hostname, voyant_gen_py_path)
