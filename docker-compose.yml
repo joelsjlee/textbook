@@ -58,6 +58,7 @@ services:
     volumes:
       - ./static_pages:/app/proxy/templates/proxy
       - ./static_pages/assets:/app/proxy/static
+      - ./input:/app/proxy/media
     env_file:
       - ./.envs/.production/.django
       - ./.envs/.production/.postgres
