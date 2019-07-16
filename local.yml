@@ -37,6 +37,7 @@ services:
       - .:/app
       - ./static_pages:/app/proxy/templates/proxy
       - ./static_pages/assets:/app/proxy/static
+      - ./input:/app/proxy/media
     env_file:
       - ./.envs/.local/.django
       - ./.envs/.local/.postgres

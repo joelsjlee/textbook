@@ -84,11 +84,12 @@ def process_files(success_msg, fail_msg, files, save_directory):
 
 # get all keywords and put them in keywords.txt files and save it
 def process_keywords(keywords):
-    keywords_file = open(os.path.join("/app/proxy/media/keywords", "keywords.txt"), "w+")
-    for keyword in keywords:
-        keyword = keyword.strip() + "\n"
-        keywords_file.write(keyword)
-    keywords_file.close()
+    if keywords:
+        keywords_file = open(os.path.join("/app/proxy/media/keywords", "keywords.txt"), "w+")
+        for keyword in keywords:
+            keyword = keyword.strip() + "\n"
+            keywords_file.write(keyword)
+        keywords_file.close()
 
 
 # Format the text file name
