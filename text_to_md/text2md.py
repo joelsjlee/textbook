@@ -515,9 +515,11 @@ def monitor_text_directory(text_dir, csv_dir, md_dir, timestamp_cache):
 # monitor csv directory for modified voyant.csv and update the md files
 def monitor_csv_directory(text_dir, csv_dir, md_dir, text_timestamps, csv_timestamp):
     csv_path = os.path.join(csv_dir, "voyant.csv")
+    '''
     print(csv_path)
     print(os.listdir("./"))
     print(os.listdir("workdir/csvs"))
+    '''
     voyant_file_info = os.stat(csv_path)
     # update all text files
     if csv_timestamp != voyant_file_info.st_mtime:

@@ -88,8 +88,6 @@ services:
 
   jekyll_builder:
     image: jekyll/jekyll:latest
-    depends_on:
-      - text_to_md
     volumes:
       - ./ed:/srv/jekyll
       - ./static_pages:/destination
@@ -97,8 +95,6 @@ services:
 
   text_to_md:
     image: python:3
-    depends_on:
-      - voyant_gen
     volumes:
       - ./ed:/ed
       - ./text_to_md:/workdir

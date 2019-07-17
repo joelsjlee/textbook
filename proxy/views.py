@@ -46,8 +46,9 @@ def file_upload(request):
     if request.method == 'POST':
         files_dict = request.FILES
         files_keys = files_dict.keys()
+        keywords = request.POST.getlist("keyword")
         # its fine if there are no keywords (for now at least)
-        if ("textbook_file" not in files_keys) and ("article_file" not in files_keys):
+        if ("textbook_file" not in files_keys) and ("article_file" not in files_keys) and keywords_is_empty(keywords):
             messages.add_message(request, messages.ERROR, "At least one file must be uploaded")
         else:
             success_msg, fail_msg = process_files("", "", files_dict.getlist("textbook_file"),
@@ -55,17 +56,20 @@ def file_upload(request):
             success_msg, fail_msg = process_files(success_msg, fail_msg,
                                                   files_dict.getlist("article_file"),
                                                   FileSystemStorage(location="/app/proxy/media/articles"))
+            keywords_processed = process_keywords(keywords)
             if success_msg:
                 success_msg = "The following files were succesfully uploaded: " + success_msg
                 messages.success(request, success_msg)
                 info_msg = "Please wait 30 seconds for your files to be processed"
                 messages.info(request, info_msg)
             if fail_msg:
-                fail_msg = "The following files failed to upload:\n" + fail_msg
+                fail_msg = "The following files failed to upload: " + fail_msg
                 fail_msg_2 = "Please check for the correct file format"
                 messages.error(request, fail_msg)
                 messages.error(request, fail_msg_2)
-            process_keywords(request.POST.getlist("keyword"))
+            if keywords_processed:
+                success_msg = "Successfully uploaded the following keywords: " + keywords_processed
+                messages.success(request, success_msg)
     return render(request, 'pages/file_upload.html')
 
 
@@ -82,14 +86,27 @@ def process_files(success_msg, fail_msg, files, save_directory):
     return success_msg, fail_msg
 
 
+# check if keywords list is empty
+def keywords_is_empty(keywords):
+    is_empty = True
+    for keyword in keywords:
+        if len(keyword) > 0:
+            is_empty = False
+    return is_empty
+
+
 # get all keywords and put them in keywords.txt files and save it
 def process_keywords(keywords):
-    if keywords:
+    keywords_processed = ""
+    if not keywords_is_empty(keywords):
         keywords_file = open(os.path.join("/app/proxy/media/keywords", "keywords.txt"), "w+")
         for keyword in keywords:
             keyword = keyword.strip() + "\n"
             keywords_file.write(keyword)
+            keywords_processed += keyword + ", "
         keywords_file.close()
+        keywords_processed = keywords_processed[0:len(keywords_processed) - 2]
+    return keywords_processed
 
 
 # Format the text file name
