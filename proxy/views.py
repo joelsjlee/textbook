@@ -99,7 +99,7 @@ def keywords_is_empty(keywords):
 def process_keywords(keywords):
     keywords_processed = ""
     if not keywords_is_empty(keywords):
-        keywords_file = open(os.path.join("/app/proxy/media/keywords", "keywords.txt"), "w+")
+        keywords_file = open(os.path.join("/app/proxy/media/keywords", "keywords.txt"), "w", encoding='utf-8')
         for keyword in keywords:
             keyword = keyword.strip() + "\n"
             keywords_file.write(keyword)
