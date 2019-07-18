@@ -2,7 +2,6 @@
 
 {% block file_upload %}
   {% if request.user.is_authenticated %}
-  <p color="red"><b>{{ errors }}</b></p>
   <p>Only files of type <b>.txt</b> are accepted</p>
     <form method="post" enctype="multipart/form-data" onkeydown="prevent_default(event)">
       {% csrf_token %}
@@ -199,4 +198,3 @@
     </script>
   {% endif %}
 {% endblock file_upload %}
-
