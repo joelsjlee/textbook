@@ -53,7 +53,7 @@ def voyant(keywords, text_path, corpora_path):
         for word in keywords:
             word = word.replace(' ', '_')
             if os.path.exists(os.path.join(corpora_path, word) + '.zip'):
-                url_template = 'https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/{}'
+                url_template = '192.168.99.100:4000/?input=http://192.168.99.100:4000/corpora/{}'
                 url = url_template.format(word.replace(' ', '_') + '.zip')
                 writer.writerow({'keyword': word, 'url': url})
 

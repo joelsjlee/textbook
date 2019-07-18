@@ -26,8 +26,8 @@ OnHostRule = true
   [acme.httpChallenge]
   entryPoint = "http"
 [[acme.domains]]
-  main = "jsl.pennds.org"
-  sans = ["jsl-voyant.pennds.org"]
+  main = "vg.pennds.org"
+  sans = ["vg-voyant.pennds.org"]
 
 [file]
 [backends]
@@ -49,11 +49,11 @@ OnHostRule = true
     [frontends.voyant.headers]
       HostsProxyHeaders = ['X-CSRFToken']
     [frontends.voyant.routes.dr1]
-      rule = "Host:jsl-voyant.pennds.org"
+      rule = "Host:vg-voyant.pennds.org"
   [frontends.nginx]
     backend = "nginx"
     [frontends.nginx.routes.corpora]
-      rule = "Host:jsl-voyant.pennds.org;PathPrefix:/corpora"
+      rule = "Host:vg-voyant.pennds.org;PathPrefix:/corpora"
   [frontends.django]
     backend = "django"
     priority = 20
@@ -61,7 +61,7 @@ OnHostRule = true
     [frontends.django.headers]
       HostsProxyHeaders = ['X-CSRFToken']
     [frontends.django.routes.dr1]
-      rule = "Host:jsl.pennds.org"
+      rule = "Host:vg.pennds.org"
 
 logLevel = "INFO"
 defaultEntryPoints = ["http", "https"]
