@@ -1,0 +1,200 @@
+{% extends "base.html" %}
+
+{% block file_upload %}
+  {% if request.user.is_authenticated %}
+  <p>Only files of type <b>.txt</b> are accepted</p>
+    <form method="post" enctype="multipart/form-data" onkeydown="prevent_default(event)">
+      {% csrf_token %}
+      <div id="textbook_files">
+        <h4>Upload your books:</h4>
+        <input type="file" id="textbook_file_0" name="textbook_file" onchange="multiple_file_function(0, 'textbook')">
+      </div>
+      <br>
+      <div id="article_files">
+        <h4>Upload your articles:</h4>
+        <input type="file" id="article_file_0" name="article_file" onchange="multiple_file_function(0, 'article')">
+      </div>
+      <br>
+      <div id="keywords">
+        <h4>Type in your keywords:</h4>
+        <input type="text" id="keyword_0" name="keyword" size="15" placeholder="Enter a keyword" oninput="enable_button('keyword_0', 'keyword_button_0')" onkeydown="check_for_enter(0, event)">
+        <input type="button" id="keyword_button_0" style="display: inline-block; border-radius: 50%" value="+" onclick="add_keyword(0)"  disabled/>
+      </div>
+      <br>
+      <button type="submit">Upload</button>
+    </form>
+
+    <script>
+      /// FORM FUNCTIONS ///
+
+      function prevent_default(event) {
+        if (event.keyCode == 13) {
+          event.stopPropagation();
+          event.cancelBubble = true;
+          event.preventDefault();
+          return false;
+        }
+      }
+
+      /// KEYWORD FUNCTIONS ///
+
+      // if user presses 'enter' in a text input, create a new text input and move cursor over
+      function check_for_enter(id, event) {
+        if (event.keyCode == 13) {
+          add_keyword(id);
+          new_id = id + 1;
+          var new_input_element = document.getElementById("keyword_" + new_id);
+          new_input_element.focus();
+          new_input_element.select();
+        }
+      }
+
+      // if text is non-empty enable respective button, otherwise disable it
+      function enable_button(keyword_text_id, button_id) {
+        var text = document.getElementById(keyword_text_id);
+        var button = document.getElementById(button_id);
+        button.disabled = text.value == "";
+      }
+
+      // hide textinput and show keyword in p tag
+      // remove add-button and add remove-button
+      function add_keyword(current_id) {
+        var div = document.getElementById("keywords");
+        var keyword_text_id = "keyword_" + current_id;
+        hide_input_element(keyword_text_id);
+        var keyword = get_input_value(keyword_text_id);
+        append_text_element("keyword_display_" + current_id, keyword, keyword_text_id);
+        change_button_to_remove(current_id);
+        append_br("keyword_br_" + current_id, div);
+        var new_id = current_id + 1;
+        add_keyword_input(new_id, div);
+        add_keyword_button(new_id, "keyword_" + new_id);
+      }
+
+      // change the add-button to remove-button
+      function change_button_to_remove(id) {
+        button_id = "keyword_button_" + id;
+        var button = document.getElementById(button_id);
+        button.value = "-";
+        button.setAttribute("onclick", "remove_keyword(" + id + ")");
+      }
+
+      // add new keyword text input
+      function add_keyword_input(id, parent_element) {
+        var element = document.createElement("INPUT");
+        element.setAttribute("type", "text");
+        element.setAttribute("id", "keyword_" + id);
+        element.setAttribute("name", "keyword");
+        element.setAttribute("size", "15");
+        element.setAttribute("placeholder", "Enter a keyword");
+        element.setAttribute("oninput", "enable_button(\"keyword_" + id + "\", \"keyword_button_" + id + "\")");
+        element.setAttribute("onkeydown", "check_for_enter(" + id + ", event)");
+        parent_element.appendChild(element);
+      }
+
+      // add a new add-button
+      // TODO: change to html text stuff instead of using element
+      function add_keyword_button(id, adjacent_element_id) {
+        var adjacent_element = document.getElementById(adjacent_element_id);
+        var html = "<input type=\"button\" id=\"keyword_button_" + id + "\" style=\"display: inline-block; border-radius: 50%; margin-left:5px\" value=\"+\" onclick=\"add_keyword(" + id + ")\" disabled/>"
+        adjacent_element.insertAdjacentHTML("afterend", html)
+      }
+
+      // TODO: remove keyword function
+      function remove_keyword(id) {
+        var div = document.getElementById("keywords");
+        var input = document.getElementById("keyword_" + id);
+        var display = document.getElementById("keyword_display_" + id);
+        var button = document.getElementById("keyword_button_" + id);
+        var br = document.getElementById("keyword_br_" + id);
+        div.removeChild(input);
+        div.removeChild(display);
+        div.removeChild(button);
+        div.removeChild(br);
+      }
+
+      /// INPUTS FILE FUNCTIONS ///
+
+      // hide the current browse button, add a new p tag with title of file
+      // add a button and a new browse button
+      function multiple_file_function(current_id, type) {
+        var div = document.getElementById(type + "_files");
+        var current_element_id = type + "_file_" + current_id;
+        hide_input_element(current_element_id);
+        var file_name = get_input_value(current_element_id);
+        append_text_element(type + "_display_" + current_id, file_name, current_element_id);
+        var br_id = type + "_br_" + current_id;
+        append_br(br_id, div);
+        append_remove_button(type + "_remove_" + current_id, current_id, div, type);
+        append_br(br_id, div);
+        var new_id = current_id + 1;
+        var new_element_id = type + "_file_" + new_id;
+        var element_function = "multiple_file_function(" + new_id + ", \"" + type + "\")"
+        append_input_element(new_element_id, type + "_file", element_function, div);
+      }
+
+      // hide button
+      function hide_input_element(element_id) {
+        var element = document.getElementById(element_id);
+        element.setAttribute("style", "width: 0px; visibility: hidden");
+      }
+
+      // get the value of an input element
+      function get_input_value(element_id) {
+        var element = document.getElementById(element_id);
+        var value = element.value;
+        value = value.replace(/.*[\/\\]/, '');
+        return value;
+      }
+
+      // append p tag with title of the files
+      function append_text_element(element_id, text, adjacent_element_id) {
+        var adjacent_element = document.getElementById(adjacent_element_id);
+        var html = "<p id=\"" + element_id + "\" style=\"display: inline-block; font-size: 18px\">" + text + "</p>";
+        adjacent_element.insertAdjacentHTML("afterend", html)
+      }
+
+      // append an input tag for new file upload
+      function append_input_element(new_element_id, new_element_name, new_element_function, parent_element) {
+        var element = document.createElement("INPUT");
+        element.setAttribute("type", "file");
+        element.setAttribute("id", new_element_id);
+        element.setAttribute("name", new_element_name);
+        element.setAttribute("onchange", new_element_function);
+        parent_element.appendChild(element);
+      }
+
+      // append br tag
+      function append_br(new_element_id, parent_element) {
+        var element = document.createElement("BR");
+        element.setAttribute("id", new_element_id);
+        parent_element.appendChild(element);
+      }
+
+      // append button tag for removing file
+      function append_remove_button(new_element_id, id, parent_element, type) {
+        var element = document.createElement("BUTTON");
+        element.setAttribute("id", new_element_id);
+        element.setAttribute("style", "margin-left: 225px");
+        element.setAttribute("onclick", "remove(" + id + ", \"" + type + "\")");
+        element.innerHTML = "Remove";
+        parent_element.appendChild(element);
+      }
+
+      // remove file and corresponding p, br, and button tags
+      function remove(id, type) {
+        var div_element = document.getElementById(type + "_files");
+        var file_element = document.getElementById(type + "_file_" + id);
+        var display_element = document.getElementById(type + "_display_" + id);
+        var br_element = document.getElementById(type + "_br_" + id);
+        var remove_element = document.getElementById(type + "_remove_" + id);
+        div_element.removeChild(file_element);
+        div_element.removeChild(display_element);
+        div_element.removeChild(br_element);
+        var br_element = document.getElementById(type + "_br_" + id);
+        div_element.removeChild(br_element);
+        div_element.removeChild(remove_element);
+      }
+    </script>
+  {% endif %}
+{% endblock file_upload %}

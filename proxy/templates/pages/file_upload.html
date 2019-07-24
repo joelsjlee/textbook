@@ -44,12 +44,12 @@
         <!-- input for textbooks (multiple .txt files) -->
         <div id="textbookForm">
             <legend>Textbook upload</legend>
-            <label for="textbookfile">File to Upload (only <b>.txt</b> files accepted):</label>
+            <label for="textbookfile">Files to Upload (only <b>.txt</b> files accepted):</label>
             <div id="textbookNames">
             </div>
-            <input type="file" id="textbookInput" class="fileInput" name="textbook_file" multiple>
-            <div id="textbookDrop" class="fileDrag" ondrop="onDropHandle(event)" ondragover="onDragOverHandle(event, 1)" ondragleave="onDragLeaveHandle(event, 1)">
-              <a href="" id="uploadLink" class="fileLink" onclick="triggerInput(event, 1)">Select</a> or drop <b>.txt</b> files here
+            <input type="file" id="textbookInput0" class="fileInput" name="textbook_file" onchange="handleTextbookFile(event)" />
+            <div id="textbookDrop" class="fileDrag" ondrop="onDropHandle(event, 1)" ondragover="onDragOverHandle(event, 1)" ondragleave="onDragLeaveHandle(event, 1)">
+              <a href="" id="textbookUploadLink" class="fileLink" onclick="triggerInput(event, 'textbookInput0')">Select</a> or drop <b>.txt</b> files here
             </div>
         </div>
         <!-- input for articles (one zip file only) -->
@@ -59,8 +59,8 @@
           <div id="articleName">
           </div>
           <input type="file" id="articleInput" class="fileInput" name="article_file" onchange="handleArticleFile()" />
-          <div id="articleDrop" class="fileDrag" ondrop="onDropHandle(event)" ondragover="onDragOverHandle(event, 0)" ondragleave="onDragLeaveHandle(event, 0)">
-            <a href="" id="uploadLink" class="fileLink" onclick="triggerInput(event, 0)">Select</a> or drop <b>.zip</b> file here
+          <div id="articleDrop" class="fileDrag" ondrop="onDropHandle(event, 0)" ondragover="onDragOverHandle(event, 0)" ondragleave="onDragLeaveHandle(event, 0)">
+            <a href="" id="uploadLink" class="fileLink" onclick="triggerInput(event, 'articleInput')">Select</a> or drop <b>.zip</b> file here
           </div>
         </div>
         <!-- input for keywords (multiple strings) -->
@@ -76,22 +76,20 @@
 
     <!-- javascript -->
     <script>
-      // when 'select' hyperlink is clicked, onclick-trigger its respective input element
-      function triggerInput(event, isTextbookDrop) {
-        event.preventDefault();
-        var inputElement;
-        if (isTextbookDrop) {
-          inputElement = document.getElementById("textbookInput");
-        } else {
-          inputElement = document.getElementById("articleInput")
-        }
-        inputElement.click();
-      }
 
       // TODO
-      function onDropHandle(event) {
+      function onDropHandle(event, isTextbookDrop) {
         event.preventDefault();
-        alert("file drop");
+        if (isTextbookDrop) {
+
+        } else {
+          var files = event.dataTransfer.files;
+          if (files.length > 0) {
+            var inputElement = document.getElementById("articleInput");
+            inputElement.files = files;
+            inputElement.onchange();
+          }
+        }
       }
 
       // when a file is dragged over drop-box, change style to alert user
@@ -116,7 +114,39 @@
         dropDiv.style.cssText = "border-style: dashed; box-shadow: 0;";
       }
 
-      // TODO
+      function triggerInput(event, inputID) {
+        event.preventDefault();
+        var inputElement = document.getElementById(inputID);
+        inputElement.click();
+      }
+
+      function handleTextbookFile(event) {
+        var inputElement = event.target;
+        var idString = inputElement.id.slice(-1);
+        var id = Number(idString);
+        var filename = getFilename(inputElement);
+        var divNameElement = document.getElementById("textbookNames");
+        var nameElement = createNameElement("textbookName" + id, filename);
+        var brElement = createBrElement("textbookBr" + id);
+        var buttonElement = createButton("textbookDelete" + id);
+        divNameElement.appendChild(nameElement);
+        divNameElement.appendChild(brElement);
+        divNameElement.appendChild(buttonElement);
+        var brElement = createBrElement("textbookBr" + id);
+        divNameElement.appendChild(brElement);
+        var newID = id + 1;
+        var newInputElement = document.createElement("INPUT");
+        newInputElement.setAttribute("type", "file");
+        newInputElement.setAttribute("id", "textbookInput" + newID);
+        newInputElement.setAttribute("class", "fileInput");
+        newInputElement.setAttribute("name", "textbook_file");
+        newInputElement.setAttribute("onchange", "handleTextbookFile(event)");
+        inputElement.insertAdjacentElement("afterend", newInputElement);
+        var textbookLinkElement = document.getElementById("textbookUploadLink");
+        textbookLinkElement.removeAttribute("onclick");
+        textbookLinkElement.setAttribute("onclick", "triggerInput(event, 'textbookInput" + newID + "')");
+      }
+
       function handleArticleFile() {
         var articleInput = document.getElementById("articleInput");
         var articleDrop = document.getElementById("articleDrop");
