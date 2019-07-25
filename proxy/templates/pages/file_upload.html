@@ -67,41 +67,42 @@
         <div id="keywordForm">
 
         </div>
+        <br>
         <!-- submit -->
         <div id="submitbutton">
-        	<button type="submit">Upload Files</button>
+        	<button type="submit" onclick="return confirm('Upload files?')">Upload Files</button>
         </div>
       </fieldset>
     </form>
 
     <!-- javascript -->
     <script>
-      // TODO
+      // Process files that are dropped into the drop box
       function onDropHandle(event, isTextbookDrop, latestID) {
         event.preventDefault();
         var files = event.dataTransfer.files;
         if (files != null && files.length > 0) {
           if (isTextbookDrop) {
-            for (var i = 0; i < files.length; i++) {
-              file = files[i];
-              var newFiles = [];
-              newFiles.push(file);
-              var inputElement = document.getElementById("textbookInput" + latestID);
-              inputElement.files = newFiles;
-              inputElement.onchange();
-              latestID++;
-            }
+            for (var i = 0; i < files.length; i++, latestID++) triggerFileHandle(files[i], "textbookInput" + latestID);
+            document.getElementById("textbookDrop").ondragleave();
           } else {
-              var inputElement = document.getElementById("articleInput");
-              inputElement.files = files;
-              inputElement.onchange();
+            triggerFileHandle(files[0], "articleInput");
           }
         }
       }
 
+      // Load file to existing input element and trigger its onchange event
+      function triggerFileHandle(file, inputElementID) {
+        const dt = new DataTransfer();
+        dt.items.add(file);
+        var inputElement = document.getElementById(inputElementID);
+        inputElement.files = dt.files;
+        inputElement.onchange();
+      }
+
       // Change style of drop box when a file dragged over it
       function toggleBoxStyle(event, isTextbookDrop, isInBox) {
-        event.preventDefault();
+        if (event != null) event.preventDefault();
         var dropDiv;
         if (isTextbookDrop) dropDiv = document.getElementById("textbookDrop");
         else dropDiv = document.getElementById("articleDrop");
@@ -111,11 +112,11 @@
 
       // Trigger the onclick event of an input element
       function triggerInput(event, inputID) {
-        event.preventDefault();
+        if (event != null) event.preventDefault();
         document.getElementById(inputID).click();
       }
 
-      // TODO 
+      // Process the file insertion
       function handleFile(inputElementID, isTextbook) {
         var inputElement = document.getElementById(inputElementID);
         var id;
@@ -130,7 +131,7 @@
           divNameElement = document.getElementById("textbookNames");
           nameAttributes["id"] = "textbookName" + id;
           brAttributes["id"] = "textbookBr" + id;
-          removeFunction += "textbookNames', 'textbookName" + id + "', 'textbookBr" + id + "', true)";
+          removeFunction += "textbookNames', 'textbookName" + id + "', 'textbookBr" + id + "', 'textbookInput" + id + "', true)";
           buttonAttributes["id"] = "textbookDelete" + id;
           var newID = id + 1;
           var newInputAttributes = {"type": "file", "id": "textbookInput" + newID, "class": "fileInput", "name": "textbook_file", "onchange": "handleFile('textbookInput" + newID + "', true)"};
@@ -142,7 +143,7 @@
           divNameElement = document.getElementById("articleName");
           nameAttributes["id"] = "articleZipName";
           brAttributes["id"] = "articleBr";
-          removeFunction += "articleName', 'articleZipName', 'articleBr', false)";
+          removeFunction += "articleName', 'articleZipName', 'articleBr', 'articleInput', false)";
           buttonAttributes["id"] = "articleDeleteButton";
         }
         buttonAttributes["onclick"] = removeFunction;
@@ -170,13 +171,18 @@
       }
 
       // Remove file and its respective p, br, and button elements
-      function removeFile(buttonElement, divID, nameID, brID, isTextbook) {
+      function removeFile(buttonElement, divID, nameID, brID, inputID, isTextbook) {
         var divNameElement = document.getElementById(divID);
         divNameElement.removeChild(document.getElementById(nameID));
         divNameElement.removeChild(document.getElementById(brID));
         divNameElement.removeChild(buttonElement);
-        if (isTextbook) divNameElement.removeChild(document.getElementById(brID));
-        else document.getElementById("articleDrop").style.cssText = "display: default;";
+        if (isTextbook) {
+          document.getElementById("textbookForm").removeChild(document.getElementById(inputID));
+          divNameElement.removeChild(document.getElementById(brID));
+        } else {
+          document.getElementById(inputID).value = ""
+          document.getElementById("articleDrop").style.cssText = "display: default;";
+        }
       }
     </script>
   {% endif %}
