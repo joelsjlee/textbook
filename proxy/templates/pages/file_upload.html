@@ -13,9 +13,7 @@
       	border-radius: 7px;
       }
 
-      .fileInput {
-        display: none;
-      }
+      .fileInput {display: none;}
 
       .fileLink {
         text-decoration: underline;
@@ -23,9 +21,7 @@
         cursor: pointer;
       }
 
-      .fileLink:hover {
-        color: #555;
-      }
+      .fileLink:hover {color: #555;}
 
       .filename {
         display: inline-block;
@@ -33,18 +29,60 @@
       }
 
       .deleteButton {
+        appearance: none;
+        background-color: transparent;
+        border: 2px solid #e74c3c;
+        border-radius: 0.6em;
+        color: #e74c3c;
+        cursor: pointer;
+        font-weight: 400;
+        padding: 3px 5px;
+        font-weight: 700;
+        transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
         margin-left: 200px;
       }
-    </style>
+
+      .deleteButton:hover {
+        color: #fff;
+        box-shadow: 0 0 40px 40px #e74c3c inset;
+      }
+
+      .submitButton {
+        border: solid;
+        border-width: 2px;
+        border-radius: 4px;
+        padding: 3px 5px;
+      }
+
+      .submitButton:hover {background-color: #e1e2e2;}
+      /*
+      .keywordButton {
+        background-color:#33cc33;
+      	border-radius: 50%;
+      	border:1px solid #18ab29;
+      	display:inline-block;
+      	cursor:pointer;
+      	color:#fff;
+      	padding:3px 7px;
+      }
+
+      .keywordButton:hover {background-color:#009900;}
+      */
+      .keywordName {
+        display: inline-block;
+        font-size: 18px;
+        margin-right: 15px;
+      }
+      </style>
 
     <!-- file html -->
-    <form method="post" enctype="multipart/form-data" onkeydown="prevent_default(event)">
+    <form method="post" enctype="multipart/form-data" onkeydown="preventDefault(event)">
       {% csrf_token %}
       <fieldset>
         <!-- input for textbooks (multiple .txt files) -->
         <div id="textbookForm">
             <legend>Textbook upload</legend>
-            <label for="textbookfile">Files to Upload (only <b>.txt</b> files accepted):</label>
+            <section>Files to Upload (only <b>.txt</b> files accepted):</section>
             <div id="textbookNames">
             </div>
             <input type="file" id="textbookInput0" class="fileInput" name="textbook_file" onchange="handleFile('textbookInput0', true)" />
@@ -55,7 +93,7 @@
         <!-- input for articles (one zip file only) -->
         <div id="articleForm">
           <legend>Article Upload</legend>
-          <label for="articleFile">File to upload (only <b>.zip</b> file accepted):</label>
+          <section>File to upload (only <b>.zip</b> file accepted):</section>
           <div id="articleName">
           </div>
           <input type="file" id="articleInput" class="fileInput" name="article_file" onchange="handleFile('articleInput', false)" />
@@ -65,18 +103,82 @@
         </div>
         <!-- input for keywords (multiple strings) -->
         <div id="keywordForm">
-
+          <legend>Keyword Upload</legend>
+          <section>Keywords to upload:</section>
+          <div id="keywords">
+          </div>
+          <input
+            type="text"
+            id="keyword0"
+            name="keyword"
+            class="keywordInput"
+            placeholder="type/paste your keywords"
+            oninput="toggleAdd(event, 'keywordButton')"
+            onpaste="pasteKeywords()">
+          <button type="button" class="keywordButton" id="keywordButton" onclick="processKeyword(event, 'keyword0')" disabled>+</button>
         </div>
         <br>
         <!-- submit -->
         <div id="submitbutton">
-        	<button type="submit" onclick="return confirm('Upload files?')">Upload Files</button>
+        	<button type="submit" class="submitButton" onclick="return confirm('Upload files?')">Upload Files</button>
         </div>
       </fieldset>
     </form>
 
     <!-- javascript -->
     <script>
+      // Prevent default behavior
+      function preventDefault(event) {
+        if (event.keyCode == 13) event.preventDefault();
+      }
+
+      // Process the keyword similar to a file
+      function processKeyword(event, inputID) {
+        var inputElement = document.getElementById(inputID);
+        inputElement.style.display = "none";
+        var id = Number(inputID.slice(-1));
+        var newID = id + 1;
+        var keyword = inputElement.value;
+        var divElement = document.getElementById("keywords");
+        var nameAttributes = {"id": "keywordName" + id, "class": "keywordName"};
+        divElement.appendChild(createElement("P", keyword, nameAttributes));
+        var buttonAttributes = {"type": "button",
+                                "class": "keywordButton",
+                                "id": "keywordDelete" + id,
+                                "onclick": "removeKeyword(event.target, 'keywordName" + id + "', 'keywordBr" + id + "', '" + inputID + "')"};
+        divElement.appendChild(createElement("BUTTON", "-", buttonAttributes));
+        // add br element
+        var brAttributes = {"id": "keywordBr" + id};
+        divElement.appendChild(createElement("BR", "", brAttributes));
+        // add new input element
+        var newInputAttributes = {"type": "text",
+                                  "id": "keyword" + newID,
+                                  "name": "keyword",
+                                  "class": "keywordInput",
+                                  "placeholder": "type/paste your keywords",
+                                  "oninput": "toggleAdd(event, 'keywordButton')",
+                                  "onpaste": "pasteKeywords()"};
+        inputElement.insertAdjacentElement("afterend", createElement("INPUT", "", newInputAttributes));
+        // change add button onclick function
+        event.target.setAttribute("onclick", "processKeyword(event, 'keyword" + newID + "')");
+        event.target.disabled = true;
+      }
+
+      // Remove keyword and its respective p, br, and button elements
+      function removeKeyword(buttonElement, nameID, brID, inputID) {
+        var divElement = document.getElementById("keywords");
+        var formElement = document.getElementById("keywordForm");
+        divElement.removeChild(document.getElementById(nameID));
+        divElement.removeChild(document.getElementById(brID));
+        formElement.removeChild(document.getElementById(inputID));
+        divElement.removeChild(buttonElement);
+      }
+
+      // When user types an input, enable the add-button
+      function toggleAdd(event, buttonID) {
+        document.getElementById(buttonID).disabled = event.target.value === "";
+      }
+
       // Process files that are dropped into the drop box
       function onDropHandle(event, isTextbookDrop, latestID) {
         event.preventDefault();
@@ -182,6 +284,20 @@
         } else {
           document.getElementById(inputID).value = ""
           document.getElementById("articleDrop").style.cssText = "display: default;";
+        }
+      }
+
+      function removeContent(buttonElement, divID, nameID, brID, inputID, contentType) {
+        var divNameElement = document.getElementById(divID);
+        divNameElement.removeChild(document.getElementById(nameID));
+        divNameElement.removeChild(document.getElementById(brID));
+        divNameElement.removeChild(buttonElement);
+        if (contentType === "textbook") {
+          // TODO
+        } else if (contentType === "article") {
+          // TODO
+        } else {
+          // TODO
         }
       }
     </script>
