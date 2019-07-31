@@ -3,6 +3,9 @@ Base settings to build other settings files upon.
 """
 
 import environ
+import mimetypes
+
+mimetypes.add_type("text/css", ".css", True)
 
 ROOT_DIR = (
     environ.Path(__file__) - 3
