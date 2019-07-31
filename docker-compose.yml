@@ -76,14 +76,6 @@ services:
 
   redis:
     image: redis:5.0
-  awscli:
-    build:
-      context: .
-      dockerfile: ./compose/aws/Dockerfile
-    env_file:
-      - ./.envs/.production/.django
-    volumes:
-      - production_postgres_data_backups:/backups
 
   jekyll_builder:
     image: jekyll/jekyll:latest
