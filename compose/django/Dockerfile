@@ -20,8 +20,8 @@ RUN apk update \
   # CFFI dependencies
   && apk add libffi-dev py-cffi
 
-RUN addgroup -S django \
-    && adduser -S -G django django
+RUN addgroup --gid 1000 -S django \
+    && adduser --uid 1000 -S -G django django
 
 RUN pip install titlecase
 
