@@ -1,6 +1,7 @@
 import argparse
 import secrets
 import string
+import os
 
 
 # Generate a random password of length len
@@ -48,6 +49,7 @@ def generate_django_env_file(hostname):
     django_file += "# Redis\n"
     django_file += "# ---------------------------------------------------------------------------\n"
     django_file += "REDIS_URL=redis://redis:6379/0\n"
+    os.makedirs(".envs/.production", exist_ok=True)
     f = open(".envs/.production/.django", "w")
     f.write(django_file)
     f.close()
@@ -165,7 +167,7 @@ def get_hostnames():
 
 
 def main():
-    voyant_gen_py_path = "compose/voyant_generator/bin/voyant_gen.py"
+    voyant_gen_py_path = "voyant_gen/voyant_gen.py"
     traefik_toml_path = "compose/traefik/traefik.toml"
     hostname, voyant_hostname = get_hostnames()
     update_voyant_gen(voyant_hostname, voyant_gen_py_path)
