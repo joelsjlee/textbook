@@ -132,48 +132,6 @@
         if (event.keyCode == 13) event.preventDefault();
       }
 
-      // Process the keyword similar to a file
-      function processKeyword(event, inputID) {
-        var inputElement = document.getElementById(inputID);
-        inputElement.style.display = "none";
-        var id = Number(inputID.slice(-1));
-        var newID = id + 1;
-        var keyword = inputElement.value;
-        var divElement = document.getElementById("keywords");
-        var nameAttributes = {"id": "keywordName" + id, "class": "keywordName"};
-        divElement.appendChild(createElement("P", keyword, nameAttributes));
-        var buttonAttributes = {"type": "button",
-                                "class": "keywordButton",
-                                "id": "keywordDelete" + id,
-                                "onclick": "removeKeyword(event.target, 'keywordName" + id + "', 'keywordBr" + id + "', '" + inputID + "')"};
-        divElement.appendChild(createElement("BUTTON", "-", buttonAttributes));
-        // add br element
-        var brAttributes = {"id": "keywordBr" + id};
-        divElement.appendChild(createElement("BR", "", brAttributes));
-        // add new input element
-        var newInputAttributes = {"type": "text",
-                                  "id": "keyword" + newID,
-                                  "name": "keyword",
-                                  "class": "keywordInput",
-                                  "placeholder": "type/paste your keywords",
-                                  "oninput": "toggleAdd(event, 'keywordButton')",
-                                  "onpaste": "pasteKeywords()"};
-        inputElement.insertAdjacentElement("afterend", createElement("INPUT", "", newInputAttributes));
-        // change add button onclick function
-        event.target.setAttribute("onclick", "processKeyword(event, 'keyword" + newID + "')");
-        event.target.disabled = true;
-      }
-
-      // Remove keyword and its respective p, br, and button elements
-      function removeKeyword(buttonElement, nameID, brID, inputID) {
-        var divElement = document.getElementById("keywords");
-        var formElement = document.getElementById("keywordForm");
-        divElement.removeChild(document.getElementById(nameID));
-        divElement.removeChild(document.getElementById(brID));
-        formElement.removeChild(document.getElementById(inputID));
-        divElement.removeChild(buttonElement);
-      }
-
       // When user types an input, enable the add-button
       function toggleAdd(event, buttonID) {
         document.getElementById(buttonID).disabled = event.target.value === "";
@@ -226,14 +184,14 @@
         var divNameElement;
         var nameAttributes = {"class": "filename"};
         var brAttributes = {};
-        var removeFunction = "removeFile(event.target, '";
+        var removeFunction = "removeContent(event.target, '";
         var buttonAttributes = {"class": "deleteButton"};
         if (isTextbook) {
           id = Number(inputElement.id.slice(-1));
           divNameElement = document.getElementById("textbookNames");
           nameAttributes["id"] = "textbookName" + id;
           brAttributes["id"] = "textbookBr" + id;
-          removeFunction += "textbookNames', 'textbookName" + id + "', 'textbookBr" + id + "', 'textbookInput" + id + "', true)";
+          removeFunction += "textbookNames', 'textbookName" + id + "', 'textbookBr" + id + "', 'textbookInput" + id + "', 'textbook')";
           buttonAttributes["id"] = "textbookDelete" + id;
           var newID = id + 1;
           var newInputAttributes = {"type": "file", "id": "textbookInput" + newID, "class": "fileInput", "name": "textbook_file", "onchange": "handleFile('textbookInput" + newID + "', true)"};
@@ -245,7 +203,7 @@
           divNameElement = document.getElementById("articleName");
           nameAttributes["id"] = "articleZipName";
           brAttributes["id"] = "articleBr";
-          removeFunction += "articleName', 'articleZipName', 'articleBr', 'articleInput', false)";
+          removeFunction += "articleName', 'articleZipName', 'articleBr', 'articleInput', 'article')";
           buttonAttributes["id"] = "articleDeleteButton";
         }
         buttonAttributes["onclick"] = removeFunction;
@@ -255,6 +213,38 @@
         if (isTextbook) {
           divNameElement.appendChild(createElement("BR", "", brAttributes));
         }
+      }
+
+      // Process the keyword similar to a file
+      function processKeyword(event, inputID) {
+        var inputElement = document.getElementById(inputID);
+        inputElement.style.display = "none";
+        var id = Number(inputID.slice(-1));
+        var newID = id + 1;
+        var keyword = inputElement.value;
+        var divElement = document.getElementById("keywords");
+        var nameAttributes = {"id": "keywordName" + id, "class": "keywordName"};
+        divElement.appendChild(createElement("P", keyword, nameAttributes));
+        var buttonAttributes = {"type": "button",
+                                "class": "keywordButton",
+                                "id": "keywordDelete" + id,
+                                "onclick": "removeContent(event.target, 'keywords', 'keywordName" + id + "', 'keywordBr" + id + "', '" + inputID + "', 'keyword')"};
+        divElement.appendChild(createElement("BUTTON", "-", buttonAttributes));
+        // add br element
+        var brAttributes = {"id": "keywordBr" + id};
+        divElement.appendChild(createElement("BR", "", brAttributes));
+        // add new input element
+        var newInputAttributes = {"type": "text",
+                                  "id": "keyword" + newID,
+                                  "name": "keyword",
+                                  "class": "keywordInput",
+                                  "placeholder": "type/paste your keywords",
+                                  "oninput": "toggleAdd(event, 'keywordButton')",
+                                  "onpaste": "pasteKeywords()"};
+        inputElement.insertAdjacentElement("afterend", createElement("INPUT", "", newInputAttributes));
+        // change add button onclick function
+        event.target.setAttribute("onclick", "processKeyword(event, 'keyword" + newID + "')");
+        event.target.disabled = true;
       }
 
       // Get the filename of a file in a DOM element
@@ -272,32 +262,19 @@
         return element;
       }
 
-      // Remove file and its respective p, br, and button elements
-      function removeFile(buttonElement, divID, nameID, brID, inputID, isTextbook) {
-        var divNameElement = document.getElementById(divID);
-        divNameElement.removeChild(document.getElementById(nameID));
-        divNameElement.removeChild(document.getElementById(brID));
-        divNameElement.removeChild(buttonElement);
-        if (isTextbook) {
-          document.getElementById("textbookForm").removeChild(document.getElementById(inputID));
-          divNameElement.removeChild(document.getElementById(brID));
-        } else {
-          document.getElementById(inputID).value = ""
-          document.getElementById("articleDrop").style.cssText = "display: default;";
-        }
-      }
-
       function removeContent(buttonElement, divID, nameID, brID, inputID, contentType) {
         var divNameElement = document.getElementById(divID);
         divNameElement.removeChild(document.getElementById(nameID));
         divNameElement.removeChild(document.getElementById(brID));
         divNameElement.removeChild(buttonElement);
         if (contentType === "textbook") {
-          // TODO
+          document.getElementById("textbookForm").removeChild(document.getElementById(inputID));
+          divNameElement.removeChild(document.getElementById(brID));
         } else if (contentType === "article") {
-          // TODO
+          document.getElementById(inputID).value = "";
+          document.getElementById("articleDrop").style.cssText = "display: default;";
         } else {
-          // TODO
+          document.getElementById("keywordForm").removeChild(document.getElementById(inputID));
         }
       }
     </script>
