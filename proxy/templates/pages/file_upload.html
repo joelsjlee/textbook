@@ -235,6 +235,10 @@
             inputElement.value = words[i];
             processKeyword(latestID);
             latestID++;
+            // change add button onclick function
+            var addButton = document.getElementById("keywordButton");
+            addButton.setAttribute("onclick", "processKeyword(" + latestID + ")");
+            addButton.disabled = true;
           }
         }
       }

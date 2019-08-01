@@ -133,7 +133,7 @@ def process_keywords(keywords):
         keywords_file = open(os.path.join("/app/proxy/media/keywords", "keywords.txt"), "w", encoding='utf-8')
         for keyword in keywords:
             keyword = keyword.strip() + "\n"
-            keywords_file.write(keyword)
+            # keywords_file.write(keyword)
             keywords_processed += keyword + ", "
         keywords_file.close()
         keywords_processed = keywords_processed[0:len(keywords_processed) - 2]
