@@ -7,6 +7,7 @@ from django.template import Context, Template, loader
 from titlecase import titlecase
 from django.core.management import call_command
 import os.path
+import zipfile
 
 # Create your views here.
 @login_required
@@ -43,47 +44,77 @@ def home(request):
 # view for upload
 @login_required
 def file_upload(request):
-    if request.method == 'POST':
-        files_dict = request.FILES
-        files_keys = files_dict.keys()
+    if request.method == "POST":
         keywords = request.POST.getlist("keyword")
-        # its fine if there are no keywords (for now at least)
-        if ("textbook_file" not in files_keys) and ("article_file" not in files_keys) and keywords_is_empty(keywords):
-            messages.add_message(request, messages.ERROR, "At least one file must be uploaded")
+        if (not request.FILES.keys()) and (not keywords[0]):
+            messages.error(request, "At least one file must be uploaded")
         else:
-            success_msg, fail_msg = process_files("", "", files_dict.getlist("textbook_file"),
-                                                  FileSystemStorage(location="/app/proxy/media/texts"))
-            success_msg, fail_msg = process_files(success_msg, fail_msg,
-                                                  files_dict.getlist("article_file"),
-                                                  FileSystemStorage(location="/app/proxy/media/articles"))
+            # handle textbooks
+            textbooks = request.FILES.getlist("textbook_file")
+            success, err = process_textbooks(textbooks)
+            if success:
+                success = "Textbooks successfully uploaded: " + success
+                messages.success(request, success)
+            if err:
+                fail = "Textbooks failed to upload: " + err
+                messages.error(request, fail)
+            # TODO: handle articles
+            articles = request.FILES.getlist("article_file")
+            success, err = process_articles(articles)
+            if success:
+                success = "Article zipfile successfully uploaded: " + success
+                messages.success(request, success)
+            if err:
+                fail = "Article zipfile failed to upload: " + err
+                messages.error(request, fail)
+            # TODO: handle keywords
             keywords_processed = process_keywords(keywords)
-            if success_msg:
-                success_msg = "The following files were succesfully uploaded: " + success_msg
-                messages.success(request, success_msg)
-                info_msg = "Please wait 30 seconds for your files to be processed"
-                messages.info(request, info_msg)
-            if fail_msg:
-                fail_msg = "The following files failed to upload: " + fail_msg
-                fail_msg_2 = "Please check for the correct file format"
-                messages.error(request, fail_msg)
-                messages.error(request, fail_msg_2)
             if keywords_processed:
-                success_msg = "Successfully uploaded the following keywords: " + keywords_processed
-                messages.success(request, success_msg)
-    return render(request, 'pages/file_upload.html')
+                messages.success(request, "Keywords Uploaded: " + keywords_processed)
+    return render(request, "pages/file_upload.html")
 
 
-# save .txt files and update the messages accordingly
-def process_files(success_msg, fail_msg, files, save_directory):
-    for file in files:
-        file_name = file.name
-        if file_name.endswith(".txt"):
-            success_msg += file_name + "  "
-            save_directory.delete(file_name)
-            save_directory.save(file_name, file)
+def process_textbooks(textbooks):
+    success, err = "", ""
+    textbook_dir = FileSystemStorage(location="/app/proxy/media/texts")
+    for textbook in textbooks:
+        if (textbook.name.endswith(".txt")):
+            success += textbook.name + ", "
+            # textbook_dir.delete(textbook.name)
+            # textbook_dir.save(textbook.name, textbook)
         else:
-            fail_msg += file_name + "  "
-    return success_msg, fail_msg
+            err += textbook.name + ", "
+    if success:
+        success = success[:-2]
+    if err:
+        err = err[:-2]
+    return success, err
+
+
+def process_articles(articles):
+    success, err = "", ""
+    article_dir = FileSystemStorage(location="/app/proxy/media/articles")
+    if articles:
+        article_zip = articles[0]
+        if article_zip.name.endswith(".zip"):
+            article_zipfile = zipfile.ZipFile(article_zip)
+            articles = article_zipfile.namelist()
+            bad_zipfile = False
+            for article in articles:
+                if not article.endswith(".txt"):
+                    bad_zipfile = True
+                    break
+            if bad_zipfile:
+                err += article_zip.name
+            else:
+                for article in articles:
+                    success += article + ", "
+                    # access directory stuff here
+        else:
+            err += article_zip.name
+    if success:
+        success = success[:-2]
+    return success, err
 
 
 # check if keywords list is empty

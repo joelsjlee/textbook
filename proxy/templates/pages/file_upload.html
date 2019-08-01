@@ -114,8 +114,8 @@
             class="keywordInput"
             placeholder="type/paste your keywords"
             oninput="toggleAdd(event, 'keywordButton')"
-            onpaste="pasteKeywords()">
-          <button type="button" class="keywordButton" id="keywordButton" onclick="processKeyword(event, 'keyword0')" disabled>+</button>
+            onpaste="onPasteHandle(event, 0)">
+          <button type="button" class="keywordButton" id="keywordButton" onclick="processKeyword(0)" disabled>+</button>
         </div>
         <br>
         <!-- submit -->
@@ -215,11 +215,34 @@
         }
       }
 
+      // Process multiple keywords that are pasted
+      function onPasteHandle(event, latestID) {
+        var words = event.clipboardData.getData("Text").split("\n");
+        var divElement = document.getElementById("keywordForm")
+        divElement.removeChild(document.getElementById("keyword" + latestID));
+        var newInputAttributes = {"type": "text",
+                                  "id": "keyword" + latestID,
+                                  "name": "keyword",
+                                  "class": "keywordInput",
+                                  "placeholder": "type/paste your keywords",
+                                  "oninput": "toggleAdd(event, 'keywordButton')",
+                                  "onpaste": "onPasteHandle(event, 'keyword"+ latestID + "')"};
+        divElement.insertBefore(createElement("INPUT", "", newInputAttributes), document.getElementById("keywordButton"));
+        for (var i = 0; i < words.length; i++) {
+          words[i] = words[i].replace(/ /g,'');
+          if (words[i].length != 0) {
+            var inputElement = document.getElementById("keyword" + latestID);
+            inputElement.value = words[i];
+            processKeyword(latestID);
+            latestID++;
+          }
+        }
+      }
+
       // Process the keyword similar to a file
-      function processKeyword(event, inputID) {
-        var inputElement = document.getElementById(inputID);
+      function processKeyword(id) {
+        var inputElement = document.getElementById("keyword" + id);
         inputElement.style.display = "none";
-        var id = Number(inputID.slice(-1));
         var newID = id + 1;
         var keyword = inputElement.value;
         var divElement = document.getElementById("keywords");
@@ -228,7 +251,7 @@
         var buttonAttributes = {"type": "button",
                                 "class": "keywordButton",
                                 "id": "keywordDelete" + id,
-                                "onclick": "removeContent(event.target, 'keywords', 'keywordName" + id + "', 'keywordBr" + id + "', '" + inputID + "', 'keyword')"};
+                                "onclick": "removeContent(event.target, 'keywords', 'keywordName" + id + "', 'keywordBr" + id + "', 'keyword" + id + "', 'keyword')"};
         divElement.appendChild(createElement("BUTTON", "-", buttonAttributes));
         // add br element
         var brAttributes = {"id": "keywordBr" + id};
@@ -240,11 +263,12 @@
                                   "class": "keywordInput",
                                   "placeholder": "type/paste your keywords",
                                   "oninput": "toggleAdd(event, 'keywordButton')",
-                                  "onpaste": "pasteKeywords()"};
+                                  "onpaste": "onPasteHandle(event, " + newID + ")"};
         inputElement.insertAdjacentElement("afterend", createElement("INPUT", "", newInputAttributes));
         // change add button onclick function
-        event.target.setAttribute("onclick", "processKeyword(event, 'keyword" + newID + "')");
-        event.target.disabled = true;
+        var addButton = document.getElementById("keywordButton");
+        addButton.setAttribute("onclick", "processKeyword('keyword" + newID + "')");
+        addButton.disabled = true;
       }
 
       // Get the filename of a file in a DOM element
