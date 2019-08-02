@@ -271,7 +271,7 @@
         inputElement.insertAdjacentElement("afterend", createElement("INPUT", "", newInputAttributes));
         // change add button onclick function
         var addButton = document.getElementById("keywordButton");
-        addButton.setAttribute("onclick", "processKeyword('keyword" + newID + "')");
+        addButton.setAttribute("onclick", "processKeyword(" + newID + ")");
         addButton.disabled = true;
       }
 
