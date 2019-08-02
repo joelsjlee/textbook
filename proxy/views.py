@@ -45,28 +45,40 @@ def home(request):
 @login_required
 def file_upload(request):
     if request.method == "POST":
+        ok_to_process = True
+        textbooks = request.FILES.getlist("textbook_file")
+        article_zips = request.FILES.getlist("article_file")
         keywords = request.POST.getlist("keyword")
-        if (not request.FILES.keys()) and (not keywords[0]):
+        # check if form has at least one file or keyword
+        if (not textbooks) and (not article_zips) and (not keywords[0]):
             messages.error(request, "At least one file must be uploaded")
-        else:
-            # handle textbooks
-            textbooks = request.FILES.getlist("textbook_file")
-            success, err = process_textbooks(textbooks)
+            ok_to_process = False
+        # check for faulty textbook files
+        err = err_check_textbooks(textbooks)
+        if err:
+            err = "Failed to upload files, the following textbooks have incorrect file types: " + err
+            messages.error(request, err)
+            messages.info(request, "Only textbooks of .txt type are accepted")
+            ok_to_process = False
+        # check for faulty article zip file and article files
+        err = err_check_articles(article_zips)
+        if err:
+            err = "Faile to upload files, the following articles have incorrect file types: " + err
+            messages.error(request, err)
+            messages.info(request, "Article zipfile must contain only articles of type .txt")
+            ok_to_process = False
+        # process everything is it is all ok
+        if (ok_to_process):
+            # process textbooks
+            success = process_textbooks(textbooks)
             if success:
-                success = "Textbooks successfully uploaded: " + success
+                success = "Successfully uploaded textbooks: " + success
                 messages.success(request, success)
-            if err:
-                fail = "Textbooks failed to upload: " + err
-                messages.error(request, fail)
-            # handle articles
-            articles = request.FILES.getlist("article_file")
-            success, err = process_articles(articles)
+            # process articles
+            success = process_articles(article_zips)
             if success:
-                success = "Article zipfile successfully uploaded: " + success
+                success = "Successfully uploaded article zipfile: " + success
                 messages.success(request, success)
-            if err:
-                fail = "Article zipfile failed to upload: " + err
-                messages.error(request, fail)
             # handle keywords
             keywords_processed = process_keywords(keywords)
             if keywords_processed:
@@ -74,54 +86,62 @@ def file_upload(request):
     return render(request, "pages/file_upload.html")
 
 
-def process_textbooks(textbooks):
-    success, err = "", ""
-    textbook_dir = FileSystemStorage(location="/app/proxy/media/texts")
+# cheack for faulty textbook files
+def err_check_textbooks(textbooks):
+    err = ""
     for textbook in textbooks:
-        if (textbook.name.endswith(".txt")):
-            success += textbook.name + ", "
-            textbook_dir.delete(textbook.name)
-            textbook_dir.save(textbook.name, textbook)
-        else:
+        if not textbook.name.endswith(".txt"):
             err += textbook.name + ", "
-    if success:
-        success = success[:-2]
     if err:
         err = err[:-2]
-    return success, err
+    return err
 
 
-def process_articles(articles):
-    success, err = "", ""
-    article_dir = FileSystemStorage(location="/app/proxy/media/articles")
-    if articles:
-        article_zip = articles[0]
-        if article_zip.name.endswith(".zip"):
-            article_zipfile = zipfile.ZipFile(article_zip)
-            name_list = article_zipfile.namelist()
-            if is_valid_articles(name_list):
-                for name in name_list:
-                    file = article_zipfile.open(name)
-                    name_parts = name.split("/")
-                    new_name = name_parts[len(name_parts) - 1]
-                    article_dir.delete(new_name)
-                    article_dir.save(new_name, file)
-                    success += article_zip.name
-            else:
-                err += article_zip.name
+# check for fault article zip file and faulty contents
+def err_check_articles(article_zips):
+    err = ""
+    if article_zips:
+        article_zip = article_zips[0]
+        if not article_zip.name.endswith(".zip"):
+            err += article_zip.name + ", "
         else:
-            err += article_zip.name
+            article_name_list = zipfile.ZipFile(article_zip).namelist()
+            for article_name in article_name_list:
+                if (not article_name.endswith(".txt")) or (article_name.count("/") > 1):
+                    err += article_name + ", "
+    if err:
+        err = err[:-2]
+    return err
+
+
+# save each textbook file
+def process_textbooks(textbooks):
+    success = ""
+    textbook_dir = FileSystemStorage(location="/app/proxy/media/texts")
+    for textbook in textbooks:
+        success += textbook.name + ", "
+        textbook_dir.delete(textbook.name)
+        textbook_dir.save(textbook.name, textbook)
     if success:
         success = success[:-2]
-    return success, err
+    return success
 
 
-# check if articles are valid
-def is_valid_articles(name_list):
-    for name in name_list:
-        if (not name.endswith(".txt")) or (name.count("/") > 1):
-            return False
-    return True
+# save each article in zip file
+def process_articles(articles):
+    success = ""
+    article_dir = FileSystemStorage(location="/app/proxy/media/articles")
+    if articles:
+        article_zipfile = zipfile.ZipFile(articles[0])
+        article_name_list = article_zipfile.namelist()
+        for article_name in article_name_list:
+            article_file = article_zipfile.open(article_name)
+            name_parts = article_name.split("/")
+            new_name = name_parts[len(name_parts) - 1]
+            article_dir.delete(new_name)
+            article_dir.save(new_name, article_file)
+        success += articles[0].name
+    return success
 
 
 # check if keywords list is empty
@@ -139,9 +159,10 @@ def process_keywords(keywords):
     if not keywords_is_empty(keywords):
         keywords_file = open(os.path.join("/app/proxy/media/keywords", "keywords.txt"), "w", encoding='utf-8')
         for keyword in keywords:
-            keyword = keyword.strip() + "\n"
-            keywords_file.write(keyword)
+            keyword = keyword.strip()
             keywords_processed += keyword + ", "
+            keyword += "\n"
+            keywords_file.write(keyword)
         keywords_file.close()
         keywords_processed = keywords_processed[0:len(keywords_processed) - 2]
     return keywords_processed
