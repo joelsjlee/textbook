@@ -81,8 +81,9 @@ def main():
         for text in os.listdir(text_path):
             if os.path.getmtime(os.path.join(text_path,text)) > recent_time:
                 recent_time = os.path.getmtime(os.path.join(text_path, text))
-        if os.path.getmtime(keywords) > recent_time:
-            recent_time = os.path.getmtime(keywords)
+        if os.path.isfile(keywords):
+            if os.path.getmtime(keywords) > recent_time:
+                recent_time = os.path.getmtime(keywords)
         if recent_time > temp_time:
             temp_time = recent_time
             print("Change detected, generating corpus...")
