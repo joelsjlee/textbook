@@ -165,6 +165,8 @@ def process_keywords(keywords):
             keywords_file.write(keyword)
         keywords_file.close()
         keywords_processed = keywords_processed[0:len(keywords_processed) - 2]
+    if keywords_processed:
+        keywords_processed = keywords_processed[:-2]
     return keywords_processed
 
 
