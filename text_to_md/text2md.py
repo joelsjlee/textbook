@@ -189,6 +189,9 @@ def find_key_matches(key_word, key_word_len, value, content):
 def iter_keys_contents(content_list, csv_dict):
     new_content_list = content_list
     for key_word in csv_dict.keys():
+        key_word = key_word.strip()
+        if not key_word:
+            continue
         value = csv_dict[key_word]
         key_word_copy = key_word.lower()
         key_word_len = len(key_word)
@@ -490,6 +493,8 @@ def test_main():
 
 # monitor text directory for new and modified text files and update the md files
 def monitor_text_directory(text_dir, csv_dir, md_dir, timestamp_cache):
+    if not os.path.isfile(os.path.join(csv_dir, "voyant.csv")):
+        return timestamp_cache
     with os.scandir(text_dir) as it:
         for entry in it:
             if entry.name.endswith(".txt"):
@@ -515,6 +520,8 @@ def monitor_text_directory(text_dir, csv_dir, md_dir, timestamp_cache):
 # monitor csv directory for modified voyant.csv and update the md files
 def monitor_csv_directory(text_dir, csv_dir, md_dir, text_timestamps, csv_timestamp):
     csv_path = os.path.join(csv_dir, "voyant.csv")
+    if not os.path.isfile(csv_path):
+        return text_timestamps, csv_timestamp
     '''
     print(csv_path)
     print(os.listdir("./"))

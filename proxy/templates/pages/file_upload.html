@@ -2,201 +2,312 @@
 
 {% block file_upload %}
   {% if request.user.is_authenticated %}
-  <p color="red"><b>{{ errors }}</b></p>
-  <p>Only files of type <b>.txt</b> are accepted</p>
-    <form method="post" enctype="multipart/form-data" onkeydown="prevent_default(event)">
+    <!-- styling -->
+    <style media="screen">
+      .fileDrag {
+      	font-weight: bold;
+      	text-align: center;
+      	padding: 1em 0;
+      	margin: 1em 0;
+      	border: 2px dashed #555;
+      	border-radius: 7px;
+      }
+
+      .fileInput { display: none; }
+
+      .fileLink {
+        text-decoration: underline;
+        color: black;
+        cursor: pointer;
+      }
+
+      .fileLink:hover { color: #555; }
+
+      .filename {
+        display: inline-block;
+        font-size: 18px;
+      }
+
+      .formButton {
+        appearance: none;
+        background-color: transparent;
+        border-radius: 0.6em;
+        cursor: pointer;
+        font-weight: 400;
+        padding: 3px 5px;
+        font-weight: 700;
+        transition: box-shadow 300ms ease-in-out, 300ms ease-in-out;
+      }
+
+      .formButton:hover { color: #fff; }
+
+      .addButton {
+        border: 2px solid #009933;
+        color: #009933;
+      }
+
+      .addButton:hover { box-shadow: 0 0 40px 40px #009933 inset; }
+
+      .removeButton {
+        border: 2px solid #e74c3c;
+        color: #e74c3c;
+      }
+
+      .removeButton-file { margin-left: 200px; }
+
+      .removeButton:hover { box-shadow: 0 0 40px 40px #e74c3c inset; }
+
+      .submitButton {
+        border: 2px solid #737373;
+        color: #737373;
+      }
+
+      .submitButton:hover { box-shadow: 0 0 40px 40px #737373 inset; }
+
+      .keywordName {
+        display: inline-block;
+        font-size: 18px;
+        margin-right: 15px;
+      }
+      </style>
+
+    <!-- file html -->
+    <form method="post" enctype="multipart/form-data" onkeydown="preventDefault(event)">
       {% csrf_token %}
-      <div id="textbook_files">
-        <h4>Upload your books:</h4>
-        <input type="file" id="textbook_file_0" name="textbook_file" onchange="multiple_file_function(0, 'textbook')">
-      </div>
-      <br>
-      <div id="article_files">
-        <h4>Upload your articles:</h4>
-        <input type="file" id="article_file_0" name="article_file" onchange="multiple_file_function(0, 'article')">
-      </div>
-      <br>
-      <div id="keywords">
-        <h4>Type in your keywords:</h4>
-        <input type="text" id="keyword_0" name="keyword" size="15" placeholder="Enter a keyword" oninput="enable_button('keyword_0', 'keyword_button_0')" onkeydown="check_for_enter(0, event)">
-        <input type="button" id="keyword_button_0" style="display: inline-block; border-radius: 50%" value="+" onclick="add_keyword(0)"  disabled/>
-      </div>
-      <br>
-      <button type="submit">Upload</button>
+      <fieldset>
+        <!-- input for textbooks (multiple .txt files) -->
+        <div id="textbookForm">
+            <legend>Textbook upload</legend>
+            <section>Files to Upload (only <b>.txt</b> files accepted):</section>
+            <div id="textbookNames">
+            </div>
+            <input type="file" id="textbookInput0" class="fileInput" name="textbook_file" onchange="handleFile('textbookInput0', true)" />
+            <div id="textbookDrop" class="fileDrag" ondrop="onDropHandle(event, 1, 0)" ondragover="toggleBoxStyle(event, true, true)" ondragleave="toggleBoxStyle(event, true, false)">
+              <a href="" id="textbookUploadLink" class="fileLink" onclick="triggerInput(event, 'textbookInput0')">Select</a> or drop <b>.txt</b> files here
+            </div>
+        </div>
+        <!-- input for articles (one zip file only) -->
+        <div id="articleForm">
+          <legend>Article Upload</legend>
+          <section>File to upload (only <b>.zip</b> file accepted; each article inside your zipfile must be of type <b>.txt</b>):</section>
+          <div id="articleName">
+          </div>
+          <input type="file" id="articleInput" class="fileInput" name="article_file" onchange="handleFile('articleInput', false)" />
+          <div id="articleDrop" class="fileDrag" ondrop="onDropHandle(event, 0, 0)" ondragover="toggleBoxStyle(event, false, true)" ondragleave="toggleBoxStyle(event, false, false)">
+            <a href="" id="uploadLink" class="fileLink" onclick="triggerInput(event, 'articleInput')">Select</a> or drop <b>.zip</b> file here
+          </div>
+        </div>
+        <!-- input for keywords (multiple strings) -->
+        <div id="keywordForm">
+          <legend>Keyword Upload</legend>
+          <section>Keywords to upload:</section>
+          <div id="keywords">
+          </div>
+          <input
+            type="text"
+            id="keyword0"
+            name="keyword"
+            class="keywordInput"
+            placeholder="type/paste your keywords"
+            oninput="toggleAdd(event, 'keywordButton')"
+            onpaste="onPasteHandle(event, 0)">
+          <button type="button" class="formButton addButton" id="keywordButton" onclick="processKeyword(0)" disabled>Add</button>
+        </div>
+        <br>
+        <!-- submit -->
+        <div id="submitbutton">
+        	<button type="submit" class="formButton submitButton" onclick="return confirm('Upload files?')">Upload Files</button>
+        </div>
+      </fieldset>
     </form>
 
+    <!-- javascript -->
     <script>
-      /// FORM FUNCTIONS ///
-
-      function prevent_default(event) {
+      // Prevent default behavior
+      function preventDefault(event) {
         if (event.keyCode == 13) {
-          event.stopPropagation();
-          event.cancelBubble = true;
           event.preventDefault();
-          return false;
+          var element = event.target;
+          if (element.id.startsWith("keyword") && element.value) {
+            var keywordID = Number(element.id.split("keyword").pop());
+            if (!isNaN(keywordID)) processKeyword(keywordID);
+          }
         }
       }
 
-      /// KEYWORD FUNCTIONS ///
+      // When user types an input, enable the add-button
+      function toggleAdd(event, buttonID) {
+        document.getElementById(buttonID).disabled = event.target.value === "";
+      }
 
-      // if user presses 'enter' in a text input, create a new text input and move cursor over
-      function check_for_enter(id, event) {
-        if (event.keyCode == 13) {
-          add_keyword(id);
-          new_id = id + 1;
-          var new_input_element = document.getElementById("keyword_" + new_id);
-          new_input_element.focus();
-          new_input_element.select();
+      // Process files that are dropped into the drop box
+      function onDropHandle(event, isTextbookDrop, latestID) {
+        event.preventDefault();
+        var files = event.dataTransfer.files;
+        if (files != null && files.length > 0) {
+          if (isTextbookDrop) {
+            for (var i = 0; i < files.length; i++, latestID++) triggerFileHandle(files[i], "textbookInput" + latestID);
+            document.getElementById("textbookDrop").ondragleave();
+          } else {
+            triggerFileHandle(files[0], "articleInput");
+          }
         }
       }
 
-      // if text is non-empty enable respective button, otherwise disable it
-      function enable_button(keyword_text_id, button_id) {
-        var text = document.getElementById(keyword_text_id);
-        var button = document.getElementById(button_id);
-        button.disabled = text.value == "";
+      // Load file to existing input element and trigger its onchange event
+      function triggerFileHandle(file, inputElementID) {
+        const dt = new DataTransfer();
+        dt.items.add(file);
+        var inputElement = document.getElementById(inputElementID);
+        inputElement.files = dt.files;
+        inputElement.onchange();
       }
 
-      // hide textinput and show keyword in p tag
-      // remove add-button and add remove-button
-      function add_keyword(current_id) {
-        var div = document.getElementById("keywords");
-        var keyword_text_id = "keyword_" + current_id;
-        hide_input_element(keyword_text_id);
-        var keyword = get_input_value(keyword_text_id);
-        append_text_element("keyword_display_" + current_id, keyword, keyword_text_id);
-        change_button_to_remove(current_id);
-        append_br("keyword_br_" + current_id, div);
-        var new_id = current_id + 1;
-        add_keyword_input(new_id, div);
-        add_keyword_button(new_id, "keyword_" + new_id);
+      // Change style of drop box when a file dragged over it
+      function toggleBoxStyle(event, isTextbookDrop, isInBox) {
+        if (event != null) event.preventDefault();
+        var dropDiv;
+        if (isTextbookDrop) dropDiv = document.getElementById("textbookDrop");
+        else dropDiv = document.getElementById("articleDrop");
+        if (isInBox) dropDiv.style.cssText = "border-style: solid; box-shadow: inset 0 3px 4px #888;";
+        else dropDiv.style.cssText = "border-style: dashed; box-shadow: 0;";
       }
 
-      // change the add-button to remove-button
-      function change_button_to_remove(id) {
-        button_id = "keyword_button_" + id;
-        var button = document.getElementById(button_id);
-        button.value = "-";
-        button.setAttribute("onclick", "remove_keyword(" + id + ")");
+      // Trigger the onclick event of an input element
+      function triggerInput(event, inputID) {
+        if (event != null) event.preventDefault();
+        document.getElementById(inputID).click();
       }
 
-      // add new keyword text input
-      function add_keyword_input(id, parent_element) {
-        var element = document.createElement("INPUT");
-        element.setAttribute("type", "text");
-        element.setAttribute("id", "keyword_" + id);
-        element.setAttribute("name", "keyword");
-        element.setAttribute("size", "15");
-        element.setAttribute("placeholder", "Enter a keyword");
-        element.setAttribute("oninput", "enable_button(\"keyword_" + id + "\", \"keyword_button_" + id + "\")");
-        element.setAttribute("onkeydown", "check_for_enter(" + id + ", event)");
-        parent_element.appendChild(element);
+      // Process the file insertion
+      function handleFile(inputElementID, isTextbook) {
+        var inputElement = document.getElementById(inputElementID);
+        var id;
+        var filename = getFilename(inputElement);
+        var divNameElement;
+        var nameAttributes = {"class": "filename"};
+        var brAttributes = {};
+        var removeFunction = "removeContent(event.target, '";
+        var buttonAttributes = {"class": "formButton removeButton removeButton-file"};
+        if (isTextbook) {
+          id = Number(inputElement.id.slice(-1));
+          divNameElement = document.getElementById("textbookNames");
+          nameAttributes["id"] = "textbookName" + id;
+          brAttributes["id"] = "textbookBr" + id;
+          removeFunction += "textbookNames', 'textbookName" + id + "', 'textbookBr" + id + "', 'textbookInput" + id + "', 'textbook')";
+          buttonAttributes["id"] = "textbookDelete" + id;
+          var newID = id + 1;
+          var newInputAttributes = {"type": "file", "id": "textbookInput" + newID, "class": "fileInput", "name": "textbook_file", "onchange": "handleFile('textbookInput" + newID + "', true)"};
+          inputElement.insertAdjacentElement("afterend", createElement("INPUT", "", newInputAttributes));
+          document.getElementById("textbookUploadLink").setAttribute("onclick", "triggerInput(event, 'textbookInput" + newID + "')");
+          document.getElementById("textbookDrop").setAttribute("ondrop", "onDropHandle(event, 1, " + newID + ")");
+        } else {
+          document.getElementById("articleDrop").style.cssText = "display: none;";
+          divNameElement = document.getElementById("articleName");
+          nameAttributes["id"] = "articleZipName";
+          brAttributes["id"] = "articleBr";
+          removeFunction += "articleName', 'articleZipName', 'articleBr', 'articleInput', 'article')";
+          buttonAttributes["id"] = "articleDeleteButton";
+        }
+        buttonAttributes["onclick"] = removeFunction;
+        divNameElement.appendChild(createElement("P", filename, nameAttributes));
+        divNameElement.appendChild(createElement("BR", "", brAttributes));
+        divNameElement.appendChild(createElement("BUTTON", "Remove", buttonAttributes));
+        if (isTextbook) {
+          divNameElement.appendChild(createElement("BR", "", brAttributes));
+        }
       }
 
-      // add a new add-button
-      // TODO: change to html text stuff instead of using element
-      function add_keyword_button(id, adjacent_element_id) {
-        var adjacent_element = document.getElementById(adjacent_element_id);
-        var html = "<input type=\"button\" id=\"keyword_button_" + id + "\" style=\"display: inline-block; border-radius: 50%; margin-left:5px\" value=\"+\" onclick=\"add_keyword(" + id + ")\" disabled/>"
-        adjacent_element.insertAdjacentHTML("afterend", html)
+      // Process multiple keywords that are pasted
+      function onPasteHandle(event, latestID) {
+        var words = event.clipboardData.getData("Text").split("\n");
+        var divElement = document.getElementById("keywordForm")
+        divElement.removeChild(document.getElementById("keyword" + latestID));
+        var newInputAttributes = {"type": "text",
+                                  "id": "keyword" + latestID,
+                                  "name": "keyword",
+                                  "class": "keywordInput",
+                                  "placeholder": "type/paste your keywords",
+                                  "oninput": "toggleAdd(event, 'keywordButton')",
+                                  "onpaste": "onPasteHandle(event, 'keyword"+ latestID + "')"};
+        divElement.insertBefore(createElement("INPUT", "", newInputAttributes), document.getElementById("keywordButton"));
+        for (var i = 0; i < words.length; i++) {
+          words[i] = words[i].replace(/ /g,'');
+          if (words[i].length != 0) {
+            var inputElement = document.getElementById("keyword" + latestID);
+            inputElement.value = words[i];
+            processKeyword(latestID);
+            latestID++;
+            // change add button onclick function
+            var addButton = document.getElementById("keywordButton");
+            addButton.setAttribute("onclick", "processKeyword(" + latestID + ")");
+            addButton.disabled = true;
+          }
+        }
       }
 
-      // TODO: remove keyword function
-      function remove_keyword(id) {
-        var div = document.getElementById("keywords");
-        var input = document.getElementById("keyword_" + id);
-        var display = document.getElementById("keyword_display_" + id);
-        var button = document.getElementById("keyword_button_" + id);
-        var br = document.getElementById("keyword_br_" + id);
-        div.removeChild(input);
-        div.removeChild(display);
-        div.removeChild(button);
-        div.removeChild(br);
+      // Process the keyword similar to a file
+      function processKeyword(id) {
+        var inputElement = document.getElementById("keyword" + id);
+        inputElement.style.display = "none";
+        var newID = id + 1;
+        var keyword = inputElement.value;
+        var divElement = document.getElementById("keywords");
+        var nameAttributes = {"id": "keywordName" + id, "class": "keywordName"};
+        divElement.appendChild(createElement("P", keyword, nameAttributes));
+        var buttonAttributes = {"type": "button",
+                                "class": "formButton removeButton",
+                                "id": "keywordDelete" + id,
+                                "onclick": "removeContent(event.target, 'keywords', 'keywordName" + id + "', 'keywordBr" + id + "', 'keyword" + id + "', 'keyword')"};
+        divElement.appendChild(createElement("BUTTON", "Remove", buttonAttributes));
+        // add br element
+        var brAttributes = {"id": "keywordBr" + id};
+        divElement.appendChild(createElement("BR", "", brAttributes));
+        // add new input element
+        var newInputAttributes = {"type": "text",
+                                  "id": "keyword" + newID,
+                                  "name": "keyword",
+                                  "class": "keywordInput",
+                                  "placeholder": "type/paste your keywords",
+                                  "oninput": "toggleAdd(event, 'keywordButton')",
+                                  "onpaste": "onPasteHandle(event, " + newID + ")"};
+        inputElement.insertAdjacentElement("afterend", createElement("INPUT", "", newInputAttributes));
+        // change add button onclick function
+        var addButton = document.getElementById("keywordButton");
+        addButton.setAttribute("onclick", "processKeyword(" + newID + ")");
+        addButton.disabled = true;
       }
 
-      /// INPUTS FILE FUNCTIONS ///
-
-      // hide the current browse button, add a new p tag with title of file
-      // add a button and a new browse button
-      function multiple_file_function(current_id, type) {
-        var div = document.getElementById(type + "_files");
-        var current_element_id = type + "_file_" + current_id;
-        hide_input_element(current_element_id);
-        var file_name = get_input_value(current_element_id);
-        append_text_element(type + "_display_" + current_id, file_name, current_element_id);
-        var br_id = type + "_br_" + current_id;
-        append_br(br_id, div);
-        append_remove_button(type + "_remove_" + current_id, current_id, div, type);
-        append_br(br_id, div);
-        var new_id = current_id + 1;
-        var new_element_id = type + "_file_" + new_id;
-        var element_function = "multiple_file_function(" + new_id + ", \"" + type + "\")"
-        append_input_element(new_element_id, type + "_file", element_function, div);
+      // Get the filename of a file in a DOM element
+      function getFilename(inputElement) {
+        var filename = inputElement.value;
+        filename = filename.replace(/.*[\/\\]/, '');
+        return filename;
       }
 
-      // hide button
-      function hide_input_element(element_id) {
-        var element = document.getElementById(element_id);
-        element.setAttribute("style", "width: 0px; visibility: hidden");
+      // Create a DOM element with given attributes
+      function createElement(elementType, innerHTML, attributes) {
+        var element = document.createElement(elementType);
+        if (innerHTML) element.innerHTML = innerHTML;
+        for (const [key, value] of Object.entries(attributes)) element.setAttribute(key, value);
+        return element;
       }
 
-      // get the value of an input element
-      function get_input_value(element_id) {
-        var element = document.getElementById(element_id);
-        var value = element.value;
-        value = value.replace(/.*[\/\\]/, '');
-        return value;
-      }
-
-      // append p tag with title of the files
-      function append_text_element(element_id, text, adjacent_element_id) {
-        var adjacent_element = document.getElementById(adjacent_element_id);
-        var html = "<p id=\"" + element_id + "\" style=\"display: inline-block; font-size: 18px\">" + text + "</p>";
-        adjacent_element.insertAdjacentHTML("afterend", html)
-      }
-
-      // append an input tag for new file upload
-      function append_input_element(new_element_id, new_element_name, new_element_function, parent_element) {
-        var element = document.createElement("INPUT");
-        element.setAttribute("type", "file");
-        element.setAttribute("id", new_element_id);
-        element.setAttribute("name", new_element_name);
-        element.setAttribute("onchange", new_element_function);
-        parent_element.appendChild(element);
-      }
-
-      // append br tag
-      function append_br(new_element_id, parent_element) {
-        var element = document.createElement("BR");
-        element.setAttribute("id", new_element_id);
-        parent_element.appendChild(element);
-      }
-
-      // append button tag for removing file
-      function append_remove_button(new_element_id, id, parent_element, type) {
-        var element = document.createElement("BUTTON");
-        element.setAttribute("id", new_element_id);
-        element.setAttribute("style", "margin-left: 225px");
-        element.setAttribute("onclick", "remove(" + id + ", \"" + type + "\")");
-        element.innerHTML = "Remove";
-        parent_element.appendChild(element);
-      }
-
-      // remove file and corresponding p, br, and button tags
-      function remove(id, type) {
-        var div_element = document.getElementById(type + "_files");
-        var file_element = document.getElementById(type + "_file_" + id);
-        var display_element = document.getElementById(type + "_display_" + id);
-        var br_element = document.getElementById(type + "_br_" + id);
-        var remove_element = document.getElementById(type + "_remove_" + id);
-        div_element.removeChild(file_element);
-        div_element.removeChild(display_element);
-        div_element.removeChild(br_element);
-        var br_element = document.getElementById(type + "_br_" + id);
-        div_element.removeChild(br_element);
-        div_element.removeChild(remove_element);
+      function removeContent(buttonElement, divID, nameID, brID, inputID, contentType) {
+        var divNameElement = document.getElementById(divID);
+        divNameElement.removeChild(document.getElementById(nameID));
+        divNameElement.removeChild(document.getElementById(brID));
+        divNameElement.removeChild(buttonElement);
+        if (contentType === "textbook") {
+          document.getElementById("textbookForm").removeChild(document.getElementById(inputID));
+          divNameElement.removeChild(document.getElementById(brID));
+        } else if (contentType === "article") {
+          document.getElementById(inputID).value = "";
+          document.getElementById("articleDrop").style.cssText = "display: default;";
+        } else {
+          document.getElementById("keywordForm").removeChild(document.getElementById(inputID));
+        }
       }
     </script>
   {% endif %}
 {% endblock file_upload %}
-

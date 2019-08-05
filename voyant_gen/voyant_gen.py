@@ -53,7 +53,7 @@ def voyant(keywords, text_path, corpora_path):
         for word in keywords:
             word = word.replace(' ', '_')
             if os.path.exists(os.path.join(corpora_path, word) + '.zip'):
-                url_template = 'https://vg-voyant.pennds.org/?input=https://vg-voyant.pennds.org/corpora/{}'
+                url_template = '192.168.99.100:4000/?input=http://192.168.99.100:4000/corpora/{}'
                 url = url_template.format(word.replace(' ', '_') + '.zip')
                 writer.writerow({'keyword': word, 'url': url})
 
@@ -81,8 +81,9 @@ def main():
         for text in os.listdir(text_path):
             if os.path.getmtime(os.path.join(text_path,text)) > recent_time:
                 recent_time = os.path.getmtime(os.path.join(text_path, text))
-        if os.path.getmtime(keywords) > recent_time:
-            recent_time = os.path.getmtime(keywords)
+        if os.path.isfile(keywords):
+            if os.path.getmtime(keywords) > recent_time:
+                recent_time = os.path.getmtime(keywords)
         if recent_time > temp_time:
             temp_time = recent_time
             print("Change detected, generating corpus...")

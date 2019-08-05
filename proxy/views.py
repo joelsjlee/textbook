@@ -7,6 +7,7 @@ from django.template import Context, Template, loader
 from titlecase import titlecase
 from django.core.management import call_command
 import os.path
+import zipfile
 
 # Create your views here.
 @login_required
@@ -43,47 +44,104 @@ def home(request):
 # view for upload
 @login_required
 def file_upload(request):
-    if request.method == 'POST':
-        files_dict = request.FILES
-        files_keys = files_dict.keys()
+    if request.method == "POST":
+        ok_to_process = True
+        textbooks = request.FILES.getlist("textbook_file")
+        article_zips = request.FILES.getlist("article_file")
         keywords = request.POST.getlist("keyword")
-        # its fine if there are no keywords (for now at least)
-        if ("textbook_file" not in files_keys) and ("article_file" not in files_keys) and keywords_is_empty(keywords):
-            messages.add_message(request, messages.ERROR, "At least one file must be uploaded")
-        else:
-            success_msg, fail_msg = process_files("", "", files_dict.getlist("textbook_file"),
-                                                  FileSystemStorage(location="/app/proxy/media/texts"))
-            success_msg, fail_msg = process_files(success_msg, fail_msg,
-                                                  files_dict.getlist("article_file"),
-                                                  FileSystemStorage(location="/app/proxy/media/articles"))
+        # check if form has at least one file or keyword
+        if (not textbooks) and (not article_zips) and (not keywords[0]):
+            messages.error(request, "At least one file must be uploaded")
+            ok_to_process = False
+        # check for faulty textbook files
+        err = err_check_textbooks(textbooks)
+        if err:
+            err = "Failed to upload files, the following textbooks have incorrect file types: " + err
+            messages.error(request, err)
+            messages.info(request, "Only textbooks of .txt type are accepted")
+            ok_to_process = False
+        # check for faulty article zip file and article files
+        err = err_check_articles(article_zips)
+        if err:
+            err = "Faile to upload files, the following articles have incorrect file types: " + err
+            messages.error(request, err)
+            messages.info(request, "Article zipfile must contain only articles of type .txt")
+            ok_to_process = False
+        # process everything is it is all ok
+        if (ok_to_process):
+            # process textbooks
+            success = process_textbooks(textbooks)
+            if success:
+                success = "Successfully uploaded textbooks: " + success
+                messages.success(request, success)
+            # process articles
+            success = process_articles(article_zips)
+            if success:
+                success = "Successfully uploaded article zipfile: " + success
+                messages.success(request, success)
+            # handle keywords
             keywords_processed = process_keywords(keywords)
-            if success_msg:
-                success_msg = "The following files were succesfully uploaded: " + success_msg
-                messages.success(request, success_msg)
-                info_msg = "Please wait 30 seconds for your files to be processed"
-                messages.info(request, info_msg)
-            if fail_msg:
-                fail_msg = "The following files failed to upload: " + fail_msg
-                fail_msg_2 = "Please check for the correct file format"
-                messages.error(request, fail_msg)
-                messages.error(request, fail_msg_2)
             if keywords_processed:
-                success_msg = "Successfully uploaded the following keywords: " + keywords_processed
-                messages.success(request, success_msg)
-    return render(request, 'pages/file_upload.html')
+                messages.success(request, "Keywords Uploaded: " + keywords_processed)
+    return render(request, "pages/file_upload.html")
 
 
-# save .txt files and update the messages accordingly
-def process_files(success_msg, fail_msg, files, save_directory):
-    for file in files:
-        file_name = file.name
-        if file_name.endswith(".txt"):
-            success_msg += file_name + "  "
-            save_directory.delete(file_name)
-            save_directory.save(file_name, file)
+# cheack for faulty textbook files
+def err_check_textbooks(textbooks):
+    err = ""
+    for textbook in textbooks:
+        if not textbook.name.endswith(".txt"):
+            err += textbook.name + ", "
+    if err:
+        err = err[:-2]
+    return err
+
+
+# check for fault article zip file and faulty contents
+def err_check_articles(article_zips):
+    err = ""
+    if article_zips:
+        article_zip = article_zips[0]
+        if not article_zip.name.endswith(".zip"):
+            err += article_zip.name + ", "
         else:
-            fail_msg += file_name + "  "
-    return success_msg, fail_msg
+            article_name_list = zipfile.ZipFile(article_zip).namelist()
+            for article_name in article_name_list:
+                if (not article_name.endswith(".txt")) or (article_name.count("/") > 1):
+                    err += article_name + ", "
+    if err:
+        err = err[:-2]
+    return err
+
+
+# save each textbook file
+def process_textbooks(textbooks):
+    success = ""
+    textbook_dir = FileSystemStorage(location="/app/proxy/media/texts")
+    for textbook in textbooks:
+        success += textbook.name + ", "
+        textbook_dir.delete(textbook.name)
+        textbook_dir.save(textbook.name, textbook)
+    if success:
+        success = success[:-2]
+    return success
+
+
+# save each article in zip file
+def process_articles(articles):
+    success = ""
+    article_dir = FileSystemStorage(location="/app/proxy/media/articles")
+    if articles:
+        article_zipfile = zipfile.ZipFile(articles[0])
+        article_name_list = article_zipfile.namelist()
+        for article_name in article_name_list:
+            article_file = article_zipfile.open(article_name)
+            name_parts = article_name.split("/")
+            new_name = name_parts[len(name_parts) - 1]
+            article_dir.delete(new_name)
+            article_dir.save(new_name, article_file)
+        success += articles[0].name
+    return success
 
 
 # check if keywords list is empty
@@ -101,11 +159,14 @@ def process_keywords(keywords):
     if not keywords_is_empty(keywords):
         keywords_file = open(os.path.join("/app/proxy/media/keywords", "keywords.txt"), "w", encoding='utf-8')
         for keyword in keywords:
-            keyword = keyword.strip() + "\n"
-            keywords_file.write(keyword)
+            keyword = keyword.strip()
             keywords_processed += keyword + ", "
+            keyword += "\n"
+            keywords_file.write(keyword)
         keywords_file.close()
         keywords_processed = keywords_processed[0:len(keywords_processed) - 2]
+    if keywords_processed:
+        keywords_processed = keywords_processed[:-2]
     return keywords_processed
 
 
