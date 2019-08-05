@@ -13,7 +13,7 @@
       	border-radius: 7px;
       }
 
-      .fileInput {display: none;}
+      .fileInput { display: none; }
 
       .fileLink {
         text-decoration: underline;
@@ -21,53 +21,49 @@
         cursor: pointer;
       }
 
-      .fileLink:hover {color: #555;}
+      .fileLink:hover { color: #555; }
 
       .filename {
         display: inline-block;
         font-size: 18px;
       }
 
-      .deleteButton {
+      .formButton {
         appearance: none;
         background-color: transparent;
-        border: 2px solid #e74c3c;
         border-radius: 0.6em;
-        color: #e74c3c;
         cursor: pointer;
         font-weight: 400;
         padding: 3px 5px;
         font-weight: 700;
-        transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
-        margin-left: 200px;
+        transition: box-shadow 300ms ease-in-out, 300ms ease-in-out;
       }
 
-      .deleteButton:hover {
-        color: #fff;
-        box-shadow: 0 0 40px 40px #e74c3c inset;
+      .formButton:hover { color: #fff; }
+
+      .addButton {
+        border: 2px solid #009933;
+        color: #009933;
       }
+
+      .addButton:hover { box-shadow: 0 0 40px 40px #009933 inset; }
+
+      .removeButton {
+        border: 2px solid #e74c3c;
+        color: #e74c3c;
+      }
+
+      .removeButton-file { margin-left: 200px; }
+
+      .removeButton:hover { box-shadow: 0 0 40px 40px #e74c3c inset; }
 
       .submitButton {
-        border: solid;
-        border-width: 2px;
-        border-radius: 4px;
-        padding: 3px 5px;
+        border: 2px solid #737373;
+        color: #737373;
       }
 
-      .submitButton:hover {background-color: #e1e2e2;}
-      /*
-      .keywordButton {
-        background-color:#33cc33;
-      	border-radius: 50%;
-      	border:1px solid #18ab29;
-      	display:inline-block;
-      	cursor:pointer;
-      	color:#fff;
-      	padding:3px 7px;
-      }
+      .submitButton:hover { box-shadow: 0 0 40px 40px #737373 inset; }
 
-      .keywordButton:hover {background-color:#009900;}
-      */
       .keywordName {
         display: inline-block;
         font-size: 18px;
@@ -115,12 +111,12 @@
             placeholder="type/paste your keywords"
             oninput="toggleAdd(event, 'keywordButton')"
             onpaste="onPasteHandle(event, 0)">
-          <button type="button" class="keywordButton" id="keywordButton" onclick="processKeyword(0)" disabled>+</button>
+          <button type="button" class="formButton addButton" id="keywordButton" onclick="processKeyword(0)" disabled>Add</button>
         </div>
         <br>
         <!-- submit -->
         <div id="submitbutton">
-        	<button type="submit" class="submitButton" onclick="return confirm('Upload files?')">Upload Files</button>
+        	<button type="submit" class="formButton submitButton" onclick="return confirm('Upload files?')">Upload Files</button>
         </div>
       </fieldset>
     </form>
@@ -192,7 +188,7 @@
         var nameAttributes = {"class": "filename"};
         var brAttributes = {};
         var removeFunction = "removeContent(event.target, '";
-        var buttonAttributes = {"class": "deleteButton"};
+        var buttonAttributes = {"class": "formButton removeButton removeButton-file"};
         if (isTextbook) {
           id = Number(inputElement.id.slice(-1));
           divNameElement = document.getElementById("textbookNames");
@@ -260,10 +256,10 @@
         var nameAttributes = {"id": "keywordName" + id, "class": "keywordName"};
         divElement.appendChild(createElement("P", keyword, nameAttributes));
         var buttonAttributes = {"type": "button",
-                                "class": "keywordButton",
+                                "class": "formButton removeButton",
                                 "id": "keywordDelete" + id,
                                 "onclick": "removeContent(event.target, 'keywords', 'keywordName" + id + "', 'keywordBr" + id + "', 'keyword" + id + "', 'keyword')"};
-        divElement.appendChild(createElement("BUTTON", "-", buttonAttributes));
+        divElement.appendChild(createElement("BUTTON", "Remove", buttonAttributes));
         // add br element
         var brAttributes = {"id": "keywordBr" + id};
         divElement.appendChild(createElement("BR", "", brAttributes));
