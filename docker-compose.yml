@@ -88,8 +88,6 @@ services:
 
   jekyll_builder:
     image: jekyll/jekyll:latest
-    depends_on:
-      - voyant_gen
     volumes:
       - ./ed:/srv/jekyll
       - ./static_pages:/destination
