@@ -1,8 +1,8 @@
 packers
 Packingtown
-packing house
+packinghouse
 election
-Beef Trust
+BeefTrust
 hog
 inspection
 capitalism
@@ -23,3 +23,4 @@ work
 upton
 today
 tree
+
