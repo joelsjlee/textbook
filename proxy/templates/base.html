@@ -77,6 +77,17 @@
 
     </div>
 
+    {% if request.user.is_authenticated  %}
+      <p>LOGGED IN</p>
+      {% if request.user.is_content_admin  %}
+        <p>CONTENT ADMIN</p>
+      {% else %}
+        <p>NOT CONTENT ADMIN</p>
+      {% endif %}
+    {% else %}
+      <p>NOT LOGGED IN</p>
+    {% endif %}
+
     <div class="container">
 
       {% if messages %}
