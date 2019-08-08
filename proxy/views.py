@@ -83,6 +83,7 @@ def file_upload(request):
             keywords_processed = process_keywords(keywords)
             if keywords_processed:
                 messages.success(request, "Keywords Uploaded: " + keywords_processed)
+            messages.info(request, "Please wait 30 seconds for files to be processed")
     return render(request, "pages/file_upload.html")
 
 
