@@ -2,7 +2,7 @@ from django.contrib.auth.decorators import login_required
 from django.contrib import messages
 from django.core.files.storage import FileSystemStorage
 from django.http import Http404, HttpResponse
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.template import Context, Template, loader
 from titlecase import titlecase
 from django.core.management import call_command
@@ -44,6 +44,8 @@ def home(request):
 # view for upload
 @login_required
 def file_upload(request):
+    if not request.user.is_staff:
+        return redirect("/")
     if request.method == "POST":
         ok_to_process = True
         textbooks = request.FILES.getlist("textbook_file")
