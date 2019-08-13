@@ -2,10 +2,15 @@
 
 {% block textlinks %}
   {% if request.user.is_authenticated %}
+    {% if request.user.is_student or request.user.is_staff %}
       <h2>Links to texts:</h2>
       {% for text_info in text_info_list %}
         <a href="/texts/{{ text_info.0 }}/index.html">{{ text_info.1 }}</a><br>
       {% endfor %}
+    <!-- {% elif request.user.is_student and not request.user.is_staff%} -->
+    {% else %}
+      <h4>Permission from instructor is required to view the textbooks</h4>
+    {% endif %}
   {% else %}
     <h2>Sign in to view texts</h2>
   {% endif %}

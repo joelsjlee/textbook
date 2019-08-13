@@ -12,10 +12,12 @@ import zipfile
 # Create your views here.
 @login_required
 def proxy(request, static_path):
-    print('static path: ' + static_path)
+    if not (request.user.is_staff or request.user.is_student):
+        return redirect("/")
+    # print('static path: ' + static_path)
     template_path = 'proxy/' + static_path
-    print('template_path: ' + template_path)
-    print(os.listdir('proxy/templates/proxy'))
+    # print('template_path: ' + template_path)
+    # print(os.listdir('proxy/templates/proxy'))
     if os.path.isfile('proxy/templates/' + template_path):
         if template_path.endswith(".html"):
             html_page = loader.render_to_string(template_path)
