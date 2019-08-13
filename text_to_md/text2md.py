@@ -168,7 +168,7 @@ def add_key_md(start_index_list, end_index_list, value, content):
             del start_index_list[0]
             start_index_list_len -= 1
         elif end_index_list_len > 0 and index == end_index_list[0]:
-            new_content += content[index] + "](" + value + ")"
+            new_content += content[index] + "](" + value + "){:target=\"_blank\"}"
             del end_index_list[0]
             end_index_list_len -= 1
         else:
