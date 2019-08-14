@@ -45,6 +45,7 @@ def home(request):
 # View for file upload
 @login_required
 def file_upload(request):
+    # prevent non-staff from accessing upload page
     if not request.user.is_staff:
         return redirect("/")
     if request.method == "POST":
@@ -53,43 +54,8 @@ def file_upload(request):
         keywords = request.POST.getlist("keyword")
         # Process files if it is all error free
         if not error_check_files(request, textbooks, article_zips, keywords):
-            # process textbooks
-            success = process_textbooks(textbooks)
-            if success:
-                success = "Successfully uploaded textbooks: " + success
-                messages.success(request, success)
-            # process articles
-            success = process_articles(article_zips)
-            if success:
-                success = "Successfully uploaded article zipfile: " + success
-                messages.success(request, success)
-            # handle keywords
-            keywords_processed = process_keywords(keywords)
-            if keywords_processed:
-                messages.success(request, "Keywords Uploaded: " + keywords_processed)
-            messages.info(request, "Please wait 30 seconds for files to be processed")
+            process_files(request, textbooks, article_zips, keywords)
     return render(request, "pages/file_upload.html")
-
-
-# Check files for errors, returns True if they are any
-def error_check_files(request, textbooks, article_zips, keywords):
-    # Check for blank form
-    if (not textbooks) and (not article_zips) and (not keywords[0]):
-        messages.error(request, "At least one file must be uploaded")
-        return True
-    # Check for errors in textbook files
-    err = err_check_textbooks(textbooks)
-    if err:
-        messages.error(request, err)
-        messages.info(request, "Only textbooks of .txt type are accepted")
-        return True
-    # Check for errors in articles
-    err = err_check_articles(article_zips)
-    if err:
-        messages.error(request, err)
-        messages.info(request, "Article zipfile must contain only articles of type .txt")
-        return True
-    return False
 
 
 ##############################################################
@@ -156,7 +122,28 @@ def format_text_name(text_filename):
 ##############################################################
 # HELPER FUNCTIONS FOR FILE UPLOAD VIEW
 ##############################################################
-# cheack for faulty textbook files
+# Check files for errors, returns True if they are any
+def error_check_files(request, textbooks, article_zips, keywords):
+    # Check for blank form
+    if (not textbooks) and (not article_zips) and (not keywords[0]):
+        messages.error(request, "At least one file must be uploaded")
+        return True
+    # Check for errors in textbook files
+    err = err_check_textbooks(textbooks)
+    if err:
+        messages.error(request, err)
+        messages.info(request, "Only textbooks of .txt type are accepted")
+        return True
+    # Check for errors in articles
+    err = err_check_articles(article_zips)
+    if err:
+        messages.error(request, err)
+        messages.info(request, "Article zipfile must contain only articles of type .txt")
+        return True
+    return False
+
+
+# Cheack for faulty textbook files
 def err_check_textbooks(textbooks):
     err = ""
     for textbook in textbooks:
@@ -168,7 +155,7 @@ def err_check_textbooks(textbooks):
     return err
 
 
-# check for fault article zip file and faulty contents
+# Check for fault article zip file and faulty contents
 def err_check_articles(article_zips):
     err = ""
     if article_zips:
@@ -186,7 +173,24 @@ def err_check_articles(article_zips):
     return err
 
 
-# save each textbook file
+def process_files(request, textbooks, article_zips, keywords):
+    # process textbooks
+    success = process_textbooks(textbooks)
+    if success:
+        messages.success(request, success)
+    # process articles
+    success = process_articles(article_zips)
+    if success:
+        messages.success(request, success)
+    # handle keywords
+    keywords_processed = process_keywords(keywords)
+    if keywords_processed:
+        messages.success(request, "Keywords Uploaded: " + keywords_processed)
+    messages.info(request, "Please wait 30 seconds for files to be processed")
+    return
+
+
+# Save each textbook file
 def process_textbooks(textbooks):
     success = ""
     textbook_dir = FileSystemStorage(location="/app/proxy/media/texts")
@@ -196,10 +200,11 @@ def process_textbooks(textbooks):
         textbook_dir.save(textbook.name, textbook)
     if success:
         success = success[:-2]
+        success = "Successfully uploaded textbooks: " + success
     return success
 
 
-# save each article in zip file
+# Save each article in zip file
 def process_articles(articles):
     success = ""
     article_dir = FileSystemStorage(location="/app/proxy/media/articles")
@@ -213,19 +218,12 @@ def process_articles(articles):
             article_dir.delete(new_name)
             article_dir.save(new_name, article_file)
         success += articles[0].name
+    if success:
+        success = "Successfully uploaded article zipfile: " + success
     return success
 
 
-# check if keywords list is empty
-def keywords_is_empty(keywords):
-    is_empty = True
-    for keyword in keywords:
-        if len(keyword) > 0:
-            is_empty = False
-    return is_empty
-
-
-# get all keywords and put them in keywords.txt files and save it
+# Get all keywords and put them in keywords.txt files and save it
 def process_keywords(keywords):
     keywords_processed = ""
     if not keywords_is_empty(keywords):
@@ -240,3 +238,12 @@ def process_keywords(keywords):
     if keywords_processed:
         keywords_processed = keywords_processed[:-2]
     return keywords_processed
+
+
+# Check if keywords list is empty
+def keywords_is_empty(keywords):
+    is_empty = True
+    for keyword in keywords:
+        if len(keyword) > 0:
+            is_empty = False
+    return is_empty
