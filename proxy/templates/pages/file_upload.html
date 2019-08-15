@@ -69,7 +69,12 @@
         font-size: 18px;
         margin-right: 15px;
       }
-      </style>
+
+      .keywordInput {
+        border: 2px solid gray;
+        padding: 3px;
+      }
+    </style>
 
     <!-- file html -->
     <form method="post" enctype="multipart/form-data" onkeydown="preventDefault(event)">
@@ -100,7 +105,7 @@
         <!-- input for keywords (multiple strings) -->
         <div id="keywordForm">
           <legend>Keyword Upload</legend>
-          <section>Keywords to upload:</section>
+          <label for="keyword0" id="keywordLabel">Keywords to upload:</label>
           <div id="keywords">
           </div>
           <input
@@ -276,6 +281,9 @@
         var addButton = document.getElementById("keywordButton");
         addButton.setAttribute("onclick", "processKeyword(" + newID + ")");
         addButton.disabled = true;
+        // Modify label tag
+        var labelElement = document.getElementById("keywordLabel");
+        labelElement.setAttribute("for", "keyword" + newID);
       }
 
       // Get the filename of a file in a DOM element
