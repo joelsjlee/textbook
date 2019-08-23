@@ -457,7 +457,8 @@ def parse_gutenberg_text(text_filename, csv_dict, output_dir):
     title, author = get_title_and_author(header)
     delim_list, content_list = get_delim_and_content(body)
     delim_list, content_list = filter_content(delim_list, content_list)
-    content_list = iter_keys_contents(content_list, csv_dict)
+    if any(csv_dict):
+        content_list = iter_keys_contents(content_list, csv_dict)
     delim_list = [delim[:16].strip() + "..." if len(delim) > 16 else delim[:16].strip() for delim in delim_list]
     create_md(text_filename, title, author, delim_list, content_list, output_dir)
     return
@@ -493,8 +494,7 @@ def test_main():
 
 # monitor text directory for new and modified text files and update the md files
 def monitor_text_directory(text_dir, csv_dir, md_dir, timestamp_cache):
-    if not os.path.isfile(os.path.join(csv_dir, "voyant.csv")):
-        return timestamp_cache
+    csv_file_exists = os.path.isfile(os.path.join(csv_dir, "voyant.csv"))
     with os.scandir(text_dir) as it:
         for entry in it:
             if entry.name.endswith(".txt"):
@@ -507,13 +507,10 @@ def monitor_text_directory(text_dir, csv_dir, md_dir, timestamp_cache):
                 timestamp_cache[entry.name] = entry_stats.st_mtime
                 entry_path = text_dir + "/" + entry.name
                 csv_path = csv_dir + "/voyant.csv"
-                csv_dict = read_csv_file(csv_path)
-                # check for the special German text
-                if entry.name == "ThomasBrussig_AmKuerzerenEndeDerSonnenallee.txt":
-                    text_dict = transfer_text_file(entry_path, csv_dict)
-                    write2mdfile(entry.name, text_dict, md_dir)
-                else:
-                    parse_gutenberg_text(entry_path, csv_dict, md_dir)
+                csv_dict = {}
+                if csv_file_exists:
+                    csv_dict = read_csv_file(csv_path)
+                update_textbooks(entry, entry_path, csv_dict, md_dir)
     return timestamp_cache
 
 
@@ -522,11 +519,6 @@ def monitor_csv_directory(text_dir, csv_dir, md_dir, text_timestamps, csv_timest
     csv_path = os.path.join(csv_dir, "voyant.csv")
     if not os.path.isfile(csv_path):
         return text_timestamps, csv_timestamp
-    '''
-    print(csv_path)
-    print(os.listdir("./"))
-    print(os.listdir("workdir/csvs"))
-    '''
     voyant_file_info = os.stat(csv_path)
     # update all text files
     if csv_timestamp != voyant_file_info.st_mtime:
@@ -538,13 +530,17 @@ def monitor_csv_directory(text_dir, csv_dir, md_dir, text_timestamps, csv_timest
                     text_timestamps[entry.name] = entry_stats.st_mtime
                     entry_path = text_dir + "/" + entry.name
                     csv_dict = read_csv_file(csv_path)
-                    # check for the special German text
-                    if entry.name == "ThomasBrussig_AmKuerzerenEndeDerSonnenallee.txt":
-                        text_dict = transfer_text_file(entry_path, csv_dict)
-                        write2mdfile(entry.name, text_dict, md_dir)
-                    else:
-                        parse_gutenberg_text(entry_path, csv_dict, md_dir)
+                    update_textbooks(entry, entry_path, csv_dict, md_dir)
     return text_timestamps, csv_timestamp
+
+
+def update_textbooks(entry, entry_path, csv_dict, md_dir):
+    # check for the special German text
+    if entry.name == "ThomasBrussig_AmKuerzerenEndeDerSonnenallee.txt":
+        text_dict = transfer_text_file(entry_path, csv_dict)
+        write2mdfile(entry.name, text_dict, md_dir)
+    else:
+        parse_gutenberg_text(entry_path, csv_dict, md_dir)
 
 
 def main():
