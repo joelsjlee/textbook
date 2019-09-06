@@ -557,7 +557,7 @@ def main():
     while True:
         text_timestamps, csv_timestamp = monitor_csv_directory(text_dir, csv_dir, md_dir, text_timestamps, csv_timestamp)
         text_timestamps = monitor_text_directory(text_dir, csv_dir, md_dir, text_timestamps)
-        time.sleep(30)
+        time.sleep(5)
 
 
 if __name__ == "__main__":

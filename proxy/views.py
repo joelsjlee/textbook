@@ -186,7 +186,7 @@ def process_files(request, textbooks, article_zips, keywords):
     keywords_processed = process_keywords(keywords)
     if keywords_processed:
         messages.success(request, "Keywords Uploaded: " + keywords_processed)
-    messages.info(request, "Please wait 30 seconds for files to be processed")
+    messages.info(request, "Please wait 5 seconds for files to be processed")
     return
 
 

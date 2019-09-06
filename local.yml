@@ -91,7 +91,7 @@ services:
     volumes:
       - ./ed:/srv/jekyll
       - ./static_pages:/destination
-    command: jekyll build --incremental -w -d /destination
+    command: jekyll build --watch --force_polling --incremental -d /destination
 
   text_to_md:
     image: python:3
