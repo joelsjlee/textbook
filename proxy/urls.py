@@ -15,6 +15,7 @@ urlpatterns = [
     # User management
     path("users/", include("static_page_proxy.users.urls", namespace="users")),
     path("accounts/", include("allauth.urls")),
+    path("file_upload/", views.file_upload, name='file_upload'),
     path('<path:static_path>/', views.proxy, name='proxy'),
 ]
 

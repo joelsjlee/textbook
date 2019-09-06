@@ -39,6 +39,14 @@ class Migration(migrations.Migration):
                     ),
                 ),
                 (
+                    "is_student",
+                    models.BooleanField(
+                        default=False,
+                        help_text="Designates that this user has access to textbooks",
+                        verbose_name="student status",
+                    ),
+                ),
+                (
                     "username",
                     models.CharField(
                         error_messages={

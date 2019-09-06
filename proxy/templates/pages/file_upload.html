@@ -1,0 +1,321 @@
+{% extends "base.html" %}
+
+{% block file_upload %}
+  {% if request.user.is_authenticated %}
+    <!-- styling -->
+    <style media="screen">
+      .fileDrag {
+      	font-weight: bold;
+      	text-align: center;
+      	padding: 1em 0;
+      	margin: 1em 0;
+      	border: 2px dashed #555;
+      	border-radius: 7px;
+      }
+
+      .fileInput { display: none; }
+
+      .fileLink {
+        text-decoration: underline;
+        color: black;
+        cursor: pointer;
+      }
+
+      .fileLink:hover { color: #555; }
+
+      .filename {
+        display: inline-block;
+        font-size: 18px;
+      }
+
+      .formButton {
+        appearance: none;
+        background-color: transparent;
+        border-radius: 0.6em;
+        cursor: pointer;
+        font-weight: 400;
+        padding: 3px 5px;
+        font-weight: 700;
+        transition: box-shadow 300ms ease-in-out, 300ms ease-in-out;
+      }
+
+      .formButton:hover { color: #fff; }
+
+      .addButton {
+        border: 2px solid #009933;
+        color: #009933;
+      }
+
+      .addButton:hover { box-shadow: 0 0 40px 40px #009933 inset; }
+
+      .removeButton {
+        border: 2px solid #e74c3c;
+        color: #e74c3c;
+      }
+
+      .removeButton-file { margin-left: 200px; }
+
+      .removeButton:hover { box-shadow: 0 0 40px 40px #e74c3c inset; }
+
+      .submitButton {
+        border: 2px solid #737373;
+        color: #737373;
+      }
+
+      .submitButton:hover { box-shadow: 0 0 40px 40px #737373 inset; }
+
+      .keywordName {
+        display: inline-block;
+        font-size: 18px;
+        margin-right: 15px;
+      }
+
+      .keywordInput {
+        border: 2px solid gray;
+        padding: 3px;
+      }
+    </style>
+
+    <!-- file html -->
+    <form method="post" enctype="multipart/form-data" onkeydown="preventDefault(event)">
+      {% csrf_token %}
+      <fieldset>
+        <!-- input for textbooks (multiple .txt files) -->
+        <div id="textbookForm">
+            <legend>Textbook upload</legend>
+            <section>Files to Upload (only <b>.txt</b> files accepted):</section>
+            <div id="textbookNames">
+            </div>
+            <input type="file" id="textbookInput0" class="fileInput" name="textbook_file" onchange="handleFile('textbookInput0', true)" />
+            <div id="textbookDrop" class="fileDrag" ondrop="onDropHandle(event, 1, 0)" ondragover="toggleBoxStyle(event, true, true)" ondragleave="toggleBoxStyle(event, true, false)">
+              <a href="" id="textbookUploadLink" class="fileLink" onclick="triggerInput(event, 'textbookInput0')">Select</a> or drop <b>.txt</b> files here
+            </div>
+        </div>
+        <!-- input for articles (one zip file only) -->
+        <div id="articleForm">
+          <legend>Article Upload</legend>
+          <section>File to upload (only <b>.zip</b> file accepted; each article inside your zipfile must be of type <b>.txt</b>):</section>
+          <div id="articleName">
+          </div>
+          <input type="file" id="articleInput" class="fileInput" name="article_file" onchange="handleFile('articleInput', false)" />
+          <div id="articleDrop" class="fileDrag" ondrop="onDropHandle(event, 0, 0)" ondragover="toggleBoxStyle(event, false, true)" ondragleave="toggleBoxStyle(event, false, false)">
+            <a href="" id="uploadLink" class="fileLink" onclick="triggerInput(event, 'articleInput')">Select</a> or drop <b>.zip</b> file here
+          </div>
+        </div>
+        <!-- input for keywords (multiple strings) -->
+        <div id="keywordForm">
+          <legend>Keyword Upload</legend>
+          <label for="keyword0" id="keywordLabel">Keywords to upload:</label>
+          <div id="keywords">
+          </div>
+          <input
+            type="text"
+            id="keyword0"
+            name="keyword"
+            class="keywordInput"
+            placeholder="type/paste your keywords"
+            oninput="toggleAdd(event, 'keywordButton')"
+            onpaste="onPasteHandle(event, 0)">
+          <button type="button" class="formButton addButton" id="keywordButton" onclick="processKeyword(0)" disabled>Add</button>
+        </div>
+        <br>
+        <!-- submit -->
+        <div id="submitbutton">
+        	<button type="submit" class="formButton submitButton" onclick="return confirm('Upload files?')">Upload Files</button>
+        </div>
+      </fieldset>
+    </form>
+
+    <!-- javascript -->
+    <script>
+      // Prevent default behavior
+      function preventDefault(event) {
+        if (event.keyCode == 13) {
+          event.preventDefault();
+          var element = event.target;
+          if (element.id.startsWith("keyword") && element.value) {
+            var keywordID = Number(element.id.split("keyword").pop());
+            if (!isNaN(keywordID)) processKeyword(keywordID);
+          }
+        }
+      }
+
+      // When user types an input, enable the add-button
+      function toggleAdd(event, buttonID) {
+        document.getElementById(buttonID).disabled = event.target.value === "";
+      }
+
+      // Process files that are dropped into the drop box
+      function onDropHandle(event, isTextbookDrop, latestID) {
+        event.preventDefault();
+        var files = event.dataTransfer.files;
+        if (files != null && files.length > 0) {
+          if (isTextbookDrop) {
+            for (var i = 0; i < files.length; i++, latestID++) triggerFileHandle(files[i], "textbookInput" + latestID);
+            document.getElementById("textbookDrop").ondragleave();
+          } else {
+            triggerFileHandle(files[0], "articleInput");
+          }
+        }
+      }
+
+      // Load file to existing input element and trigger its onchange event
+      function triggerFileHandle(file, inputElementID) {
+        const dt = new DataTransfer();
+        dt.items.add(file);
+        var inputElement = document.getElementById(inputElementID);
+        inputElement.files = dt.files;
+        inputElement.onchange();
+      }
+
+      // Change style of drop box when a file dragged over it
+      function toggleBoxStyle(event, isTextbookDrop, isInBox) {
+        if (event != null) event.preventDefault();
+        var dropDiv;
+        if (isTextbookDrop) dropDiv = document.getElementById("textbookDrop");
+        else dropDiv = document.getElementById("articleDrop");
+        if (isInBox) dropDiv.style.cssText = "border-style: solid; box-shadow: inset 0 3px 4px #888;";
+        else dropDiv.style.cssText = "border-style: dashed; box-shadow: 0;";
+      }
+
+      // Trigger the onclick event of an input element
+      function triggerInput(event, inputID) {
+        if (event != null) event.preventDefault();
+        document.getElementById(inputID).click();
+      }
+
+      // Process the file insertion
+      function handleFile(inputElementID, isTextbook) {
+        var inputElement = document.getElementById(inputElementID);
+        var id;
+        var filename = getFilename(inputElement);
+        var divNameElement;
+        var nameAttributes = {"class": "filename"};
+        var brAttributes = {};
+        var removeFunction = "removeContent(event.target, '";
+        var buttonAttributes = {"class": "formButton removeButton removeButton-file"};
+        if (isTextbook) {
+          id = Number(inputElement.id.slice(-1));
+          divNameElement = document.getElementById("textbookNames");
+          nameAttributes["id"] = "textbookName" + id;
+          brAttributes["id"] = "textbookBr" + id;
+          removeFunction += "textbookNames', 'textbookName" + id + "', 'textbookBr" + id + "', 'textbookInput" + id + "', 'textbook')";
+          buttonAttributes["id"] = "textbookDelete" + id;
+          var newID = id + 1;
+          var newInputAttributes = {"type": "file", "id": "textbookInput" + newID, "class": "fileInput", "name": "textbook_file", "onchange": "handleFile('textbookInput" + newID + "', true)"};
+          inputElement.insertAdjacentElement("afterend", createElement("INPUT", "", newInputAttributes));
+          document.getElementById("textbookUploadLink").setAttribute("onclick", "triggerInput(event, 'textbookInput" + newID + "')");
+          document.getElementById("textbookDrop").setAttribute("ondrop", "onDropHandle(event, 1, " + newID + ")");
+        } else {
+          document.getElementById("articleDrop").style.cssText = "display: none;";
+          divNameElement = document.getElementById("articleName");
+          nameAttributes["id"] = "articleZipName";
+          brAttributes["id"] = "articleBr";
+          removeFunction += "articleName', 'articleZipName', 'articleBr', 'articleInput', 'article')";
+          buttonAttributes["id"] = "articleDeleteButton";
+        }
+        buttonAttributes["onclick"] = removeFunction;
+        divNameElement.appendChild(createElement("P", filename, nameAttributes));
+        divNameElement.appendChild(createElement("BR", "", brAttributes));
+        divNameElement.appendChild(createElement("BUTTON", "Remove", buttonAttributes));
+        if (isTextbook) {
+          divNameElement.appendChild(createElement("BR", "", brAttributes));
+        }
+      }
+
+      // Process multiple keywords that are pasted
+      function onPasteHandle(event, latestID) {
+        var words = event.clipboardData.getData("Text").split("\n");
+        var divElement = document.getElementById("keywordForm")
+        divElement.removeChild(document.getElementById("keyword" + latestID));
+        var newInputAttributes = {"type": "text",
+                                  "id": "keyword" + latestID,
+                                  "name": "keyword",
+                                  "class": "keywordInput",
+                                  "placeholder": "type/paste your keywords",
+                                  "oninput": "toggleAdd(event, 'keywordButton')",
+                                  "onpaste": "onPasteHandle(event, 'keyword"+ latestID + "')"};
+        divElement.insertBefore(createElement("INPUT", "", newInputAttributes), document.getElementById("keywordButton"));
+        for (var i = 0; i < words.length; i++) {
+          words[i] = words[i].replace(/ /g,'');
+          if (words[i].length != 0) {
+            var inputElement = document.getElementById("keyword" + latestID);
+            inputElement.value = words[i];
+            processKeyword(latestID);
+            latestID++;
+            // change add button onclick function
+            var addButton = document.getElementById("keywordButton");
+            addButton.setAttribute("onclick", "processKeyword(" + latestID + ")");
+            addButton.disabled = true;
+          }
+        }
+      }
+
+      // Process the keyword similar to a file
+      function processKeyword(id) {
+        var inputElement = document.getElementById("keyword" + id);
+        inputElement.style.display = "none";
+        var newID = id + 1;
+        var keyword = inputElement.value;
+        var divElement = document.getElementById("keywords");
+        var nameAttributes = {"id": "keywordName" + id, "class": "keywordName"};
+        divElement.appendChild(createElement("P", keyword, nameAttributes));
+        var buttonAttributes = {"type": "button",
+                                "class": "formButton removeButton",
+                                "id": "keywordDelete" + id,
+                                "onclick": "removeContent(event.target, 'keywords', 'keywordName" + id + "', 'keywordBr" + id + "', 'keyword" + id + "', 'keyword')"};
+        divElement.appendChild(createElement("BUTTON", "Remove", buttonAttributes));
+        // add br element
+        var brAttributes = {"id": "keywordBr" + id};
+        divElement.appendChild(createElement("BR", "", brAttributes));
+        // add new input element
+        var newInputAttributes = {"type": "text",
+                                  "id": "keyword" + newID,
+                                  "name": "keyword",
+                                  "class": "keywordInput",
+                                  "placeholder": "type/paste your keywords",
+                                  "oninput": "toggleAdd(event, 'keywordButton')",
+                                  "onpaste": "onPasteHandle(event, " + newID + ")"};
+        inputElement.insertAdjacentElement("afterend", createElement("INPUT", "", newInputAttributes));
+        // change add button onclick function
+        var addButton = document.getElementById("keywordButton");
+        addButton.setAttribute("onclick", "processKeyword(" + newID + ")");
+        addButton.disabled = true;
+        // Modify label tag
+        var labelElement = document.getElementById("keywordLabel");
+        labelElement.setAttribute("for", "keyword" + newID);
+      }
+
+      // Get the filename of a file in a DOM element
+      function getFilename(inputElement) {
+        var filename = inputElement.value;
+        filename = filename.replace(/.*[\/\\]/, '');
+        return filename;
+      }
+
+      // Create a DOM element with given attributes
+      function createElement(elementType, innerHTML, attributes) {
+        var element = document.createElement(elementType);
+        if (innerHTML) element.innerHTML = innerHTML;
+        for (const [key, value] of Object.entries(attributes)) element.setAttribute(key, value);
+        return element;
+      }
+
+      function removeContent(buttonElement, divID, nameID, brID, inputID, contentType) {
+        var divNameElement = document.getElementById(divID);
+        divNameElement.removeChild(document.getElementById(nameID));
+        divNameElement.removeChild(document.getElementById(brID));
+        divNameElement.removeChild(buttonElement);
+        if (contentType === "textbook") {
+          document.getElementById("textbookForm").removeChild(document.getElementById(inputID));
+          divNameElement.removeChild(document.getElementById(brID));
+        } else if (contentType === "article") {
+          document.getElementById(inputID).value = "";
+          document.getElementById("articleDrop").style.cssText = "display: default;";
+        } else {
+          document.getElementById("keywordForm").removeChild(document.getElementById(inputID));
+        }
+      }
+    </script>
+  {% endif %}
+{% endblock file_upload %}

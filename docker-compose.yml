@@ -40,7 +40,7 @@ services:
     ports:
       - "0.0.0.0:80:80"
       - "0.0.0.0:443:443"
-  
+
   nginx:
     image: nginx:latest
     volumes:
@@ -58,6 +58,7 @@ services:
     volumes:
       - ./static_pages:/app/proxy/templates/proxy
       - ./static_pages/assets:/app/proxy/static
+      - ./input:/app/proxy/media
     env_file:
       - ./.envs/.production/.django
       - ./.envs/.production/.postgres
@@ -79,12 +80,10 @@ services:
 
   jekyll_builder:
     image: jekyll/jekyll:latest
-    depends_on:
-      - text_to_md
     volumes:
       - ./ed:/srv/jekyll
       - ./static_pages:/destination
-    command: jekyll build --incremental -w -d /destination
+    command: jekyll build --watch --force_polling --incremental -d /destination
 
   text_to_md:
     image: python:3
@@ -96,4 +95,3 @@ services:
       - ./corpora:/workdir/csvs
       - ./input:/input
     command: python workdir/text2md.py input/texts workdir/csvs ed/_texts
-

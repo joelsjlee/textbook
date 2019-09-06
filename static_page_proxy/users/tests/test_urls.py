@@ -21,3 +21,9 @@ def test_update():
 def test_redirect():
     assert reverse("users:redirect") == "/users/~redirect/"
     assert resolve("/users/~redirect/").view_name == "users:redirect"
+
+
+def test_custom_urls(user: settings.AUTH_USER_MODEL):
+    assert resolve("/random_path/").view_name == "proxy"
+    assert resolve("/").view_name == "home"
+    assert resolve("/file_upload/").view_name == "file_upload"
