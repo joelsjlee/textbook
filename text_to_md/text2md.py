@@ -495,22 +495,23 @@ def test_main():
 # monitor text directory for new and modified text files and update the md files
 def monitor_text_directory(text_dir, csv_dir, md_dir, timestamp_cache):
     csv_file_exists = os.path.isfile(os.path.join(csv_dir, "voyant.csv"))
-    with os.scandir(text_dir) as it:
-        for entry in it:
-            if entry.name.endswith(".txt"):
-                entry_stats = entry.stat()
-                if entry.name in timestamp_cache:
-                    entry_cache_timestamp = timestamp_cache[entry.name]
-                    # if the modified time is the same then we don't parse
-                    if (entry_cache_timestamp == entry_stats.st_mtime):
-                        continue
-                timestamp_cache[entry.name] = entry_stats.st_mtime
-                entry_path = text_dir + "/" + entry.name
-                csv_path = csv_dir + "/voyant.csv"
-                csv_dict = {}
-                if csv_file_exists:
-                    csv_dict = read_csv_file(csv_path)
-                update_textbooks(entry, entry_path, csv_dict, md_dir)
+    if os.path.isdir(text_dir):
+        with os.scandir(text_dir) as it:
+            for entry in it:
+                if entry.name.endswith(".txt"):
+                    entry_stats = entry.stat()
+                    if entry.name in timestamp_cache:
+                        entry_cache_timestamp = timestamp_cache[entry.name]
+                        # if the modified time is the same then we don't parse
+                        if (entry_cache_timestamp == entry_stats.st_mtime):
+                            continue
+                    timestamp_cache[entry.name] = entry_stats.st_mtime
+                    entry_path = text_dir + "/" + entry.name
+                    csv_path = csv_dir + "/voyant.csv"
+                    csv_dict = {}
+                    if csv_file_exists:
+                        csv_dict = read_csv_file(csv_path)
+                    update_textbooks(entry, entry_path, csv_dict, md_dir)
     return timestamp_cache
 
 
