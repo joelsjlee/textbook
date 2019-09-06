@@ -74,14 +74,14 @@ def transfer_text_file(text_filename, csvdict):
     for textPart, lst in textdict.items():
         newList = []
         for strline in lst:
-            if div1 not in strline:
+            if False: # div1 not in strline:
                 for k in csvdict.keys():
                     strline = re.sub(k, '[' + k + '](' + csvdict[k] + ')', strline)
                 newList.append(strline)
             else:
                 # for keyword in joined paragraph, turn it into html a tag
                 for k in csvdict.keys():
-                    strline = re.sub(k, "<a href=\"" + csvdict[k] + "\">" + k + "</a>", strline)
+                    strline = re.sub(k, "<a href=\"" + csvdict[k] + "\" target=\"_blank\">" + k + "</a>", strline)
                 newList.append(strline)
         new_text_Dict[textPart] = newList
     return new_text_Dict
@@ -157,23 +157,23 @@ def create_md(text_filename, text_title, text_author, delim_list, content_list, 
     return
 
 
-# add md for key_words in content
 def add_key_md(start_index_list, end_index_list, value, content):
-    new_content = ""
-    start_index_list_len = len(start_index_list)
-    end_index_list_len = len(end_index_list)
+    new_content = []
+
+    # Reverse the lists so we can treat them as stacks:
+    start_index_stack = start_index_list[::-1]
+    end_index_stack = end_index_list[::-1]
+
     for index in range(0, len(content)):
-        if start_index_list_len > 0 and index == start_index_list[0]:
-            new_content += "[" + content[index]
-            del start_index_list[0]
-            start_index_list_len -= 1
-        elif end_index_list_len > 0 and index == end_index_list[0]:
-            new_content += content[index] + "](" + value + "){:target=\"_blank\"}"
-            del end_index_list[0]
-            end_index_list_len -= 1
+        if start_index_stack and index == start_index_stack[-1]:
+            new_content.append("[" + content[index])
+            start_index_stack.pop()
+        elif end_index_stack and index == end_index_stack[-1]:
+            new_content.append(content[index] + "](" + value + "){:target=\"_blank\"}")
+            end_index_stack.pop()
         else:
-            new_content += content[index]
-    return new_content
+            new_content.append(content[index])
+    return ''.join(new_content)
 
 
 # given a keyword, loop through text to find matches and add md
