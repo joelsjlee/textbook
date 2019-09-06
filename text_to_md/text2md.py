@@ -523,14 +523,15 @@ def monitor_csv_directory(text_dir, csv_dir, md_dir, text_timestamps, csv_timest
     # update all text files
     if csv_timestamp != voyant_file_info.st_mtime:
         csv_timestamp = voyant_file_info.st_mtime
-        with os.scandir(text_dir) as it:
-            for entry in it:
-                if entry.name.endswith(".txt"):
-                    entry_stats = entry.stat()
-                    text_timestamps[entry.name] = entry_stats.st_mtime
-                    entry_path = text_dir + "/" + entry.name
-                    csv_dict = read_csv_file(csv_path)
-                    update_textbooks(entry, entry_path, csv_dict, md_dir)
+        if os.path.isdir(text_dir):
+            with os.scandir(text_dir) as it:
+                for entry in it:
+                    if entry.name.endswith(".txt"):
+                        entry_stats = entry.stat()
+                        text_timestamps[entry.name] = entry_stats.st_mtime
+                        entry_path = text_dir + "/" + entry.name
+                        csv_dict = read_csv_file(csv_path)
+                        update_textbooks(entry, entry_path, csv_dict, md_dir)
     return text_timestamps, csv_timestamp
 
 
