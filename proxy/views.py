@@ -6,6 +6,7 @@ from django.shortcuts import render, redirect
 from django.template import Context, Template, loader
 from titlecase import titlecase
 from django.core.management import call_command
+from django.views.decorators.cache import never_cache
 import os.path
 import zipfile
 
@@ -14,6 +15,7 @@ import zipfile
 # VIEWS
 ##############################################################
 # View for textbooks and other non-Django files
+@never_cache
 @login_required
 def proxy(request, static_path):
     # Prevent unauthorized users from accessing other pages
