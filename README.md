@@ -67,10 +67,12 @@ Once you have inputted these files, then you should be able to refresh the serve
 
 ### Other Things and Local Deployment
 
-For local deployment, you will need to change the python script `voyant_gen/voyant_gen.py` on line 56 and change it to say
+For local deployment, we assume you are using a recent version of Docker for Windows or Mac that does not depend on Docker Machine. Computers not running Windows 10 Pro will need to do additional configuration work to enable local development using Docker. 
+
+To configure the repository for local development, you will need to change the python script `voyant_gen/voyant_gen.py` on line 56 and change it to say
 
 ```
-url_template = 192.168.99.100:4000/?input=http://192.168.99.100:4000/corpora/{}
+url_template = localhost:4000/?input=http://localhost:4000/corpora/{}
 ```
 
 Now run the build command using the `local.yml`
@@ -85,17 +87,17 @@ and then the up command:
 sudo docker-compose -f local.yml up
 ```
 
-Now the server should run locally and be accessible first through http://192.168.99.100:3000 to access the django authentication page, and the voyant
-server should be running on http://192.168.99.100:4000.
+Now the server should run locally and be accessible first through http://localhost:3000 to access the django authentication page, and the voyant
+server should be running on http://localhost:4000.
 
 
 #### About the project
 
-text/book was created by the Penn Libraries Digital Scholarship team, in collaboration with the Price Lab for Digital Humanities. It was created as part of a project concieved by Sibel Sayılı-Hurley and Claudia Lynn to create an online teaching edition of Thomas Brussig's *Am kürzeren Ende der Sonnenallee* overlaying personal and public accounts of events in East Germany during the period of 1945-1990. The resulting edition will move between fictional, non-fictional, public, and private perspectives to convey a rich and multi-layered understanding of life in the GDR. 
+text/book was created by the Penn Libraries Digital Scholarship team, in collaboration with the Price Lab for Digital Humanities. It was created as part of a project concieved by [Sibel Sayılı-Hurley](https://www.sas.upenn.edu/germanic/people/sibel-say%C4%B1l%C4%B1-hurley) and [Claudia Lynn](https://www.sas.upenn.edu/germanic/people/claudia-lynn) to create an online teaching edition of Thomas Brussig's *Am kürzeren Ende der Sonnenallee* overlaying personal and public accounts of events in East Germany during the period of 1945-1990. The resulting edition will move between fictional, non-fictional, public, and private perspectives to convey a rich and multi-layered understanding of life in the GDR. 
 
 As we considered existing tools that might help in the construction of this edition, we realized we could build a more general-purpose platform for teaching editions interlinked with textual corpora and visualization tools. text/book is our first attempt at creating such a platform.
 
 To create text/book we relied on the work of many other scholars and software developers. To render an attractive, minimal edition of a given text, we use [Jekyll](https://jekyllrb.com/) and [Ed](https://github.com/minicomp/ed). To visualize text corpora, we use [Voyant Server](https://github.com/sgsinclair/VoyantServer). To manage acess control and offer a basic web UI, we use [Django](https://www.djangoproject.com/), with tooling from [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django). And to glue the parts together, we use [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/).
 
-New code for this project was written by [Scott Enderle](https://github.com/senderle), [Joel Lee](https://github.com/joelslee), [Vicente Guallpa](https://github.com/Vicenteguallpa), and [Siyu Zheng](https://github.com/senderle/text_jekyll/graphs/contributors).
+New code for this project was written by [Scott Enderle](https://github.com/senderle), [Joel Lee](https://github.com/joelslee), [Vicente Guallpa](https://github.com/Vicenteguallpa), and [Siyu Zheng](https://github.com/senderle/text_jekyll/graphs/contributors). We would also like to thank [Sasha Renninger](https://github.com/sashafr), [Laurie Allen](https://github.com/librlaurie), and [Stewart Varner](https://pricelab.sas.upenn.edu/stewart-varner) for project consultations and support.
  
